@@ -1,0 +1,236 @@
+{
+  "event": "UFC 322: Della Maddalena vs. Makhachev",
+  "event_slug": "ufc-322",
+  "date": "2025-11-15",
+  "location": "Madison Square Garden, New York City, New York",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-322-Walkout-Tracks-195123"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+      "notes": "Traditional Dagestani Music"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "Lezginka",
+      "artist": "Traditional Folk Dance",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "Wu Zu",
+      "artist": "V.G.P.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Brady",
+      "song_title": "They Don't Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "Jugador Franquicia",
+      "artist": "Myke Towers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kNpoVStauSMwm0mF0qShU",
+      "notes": ""
+    },
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Prates",
+      "song_title": "Marolento",
+      "artist": "Puterrier feat. Borges",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/44KoAoBa6T3U5Jkf7jXXHu",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "A Beautiful Exchange",
+      "artist": "Hillsong Worship",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq",
+      "notes": ""
+    },
+    {
+      "fighter": "Beno\u00eet Saint Denis",
+      "song_title": "Le Chant des Commandos",
+      "artist": "Supr\u00eame NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46jtBanrgmdCIQv1Wo7m8K",
+      "notes": "Mixed with Seine Saint-Denis Style"
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Jon Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodolfo Vieira",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "The Last Hero",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "The Blessing",
+      "artist": "Kari Jobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "The Business",
+      "artist": "Ti\u00ebsto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "notes": ""
+    },
+    {
+      "fighter": "Tracy Cortez",
+      "song_title": "La Chona",
+      "artist": "Los Tucanes de Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "notes": ""
+    },
+    {
+      "fighter": "Malcolm Wellmaker",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. & Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Ethyn Ewing",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Man",
+      "artist": "Aloe Blacc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "The Imperial March",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y",
+      "notes": ""
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "The Champ",
+      "artist": "Ghostface Killah",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5iT0oOBAZek1ynX91Pr4iI",
+      "notes": ""
+    },
+    {
+      "fighter": "Chepe Mariscal",
+      "song_title": "El Rey",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "The Warrior",
+      "artist": "Scandal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i",
+      "notes": ""
+    },
+    {
+      "fighter": "Fatima Kline",
+      "song_title": "Girl on Fire",
+      "artist": "Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco",
+      "notes": ""
+    },
+    {
+      "fighter": "Baisangur Susurkaev",
+      "song_title": "Traditional Chechen Music",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ht10mPGMxbHnoOdXH7vUK",
+      "notes": ""
+    },
+    {
+      "fighter": "Eric McConico",
+      "song_title": "Hustlin'",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM",
+      "notes": ""
+    },
+    {
+      "fighter": "Viacheslav Borshchev",
+      "song_title": "The Last Hero",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Camilo",
+      "song_title": "Brasil",
+      "artist": "Cazuza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk",
+      "notes": ""
+    }
+  ]
+}
