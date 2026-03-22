@@ -1,0 +1,172 @@
+{
+  "event": "UFC 219: Cyborg vs. Holm",
+  "event_slug": "ufc-219",
+  "date": "2017-12-30",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.com/2017/12/fight-tracks-the-walkout-songs-of-ufc-219-including-some-90s-hip-hop-classics"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Cristiane Justino",
+      "song_title": "Stomp (Remix)",
+      "artist": "Kirk Franklin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo",
+      "notes": ""
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "notes": ""
+    },
+    {
+      "fighter": "Khabib Nurmagomedov",
+      "song_title": "Daghestan",
+      "artist": "Direct Hit & Sabina Saidova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "notes": ""
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "Man's Not Hot",
+      "artist": "Big Shaq",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr",
+      "notes": ""
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "Bodies",
+      "artist": "Drowning Pool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Condit",
+      "song_title": "Home",
+      "artist": "MGK, X Ambassadors & Bebe Rexha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0OI7AFifLSoGzpb8bdBLLV",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Myles Jury",
+      "song_title": "By Design",
+      "artist": "Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5FxVTEpoBress37MmlMhbZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "Whoomp! (There It Is)",
+      "artist": "Tag Team",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Down With the Sickness",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "Back on the Path",
+      "artist": "Marcin Przbylowicz & Percival Schuttenbach",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb",
+      "notes": ""
+    },
+    {
+      "fighter": "Louis Smolka",
+      "song_title": "Eazy",
+      "artist": "G-Eazy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ohwrBQrxIlqMYfkoYERiN",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "Karate",
+      "artist": "Kennedy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7heDoIselh7glb6h6D8tPh",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark De La Rosa",
+      "song_title": "BLKKK SKKKN HEAD",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK",
+      "notes": ""
+    }
+  ]
+}
