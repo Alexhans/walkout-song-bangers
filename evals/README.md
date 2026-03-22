@@ -22,14 +22,23 @@ Schema (no confidence or spotify_url — those are pipeline concerns):
 
 ## Running evals
 
+For a clean agent test, do not evaluate from committed `data/`. Evaluate from a fresh temp directory.
+
 ```bash
-python3 skill/scripts/eval.py                                    # all events, data from data/
-python3 skill/scripts/eval.py ufc-207                            # single event
-python3 skill/scripts/eval.py --data-dir /tmp/fresh-run          # eval a fresh skill run
-python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-207  # same, single event
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-207
+python3 skill/scripts/compare_runs.py /tmp/fresh-run ufc-207
 ```
 
-Use `--data-dir` to point evals at a temp directory where the skill wrote fresh output. This avoids the merge behavior (where the skill preserves existing confidence) and gives a clean measure of the skill's raw accuracy.
+Use `eval.py` to score the fresh run against human ground truth.
+
+Use `compare_runs.py` to compare the fresh run against the committed baseline in `data/`. This answers a different question: whether a fresh Codex run matches the previously committed Claude output.
+
+If you want to score all fresh outputs in a temp dir, you can still run:
+
+```bash
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run
+python3 skill/scripts/compare_runs.py /tmp/fresh-run
+```
 
 ## What evals measure
 

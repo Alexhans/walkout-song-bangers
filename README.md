@@ -95,14 +95,21 @@ python3 skill/scripts/generate_md.py data/ufc-207.json  # single event
 
 Ground truth files in `evals/ground-truth/` contain human-verified fighter → song mappings.
 
+There are two different checks:
+
+- `eval.py`: compares a fresh run against human ground truth
+- `compare_runs.py`: compares a fresh run against the committed baseline in `data/`
+
+Recommended workflow for testing the skill from scratch:
+
 ```bash
-python3 skill/scripts/eval.py                                    # all events
-python3 skill/scripts/eval.py ufc-207                            # single event
-python3 skill/scripts/eval.py --data-dir /tmp/fresh-run          # eval a fresh skill run without merging
-python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-207  # same, single event
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-207
+python3 skill/scripts/compare_runs.py /tmp/fresh-run ufc-207
 ```
 
-Use `--data-dir` to point evals at a fresh skill run in a temp directory. This lets you test the skill's output without merging into the committed data. See `evals/README.md` for details.
+The first command answers “did the fresh run get the truth right?” The second answers “did the fresh run match the previously committed result?”
+
+Use eval mode in the skill to write fresh output to a temp directory first. That avoids the merge behavior and gives a clean measure of the skill's raw output. See `evals/README.md` for details.
 
 ## Setup
 

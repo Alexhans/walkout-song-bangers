@@ -18,6 +18,15 @@ Accept an event name as the primary argument. Examples:
 
 ## Workflow
 
+### Operating modes
+
+Use one of these two modes based on user intent:
+
+- **Normal mode**: User wants event data saved to the repo. Write or merge into `data/{slug}.json`, then generate `viz/{slug}.md`.
+- **Eval mode**: User wants to test the skill from scratch. Write fresh output to a temp directory such as `/tmp/walkout-eval/{slug}/data/{slug}.json`, do not read or merge committed `data/{slug}.json`, then run the eval commands below.
+
+The user should not need to remember temp paths or `--data-dir`. In eval mode, the skill should handle that automatically.
+
 ### Step 1: Normalize the event identifier
 
 Convert the user's input into a slug for filenames (e.g., `"UFC 229"` → `ufc-229`, `"UFC Fight Night: Evloev vs Murphy"` → `ufc-fight-night-evloev-vs-murphy`). Keep the original event name for display.
@@ -167,7 +176,7 @@ This generates `viz/{slug}.md` with this format:
 
 ---
 *Sources: [Sherdog]({url}) | [MMA Junkie]({url})*
-*Generated: {timestamp}*
+*Generated: {date}*
 ```
 
 Use confidence indicators in the table:
@@ -197,6 +206,15 @@ When the user wants to promote a fighter's song to gold confidence, they provide
 - `shazamio` Python library — install in a venv: `uv venv /tmp/shazam-env --python 3.12 && source /tmp/shazam-env/bin/activate && pip install shazamio`
 
 ### Workflow
+
+### Operating modes
+
+Use one of these two modes based on user intent:
+
+- **Normal mode**: User wants event data saved to the repo. Write or merge into `data/{slug}.json`, then generate `viz/{slug}.md`.
+- **Eval mode**: User wants to test the skill from scratch. Write fresh output to a temp directory such as `/tmp/walkout-eval/{slug}/data/{slug}.json`, do not read or merge committed `data/{slug}.json`, then run the eval commands below.
+
+The user should not need to remember temp paths or `--data-dir`. In eval mode, the skill should handle that automatically.
 
 1. **User provides:** A fighter name and a YouTube URL with timestamp. The user finds a video of the event, right-clicks at the moment the walkout music starts, and selects "Copy video URL at current time" (e.g., `https://youtu.be/L7U5WMkQjR8?t=4510`)
 2. **Extract audio clip:** Use `yt-dlp` to download a 30-second MP3 starting at the timestamp:
@@ -238,20 +256,30 @@ When the user wants to promote a fighter's song to gold confidence, they provide
 
 When the user asks to "eval walkout-songs" or "score walkout-songs against {event}":
 
-1. **Run the pipeline first** — produce fresh output as normal (Steps 1–9)
-2. **Run the eval script:**
+1. **Run the pipeline into a temp directory** — produce fresh output in a path like `/tmp/walkout-eval/{slug}/data/{slug}.json`.
+   Do not read or merge `data/{slug}.json` in eval mode.
+2. **Run the ground-truth eval:**
    ```bash
-   python3 skill/scripts/eval.py {slug}        # single event
-   python3 skill/scripts/eval.py               # all events with ground truth
+   python3 skill/scripts/eval.py --data-dir /tmp/walkout-eval/{slug}/data {slug}
    ```
-3. The script compares pipeline output against `evals/ground-truth/{slug}.expected.json`:
-   - Fighter coverage: % of ground-truth fighters found (fuzzy name match, ≥60% similarity)
-   - Song accuracy: % of matched fighters with correct song (fuzzy, ≥70% similarity)
-   - Artist accuracy: % of matched fighters with correct artist (fuzzy, ≥60% similarity)
-   - Spotify link quality: direct track links vs search fallbacks
-   - Lists all issues: missing fighters, wrong songs, wrong artists
+3. **Run the baseline comparison:**
+   ```bash
+   python3 skill/scripts/compare_runs.py /tmp/walkout-eval/{slug}/data {slug}
+   ```
+4. Report both answers clearly:
+   - **Ground truth**: did the fresh run get the event right?
+   - **Baseline match**: did the fresh run match the committed result in `data/`?
 
-> **Important:** Never read files under `evals/ground-truth/` when running the normal pipeline (Steps 1–9). Those files are human-verified reference outputs for offline comparison only. Reading them during extraction would contaminate the eval.
+`eval.py` compares fresh output against `evals/ground-truth/{slug}.expected.json`:
+- Fighter coverage: % of ground-truth fighters found (fuzzy name match, ≥60% similarity)
+- Song accuracy: % of matched fighters with correct song (fuzzy, ≥70% similarity)
+- Artist accuracy: % of matched fighters with correct artist (fuzzy, ≥60% similarity)
+- Spotify link quality: direct track links vs search fallbacks
+- Lists all issues: missing fighters, wrong songs, wrong artists
+
+`compare_runs.py` compares fresh output against committed `data/{slug}.json` and reports fighter, song, artist, confidence, and Spotify-link differences.
+
+> **Important:** Never read files under `evals/ground-truth/` during extraction, and never merge committed `data/{slug}.json` into an eval-mode run. Eval mode must measure the fresh output only.
 
 ## Backfill Mode
 
