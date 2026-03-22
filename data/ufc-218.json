@@ -1,0 +1,220 @@
+{
+  "event": "UFC 218: Holloway vs. Aldo 2",
+  "event_slug": "ufc-218",
+  "date": "2017-12-02",
+  "location": "Little Caesars Arena, Detroit, Michigan",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/12/fight-tracks-the-walkout-songs-of-ufc-218-including-plenty-of-detroit-references-and-imagine-dragons-times-two"
+  ],
+  "generated_at": "2026-03-23T00:00:45Z",
+  "songs": [
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Blessings/Hawaiian Kickboxer",
+      "artist": "Big Sean/Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bzM1cd6oqFozdr4wK6HdR",
+      "notes": "Mashup - Spotify link is for Blessings by Big Sean"
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Somos Sente De Zambada",
+      "artist": "Lenin Ramirez feat. Regulo Cabo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Somos%20Sente%20De%20Zambada%20Lenin%20Ramirez",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "Mi Gente",
+      "artist": "J Balvin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK",
+      "notes": ""
+    },
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Put Your Hands Up 4 Detroit",
+      "artist": "Fedde Le Grand",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tyMOrVliF1wRnumVdcEwP",
+      "notes": ""
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergio Pettis",
+      "song_title": "Good Life",
+      "artist": "Kanye West feat. T-Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L",
+      "notes": ""
+    },
+    {
+      "fighter": "Eddie Alvarez",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. The Notorious B.I.G. & Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "Champion",
+      "artist": "Keznamdi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0zGzohqDQwrRxxAZfu5KG8",
+      "notes": ""
+    },
+    {
+      "fighter": "Tecia Torres",
+      "song_title": "Techno Syndrome/Dreamer",
+      "artist": "The Immortals/Charli XCX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
+      "notes": "Mashup - Spotify link is for Techno Syndrome by The Immortals"
+    },
+    {
+      "fighter": "Michelle Waterson",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "Thunder",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Yancy Medeiros",
+      "song_title": "We are Hawaii's Finest/Till I Collapse",
+      "artist": "Ekulo/Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": "Mashup - Spotify link is for Till I Collapse by Eminem"
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Balada",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/561KH32varxPqqwIY4gA7z",
+      "notes": ""
+    },
+    {
+      "fighter": "David Teymur",
+      "song_title": "Suryoyo Football Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Suryoyo%20Football%20Song",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "Devastated",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "notes": ""
+    },
+    {
+      "fighter": "Felice Herrig",
+      "song_title": "Blinded by the Light",
+      "artist": "Manfred Mann's Earth Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vB1LXvjlmOG47FPgVQHFS",
+      "notes": ""
+    },
+    {
+      "fighter": "Cortney Casey",
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Cooper",
+      "song_title": "Detroit Rock City",
+      "artist": "Kiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IjrDeaVRFEi3GgHI5xyjX",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Magana",
+      "song_title": "La Borinquena",
+      "artist": "Danny Rivera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PZZ5FHUWdxIEc4WQ3Grtt",
+      "notes": "Puerto Rican revolutionary anthem"
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "Kakai",
+      "artist": "Shatta Wale",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0I3uua5IiSYnkqY74wPIH3",
+      "notes": ""
+    },
+    {
+      "fighter": "Sabah Homasi",
+      "song_title": "Go Get It",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Congratulations",
+      "artist": "Post Malone feat. Quavo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "notes": ""
+    },
+    {
+      "fighter": "Jeremy Kimball",
+      "song_title": "You Can't Stop Me",
+      "artist": "Andy Mineo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Willis",
+      "song_title": "DNA/Till I Collapse",
+      "artist": "Kendrick Lamar/Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "notes": "Mashup - Spotify link is for DNA by Kendrick Lamar"
+    },
+    {
+      "fighter": "Allen Crowder",
+      "song_title": "Hail to the King",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo",
+      "notes": ""
+    }
+  ]
+}
