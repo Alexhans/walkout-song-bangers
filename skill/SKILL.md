@@ -248,7 +248,7 @@ The user should not need to remember temp paths or `--data-dir`. In eval mode, t
 ## Handling Edge Cases
 
 - **Mashups/remixes** (e.g., "Foggy Dew / Hypnotize"): List the combined title. Search Spotify for the mashup first. If not found, search for each individual song and list the first one found. Note the others in `notes`.
-- **No walkout song data found**: Write the JSON/MD with an empty `songs` array and note that no data was found. Do not fabricate songs.
+- **No walkout song data found**: Do not write `data/{slug}.json` or `viz/{slug}.md` if the run recovers zero real songs. Report the event as source-blocked instead. Do not fabricate songs.
 - **Fighter walked out to silence or no music**: Include the fighter with `song_title: "No music"` and empty `spotify_url`.
 - **Multiple sources disagree** (Phase 3): Will be handled when cross-referencing is added.
 
