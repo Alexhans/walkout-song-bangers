@@ -1,200 +1,188 @@
 {
-  "event": "UFC 205: Alvarez vs McGregor",
+  "event": "UFC 205: Alvarez vs. McGregor",
   "event_slug": "ufc-205",
   "date": "2016-11-12",
-  "location": "New York City, New York, USA",
+  "location": "Madison Square Garden, New York, New York",
   "source_urls": [
-    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-205-Alvarez-vs-McGregor-113609",
-    "https://youtu.be/jFknmgsSNsE?t=793",
-    "https://youtu.be/jFknmgsSNsE?t=912"
+    "https://mmajunkie.usatoday.com/2016/11/fight-tracks-the-epic-walkout-songs-of-the-historic-ufc-205-at-msg-in-nyc"
   ],
-  "generated_at": "2026-03-22",
+  "generated_at": "2026-03-23T00:13:14Z",
   "songs": [
     {
       "fighter": "Conor McGregor",
-      "song_title": "The Foggy Dew / I Get Money",
-      "artist": "Sinead O'Connor / 50 Cent",
+      "song_title": "Foggy Dew",
+      "artist": "Sinead O'Connor\u00a0and \"I Get Money\" by 50 Cent",
       "confidence": "bronze",
-      "notes": "Sherdog described this as a two-song mix. Spotify search fallback for multi-song walkout.",
-      "spotify_url": "https://open.spotify.com/search/The%20Foggy%20Dew%20/%20I%20Get%20Money%20Sinead%20O%27Connor%20/%2050%20Cent"
+      "spotify_url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
+      "notes": ""
     },
     {
       "fighter": "Eddie Alvarez",
-      "song_title": "Victory",
-      "artist": "Puff Daddy feat. The Notorious B.I.G.",
-      "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
     },
     {
       "fighter": "Tyron Woodley",
       "song_title": "I Ain't Turning Back",
-      "artist": "This'l",
+      "artist": "Thi'sl feat. Flame",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/3z3gIwF7C7blGTa1jtSlLu"
+      "spotify_url": "https://open.spotify.com/track/21hhV2VDGpukgfUrQK6kwC",
+      "notes": ""
     },
     {
       "fighter": "Stephen Thompson",
       "song_title": "Wonderboy",
       "artist": "Tenacious D",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR"
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "notes": ""
     },
     {
       "fighter": "Joanna Jedrzejczyk",
-      "song_title": "Przejmij Ster W Swoje Dlonie",
-      "artist": "Rena Rolska",
+      "song_title": "Przejmij ster w swoje d\u0142onie",
+      "artist": "Rena go\u015bc. Gutek",
       "confidence": "bronze",
-      "notes": "Sherdog listed the performer as Rena Gosc Gutek; Spotify matched Rena Rolska.",
-      "spotify_url": "https://open.spotify.com/search/Przejmij%20Ster%20W%20Swoje%20Dlonie%20Rena%20Rolska"
+      "spotify_url": "https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt",
+      "notes": ""
     },
     {
       "fighter": "Karolina Kowalkiewicz",
       "song_title": "The Passenger",
       "artist": "Iggy Pop",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "notes": ""
     },
     {
       "fighter": "Yoel Romero",
-      "song_title": "Soldado",
+      "song_title": "Solado",
       "artist": "Juan Luis Guerra",
       "confidence": "bronze",
-      "notes": "Sherdog article appears to misspell the title as Solado.",
-      "spotify_url": "https://open.spotify.com/track/61HhjqBaSKwgcgd1YuIvgs"
+      "spotify_url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ",
+      "notes": ""
     },
     {
       "fighter": "Chris Weidman",
-      "song_title": "New York State of Mind / I Won't Back Down / Coming Home / Empire State of Mind",
-      "artist": "Billy Joel / Tom Petty / Diddy / Jay-Z",
+      "song_title": "New York State of Mind",
+      "artist": "Billy Joel, \"Coming Home\" by P. Diddy, \"Empire State of Mind\u00a0by Jay-Z, \"I Won't Back Down\" by Tom Petty",
       "confidence": "bronze",
-      "notes": "Sherdog described this as a four-song mix. Spotify search fallback for multi-song walkout.",
-      "spotify_url": "https://open.spotify.com/search/New%20York%20State%20of%20Mind%20/%20I%20Won%27t%20Back%20Down%20/%20Coming%20Home%20/%20Empire%20State%20of%20Mind%20Billy%20Joel%20/%20Tom%20Petty%20/%20Diddy%20/%20Jay-Z"
+      "spotify_url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1",
+      "notes": ""
     },
     {
       "fighter": "Raquel Pennington",
       "song_title": "Can't Hold Us",
-      "artist": "Macklemore & Ryan Lewis",
-      "confidence": "gold",
-      "notes": "Sherdog source plus user-provided broadcast timestamp.",
+      "artist": "Macklemore feat.\u00a0Ryan Lewis",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
-      "verified_by": {
-        "user": "user",
-        "method": "human",
-        "reason": "Human verified from broadcast video https://youtu.be/jFknmgsSNsE?t=793"
-      }
+      "notes": ""
     },
     {
       "fighter": "Miesha Tate",
       "song_title": "Roar",
       "artist": "Katy Perry",
-      "confidence": "gold",
-      "notes": "Sherdog source plus user-provided broadcast timestamp.",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
-      "verified_by": {
-        "user": "user",
-        "method": "human",
-        "reason": "Human verified from broadcast video https://youtu.be/jFknmgsSNsE?t=912"
-      }
+      "notes": ""
     },
     {
       "fighter": "Frankie Edgar",
       "song_title": "Kick in the Door",
-      "artist": "The Notorious B.I.G.",
+      "artist": "Notorious B.I.G.",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU"
+      "spotify_url": "https://open.spotify.com/track/24CA5I411NVDYodjjmKPx3",
+      "notes": ""
     },
     {
       "fighter": "Jeremy Stephens",
       "song_title": "Ambitionz Az a Ridah",
-      "artist": "2Pac",
+      "artist": "Tupac",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
     },
     {
       "fighter": "Khabib Nurmagomedov",
       "song_title": "Dagestan",
-      "artist": "Direct Hit & Sabina Saidova",
+      "artist": "Direct Hit & Sabina Saldova",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/search/Dagestan%20Direct%20Hit%20%26%20Sabina%20Saidova"
+      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
+      "notes": ""
     },
     {
       "fighter": "Michael Johnson",
       "song_title": "Welcome to New York City",
-      "artist": "Cam'ron & Jay-Z",
+      "artist": "Cam'ron feat. Jay-Z & Juelz Santana",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/7vbv1mNw1fhMCaqbJ5haAT"
+      "spotify_url": "https://open.spotify.com/track/7vbv1mNw1fhMCaqbJ5haAT",
+      "notes": ""
     },
     {
       "fighter": "Tim Boetsch",
-      "song_title": "The Man Comes Around",
+      "song_title": "When the Man Comes Around",
       "artist": "Johnny Cash",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ"
+      "spotify_url": "https://open.spotify.com/track/4kIVFKUOphtW7wUSrEeNTC",
+      "notes": ""
     },
     {
       "fighter": "Rafael Natal",
-      "song_title": "Brazilian National Anthem",
-      "artist": "Francisco Manuel da Silva",
-      "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/search/Brazilian%20National%20Anthem%20Francisco%20Manuel%20da%20Silva"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
     },
     {
       "fighter": "Vicente Luque",
       "song_title": "Baby Baby",
-      "artist": "Tropkillaz",
+      "artist": "Topkillaz",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy"
+      "spotify_url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
+      "notes": ""
     },
     {
       "fighter": "Belal Muhammad",
       "song_title": "Ruff Ryders' Anthem",
       "artist": "DMX",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "notes": ""
     },
     {
       "fighter": "Jim Miller",
       "song_title": "Bad Moon Rising",
       "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
     },
     {
       "fighter": "Thiago Alves",
       "song_title": "Full Clip",
       "artist": "Gang Starr",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+      "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
+      "notes": ""
     },
     {
       "fighter": "Liz Carmouche",
       "song_title": "Satisfaction",
       "artist": "Benny Benassi",
       "confidence": "bronze",
-      "notes": "",
-      "spotify_url": "https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt"
+      "spotify_url": "https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt",
+      "notes": ""
     },
     {
       "fighter": "Katlyn Cerminara",
-      "song_title": "Empire State of Mind",
-      "artist": "Jay-Z feat. Alicia Keys",
-      "confidence": "bronze",
-      "notes": "Sherdog article names her as Katlyn Chookagian and highlights Alicia Keys on the hook.",
-      "spotify_url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
     }
   ]
 }

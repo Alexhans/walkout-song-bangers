@@ -1,0 +1,188 @@
+{
+  "event": "UFC 204: Bisping vs. Henderson 2",
+  "event_slug": "ufc-204",
+  "date": "2016-10-08",
+  "location": "Manchester Arena, Manchester, England",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2016/10/fight-tracks-the-walkout-songs-of-ufc-204-including-bispings-vintage-blur-for-home-fans"
+  ],
+  "generated_at": "2026-03-23T00:13:27Z",
+  "songs": [
+    {
+      "fighter": "Michael Bisping",
+      "song_title": "Song 2",
+      "artist": "Blur",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Henderson",
+      "song_title": "Made In America",
+      "artist": "Toby Keith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
+      "notes": ""
+    },
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "Hate or Glory",
+      "artist": "Gesaffelstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Jlqg70T1RhZICoFJmj1Bm",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Belfort",
+      "song_title": "300 Violins Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimi Manuwa",
+      "song_title": "Hail Mary",
+      "artist": "Tupac (feat. The Outlawz)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Skrilla",
+      "artist": "Kodiak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu",
+      "notes": ""
+    },
+    {
+      "fighter": "Stefan Struve",
+      "song_title": "He's a Pirate (Tiesto Remix)",
+      "artist": "DJ Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Omielanczuk",
+      "song_title": "King Bruce Lee Karate Mistrz",
+      "artist": "Franek Kimono",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5eNnuKhQMh9jieIYzWutgR",
+      "notes": ""
+    },
+    {
+      "fighter": "Mirsad Bektic",
+      "song_title": "Big Things Poppin' (Do It)'",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
+      "notes": ""
+    },
+    {
+      "fighter": "Russell Doane",
+      "song_title": "Sail",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "notes": ""
+    },
+    {
+      "fighter": "Iuri Alcantara",
+      "song_title": "Nao Morrerei",
+      "artist": "Marquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Pickett",
+      "song_title": "Gertcha",
+      "artist": "Chas and Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UeNDtSqYRs8ELLsyFA5kg",
+      "notes": ""
+    },
+    {
+      "fighter": "Damian Stasiak",
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "notes": ""
+    },
+    {
+      "fighter": "Davey Grant",
+      "song_title": "Fire on the Beach",
+      "artist": "Total Combat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx",
+      "notes": ""
+    },
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Mo Money Mo Problems",
+      "artist": "Notorious B.I.G. feat. P-Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Tumenov",
+      "song_title": "The Heroes of Yore",
+      "artist": "Officers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "My Moment",
+      "artist": "DJ Drama feat. 2 Chainz, Meek Mill & Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Gva0j7oBU6MdvUMQyDRTJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Lukasz Sajewski",
+      "song_title": "Mala Wonjna",
+      "artist": "Lady Pank",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qooyTV08iGZPrnzQobO6H",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Perry",
+      "song_title": "Mind of a Maniac",
+      "artist": "Lil' Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OCFWtV1maSYVa4AP7Mkmc",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "Rise & Fall",
+      "artist": "Michael Molloy & Alex Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wYPAvWxY72fKFIPAQriPY",
+      "notes": ""
+    },
+    {
+      "fighter": "Leonardo Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Adriano Martins",
+      "song_title": "I Say Yes",
+      "artist": "Joe Vasoncelos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr",
+      "notes": ""
+    }
+  ]
+}

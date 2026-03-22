@@ -1,0 +1,204 @@
+{
+  "event": "UFC 202: Diaz vs. McGregor 2",
+  "event_slug": "ufc-202",
+  "date": "2016-08-20",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-202-Diaz-vs-McGregor-2-110091"
+  ],
+  "generated_at": "2026-03-23T00:20:12Z",
+  "songs": [
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "Foggy Dew/Hypnotize",
+      "artist": "Sinead O'Connor/Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "notes": "Mashup - Spotify link is for Foggy Dew"
+    },
+    {
+      "fighter": "Nate Diaz",
+      "song_title": "Ambitionz az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Johnson",
+      "song_title": "Moment",
+      "artist": "Young Money feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5",
+      "notes": ""
+    },
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "All the Way Up",
+      "artist": "Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Rick Story",
+      "song_title": "This Means War",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Perry",
+      "song_title": "Hustlaz Ambition",
+      "artist": "Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jLmubk3fQ8NJY7Vc9GQwL",
+      "notes": ""
+    },
+    {
+      "fighter": "Hyun Gyu Lim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Slippin'",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv",
+      "notes": ""
+    },
+    {
+      "fighter": "Sabah Homasi",
+      "song_title": "Without Me",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Takeya Mizugaki",
+      "song_title": "Wake Me Up",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "Can't Hold Us",
+      "artist": "Macklemore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "notes": ""
+    },
+    {
+      "fighter": "Elizabeth Phillips",
+      "song_title": "Hate Me Now",
+      "artist": "Nas and P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "notes": ""
+    },
+    {
+      "fighter": "Artem Lobov",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Avila",
+      "song_title": "Troublesome '96",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj",
+      "notes": ""
+    },
+    {
+      "fighter": "Cortney Casey",
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "notes": ""
+    },
+    {
+      "fighter": "Randa Markos",
+      "song_title": "Shake It Out",
+      "artist": "Florence and the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P",
+      "notes": ""
+    },
+    {
+      "fighter": "Lorenz Larkin",
+      "song_title": "You're Going Down",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Colby Covington",
+      "song_title": "Me, Myself and I",
+      "artist": "G-Eazy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "What's Up, What's Haapnin'",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZNZkRYqSrPwISR63lC4bu",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alberto Uda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

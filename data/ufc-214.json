@@ -1,0 +1,204 @@
+{
+  "event": "UFC 214: Cormier vs. Jones 2",
+  "event_slug": "ufc-214",
+  "date": "2017-07-29",
+  "location": "Honda Center, Anaheim, California",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/07/fight-tracks-the-walkout-songs-of-ufc-214-with-tupac-johnny-cash-and-even-phil-collins"
+  ],
+  "generated_at": "2026-03-23T00:12:24Z",
+  "songs": [
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "When We Ride on Our Enemies/Right Above It",
+      "artist": "Tupac/Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "notes": "Mashup - Spotify link is for When We Ride on Our Enemies"
+    },
+    {
+      "fighter": "Jon Jones",
+      "song_title": "God Gave Me Style/The Champ Is Here",
+      "artist": "50 Cent/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "notes": "Mashup - Spotify link is for God Gave Me Style"
+    },
+    {
+      "fighter": "Tyron Woodley",
+      "song_title": "DNA/I Ain't Turning Back",
+      "artist": "Kendrick Lamar/Thi'sl feat. Flame",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "notes": "Mashup - Spotify link is for DNA"
+    },
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristiane Justino",
+      "song_title": "Santo Esperito",
+      "artist": "Gezi Monteiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KryzjvKvDmbTXKWetvQxa",
+      "notes": ""
+    },
+    {
+      "fighter": "Tonya Evinger",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "notes": ""
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Ain't No Grave",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Volkan Oezdemir",
+      "song_title": "Pinocchio",
+      "artist": "Booba feat. Damso & Gate",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3shO1aUwZXdhH0gXsCJW9G",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimi Manuwa",
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "Big Rich Town",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6J8sIQRDr96yMAj2OquEkj",
+      "notes": ""
+    },
+    {
+      "fighter": "Renan Barao",
+      "song_title": "All I Do Is Win",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Ortega",
+      "song_title": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Bad Man",
+      "artist": "Steel Pulse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rJP8Esnv6ZLr13nMYZ35V",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "I'm Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandra Albu",
+      "song_title": "Like a Prayer",
+      "artist": "We Are the Fallen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Kailin Curran",
+      "song_title": "Entourage",
+      "artist": "Nick Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZMZcoAPh4fzDL9rYfqze0",
+      "notes": ""
+    },
+    {
+      "fighter": "Jarred Brooks",
+      "song_title": "Brooklyn Zoo",
+      "artist": "Ol' Dirty Bastard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW",
+      "notes": ""
+    },
+    {
+      "fighter": "Eric Shelton",
+      "song_title": "Element",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "No Diggity",
+      "artist": "Backstreet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Burkman",
+      "song_title": "The Baddest Man Alive",
+      "artist": "The Black Keys & RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV",
+      "notes": ""
+    }
+  ]
+}

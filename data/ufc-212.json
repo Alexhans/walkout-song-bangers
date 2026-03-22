@@ -1,0 +1,204 @@
+{
+  "event": "UFC 212: Aldo vs. Holloway",
+  "event_slug": "ufc-212",
+  "date": "2017-06-03",
+  "location": "Jeunesse Arena, Rio de Janeiro, Brazil",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/06/fight-tracks-the-walkout-songs-of-ufc-212-with-a-lot-of-stuff-you-probably-never-heard-of"
+  ],
+  "generated_at": "2026-03-23T00:12:50Z",
+  "songs": [
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Hawaiian Kickboxer",
+      "artist": "Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Rihanna feat. Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudia Gadelha",
+      "song_title": "Best is Yet To come",
+      "artist": "Luvbug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YzzQrDGPAC27tGHST2DBZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Belfort",
+      "song_title": "300 Violin Orchestra (Prayer Version)",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Rl4Rn73QKy7lmbVhlnFLX",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Marquardt",
+      "song_title": "Baited",
+      "artist": "Flame",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4QVWuTwr9rwYNlVtfjNeq0",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Oluwale Bamgbose",
+      "song_title": "Endless Light",
+      "artist": "Hillsong Light",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dZNAbKbfmxVDgYPFi7oEm",
+      "notes": ""
+    },
+    {
+      "fighter": "Yancy Medeiros",
+      "song_title": "Thunder",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "notes": ""
+    },
+    {
+      "fighter": "Erick Silva",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "Podo Vir",
+      "artist": "Tiago Brasil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Moraes",
+      "song_title": "I'm Coming Home",
+      "artist": "Diddy feat. Skylar Grey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonio Carlos Junior",
+      "song_title": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "notes": ""
+    },
+    {
+      "fighter": "Eric Spicely",
+      "song_title": "Bro Hymn",
+      "artist": "Pennywise",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L",
+      "notes": ""
+    },
+    {
+      "fighter": "Matthew Lopez",
+      "song_title": "Lunatic Fringe",
+      "artist": "Red Rider",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Eduardo",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "Blessed Up",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lidCG4c4lX6hIRXt0MKVA",
+      "notes": ""
+    },
+    {
+      "fighter": "Iuri Alcantara",
+      "song_title": "Nao Morrerei",
+      "artist": "Narquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40J1DIF5Row0abZP4Wk1bA",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Pereira",
+      "song_title": "Pontes Indestructiveis",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mbtFsiulvUpsYhjlAEC7F",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Moyle",
+      "song_title": "Moment 4 Life",
+      "artist": "Nicki Minaj feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn",
+      "notes": ""
+    },
+    {
+      "fighter": "Luan Chagas",
+      "song_title": "O Nome de Jesus",
+      "artist": "Isadora Pompeu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Wallhead",
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake & Lil' John",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "Tequila Sunrise",
+      "artist": "Cypress Hill/",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gABnPYOMsyxThmsOQ4uWK",
+      "notes": ""
+    }
+  ]
+}

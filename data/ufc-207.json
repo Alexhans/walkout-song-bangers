@@ -1,29 +1,36 @@
 {
-  "event": "UFC 207: Nunes vs Rousey",
+  "event": "UFC 207: Nunes vs. Rousey",
   "event_slug": "ufc-207",
   "date": "2016-12-30",
   "location": "T-Mobile Arena, Las Vegas, Nevada",
   "source_urls": [
-    "https://campussports.net/2016/12/31/ufc-207-walkout-songs-entrance-music-for-every-fighter/",
-    "https://mmauk.net/2017/01/01/ufc-207-walk-songs-spotify-playlist/"
+    "https://campussports.net/2016/12/31/ufc-207-walkout-songs-entrance-music-for-every-fighter/"
   ],
-  "generated_at": "2026-03-22",
+  "generated_at": "2026-03-23T00:20:55Z",
   "songs": [
     {
       "fighter": "Amanda Nunes",
       "song_title": "American Oxygen",
       "artist": "Rihanna",
-      "confidence": "silver",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
-      "notes": "2 sources agree: CampusSports + MMA UK"
+      "notes": ""
     },
     {
       "fighter": "Ronda Rousey",
       "song_title": "Bad Reputation",
       "artist": "Joan Jett",
-      "confidence": "silver",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M",
-      "notes": "2 sources agree: CampusSports + MMA UK"
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
     },
     {
       "fighter": "Dominick Cruz",
@@ -34,27 +41,19 @@
       "notes": ""
     },
     {
-      "fighter": "Cody Garbrandt",
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "notes": "2 sources agree: CampusSports + MMA UK"
-    },
-    {
       "fighter": "TJ Dillashaw",
-      "song_title": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "confidence": "silver",
+      "song_title": "Can\u2019t Stop",
+      "artist": "the Red Hot Chili Peppers.",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-      "notes": "2 sources agree: CampusSports + MMA UK"
+      "notes": ""
     },
     {
       "fighter": "John Lineker",
       "song_title": "Sou Foda",
       "artist": "Avassaladores",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7tsZGheLBncs6vECCV5SaZ",
+      "spotify_url": "https://open.spotify.com/track/2G02ZQ8Q9ftBTQHkyc3YKV",
       "notes": ""
     },
     {
@@ -74,14 +73,6 @@
       "notes": ""
     },
     {
-      "fighter": "Louis Smolka",
-      "song_title": "Bigger Than Me",
-      "artist": "The Game",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
-      "notes": ""
-    },
-    {
       "fighter": "Ray Borg",
       "song_title": "Shout at the Devil",
       "artist": "Motley Crue",
@@ -90,11 +81,11 @@
       "notes": ""
     },
     {
-      "fighter": "Johny Hendricks",
-      "song_title": "Simple Man",
-      "artist": "Charlie Daniels Band",
+      "fighter": "Louis Smolka",
+      "song_title": "Bigger Than Me",
+      "artist": "The Game",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
+      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
       "notes": ""
     },
     {
@@ -106,8 +97,16 @@
       "notes": ""
     },
     {
+      "fighter": "Johny Hendricks",
+      "song_title": "Simple Man",
+      "artist": "Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
+      "notes": ""
+    },
+    {
       "fighter": "Antonio Carlos Junior",
-      "song_title": "Let's Twist Again",
+      "song_title": "Let\u2019s Twist Again",
       "artist": "Chubby Checker",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",

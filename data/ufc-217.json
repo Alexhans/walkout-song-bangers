@@ -1,25 +1,20 @@
 {
-  "event": "UFC 217: Bisping vs St-Pierre",
+  "event": "UFC 217: Bisping vs. St-Pierre",
   "event_slug": "ufc-217",
   "date": "2017-11-04",
-  "location": "Madison Square Garden, New York City, New York",
+  "location": "Madison Square Garden, New York, New York",
   "source_urls": [
-    "https://mmajunkie.com/2017/11/fight-tracks-the-walkout-songs-of-ufc-217-including-one-the-ufc-got-wrong"
+    "https://mmajunkie.usatoday.com/2017/11/fight-tracks-the-walkout-songs-of-ufc-217-including-one-the-ufc-got-wrong"
   ],
-  "generated_at": "2026-03-22",
+  "generated_at": "2026-03-23T00:11:57Z",
   "songs": [
     {
       "fighter": "Georges St-Pierre",
       "song_title": "Afro Trap Pt. 7 (La Puissance)",
       "artist": "MHD",
-      "confidence": "gold",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6wdI9sg2VdgjqSg0ozu9PK",
-      "notes": "Shazam verified from broadcast video",
-      "verified_by": {
-        "user": "Alexhans",
-        "method": "shazam",
-        "reason": "Shazam verified from broadcast video"
-      }
+      "notes": ""
     },
     {
       "fighter": "Michael Bisping",
@@ -33,27 +28,17 @@
       "fighter": "T.J. Dillashaw",
       "song_title": "Can't Stop",
       "artist": "Red Hot Chili Peppers",
-      "confidence": "gold",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-      "notes": "Shazam verified from broadcast video",
-      "verified_by": {
-        "user": "Alexhans",
-        "method": "shazam",
-        "reason": "Shazam verified from broadcast video"
-      }
+      "notes": ""
     },
     {
       "fighter": "Cody Garbrandt",
       "song_title": "We Will Rock You",
       "artist": "Queen",
-      "confidence": "gold",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "notes": "Shazam verified from broadcast video",
-      "verified_by": {
-        "user": "Alexhans",
-        "method": "shazam",
-        "reason": "Shazam verified from broadcast video"
-      }
+      "notes": ""
     },
     {
       "fighter": "Rose Namajunas",
@@ -61,14 +46,14 @@
       "artist": "Oasis",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
-      "notes": "Production error \u2014 Rose intended a different song but Supersonic was played"
+      "notes": ""
     },
     {
       "fighter": "Joanna Jedrzejczyk",
       "song_title": "Przejmij Ster Swoje Dlonie",
       "artist": "Rena Gosx Gutek",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4YpqGhoolaCRWL9bDdyua6",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
       "notes": ""
     },
     {
@@ -81,11 +66,11 @@
     },
     {
       "fighter": "Jorge Masvidal",
-      "song_title": "Tony's Theme",
-      "artist": "Giorgio Moroder",
+      "song_title": "Tony Montana",
+      "artist": "(Scarface Theme Song)",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
-      "notes": "From the Scarface soundtrack. MMA Junkie listed as 'Tony Montana (Scarface Theme Song)'. Verified from broadcast video."
+      "notes": ""
     },
     {
       "fighter": "Paulo Costa",
@@ -161,18 +146,18 @@
     },
     {
       "fighter": "Mickey Gall",
-      "song_title": "Hey Mickey / Woke Up This Morning",
-      "artist": "Toni Basil / Alabama 3",
+      "song_title": "Hey Mickey/Woke Up This Morning",
+      "artist": "Toni Basil/Alabama 3",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
-      "notes": "Mashup entrance. Hey Mickey: search for Toni Basil | Woke Up This Morning: Alabama 3 (Sopranos theme)"
+      "notes": "Mashup - Spotify link is for Hey Mickey"
     },
     {
       "fighter": "Curtis Blaydes",
       "song_title": "Encounter The Ultimate (Mortal Kombat Theme)",
       "artist": "The Immortals",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
       "notes": ""
     },
     {
@@ -180,7 +165,7 @@
       "song_title": "Ballad For The Suppression",
       "artist": "Vladimir Vysotsky",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5J89mLhG6RbV1b9WNbUnF2",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
       "notes": ""
     },
     {
@@ -194,7 +179,7 @@
     {
       "fighter": "Aiemann Zahabi",
       "song_title": "Still Crusin",
-      "artist": "Eazy E",
+      "artist": "Eazy E feat. The Game",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
       "notes": ""

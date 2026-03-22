@@ -1,0 +1,204 @@
+{
+  "event": "UFC 206: Holloway vs. Pettis",
+  "event_slug": "ufc-206",
+  "date": "2016-12-10",
+  "location": "Air Canada Centre, Toronto, Ontario, Canada",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-206-Holloway-vs-Pettis-114915"
+  ],
+  "generated_at": "2026-03-23T00:20:34Z",
+  "songs": [
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Legend/Hawaiian Kickboxer",
+      "artist": "Drake/Moki Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC",
+      "notes": "Mashup - Spotify link is for Legend"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Showtime",
+      "artist": "Jim Jones and Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cub Swanson",
+      "song_title": "Devastated",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "notes": ""
+    },
+    {
+      "fighter": "Doo Ho Choi",
+      "song_title": "Superman Theme",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "People Get Up and Drive Your Funky Soul",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7FqcsBx3azfOg1gAJkAXje",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Kennedy",
+      "song_title": "Rooster",
+      "artist": "Alice in Chains",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2",
+      "notes": ""
+    },
+    {
+      "fighter": "Emil Weber Meek",
+      "song_title": "Fare Fare Krigsman",
+      "artist": "Autokarma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23iueOvgcLgMeEq2SEBTax",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Mein",
+      "song_title": "Feel Like Phil",
+      "artist": "Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3C82WSOE6RIIObrBdiBV7j",
+      "notes": ""
+    },
+    {
+      "fighter": "Misha Cirkunov",
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Muzhitskaya Silushka",
+      "artist": "Neuromonakh Feofan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Olivier Aubin-Mercier",
+      "song_title": "Bam Bam",
+      "artist": "Sister Nancy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "Wild Thing",
+      "artist": "Tone Loc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Pereira",
+      "song_title": "Pontes Indestrutveis",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13ngzqLaMikTeh1BfUsCmS",
+      "notes": ""
+    },
+    {
+      "fighter": "Valerie Letourneau",
+      "song_title": "Walk With Me",
+      "artist": "Lecrae and Novell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T",
+      "notes": ""
+    },
+    {
+      "fighter": "Matthew Lopez",
+      "song_title": "Lunatic Fringe",
+      "artist": "Red Rider",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr",
+      "notes": ""
+    },
+    {
+      "fighter": "Mitch Gagnon",
+      "song_title": "Bleed it Out",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "Actin Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "notes": ""
+    },
+    {
+      "fighter": "John Makdessi",
+      "song_title": "Fade",
+      "artist": "Alan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx",
+      "notes": ""
+    },
+    {
+      "fighter": "Rustam Khabilov",
+      "song_title": "New Day",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rMreweJkDadtWMOEv1w67",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Saggo",
+      "song_title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Ortiz",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "Zach Makovsky",
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "notes": ""
+    }
+  ]
+}

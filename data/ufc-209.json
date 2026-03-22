@@ -1,0 +1,188 @@
+{
+  "event": "UFC 209: Woodley vs. Thompson 2",
+  "event_slug": "ufc-209",
+  "date": "2017-03-04",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-209-Woodley-vs-Thompson-2-118185"
+  ],
+  "generated_at": "2026-03-23T00:20:45Z",
+  "songs": [
+    {
+      "fighter": "Tyron Woodley",
+      "song_title": "I Ain't Turning Back",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iyc3BlDHRi2utwTblalaJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "notes": ""
+    },
+    {
+      "fighter": "David Teymur",
+      "song_title": "Suryoyo Football Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "Actin Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Kelly",
+      "song_title": "Run to Paradise",
+      "artist": "The Choirboys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA",
+      "notes": ""
+    },
+    {
+      "fighter": "Rashad Evans",
+      "song_title": "Express Yourself",
+      "artist": "N.W.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Bobby Cooper",
+      "song_title": "Gasoline",
+      "artist": "Halsey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT",
+      "notes": ""
+    },
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Enter the Reem Ultimate",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Hunt",
+      "song_title": "Poppin Them Thangs",
+      "artist": "G Unit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Get Me the G.I. Joes",
+      "artist": "Henry Jackman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ooJFQwMx8HHJnHZd0QCDr",
+      "notes": ""
+    },
+    {
+      "fighter": "Luis Henrique Barbosa de Oliveira",
+      "song_title": "Marginal Menestrel",
+      "artist": "MV Bill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3VCuRcPJN4yW0LIvyJMOLA",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Mirsad Bektic",
+      "song_title": "Experience",
+      "artist": "Ludovico Einaudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj",
+      "notes": ""
+    },
+    {
+      "fighter": "Iuri Alcantara",
+      "song_title": "Nao Morrerei",
+      "artist": "Marquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz",
+      "notes": ""
+    },
+    {
+      "fighter": "Luke Sanders",
+      "song_title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Godbeer",
+      "song_title": "Runaway",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Spitz",
+      "song_title": "Remember We Die",
+      "artist": "Gemini Syndrome",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Sexual",
+      "artist": "Neiked",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Alive",
+      "artist": "Chase and Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Morales",
+      "song_title": "Bounce Back",
+      "artist": "Big Sean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Soukhamthath",
+      "song_title": "Heaven or Hell",
+      "artist": "Heartbreaka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UKpcl2vJCBJbPTUyUovCu",
+      "notes": ""
+    }
+  ]
+}

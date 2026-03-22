@@ -1,0 +1,172 @@
+{
+  "event": "UFC 203: Miocic vs. Overeem",
+  "event_slug": "ufc-203",
+  "date": "2016-09-10",
+  "location": "Quicken Loans Arena, Cleveland, Ohio",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-203-Miocic-vs-Overeem-111031"
+  ],
+  "generated_at": "2026-03-23T00:20:22Z",
+  "songs": [
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Pride Fighting Championships Official Theme",
+      "artist": "Yasuharu Takanashi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DZ9Tqbv3vEh0wmGpSnHKb",
+      "notes": ""
+    },
+    {
+      "fighter": "Fabricio Werdum",
+      "song_title": "Fe Na Luta",
+      "artist": "Gabriel O Pensador",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20cbGw4DpRYSVapv3RQkx7",
+      "notes": ""
+    },
+    {
+      "fighter": "Travis Browne",
+      "song_title": "You're the Best",
+      "artist": "Joe Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
+      "notes": ""
+    },
+    {
+      "fighter": "CM Punk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmie Rivera",
+      "song_title": "Conteo",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
+      "notes": ""
+    },
+    {
+      "fighter": "Urijah Faber",
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Drag Me Down",
+      "artist": "One Direction",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Calderwood",
+      "song_title": "Don't Let Me Be Misunderstood",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC",
+      "notes": ""
+    },
+    {
+      "fighter": "Bethe Correia",
+      "song_title": "Titanium",
+      "artist": "David Guetta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "Goodtime",
+      "artist": "Lorine Chia and MGK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ngcRWogDo4u6okPI3QpUq",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Auhs5MMDextVqwl8T3SX9",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Magalhaes",
+      "song_title": "Vou Colher Sorrindo",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc",
+      "notes": ""
+    },
+    {
+      "fighter": "Nik Lentz",
+      "song_title": "Whipping Boy",
+      "artist": "Shearwater",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59CeX5YG93zTwKAnT3eUec",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael McBride",
+      "song_title": "Yellow Flicker Beat",
+      "artist": "Lorde",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "Shoop",
+      "artist": "Salt N Pepa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Gonzalez",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Yancy Medeiros",
+      "song_title": "Make It Bun Dem",
+      "artist": "Damien Marley and Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Spencer",
+      "song_title": "Cleveland is the Reason",
+      "artist": "Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/64t5bg43EQzlCZbzACMhEl",
+      "notes": ""
+    }
+  ]
+}

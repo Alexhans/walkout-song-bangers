@@ -1,0 +1,188 @@
+{
+  "event": "UFC 213: Romero vs. Whittaker",
+  "event_slug": "ufc-213",
+  "date": "2017-07-08",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/07/fight-tracks-walkout-songs-ufc-213-ccr-kanye-west-lynyrd-skynyrd"
+  ],
+  "generated_at": "2026-03-23T00:12:37Z",
+  "songs": [
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Yoel Romero",
+      "song_title": "Soldado",
+      "artist": "Juan Luis Guerra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61HhjqBaSKwgcgd1YuIvgs",
+      "notes": ""
+    },
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Fearless",
+      "artist": "Bold Action",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jWwoS0kZJjQxS2bpQZwYW",
+      "notes": ""
+    },
+    {
+      "fighter": "Fabricio Werdum",
+      "song_title": "Despacito",
+      "artist": "Luis Fons feat. Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "Mortal Combat Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hcKSIrthkCAIFBiSn5jBh",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Omielanczuk",
+      "song_title": "King Bruce Lee Karate Mistrz",
+      "artist": "Franek Kimono",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5eNnuKhQMh9jieIYzWutgR",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Showtime",
+      "artist": "Jim Jones & Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gEPKKr6rA2SoEQnFD5SoN",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Conquistando o Impossavel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksei Oleinik",
+      "song_title": "Ballad For The Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "notes": ""
+    },
+    {
+      "fighter": "Travis Browne",
+      "song_title": "I'm Only Human After All",
+      "artist": "John \"Ragin Cajun\" Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Laprise",
+      "song_title": "God's Song",
+      "artist": "Mikey Rukus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1IJ3FJepMPSBTzoPdfY9g2",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Camozzi",
+      "song_title": "Here Comes the Hotstepper",
+      "artist": "Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago \"Marreta\" Santos",
+      "song_title": "Marretta Da CCD Para o Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "Ante Up",
+      "artist": "M.O.P.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc",
+      "notes": ""
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "We Ready",
+      "artist": "Archie Ebersole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Mein",
+      "song_title": "Body Like a Back Road",
+      "artist": "Sam Hunt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrion Ware",
+      "song_title": "Amazing",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01UniWABhnIka7GgvzOC02",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "Wait a Minute",
+      "artist": "Phresher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNS8rIcTvKVdgbSuQC9Xe",
+      "notes": ""
+    },
+    {
+      "fighter": "James Bochnovic",
+      "song_title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0r2RpSySXGsKSL3OPj2UYt",
+      "notes": ""
+    }
+  ]
+}

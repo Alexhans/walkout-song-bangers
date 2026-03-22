@@ -10,12 +10,27 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 
 Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](viz/) (markdown tables with Spotify links).
 
-| Event | Fighters | Gold | Silver | Bronze |
-|-------|----------|------|--------|--------|
-| [UFC 207](viz/ufc-207.md) | 20 | 0 | 4 | 16 |
-| [UFC 229](viz/ufc-229.md) | 24 | 1 | 13 | 10 |
-| [UFC 217](viz/ufc-217.md) | 22 | 3 | 0 | 19 |
-| [UFC Fight Night 140](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 |
+| Event | Fighters | Gold | Silver | Bronze | Missing |
+|-------|----------|------|--------|--------|---------|
+| [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC 203: Miocic vs. Overeem](viz/ufc-203.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
+| [UFC 205: Alvarez vs. McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC 206: Holloway vs. Pettis](viz/ufc-206.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 207: Nunes vs. Rousey](viz/ufc-207.md) | 20 | 0 | 0 | 20 | 0 |
+| [UFC 209: Woodley vs. Thompson 2](viz/ufc-209.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 211: Miocic vs. Dos Santos 2](viz/ufc-211.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 212: Aldo vs. Holloway](viz/ufc-212.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC 213: Romero vs. Whittaker](viz/ufc-213.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 214: Cormier vs. Jones 2](viz/ufc-214.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 216: Ferguson vs. Lee](viz/ufc-216.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
+| [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
+| [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
+| [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
 
 ## How it works
 
@@ -77,7 +92,7 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
       "fighter": "Ronda Rousey",
       "song_title": "Bad Reputation",
       "artist": "Joan Jett",
-      "confidence": "silver",
+      "confidence": "gold",
       "spotify_url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M",
       "verified_by": {"user": "your_github_username", "method": "human", "reason": "Human verified from broadcast video"}
     }

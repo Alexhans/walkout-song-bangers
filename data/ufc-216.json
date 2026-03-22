@@ -1,0 +1,188 @@
+{
+  "event": "UFC 216: Ferguson vs. Lee",
+  "event_slug": "ufc-216",
+  "date": "2017-10-07",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/10/fight-tracks-the-walkout-songs-of-ufc-216-tony-ferguson-kevin-lee"
+  ],
+  "generated_at": "2026-03-23T00:12:10Z",
+  "songs": [
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "First Day Out",
+      "artist": "Tee Grizzley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Demetrious Johnson",
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Kanye West & Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22ngk2DRBy7audIugfYDKd",
+      "notes": ""
+    },
+    {
+      "fighter": "Ray Borg",
+      "song_title": "Shout at the Devil",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE",
+      "notes": ""
+    },
+    {
+      "fighter": "Fabricio Werdum",
+      "song_title": "Hino do Gremio",
+      "artist": "Banda Galera Campea",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hpgA4zlvm9Lj8zkPxxIEr",
+      "notes": ""
+    },
+    {
+      "fighter": "Walt Harris",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    },
+    {
+      "fighter": "Mara Romero Borella",
+      "song_title": "Zoku (Japanese Drum)",
+      "artist": "Kodo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6msToMBObcfik5vw6nGorJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Kalindra Faria",
+      "song_title": "Macaco Theme",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00qiehape73rXG9YTeuog8",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Broken Vessels (Amazing Grace)",
+      "artist": "Hillsong United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc",
+      "notes": ""
+    },
+    {
+      "fighter": "Evan Dunham",
+      "song_title": "Fortunate Son",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": ""
+    },
+    {
+      "fighter": "Tom Duquesnoy",
+      "song_title": "Stronger",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind & Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "notes": ""
+    },
+    {
+      "fighter": "Bobby Green",
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "notes": ""
+    },
+    {
+      "fighter": "Poliana Botelho",
+      "song_title": "Wild Thoughts",
+      "artist": "DJ Khaled feat. Rihanna and Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
+      "notes": ""
+    },
+    {
+      "fighter": "Pearl Gonzalez",
+      "song_title": "Bodak Yellow",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Dancing in the Moonlight",
+      "artist": "King Harvest",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "El Cameral",
+      "artist": "Los Cojolites",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+      "notes": ""
+    },
+    {
+      "fighter": "John Moraga",
+      "song_title": "Thuggish Ruggish Bone",
+      "artist": "Bone Thugs-N-Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Bibulatov",
+      "song_title": "Rizavidi Ismailov",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "Tears",
+      "artist": "Alborosie feat. Wendy Rene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57noNuqOEAkEGQvbsJEjHo",
+      "notes": ""
+    },
+    {
+      "fighter": "Thales Leites",
+      "song_title": "Three Little Birds",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM",
+      "notes": ""
+    }
+  ]
+}
