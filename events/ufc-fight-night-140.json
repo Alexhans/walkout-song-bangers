@@ -1,0 +1,205 @@
+{
+  "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+  "event_slug": "ufc-fight-night-140",
+  "date": "2018-11-17",
+  "location": "Estadio Mary Teran de Weiss, Buenos Aires, Argentina",
+  "source_urls": [
+    "https://mmajunkie-eu.usatoday.com/story/sports/ufc/2018/11/18/fight-tracks-walkout-songs-ufc-fight-night-140-argentina/82145310007/",
+    "https://www.sherdog.com/events/UFC-Fight-Night-140-Magny-vs-Ponzinibbio-69285"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "Bien Alto",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sOa9gg19G0U9DPR39NYQG",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae ft. Suzy Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Get+Ready+Eric+Herzog",
+      "notes": "spotify_match: search_fallback — not found on Spotify"
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
+      "artist": "Snap!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree",
+      "song_title": "If You're Out There",
+      "artist": "John Legend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jWNwr5r9emJVwNeYCgJY7",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Shook Ones Part II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "notes": ""
+    },
+    {
+      "fighter": "Cezar Ferreira",
+      "song_title": "Das Duas Uma",
+      "artist": "Junior e Cezar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17VwiDmnGc6P1n6OqYh9TC",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Smile (Living My Best Life)",
+      "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "notes": ""
+    },
+    {
+      "fighter": "Guido Cannetti",
+      "song_title": "No Te Creas Importante",
+      "artist": "Damas Gratis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Poliana Botelho",
+      "song_title": "Wild Thoughts",
+      "artist": "DJ Khaled ft. Rihanna & Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
+      "notes": ""
+    },
+    {
+      "fighter": "Michel Prazeres",
+      "song_title": "Negro Drama (Ao Vivo)",
+      "artist": "Racionais MC's",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
+      "notes": ""
+    },
+    {
+      "fighter": "Bartosz Fabinski",
+      "song_title": "The One and Only",
+      "artist": "Chesney Hawkes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Ulka Sasaki",
+      "song_title": "Time to Say Goodbye",
+      "artist": "Andrea Bocelli & Sarah Brightman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NNqrcjdK8YAiXV6YPasz3",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Arnett",
+      "song_title": "Destiny",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5n4ZzdO7KtpxsDpoDTa3D6",
+      "notes": ""
+    },
+    {
+      "fighter": "Humberto Bandenay",
+      "song_title": "Peruano Luchador",
+      "artist": "Luis Chang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Peruano+Luchador+Luis+Chang",
+      "notes": "spotify_match: search_fallback — not found on Spotify"
+    },
+    {
+      "fighter": "Laureano Staropoli",
+      "song_title": "Himno Nacional Argentino",
+      "artist": "Banda Militar Del Ejército Argentino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3fguMAWviZzPzvFORRQJWm",
+      "notes": "Argentina National Anthem"
+    },
+    {
+      "fighter": "Hector Aldana",
+      "song_title": "Puro Cachanilla",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesus Pinedo",
+      "song_title": "Contigo Peru",
+      "artist": "Arturo 'Zambo' Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "notes": ""
+    },
+    {
+      "fighter": "Devin Powell",
+      "song_title": "Kentucky Derby",
+      "artist": "Eyenine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yniMtRG6gVEZFgUVRlnPR",
+      "notes": ""
+    },
+    {
+      "fighter": "Nad Narimani",
+      "song_title": "Could You Be Loved",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
+      "notes": ""
+    },
+    {
+      "fighter": "Anderson dos Santos",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    }
+  ]
+}

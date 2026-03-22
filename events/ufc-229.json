@@ -1,0 +1,210 @@
+{
+  "event": "UFC 229: Khabib vs McGregor",
+  "event_slug": "ufc-229",
+  "date": "2018-10-06",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://mixedmartialarts.com/editorial/the-songs-they-walked-out-to-at-ufc-22981744a34-5e94-430f-9f9f-58f215ebb038/",
+    "https://mmajunkie.usatoday.com/2018/10/ufc-229-walkout-songs-khabib-conor-mcgregor-brawl-las-vegas-ireland-dagestan"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Khabib Nurmagomedov",
+      "song_title": "Dagestan (Remix)",
+      "artist": "SABINA, Timaro",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "notes": "Human verified from broadcast video",
+      "verified_by": {
+        "user": "Alexhans",
+        "method": "human",
+        "reason": "Human verified from broadcast video"
+      }
+    },
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "The Foggy Dew / Hypnotize",
+      "artist": "The Chieftains & Sinead O'Connor / The Notorious B.I.G.",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": "Sources disagree: MMA.com had Push It, MMA Junkie had Return of the Mack. Using MMA Junkie (matches broadcast)."
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "notes": "Sources disagree: MMA.com had Return of the Mack, MMA Junkie had Push It. Using MMA Junkie (matches broadcast)."
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Wanna Be a Baller",
+      "artist": "Lil' Troy",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Zima Mama",
+      "artist": "25/17",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5wUUnAZXcgCNA4vM91paUg",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Michelle Waterson",
+      "song_title": "New Blood",
+      "artist": "Zayde Wolf",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/7GRGNtCeVyaC9kH48i0vUi",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Felice Herrig",
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Jussier Formiga",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Sergio Pettis",
+      "song_title": "Programs",
+      "artist": "Mac Miller",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Troopkilaz",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/search/Baby+Baby+Troopkilaz",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "New Patek",
+      "artist": "Lil Uzi Vert",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Aspen Ladd",
+      "song_title": "Promontory",
+      "artist": "Trevor Jones",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Tonya Evinger",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "notes": "2 sources agree: MixedMartialArts.com + MMA Junkie"
+    },
+    {
+      "fighter": "Scott Holtzman",
+      "song_title": "Nothin' but a Good Time",
+      "artist": "Poison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Patrick",
+      "song_title": "12 Ate o Fim",
+      "artist": "Mano Hethi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR",
+      "notes": ""
+    },
+    {
+      "fighter": "Yana Kunitskaya",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "notes": ""
+    },
+    {
+      "fighter": "Lina Lansberg",
+      "song_title": "Sail",
+      "artist": "AWOLNATION",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "notes": ""
+    },
+    {
+      "fighter": "Nik Lentz",
+      "song_title": "The Greatest Show Unearthed",
+      "artist": "Creature Feature",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YEkxfNMTHkfoYlh4d1Y7b",
+      "notes": ""
+    },
+    {
+      "fighter": "Gray Maynard",
+      "song_title": "Know Your Enemy",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Rocco Martin",
+      "song_title": "No Love",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan LaFlare",
+      "song_title": "Release Yo' Self",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wGjTruvCtFKrAOJrMdMay",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "event": "UFC 229: Khabib vs McGregor",
+  "event_slug": "ufc-229",
+  "date": "2018-10-06",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "songs": [
+    {"fighter": "Khabib Nurmagomedov", "song_title": "Dagestan (Remix)", "artist": "SABINA, timaro"},
+    {"fighter": "Conor McGregor", "song_title": "", "artist": ""},
+    {"fighter": "Tony Ferguson", "song_title": "The Party Has Just Begun", "artist": "Freestyle"},
+    {"fighter": "Anthony Pettis", "song_title": "All Eyez on Me", "artist": "2Pac"},
+    {"fighter": "Dominick Reyes", "song_title": "Return of the Mack", "artist": "Mark Morrison"},
+    {"fighter": "Ovince Saint Preux", "song_title": "Push It", "artist": "Rick Ross"},
+    {"fighter": "Derrick Lewis", "song_title": "Wanna Be a Baller", "artist": "Lil' Troy"},
+    {"fighter": "Alexander Volkov", "song_title": "Zima Mama", "artist": "25/17"},
+    {"fighter": "Michelle Waterson", "song_title": "New Blood", "artist": "Zayde Wolf"},
+    {"fighter": "Felice Herrig", "song_title": "Don't Stop Believin'", "artist": "Journey"},
+    {"fighter": "Jussier Formiga", "song_title": "", "artist": ""},
+    {"fighter": "Sergio Pettis", "song_title": "", "artist": ""},
+    {"fighter": "Vicente Luque", "song_title": "", "artist": ""},
+    {"fighter": "Jalin Turner", "song_title": "", "artist": ""},
+    {"fighter": "Aspen Ladd", "song_title": "", "artist": ""},
+    {"fighter": "Tonya Evinger", "song_title": "", "artist": ""},
+    {"fighter": "Scott Holtzman", "song_title": "", "artist": ""},
+    {"fighter": "Alan Patrick", "song_title": "", "artist": ""},
+    {"fighter": "Yana Kunitskaya", "song_title": "", "artist": ""},
+    {"fighter": "Lina Lansberg", "song_title": "", "artist": ""},
+    {"fighter": "Nik Lentz", "song_title": "", "artist": ""},
+    {"fighter": "Gray Maynard", "song_title": "", "artist": ""},
+    {"fighter": "Anthony Rocco Martin", "song_title": "", "artist": ""},
+    {"fighter": "Ryan LaFlare", "song_title": "", "artist": ""}
+  ]
+}

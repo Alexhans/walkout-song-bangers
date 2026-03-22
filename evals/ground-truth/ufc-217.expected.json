@@ -1,0 +1,30 @@
+{
+  "event": "UFC 217: Bisping vs St-Pierre",
+  "event_slug": "ufc-217",
+  "date": "2017-11-04",
+  "location": "Madison Square Garden, New York City, New York",
+  "songs": [
+    {"fighter": "Georges St-Pierre", "song_title": "Afro Trap Pt. 7 (La Puissance)", "artist": "MHD"},
+    {"fighter": "Michael Bisping", "song_title": "Song 2", "artist": "Blur"},
+    {"fighter": "T.J. Dillashaw", "song_title": "Can't Stop", "artist": "Red Hot Chili Peppers"},
+    {"fighter": "Cody Garbrandt", "song_title": "We Will Rock You", "artist": "Queen"},
+    {"fighter": "Rose Namajunas", "song_title": "Supersonic", "artist": "Oasis"},
+    {"fighter": "Joanna Jedrzejczyk", "song_title": "Przejmij Ster Swoje Dlonie", "artist": "Rena Gosx Gutek"},
+    {"fighter": "Stephen Thompson", "song_title": "", "artist": ""},
+    {"fighter": "Jorge Masvidal", "song_title": "", "artist": ""},
+    {"fighter": "Paulo Costa", "song_title": "2026", "artist": "Lagum"},
+    {"fighter": "Johny Hendricks", "song_title": "I'll Sing About Mine", "artist": "Josh Abbott Band"},
+    {"fighter": "James Vick", "song_title": "", "artist": ""},
+    {"fighter": "Joseph Duffy", "song_title": "", "artist": ""},
+    {"fighter": "Mark Godbeer", "song_title": "", "artist": ""},
+    {"fighter": "Walt Harris", "song_title": "", "artist": ""},
+    {"fighter": "Ovince Saint Preux", "song_title": "", "artist": ""},
+    {"fighter": "Corey Anderson", "song_title": "", "artist": ""},
+    {"fighter": "Randy Brown", "song_title": "", "artist": ""},
+    {"fighter": "Mickey Gall", "song_title": "", "artist": ""},
+    {"fighter": "Curtis Blaydes", "song_title": "", "artist": ""},
+    {"fighter": "Aleksei Oleinik", "song_title": "", "artist": ""},
+    {"fighter": "Ricardo Ramos", "song_title": "", "artist": ""},
+    {"fighter": "Aiemann Zahabi", "song_title": "", "artist": ""}
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "event": "UFC 217: Bisping vs St-Pierre",
+  "event_slug": "ufc-217",
+  "date": "2017-11-04",
+  "location": "Madison Square Garden, New York City, New York",
+  "source_urls": [
+    "https://mmajunkie.com/2017/11/fight-tracks-the-walkout-songs-of-ufc-217-including-one-the-ufc-got-wrong"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Georges St-Pierre",
+      "song_title": "Afro Trap Pt. 7 (La Puissance)",
+      "artist": "MHD",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6wdI9sg2VdgjqSg0ozu9PK",
+      "notes": "Shazam verified from broadcast video",
+      "verified_by": {
+        "user": "Alexhans",
+        "method": "shazam",
+        "reason": "Shazam verified from broadcast video"
+      }
+    },
+    {
+      "fighter": "Michael Bisping",
+      "song_title": "Song 2",
+      "artist": "Blur",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK",
+      "notes": ""
+    },
+    {
+      "fighter": "T.J. Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": "Shazam verified from broadcast video",
+      "verified_by": {
+        "user": "Alexhans",
+        "method": "shazam",
+        "reason": "Shazam verified from broadcast video"
+      }
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": "Shazam verified from broadcast video",
+      "verified_by": {
+        "user": "Alexhans",
+        "method": "shazam",
+        "reason": "Shazam verified from broadcast video"
+      }
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "notes": "Production error \u2014 Rose intended a different song but Supersonic was played"
+    },
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "Przejmij Ster Swoje Dlonie",
+      "artist": "Rena Gosx Gutek",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YpqGhoolaCRWL9bDdyua6",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "notes": ""
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "Tony's Theme",
+      "artist": "Giorgio Moroder",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "notes": "From the Scarface soundtrack. MMA Junkie listed as 'Tony Montana (Scarface Theme Song)'. Verified from broadcast video."
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "2026",
+      "artist": "Lagum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BgoERlsx1Amx30GgJJ3eK",
+      "notes": ""
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "I'll Sing About Mine",
+      "artist": "Josh Abbott Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4GtXuqiBbAmK4XIePNT6QM",
+      "notes": ""
+    },
+    {
+      "fighter": "James Vick",
+      "song_title": "Bring Em Out",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
+      "notes": ""
+    },
+    {
+      "fighter": "Joseph Duffy",
+      "song_title": "Oro Se Do Bheatha Bhaile",
+      "artist": "Sean Mor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Cht4IwOKR23JU1YrIxCcS",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Godbeer",
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "notes": ""
+    },
+    {
+      "fighter": "Walt Harris",
+      "song_title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "notes": ""
+    },
+    {
+      "fighter": "Corey Anderson",
+      "song_title": "My Time",
+      "artist": "Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Broad Daylight",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uGrfMK19vf1rT8pWhNNvq",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey / Woke Up This Morning",
+      "artist": "Toni Basil / Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
+      "notes": "Mashup entrance. Hey Mickey: search for Toni Basil | Woke Up This Morning: Alabama 3 (Sopranos theme)"
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "Encounter The Ultimate (Mortal Kombat Theme)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksei Oleinik",
+      "song_title": "Ballad For The Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5J89mLhG6RbV1b9WNbUnF2",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "Get Your Walk On",
+      "artist": "Xzibit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RPhSs2lDYKjDsELKtPvQd",
+      "notes": ""
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Still Crusin",
+      "artist": "Eazy E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+      "notes": ""
+    }
+  ]
+}

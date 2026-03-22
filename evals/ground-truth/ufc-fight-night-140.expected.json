@@ -1,0 +1,32 @@
+{
+  "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+  "event_slug": "ufc-fight-night-140",
+  "date": "2018-11-17",
+  "location": "Estadio Mary Teran de Weiss, Buenos Aires, Argentina",
+  "songs": [
+    {"fighter": "Santiago Ponzinibbio", "song_title": "Bien Alto", "artist": "La Renga"},
+    {"fighter": "Neil Magny", "song_title": "", "artist": ""},
+    {"fighter": "Ricardo Lamas", "song_title": "", "artist": ""},
+    {"fighter": "Darren Elkins", "song_title": "", "artist": ""},
+    {"fighter": "Johnny Walker", "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)", "artist": "Snap!"},
+    {"fighter": "Khalil Rountree", "song_title": "", "artist": ""},
+    {"fighter": "Ian Heinisch", "song_title": "", "artist": ""},
+    {"fighter": "Cezar Ferreira", "song_title": "", "artist": ""},
+    {"fighter": "Marlon Vera", "song_title": "", "artist": ""},
+    {"fighter": "Guido Cannetti", "song_title": "No Te Creas Importante", "artist": "Damas Gratis"},
+    {"fighter": "Cynthia Calvillo", "song_title": "", "artist": ""},
+    {"fighter": "Poliana Botelho", "song_title": "", "artist": ""},
+    {"fighter": "Michel Prazeres", "song_title": "", "artist": ""},
+    {"fighter": "Bartosz Fabinski", "song_title": "", "artist": ""},
+    {"fighter": "Alexandre Pantoja", "song_title": "", "artist": ""},
+    {"fighter": "Ulka Sasaki", "song_title": "", "artist": ""},
+    {"fighter": "Austin Arnett", "song_title": "", "artist": ""},
+    {"fighter": "Humberto Bandenay", "song_title": "", "artist": ""},
+    {"fighter": "Laureano Staropoli", "song_title": "Himno Nacional Argentino", "artist": "Banda Militar Del Ejército Argentino"},
+    {"fighter": "Hector Aldana", "song_title": "", "artist": ""},
+    {"fighter": "Jesus Pinedo", "song_title": "", "artist": ""},
+    {"fighter": "Devin Powell", "song_title": "", "artist": ""},
+    {"fighter": "Nad Narimani", "song_title": "", "artist": ""},
+    {"fighter": "Anderson dos Santos", "song_title": "", "artist": ""}
+  ]
+}
