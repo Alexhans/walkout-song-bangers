@@ -1,0 +1,173 @@
+{
+  "event": "UFC 207: Nunes vs Rousey",
+  "event_slug": "ufc-207",
+  "date": "2016-12-30",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://campussports.net/2016/12/31/ufc-207-walkout-songs-entrance-music-for-every-fighter/",
+    "https://mmauk.net/2017/01/01/ufc-207-walk-songs-spotify-playlist/"
+  ],
+  "generated_at": "2026-03-22",
+  "songs": [
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "American Oxygen",
+      "artist": "Rihanna",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
+      "notes": "2 sources agree: CampusSports + MMA UK"
+    },
+    {
+      "fighter": "Ronda Rousey",
+      "song_title": "Bad Reputation",
+      "artist": "Joan Jett",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M",
+      "notes": "2 sources agree: CampusSports + MMA UK"
+    },
+    {
+      "fighter": "Dominick Cruz",
+      "song_title": "Dominator (Ezer Remix)",
+      "artist": "Armin van Buuren vs Human Resource",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": "2 sources agree: CampusSports + MMA UK"
+    },
+    {
+      "fighter": "TJ Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": "2 sources agree: CampusSports + MMA UK"
+    },
+    {
+      "fighter": "John Lineker",
+      "song_title": "Sou Foda",
+      "artist": "Avassaladores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tsZGheLBncs6vECCV5SaZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Dong Hyun Kim",
+      "song_title": "Danza Kuduro",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH",
+      "notes": ""
+    },
+    {
+      "fighter": "Tarec Saffiedine",
+      "song_title": "Meutre Par Strangulation",
+      "artist": "Maitre Gims",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ObrHZC0MpyNkWh1CdmCcg",
+      "notes": ""
+    },
+    {
+      "fighter": "Louis Smolka",
+      "song_title": "Bigger Than Me",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
+      "notes": ""
+    },
+    {
+      "fighter": "Ray Borg",
+      "song_title": "Shout at the Devil",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE",
+      "notes": ""
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "Simple Man",
+      "artist": "Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonio Carlos Junior",
+      "song_title": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Falling Away from Me",
+      "artist": "Korn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Garcia",
+      "song_title": "Banana Boat Song (Day-O)",
+      "artist": "Harry Belafonte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Pyle",
+      "song_title": "Going Down to the Floor",
+      "artist": "Doug Seegers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Coming Home",
+      "artist": "Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Thatch",
+      "song_title": "Slam",
+      "artist": "Pendulum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Balada",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/561KH32varxPqqwIY4gA7z",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Slippin",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv",
+      "notes": ""
+    }
+  ]
+}

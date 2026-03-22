@@ -1,0 +1,108 @@
+{
+  "event": "UFC 207: Nunes vs Rousey",
+  "event_slug": "ufc-207",
+  "date": "2016-12-30",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "songs": [
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "American Oxygen",
+      "artist": "Rihanna"
+    },
+    {
+      "fighter": "Ronda Rousey",
+      "song_title": "Bad Reputation",
+      "artist": "Joan Jett"
+    },
+    {
+      "fighter": "Dominick Cruz",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "TJ Dillashaw",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "John Lineker",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Dong Hyun Kim",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Tarec Saffiedine",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Louis Smolka",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Ray Borg",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Antonio Carlos Junior",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Alex Garcia",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Mike Pyle",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Brandon Thatch",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "",
+      "artist": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "",
+      "artist": ""
+    }
+  ]
+}

@@ -12,6 +12,7 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 
 | Event | Fighters | Gold | Silver | Bronze |
 |-------|----------|------|--------|--------|
+| [UFC 207](viz/ufc-207.md) | 20 | 0 | 4 | 16 |
 | [UFC 229](viz/ufc-229.md) | 24 | 1 | 13 | 10 |
 | [UFC 217](viz/ufc-217.md) | 22 | 3 | 0 | 19 |
 | [UFC Fight Night 140](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 |
@@ -62,15 +63,22 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
 **JSON** (`data/{slug}.json`) — source of truth:
 ```json
 {
-  "event": "UFC 229: Khabib vs McGregor",
-  "event_slug": "ufc-229",
+  "event": "UFC 207: Nunes vs Rousey",
+  "event_slug": "ufc-207",
   "songs": [
     {
-      "fighter": "Khabib Nurmagomedov",
-      "song_title": "Dagestan (Remix)",
-      "artist": "SABINA, Timaro",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "fighter": "Amanda Nunes",
+      "song_title": "American Oxygen",
+      "artist": "Rihanna",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X"
+    },
+    {
+      "fighter": "Ronda Rousey",
+      "song_title": "Bad Reputation",
+      "artist": "Joan Jett",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M",
       "verified_by": {"user": "your_github_username", "method": "human", "reason": "Human verified from broadcast video"}
     }
   ]
@@ -80,7 +88,7 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
 **Markdown** (`viz/{slug}.md`) — generated from JSON:
 ```bash
 python3 skill/scripts/generate_md.py                    # all events
-python3 skill/scripts/generate_md.py data/ufc-229.json  # single event
+python3 skill/scripts/generate_md.py data/ufc-207.json  # single event
 ```
 
 ## Evals
@@ -89,9 +97,9 @@ Ground truth files in `evals/ground-truth/` contain human-verified fighter → s
 
 ```bash
 python3 skill/scripts/eval.py                                    # all events
-python3 skill/scripts/eval.py ufc-229                            # single event
+python3 skill/scripts/eval.py ufc-207                            # single event
 python3 skill/scripts/eval.py --data-dir /tmp/fresh-run          # eval a fresh skill run without merging
-python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-229  # same, single event
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-207  # same, single event
 ```
 
 Use `--data-dir` to point evals at a fresh skill run in a temp directory. This lets you test the skill's output without merging into the committed data. See `evals/README.md` for details.
