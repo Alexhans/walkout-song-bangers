@@ -23,9 +23,13 @@ Schema (no confidence or spotify_url — those are pipeline concerns):
 ## Running evals
 
 ```bash
-python3 scripts/eval.py               # all events with ground truth
-python3 scripts/eval.py ufc-229       # single event by slug
+python3 skill/scripts/eval.py                                    # all events, data from data/
+python3 skill/scripts/eval.py ufc-229                            # single event
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run          # eval a fresh skill run
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-229  # same, single event
 ```
+
+Use `--data-dir` to point evals at a temp directory where the skill wrote fresh output. This avoids the merge behavior (where the skill preserves existing confidence) and gives a clean measure of the skill's raw accuracy.
 
 ## What evals measure
 

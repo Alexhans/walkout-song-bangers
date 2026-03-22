@@ -6,54 +6,26 @@ Run it after any event → get a JSON data file + browsable markdown table → c
 
 Currently focused on UFC events, but the pattern works for any combat sports promotion (Bellator, ONE, boxing, etc.).
 
+## Browse the data
+
+Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](viz/) (markdown tables with Spotify links).
+
+| Event | Fighters | Gold | Silver | Bronze |
+|-------|----------|------|--------|--------|
+| [UFC 229](viz/ufc-229.md) | 24 | 1 | 13 | 10 |
+| [UFC 217](viz/ufc-217.md) | 22 | 3 | 0 | 19 |
+| [UFC Fight Night 140](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 |
+
 ## How it works
 
-This is a [Claude Code Agent Skill](https://docs.anthropic.com/en/docs/claude-code). No Python dependencies for the pipeline — Claude does the scraping, parsing, Spotify matching, and file writing.
-
-```
-/walkout-songs "UFC 229"
-```
+This runs as an Agent Skill — an AI-powered pipeline that searches, scrapes, cross-references, and matches songs on Spotify. No Python dependencies for the pipeline itself.
 
 The skill:
 1. Searches multiple post-event sources for walkout song data
 2. Cross-references sources and assigns confidence tiers
 3. Gets the full fight card from UFCStats for coverage
 4. Matches every song on Spotify for direct track links
-5. Writes JSON (source of truth) + markdown (browsable table)
-
-## Output
-
-Each event produces two files in `events/`:
-
-**JSON** (source of truth):
-```json
-{
-  "event": "UFC 229: Khabib vs McGregor",
-  "event_slug": "ufc-229",
-  "songs": [
-    {
-      "fighter": "Khabib Nurmagomedov",
-      "song_title": "Dagestan (Remix)",
-      "artist": "SABINA, Timaro",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
-      "verified_by": {"user": "your_github_username", "method": "human", "reason": "Human verified from broadcast video"}
-    }
-  ]
-}
-```
-
-**Markdown** (generated from JSON, clickable Spotify links):
-
-| # | Fighter | Song | Artist | Confidence | Listen |
-|---|---------|------|--------|------------|--------|
-| 1 | Khabib Nurmagomedov | Dagestan (Remix) | SABINA, Timaro | gold | [Spotify](https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f) |
-
-Regenerate markdown from JSON:
-```bash
-python3 scripts/generate_md.py                          # all events
-python3 scripts/generate_md.py events/ufc-229.json      # single event
-```
+5. Writes JSON to `data/` and markdown to `viz/`
 
 ## Confidence tiers
 
@@ -85,17 +57,48 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
 3. **MMA Junkie "Fight Tracks"** — excellent, complete per-event
 4. **MixedMartialArts.com** — good for older events
 
-## Events processed
+## Output format
 
-| Event | Fighters | Gold | Silver | Bronze | Missing |
-|-------|----------|------|--------|--------|---------|
-| UFC 229: Khabib vs McGregor | 24 | 1 | 13 | 10 | 0 |
-| UFC 217: Bisping vs St-Pierre | 22 | 3 | 0 | 19 | 0 |
-| UFC Fight Night 140: Magny vs Ponzinibbio | 24 | 0 | 0 | 24 | 0 |
+**JSON** (`data/{slug}.json`) — source of truth:
+```json
+{
+  "event": "UFC 229: Khabib vs McGregor",
+  "event_slug": "ufc-229",
+  "songs": [
+    {
+      "fighter": "Khabib Nurmagomedov",
+      "song_title": "Dagestan (Remix)",
+      "artist": "SABINA, Timaro",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "verified_by": {"user": "your_github_username", "method": "human", "reason": "Human verified from broadcast video"}
+    }
+  ]
+}
+```
+
+**Markdown** (`viz/{slug}.md`) — generated from JSON:
+```bash
+python3 skill/scripts/generate_md.py                    # all events
+python3 skill/scripts/generate_md.py data/ufc-229.json  # single event
+```
+
+## Evals
+
+Ground truth files in `evals/ground-truth/` contain human-verified fighter → song mappings.
+
+```bash
+python3 skill/scripts/eval.py                                    # all events
+python3 skill/scripts/eval.py ufc-229                            # single event
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run          # eval a fresh skill run without merging
+python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-229  # same, single event
+```
+
+Use `--data-dir` to point evals at a fresh skill run in a temp directory. This lets you test the skill's output without merging into the committed data. See `evals/README.md` for details.
 
 ## Setup
 
-1. Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
+1. Install an AI coding assistant that supports Agent Skills (e.g., [Claude Code](https://docs.anthropic.com/en/docs/claude-code))
 2. Register a Spotify app at [developer.spotify.com](https://developer.spotify.com/dashboard)
 3. Create `.env` in the repo root:
    ```
@@ -103,14 +106,3 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
    SPOTIFY_CLIENT_SECRET=your_client_secret
    ```
 4. For gold verification (optional): `uv tool install yt-dlp` and `sudo apt-get install ffmpeg`
-
-## Evals
-
-Ground truth files in `evals/ground-truth/` contain human-verified fighter → song mappings. Run evals with:
-
-```bash
-python3 scripts/eval.py               # all events
-python3 scripts/eval.py ufc-229       # single event
-```
-
-Evals measure the skill's quality: does it list all fighters on the card (coverage), and does it get verified songs right (accuracy). See `evals/README.md` for details.

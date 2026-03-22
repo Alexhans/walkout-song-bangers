@@ -121,7 +121,7 @@ Pre-event articles ("fighter has used X in the past") do NOT count — mark the 
 - Add any new fighters not in the existing file (e.g., fighters from UFCStats that were previously missing).
 - Update `source_urls` to include any new sources found.
 
-Write to `events/{slug}.json` with this schema:
+Write to `data/{slug}.json` with this schema:
 
 ```json
 {
@@ -151,10 +151,10 @@ Write to `events/{slug}.json` with this schema:
 Run the generation script to produce markdown from the JSON source of truth:
 
 ```bash
-python3 scripts/generate_md.py events/{slug}.json
+python3 skill/scripts/generate_md.py data/{slug}.json
 ```
 
-This generates `events/{slug}.md` with this format:
+This generates `viz/{slug}.md` with this format:
 
 ```markdown
 # {Event Name}
@@ -241,8 +241,8 @@ When the user asks to "eval walkout-songs" or "score walkout-songs against {even
 1. **Run the pipeline first** — produce fresh output as normal (Steps 1–9)
 2. **Run the eval script:**
    ```bash
-   python3 scripts/eval.py {slug}        # single event
-   python3 scripts/eval.py               # all events with ground truth
+   python3 skill/scripts/eval.py {slug}        # single event
+   python3 skill/scripts/eval.py               # all events with ground truth
    ```
 3. The script compares pipeline output against `evals/ground-truth/{slug}.expected.json`:
    - Fighter coverage: % of ground-truth fighters found (fuzzy name match, ≥60% similarity)

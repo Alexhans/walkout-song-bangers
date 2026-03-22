@@ -2,11 +2,13 @@
 """Evaluate pipeline output against ground truth.
 
 Usage:
-    python3 scripts/eval.py                           # eval all events with ground truth
-    python3 scripts/eval.py ufc-229                   # eval single event by slug
-    python3 scripts/eval.py events/ufc-229.json       # eval single event by path
+    python3 skill/scripts/eval.py                           # eval all events with ground truth
+    python3 skill/scripts/eval.py ufc-229                   # eval single event by slug
+    python3 skill/scripts/eval.py --data-dir /tmp/fresh-run  # eval from a different output dir
+    python3 skill/scripts/eval.py --data-dir /tmp/fresh-run ufc-229
 """
 
+import argparse
 import json
 import sys
 from pathlib import Path
@@ -163,18 +165,21 @@ def pct(n: int, total: int) -> str:
 
 
 def main():
-    base = Path(__file__).parent.parent
-    events_dir = base / "events"
-    gt_dir = base / "evals" / "ground-truth"
+    parser = argparse.ArgumentParser(description="Evaluate walkout song pipeline output against ground truth")
+    parser.add_argument("slug", nargs="?", help="Event slug (e.g., ufc-229) or path to JSON file")
+    parser.add_argument("--data-dir", type=Path, default=None,
+                        help="Directory containing event JSON files (default: data/ in repo root)")
+    args = parser.parse_args()
 
-    if len(sys.argv) > 1:
-        # Single event
-        arg = sys.argv[1]
-        if arg.endswith(".json"):
-            slug = Path(arg).stem
-        else:
-            slug = arg
-        output_path = events_dir / f"{slug}.json"
+    repo_root = Path(__file__).parent.parent.parent
+    data_dir = args.data_dir or (repo_root / "data")
+    gt_dir = repo_root / "evals" / "ground-truth"
+
+    if args.slug:
+        slug = args.slug
+        if slug.endswith(".json"):
+            slug = Path(slug).stem
+        output_path = data_dir / f"{slug}.json"
         gt_path = gt_dir / f"{slug}.expected.json"
 
         if not output_path.exists():
@@ -190,14 +195,14 @@ def main():
         # All events with ground truth
         gt_files = sorted(gt_dir.glob("*.expected.json"))
         if not gt_files:
-            print("No ground truth files found in evals/ground-truth/")
+            print(f"No ground truth files found in {gt_dir}")
             sys.exit(1)
 
         for gt_path in gt_files:
             slug = gt_path.stem.replace(".expected", "")
-            output_path = events_dir / f"{slug}.json"
+            output_path = data_dir / f"{slug}.json"
             if not output_path.exists():
-                print(f"Skipping {slug}: no pipeline output found")
+                print(f"Skipping {slug}: no pipeline output found in {data_dir}")
                 continue
             results = eval_event(output_path, gt_path)
             print_report(results)

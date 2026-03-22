@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Generate markdown files from walkout song JSON data files."""
+"""Generate markdown files from walkout song JSON data files.
+
+Usage:
+    python3 skill/scripts/generate_md.py                    # all events
+    python3 skill/scripts/generate_md.py data/ufc-229.json  # single event
+"""
 
 import json
 import sys
@@ -15,15 +20,6 @@ def generate_md(json_path: Path) -> str:
     lines.append("")
     lines.append(f"**Date:** {data['date']} | **Location:** {data['location']}")
     lines.append("")
-
-    # Check if any songs are guess/missing for a note
-    confidences = {s["confidence"] for s in data["songs"]}
-    if "guess" in confidences:
-        lines.append(
-            "> **Note:** Some walkout songs are historical associations, "
-            "not confirmed for this specific event. Check the confidence column."
-        )
-        lines.append("")
 
     lines.append("| # | Fighter | Song | Artist | Confidence | Listen |")
     lines.append("|---|---------|------|--------|------------|--------|")
@@ -96,23 +92,26 @@ def generate_md(json_path: Path) -> str:
 
 
 def main():
-    events_dir = Path(__file__).parent.parent / "events"
+    repo_root = Path(__file__).parent.parent.parent
+    data_dir = repo_root / "data"
+    viz_dir = repo_root / "viz"
+    viz_dir.mkdir(exist_ok=True)
 
-    # Process specific files if given as args, otherwise all JSON files
+    # Process specific files if given as args, otherwise all JSON files in data/
     if len(sys.argv) > 1:
         json_files = [Path(p) for p in sys.argv[1:]]
     else:
-        json_files = sorted(events_dir.glob("*.json"))
+        json_files = sorted(data_dir.glob("*.json"))
 
     if not json_files:
-        print("No JSON files found in events/")
+        print("No JSON files found in data/")
         sys.exit(1)
 
     for json_path in json_files:
-        md_path = json_path.with_suffix(".md")
+        md_path = viz_dir / json_path.with_suffix(".md").name
         md_content = generate_md(json_path)
         md_path.write_text(md_content)
-        print(f"{json_path.name} -> {md_path.name}")
+        print(f"{json_path.name} -> viz/{md_path.name}")
 
 
 if __name__ == "__main__":
