@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Bautista vs. Oliveira",
+  "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+  "date": "2026-02-07",
+  "location": "UFC APEX, Enterprise, Nevada",
+  "source_urls": [
+    "https://forums.sherdog.com/threads/2026-walkout-songs.4378269/"
+  ],
+  "generated_at": "2026-03-24T00:03:00Z",
+  "songs": [
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "Für Elise",
+      "artist": "Ludwig van Beethoven",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DfGPEHxTYeaJpiNA4xUb5",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyoji Horiguchi",
+      "song_title": "My Time",
+      "artist": "Fabolous, Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Amir Albazi",
+      "song_title": "Takat Wala Mataket",
+      "artist": "Salah El Baher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Takat%20Wala%20Mataket%20Salah%20El%20Baher",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Rizvan Kuniev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "Perseverança",
+      "artist": "Xande de Pilares",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RoTNWss4JqUwI1R19rhGW",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Husaria ginie",
+      "artist": "Krzesimir Dębski, Sinfonia Varsovia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Lion's Roar",
+      "artist": "Dominik Witka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5r2s5GWVdAPf58KS9zwq3v",
+      "notes": ""
+    },
+    {
+      "fighter": "Farid Basharat",
+      "song_title": "Blue Parrot",
+      "artist": "Alan Silvestri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20Alan%20Silvestri",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jean Matsumoto",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Go%20DJ%20Lil%20Wayne",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Julius Walker",
+      "song_title": "Dancing Queen",
+      "artist": "ABBA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniil Donchenko",
+      "song_title": "RAGNAROK",
+      "artist": "YARMAK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Blue on Black",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolay Veretennikov",
+      "song_title": "Legendary",
+      "artist": "Welshly Arms",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Praise",
+      "artist": "Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Souza",
+      "song_title": "A Rezadeira",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BPkH7NwsbjEGwyMI7EtVE",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruna Brasil",
+      "song_title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "notes": ""
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "Ready For War (HBO Instrumental)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ready%20For%20War%20HBO%2050%20Cent",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Gianni Vazquez",
+      "song_title": "Jefe De Jefes",
+      "artist": "Los Tigres Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+      "notes": ""
+    },
+    {
+      "fighter": "Wang Cong",
+      "song_title": "好汉歌 (Hero Song)",
+      "artist": "刘欢 (Liu Huan)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pPjpyCJE2MqVwKmqg5Gea",
+      "notes": ""
+    },
+    {
+      "fighter": "Eduarda Moura",
+      "song_title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9",
+      "notes": ""
+    },
+    {
+      "fighter": "Jakub Wiklacz",
+      "song_title": "You're the Best",
+      "artist": "Joe \"Bean\" Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "notes": "From The Karate Kid soundtrack"
+    },
+    {
+      "fighter": "Muin Gafurov",
+      "song_title": "Точикистони Озоди Ман (My Free Tajikistan)",
+      "artist": "Саидкул Билол (Saidkul Bilal)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/48pIm4dlnk7VZgn6oWmDd3",
+      "notes": ""
+    },
+    {
+      "fighter": "Klaudia Sygula",
+      "song_title": "PO SWOJE",
+      "artist": "BELWEDER",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hB0WzEHD4gmEbv0fJgY9v",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "notes": ""
+    }
+  ]
+}

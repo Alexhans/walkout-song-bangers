@@ -1,0 +1,204 @@
+{
+  "event": "UFC 297",
+  "event_slug": "ufc-297",
+  "date": "2024-01-20",
+  "location": "Toronto, Ontario, Canada",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-297-with-queen-sum-41-among-pro-lgbtq-artists-played-in-toronto"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Bravest%20Sir%20Roosevelt",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "Giro de Sueracao",
+      "artist": "MC Lele JP",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Giro%20de%20Sueracao%20MC%20Lele%20JP",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Malott",
+      "song_title": "Mike Malott : Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mike%20Malott%20%3A%20Fat%20Lip%20Sum%2041",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "Metalingus",
+      "artist": "Edge",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Metalingus%20Edge",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "White Horse",
+      "artist": "Chris Stapleton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg",
+      "notes": ""
+    },
+    {
+      "fighter": "Movsar Evloev",
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "notes": ""
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Garrett Armfield",
+      "song_title": "Congratulations",
+      "artist": "Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Katona",
+      "song_title": "Crazy",
+      "artist": "Gnarls Barkley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Woodson",
+      "song_title": "Feeling Like Dennis",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Led Spirals",
+      "artist": "Le Castle Vania",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3RxNoBUmsatoQ86dAhV92v",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramon Taveras",
+      "song_title": "God Sent",
+      "artist": "Fridayy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00oGVikl6GISbBbCiJyyi4",
+      "notes": ""
+    },
+    {
+      "fighter": "Serhiy Sidey",
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "notes": ""
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "notes": ""
+    },
+    {
+      "fighter": "Polyana Viana",
+      "song_title": "Silhouette",
+      "artist": "Naruto and Sasuke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Silhouette%20Naruto%20and%20Sasuke",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Sam Patterson",
+      "song_title": "Rumble",
+      "artist": "Skrillex, Fred Again and Flowdan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Rumble%20Skrillex%2C%20Fred%20Again%20and%20Flowdan",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Yohan Lainesse",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Run%20This%20Town%20Jay-Z%20feat.%20Rihanna%20and%20Kanye%20West",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "Coming Home",
+      "artist": "Diddy feat. Skylar Grey, Dirty Money",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmy Flick",
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "notes": ""
+    },
+    {
+      "fighter": "Malcolm Gordon",
+      "song_title": "Kant Nobody",
+      "artist": "Lil Wayne feat. DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM",
+      "notes": ""
+    }
+  ]
+}

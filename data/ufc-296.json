@@ -1,0 +1,204 @@
+{
+  "event": "UFC 296",
+  "event_slug": "ufc-296",
+  "date": "2023-12-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-296-with-tenacious-d-tom-petty-ac-dc-and-the-eminem-curse"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "notes": ""
+    },
+    {
+      "fighter": "Colby Covington",
+      "song_title": "Medal",
+      "artist": "Jim Johnston, I’m Me by Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Medal%20Jim%20Johnston%2C%20I%E2%80%99m%20Me%20by%20Lil%20Wayne",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "Shimmy Shimmy Ya",
+      "artist": "Ol’ Dirty Bastard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi",
+      "notes": ""
+    },
+    {
+      "fighter": "Shavkat Rakhmonov",
+      "song_title": "Tam Tau Adam",
+      "artist": "Oizhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tam%20Tau%20Adam%20Oizhas%20Albay",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "notes": ""
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry",
+      "artist": "Sunnery James and Ryan Marciano, Heads Will Roll by Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lethal%20Industry%20Sunnery%20James%20and%20Ryan%20Marciano%2C%20Heads%20Will%20Roll%20by%20Yeah%20Yeah%20Yeahs",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky’s the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryce Mitchell",
+      "song_title": "God Had Other Plans",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4m0EGbdEIdqYWkpuomboUp",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Bannks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Monster%202.0%20Jacob%20Bannks%20feat.%20Boogie",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty and the Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZIqc8hMV2PqK5qPqvcI6H",
+      "notes": ""
+    },
+    {
+      "fighter": "Irene Aldana",
+      "song_title": "El Sinaloense",
+      "artist": "Lola Beltran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DcH2KPdamXaIbiz4XqhHS",
+      "notes": ""
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt e Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Prvt%20e%20Hora%20Vencer%20Faccao%20288",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "When the Music Stops",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/73qINA7ccO03wxD8nsJalr",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "Still Here",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI",
+      "notes": ""
+    },
+    {
+      "fighter": "Tagir Ulanbekov",
+      "song_title": "Vse Zvezdy",
+      "artist": "Gimi Dagestana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Vse%20Zvezdy%20Gimi%20Dagestana",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Open the Gate",
+      "artist": "Zach Bryan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
+      "notes": ""
+    },
+    {
+      "fighter": "Lucas Almeida",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "My Dagestan",
+      "artist": "Manarsha Hiraeva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Dagestan%20Manarsha%20Hiraeva",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Martin Buday",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    }
+  ]
+}

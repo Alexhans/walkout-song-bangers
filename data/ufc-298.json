@@ -1,0 +1,204 @@
+{
+  "event": "UFC 298",
+  "event_slug": "ufc-298",
+  "date": "2024-02-17",
+  "location": "Anaheim, California, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130052935.html"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "Hells Bells / Cancion Del Mariachi",
+      "artist": "AC/DC / Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hells%20Bells%20/%20Cancion%20Del%20Mariachi%20AC/DC%20/%20Antonio%20Banderas%20and%20Los%20Lobos",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "Down Under",
+      "artist": "Men at Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Clubbed To Death (from The Matrix)",
+      "artist": "Rob Dougan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Clubbed%20To%20Death%E2%80%9D%20%28from%20%E2%80%9CThe%20Matrix%E2%80%9D%29%20Rob%20Dougan",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "Layla",
+      "artist": "Derek & the Dominos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz",
+      "notes": ""
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "notes": ""
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "Am I Wrong",
+      "artist": "Nico & Vinz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "Am I Wrong",
+      "artist": "Nico & Vinz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hernandez",
+      "song_title": "Por Ti Volare",
+      "artist": "Endo Rivera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "My Motherland Siberia",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Amanda Lemos",
+      "song_title": "Bencaos Que Nao Tem Fim",
+      "artist": "Isadora Pompeu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1",
+      "notes": ""
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "notes": ""
+    },
+    {
+      "fighter": "Junior Tafa",
+      "song_title": "Shut Up",
+      "artist": "Stormzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J",
+      "notes": ""
+    },
+    {
+      "fighter": "Rinya Nakamura",
+      "song_title": "Festivo",
+      "artist": "Keiichi Zuzuki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Festivo%20Keiichi%20Zuzuki",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Carlos Vera",
+      "song_title": "I’m Bad",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Mingyang",
+      "song_title": "Zhong Guo Ren",
+      "artist": "Andy Lau",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FiQB2JxZ52ar2dekUCbLD",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendson Ribeiro",
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Barlow",
+      "song_title": "By Mistake",
+      "artist": "Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tpLBCGQi9oFrfVuaY9gjk",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Quinlan",
+      "song_title": "At the Table",
+      "artist": "Josh Garrels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIeDMhoeU9sNsh9lv9mig",
+      "notes": ""
+    },
+    {
+      "fighter": "Oban Elliott",
+      "song_title": "Ian Machado Garry: Layla",
+      "artist": "Derek & the Dominos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ian%20Machado%20Garry%3A%20%E2%80%9CLayla%20Derek%20%26%20the%20Dominos",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Val Woodburn",
+      "song_title": "Mxrdah / Intence",
+      "artist": "Govana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mxrdah%20/%20Intence%20Govana",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "Top Gun theme",
+      "artist": "Harold Faltermyer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Top%20Gun%E2%80%9D%20theme%20Harold%20Faltermyer",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Andrea Lee",
+      "song_title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "event": "UFC 324: Gaethje vs. Pimblett",
+  "event_slug": "ufc-324",
+  "date": "2026-01-24",
+  "location": "Smoothie King Center, New Orleans, Louisiana",
+  "source_urls": [
+    "https://forums.sherdog.com/threads/2026-walkout-songs.4378269/",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-324-walkout-songs-list-of-entrance-music-used-by-justin-gaethje-paddy-pimblett-sean-omalley-and-others/",
+    "https://www.lowkickmma.com/ufc-324-gaethje-vs-pimblett-walkout-songs/"
+  ],
+  "generated_at": "2026-03-24T00:01:00Z",
+  "songs": [
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "Standing Outside the Fire",
+      "artist": "Garth Brooks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Standing%20Outside%20the%20Fire%20Garth%20Brooks",
+      "notes": "Garth Brooks not on Spotify; spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry / Heads Will Roll / Where's Your Head At",
+      "artist": "Sunnery James & Ryan Marciano / Yeah Yeah Yeahs / Basement Jaxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1GmOmsqRLexWoH1IYSQTOb",
+      "notes": "Mashup walkout; Heads Will Roll: https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u; Where's Your Head At: https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco, Matthew Santos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "龍拳 (Dragon Fist)",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "notes": ""
+    },
+    {
+      "fighter": "Waldo Cortes Acosta",
+      "song_title": "K PARA DE QUÉ",
+      "artist": "El Alfa, El Shick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7phz5W0WmlFowDvp8488Xb",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
+      "notes": ""
+    },
+    {
+      "fighter": "Natalia Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jean Silva",
+      "song_title": "Svanrand",
+      "artist": "Heilung",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jd37M3in0JOTz9DI4MiiB",
+      "notes": ""
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "Georgian Dance Music",
+      "artist": "Alex Mrin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0GXBUIBlDbhFXJKgcb1zdq",
+      "notes": "Traditional Lezginka dance music"
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Voando Pro Pará",
+      "artist": "Joelma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP",
+      "notes": ""
+    },
+    {
+      "fighter": "Ateba Gautier",
+      "song_title": "Mentalité du Djonks",
+      "artist": "Petit Kante",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/68dOxageNfYfEyaflnwyzk",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrey Pulyaev",
+      "song_title": "Masha",
+      "artist": "Rahmuddin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0CbdgqTPmDdiTOHn4bpFc1",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Шахта (Mine)",
+      "artist": "Rem Digga, Mania",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gv5Ufb02sLbcN7mI8sQby",
+      "notes": ""
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "The Battle / Look What the Cat Dragged In",
+      "artist": "Hans Zimmer / Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6eh67gdCTEpfZ5E2hCojiH",
+      "notes": "Mashup walkout; Gladiator soundtrack into Giggs; Look What the Cat Dragged In: https://open.spotify.com/track/06Jt4hlDLAwwdZLuanfPuI"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "A Tale Of 2 Citiez",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52A8OAP8lTQKZCj4Rce92B",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Hokit",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "notes": "Sherdog reports AI remix version; linking original Kanye West track"
+    },
+    {
+      "fighter": "Denzel Freeman",
+      "song_title": "Final Fantasy VII Remake",
+      "artist": "Nobuo Uematsu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Final%20Fantasy%20VII%20Remake%20Nobuo%20Uematsu",
+      "notes": "Specific track unclear; spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Ty Miller",
+      "song_title": "Parabola",
+      "artist": "TOOL",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Adam Fugitt",
+      "song_title": "Deliverance",
+      "artist": "Bubba Sparxxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
+      "notes": ""
+    }
+  ]
+}

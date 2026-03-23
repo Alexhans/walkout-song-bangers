@@ -29,12 +29,21 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 296](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 297](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 298](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
 | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
+| [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
+| [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
+| [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
+| [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 13 | 15 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
 

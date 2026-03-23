@@ -1,0 +1,222 @@
+{
+  "event": "UFC 325: Volkanovski vs. Lopes 2",
+  "event_slug": "ufc-325",
+  "date": "2026-01-31",
+  "location": "Qudos Bank Arena, Sydney, Australia",
+  "source_urls": [
+    "https://forums.sherdog.com/threads/2026-walkout-songs.4378269/",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-325-walkout-songs-what-are-the-entrance-music-used-by-alexander-volkanovski-diego-lopes-dan-hooker-and-others/",
+    "https://www.lowkickmma.com/ufc-325-walkout-songs-volkanovski-vs-lopes-2/"
+  ],
+  "generated_at": "2026-03-24T00:02:00Z",
+  "songs": [
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "Down Under",
+      "artist": "Men At Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "notes": "Signature walkout song"
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "La Chona",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "notes": ""
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Les Commandos / Seine Saint-Denis Style",
+      "artist": "Chants des armées françaises / Suprême NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cJgMwG96RVdVA0t9sQZlk",
+      "notes": "Mashup walkout; military chant into NTM; Seine Saint-Denis Style: https://open.spotify.com/track/1NNAoUoADTegqQqbKOyIQv"
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Hold Ya Head",
+      "artist": "The Notorious B.I.G., Bob Marley & The Wailers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif",
+      "notes": ""
+    },
+    {
+      "fighter": "Mauricio Ruffy",
+      "song_title": "Maurício Ruffy",
+      "artist": "Maurício Ruffy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IpmBlAxjq47YnDec2tT9D",
+      "notes": "Custom walkout theme"
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "Hurricane",
+      "artist": "Mulla Muhammad Bujbara",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hurricane%20Mulla%20Muhammad%20Bujbara",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tallison Teixeira",
+      "song_title": "Só Rock 3",
+      "artist": "Major RD, Borges, MC Cabelinho, Young Ganni, meLLo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Man I Need",
+      "artist": "Olivia Dean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "notes": ""
+    },
+    {
+      "fighter": "Quillan Salkilld",
+      "song_title": "Black Betty",
+      "artist": "Spiderbait",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Billy Elekana",
+      "song_title": "Polynesian People",
+      "artist": "Norm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/647ITSuMyPdsVy1zqXneMA",
+      "notes": ""
+    },
+    {
+      "fighter": "Junior Tafa",
+      "song_title": "Regulate",
+      "artist": "Warren G, Nate Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J",
+      "notes": ""
+    },
+    {
+      "fighter": "Cam Rowston",
+      "song_title": "In the Summertime",
+      "artist": "Thirsty Merc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2yIWGeH9w7vwbZE9x9z6va",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "Fantasy",
+      "artist": "Mariah Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "WE HERE NOW",
+      "artist": "Th4 W3st",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166",
+      "notes": ""
+    },
+    {
+      "fighter": "Torrez Finney",
+      "song_title": "We Ready",
+      "artist": "Archie Eversole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Micallef",
+      "song_title": "4 Raws",
+      "artist": "EsDeeKid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "notes": ""
+    },
+    {
+      "fighter": "Oban Elliott",
+      "song_title": "Welcome To The Jungle",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+      "notes": ""
+    },
+    {
+      "fighter": "Kaan Ofli",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yizha",
+      "song_title": "Go Play",
+      "artist": "Debal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Go%20Play%20Debal",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Dom Mar Fan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sangwook Kim",
+      "song_title": "해뜰날 (My Day about to Come)",
+      "artist": "Song Dae Kwan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5kQKplZp5EPRAiqqGH52jn",
+      "notes": ""
+    },
+    {
+      "fighter": "Keiichiro Nakamura",
+      "song_title": "Nakamura",
+      "artist": "Lil Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2lophWrG2xqv9CSgSPca5k",
+      "notes": ""
+    },
+    {
+      "fighter": "Sebastian Szalay",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lawrence Lui",
+      "song_title": "Kia Mau Ki Tō Ūkaipō / Don't Forget Your Roots",
+      "artist": "SIX60",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/31IswXMaj0dtqfbA8NuGqJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Sulangrangbo",
+      "song_title": "输过.没哭过 (I've Lost, But I've Never Cried)",
+      "artist": "ANU",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33BelFfmPLgvw8EJakHqW5",
+      "notes": ""
+    }
+  ]
+}

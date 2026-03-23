@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Strickland vs. Hernandez",
+  "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+  "date": "2026-02-21",
+  "location": "Toyota Center, Houston, Texas",
+  "source_urls": [
+    "https://www.lowkickmma.com/ufc-houston-fighter-walkout-songs/"
+  ],
+  "generated_at": "2026-03-24T00:04:00Z",
+  "songs": [
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hernandez",
+      "song_title": "Por Ti Volaré",
+      "artist": "Andrea Bocelli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TXGCI3b4eICafN7YjDTHL",
+      "notes": ""
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "notes": ""
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Bring Your Whole Crew",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn",
+      "notes": ""
+    },
+    {
+      "fighter": "Serghei Spivac",
+      "song_title": "Широка река (Shiroka Reka)",
+      "artist": "Nadezhda Kadysheva and Golden Ring",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
+      "notes": ""
+    },
+    {
+      "fighter": "Ante Delija",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacobe Smith",
+      "song_title": "Levels",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C",
+      "notes": ""
+    },
+    {
+      "fighter": "Josiah Harrell",
+      "song_title": "Set The Tone",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Set%20The%20Tone%20Logic",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "notes": ""
+    },
+    {
+      "fighter": "Zach Reese",
+      "song_title": "NO EVIL",
+      "artist": "SiR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Leal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chidi Njokuani",
+      "song_title": "Hot In Herre",
+      "artist": "Nelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xNamYQxb1N5kcgQFGBp9L",
+      "notes": ""
+    },
+    {
+      "fighter": "Alibi Idiris",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alden Coria",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Luis Gurule",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nora Cornolle",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramiz Brahimaj",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jean-Paul Lebosnoyani",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Rowe",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Leavitt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yadier del Valle",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carli Judice",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Juliana Miller",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

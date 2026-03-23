@@ -1,0 +1,204 @@
+{
+  "event": "UFC 305: Du Plessis vs. Adesanya",
+  "event_slug": "ufc-305",
+  "date": "2024-08-17",
+  "location": "RAC Arena, Perth, Australia",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-305-with-that-wacky-eminem-curse-and-no-ac-dc-in-australia"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "Donda / 11:11",
+      "artist": "Kanye West / Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Donda%20/%2011%3A11%20Kanye%20West%20/%20Chris%20Brown",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jesus Aguilar",
+      "song_title": "Nada Es Coincidencia",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7maoQr1s4iFoMlfJVy3uD4",
+      "notes": ""
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Desabafo / Deixa Eu Dizer",
+      "artist": "Marcelo D2 / Claudia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Desabafo%20/%20Deixa%20Eu%20Dizer%20Marcelo%20D2%20/%20Claudia",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "Hey Baby (Uhh, Ahh)",
+      "artist": "Anton feat. DJ Otzi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hey%20Baby%20%28Uhh%2C%20Ahh%29%20Anton%20feat.%20DJ%20Otzi",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "South Africa national anthem / Live It Up",
+      "artist": "South Africa national anthem / Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/South%20Africa%20national%20anthem%20/%20Live%20It%20Up%20South%20Africa%20national%20anthem%20/%20Airbourne",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "You Don’t Mess With Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "My Songs Know What You Did in the Dark (Light ’em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "God’s Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Who I Smoke",
+      "artist": "Fastmoney Goon, Spinabenz & Yungeen Ace",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2fujhLR4zhDRPbYDhI0xRr",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Jenkins",
+      "song_title": "Horses",
+      "artist": "Daryl Braithwaite",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE",
+      "notes": ""
+    },
+    {
+      "fighter": "Li Jingliang",
+      "song_title": "Mit (First Round)",
+      "artist": "Al Ge",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mit%20%28First%20Round%29%20Al%20Ge",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Māori Ki Te Ao",
+      "artist": "Stan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Kenan",
+      "song_title": "No More Hesitation",
+      "artist": "Justin Lin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/No%20More%20Hesitation%20Justin%20Lin",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Stewart Nicoll",
+      "song_title": "Go To Sleep",
+      "artist": "Eminem feat. Obie Trice and DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Go%20To%20Sleep%20Eminem%20feat.%20Obie%20Trice%20and%20DMX",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tom Nolan",
+      "song_title": "Earthquake",
+      "artist": "Labrinth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "Element",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Prates",
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex & Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "Cheia De Manias",
+      "artist": "Raça Negra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wtLEFD3kYHydIrPoB1TPj",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Reyes",
+      "song_title": "Mmhmm (Remix)",
+      "artist": "BigXthaPlug feat. Finesse2Tymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FpFflePX0w1AxrxSXKTzz",
+      "notes": ""
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "Champion",
+      "artist": "Josylvio, Sevn Alias, Psycho feat. Jairzinho Rozenstruik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Champion%20Josylvio%2C%20Sevn%20Alias%2C%20Psycho%20feat.%20Jairzinho%20Rozenstruik",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Luana Santos",
+      "song_title": "Fall Out Boy & Alicia Keys",
+      "artist": "Christina Grimmie & Mike Tompkins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Junior Tafa",
+      "song_title": "Dreaming",
+      "artist": "Scribz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Dreaming%20Scribz",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Raise Your Glass",
+      "artist": "Pink",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR",
+      "notes": ""
+    },
+    {
+      "fighter": "Valter Walker",
+      "song_title": "Voluspa",
+      "artist": "Wardruna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YWgwUMdfbgbMuE50bdMr0",
+      "notes": ""
+    }
+  ]
+}

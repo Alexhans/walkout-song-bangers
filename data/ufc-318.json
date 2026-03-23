@@ -1,0 +1,238 @@
+{
+  "event": "UFC 318: Holloway vs. Poirier 3",
+  "event_slug": "ufc-318",
+  "date": "2025-07-19",
+  "location": "Smoothie King Center, New Orleans, Louisiana",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-318-walkout-songs-entrance-music-of-dustin-poirier-max-holloway-paulo-costa-and-others/",
+    "https://www.mmahive.com/blog/ufc-walkout-songs/",
+    "https://forums.sherdog.com/threads/walk-out-song-for-jackson-mcvey-at-ufc-318.4364181/"
+  ],
+  "generated_at": "2026-03-24T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Hawaiian Kickboxer / Hawaiian Hitman",
+      "artist": "Moke Boy / Pohaku",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy",
+      "notes": "Confirmed UFC 318 combo; Hawaiian Hitman: https://open.spotify.com/track/3xLHRqKn1cbsvDmH3zqB6h"
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "notes": "Confirmed UFC 318; Lil Wayne walked out alongside Poirier live"
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Clubbed to Death",
+      "artist": "Rob Dougan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk",
+      "notes": "From The Matrix soundtrack"
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "My Motherland Siberia",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Daniel Rodriguez",
+      "song_title": "California Love",
+      "artist": "2Pac, Roger, Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Ghost",
+      "artist": "YoungBoy Never Broke Again",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
+      "notes": ""
+    },
+    {
+      "fighter": "Patricio Freire",
+      "song_title": "Tumbalacatumba",
+      "artist": "Galinha Pintadinha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/72aoXCBt2gTpYVZrYJenwq",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Everybody",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "Golden Boy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolay Veretennikov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ateba Gautier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Valentin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Islam Dulatov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Adam Fugitt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Lights Go Down",
+      "artist": "Bazanji",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Prachnio",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "I'm a Go Getta",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Im%20A%20Go%20Getta%20Lil%20Wayne",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Lukasz Brzeski",
+      "song_title": "Mój Świat",
+      "artist": "Lukasyno, Kriso, Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "notes": ""
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "The Lonely Man Theme",
+      "artist": "Joe Harnell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ZgDn35QKjN3CM2crhTIIs",
+      "notes": "From The Incredible Hulk TV series"
+    },
+    {
+      "fighter": "Jackson McVey",
+      "song_title": "Steppin' Out",
+      "artist": "Steel Pulse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b",
+      "notes": "Confirmed for UFC 318 via Sherdog forum"
+    },
+    {
+      "fighter": "Carli Judice",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolle Caliari",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}
