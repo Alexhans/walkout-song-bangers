@@ -7,8 +7,17 @@ Usage:
 """
 
 import json
+import re
 import sys
 from pathlib import Path
+
+
+def slugify(name: str) -> str:
+    """Convert a name to a filename-safe slug."""
+    s = name.lower().strip()
+    s = re.sub(r"[''']", "", s)
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    return s.strip("-")
 
 
 def generate_md(json_path: Path) -> str:
@@ -25,7 +34,8 @@ def generate_md(json_path: Path) -> str:
     lines.append("|---|---------|------|--------|------------|--------|")
 
     for i, song in enumerate(data["songs"], 1):
-        fighter = song["fighter"]
+        fighter_name = song["fighter"]
+        fighter = f"[{fighter_name}](agg/by-fighter/{slugify(fighter_name)}.md)"
         title = song.get("song_title") or "—"
         artist = song.get("artist") or "—"
         confidence = song.get("confidence", "missing")
@@ -43,7 +53,6 @@ def generate_md(json_path: Path) -> str:
 
         # For mashups with multiple spotify links in notes, add extra links
         if notes and "https://open.spotify.com/track/" in notes:
-            import re
             extra_links = re.findall(
                 r"(\w[\w\s/]+?):\s*(https://open\.spotify\.com/track/\S+)", notes
             )
