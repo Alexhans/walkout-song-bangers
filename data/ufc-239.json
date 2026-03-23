@@ -1,0 +1,204 @@
+{
+  "event": "UFC 239: Jones vs. Santos",
+  "event_slug": "ufc-239",
+  "date": "2019-07-06",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-239-Walkout-Tracks-157855"
+  ],
+  "generated_at": "2026-03-23",
+  "songs": [
+    {
+      "fighter": "Jon Jones",
+      "song_title": "We Are the Champions/The Champ is Here",
+      "artist": "Queen/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "Marreta Da CCD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Marreta%20Da%20CCD%20Para%20O%20Mundo%20MC%20Isaac%20Saradinho",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Champion%20Carrie%20Underwood%20feat.%20Ludacris",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "Black Dog",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+      "notes": ""
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "Scarface - Tony Montana Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Scarface%20-%20Tony%20Montana%20Theme%20Song",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Ben Askren",
+      "song_title": "Give Up the Funk",
+      "artist": "Parliament",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Luke Rockhold",
+      "song_title": "Live is Life",
+      "artist": "Opus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hkOgKKybgawYUcrkZD3wV",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Melendez",
+      "song_title": "Can't C Me",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "notes": ""
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "Club Foot",
+      "artist": "Kasabian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "That's All I Need",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yja5esGPVO3Pg0crH1IW5",
+      "notes": ""
+    },
+    {
+      "fighter": "Nohelin Hernandez",
+      "song_title": "Cameras",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Swx0M6iLt0Lr5nN33YCEB",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudia Gadelha",
+      "song_title": "Agradecer",
+      "artist": "Pacificadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/38YgO0u1U6aM8OiT91KyCj",
+      "notes": ""
+    },
+    {
+      "fighter": "Randa Markos",
+      "song_title": "No Love",
+      "artist": "Eminem feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi",
+      "notes": ""
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "Un Puno De Tierra",
+      "artist": "Antonio Aguilar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+      "notes": ""
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "Artsakh",
+      "artist": "Ara Gevorgyan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "Ismail Naurdiev",
+      "song_title": "Shukran",
+      "artist": "Moe Phoenix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dZVTIPbPV5xUTwv5vWmC8",
+      "notes": ""
+    },
+    {
+      "fighter": "Chance Rencountre",
+      "song_title": "Built to Kill",
+      "artist": "Northern Cree",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7GavZMVUNWgHLJ3tExQkwJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Julia Avila",
+      "song_title": "Bad Girls",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
+      "notes": ""
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Be My Lover",
+      "artist": "La Bouche",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl",
+      "notes": ""
+    }
+  ]
+}

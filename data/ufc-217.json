@@ -20,9 +20,14 @@
       "fighter": "Michael Bisping",
       "song_title": "Song 2",
       "artist": "Blur",
-      "confidence": "bronze",
+      "confidence": "gold",
       "spotify_url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK",
-      "notes": ""
+      "notes": "",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "Human verified from broadcast video"
+      }
     },
     {
       "fighter": "T.J. Dillashaw",

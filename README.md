@@ -24,9 +24,10 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 213: Romero vs. Whittaker](viz/ufc-213.md) | 22 | 0 | 0 | 22 | 0 |
 | [UFC 214: Cormier vs. Jones 2](viz/ufc-214.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 216: Ferguson vs. Lee](viz/ufc-216.md) | 22 | 0 | 0 | 22 | 0 |
-| [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |
 | [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
+| [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
 | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
