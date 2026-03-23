@@ -304,10 +304,10 @@
     },
     {
       "fighter": "Islam Makhachev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
       "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
@@ -2224,10 +2224,10 @@
     },
     {
       "fighter": "Islam Makhachev",
-      "song_title": "Lezginka",
-      "artist": "",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Lezginka",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
@@ -2985,9 +2985,9 @@
   ],
   "stats": {
     "total_fighters": 298,
-    "with_song": 219,
-    "playable_tracks": 169,
-    "unique_playable_tracks": 155,
-    "missing": 79
+    "with_song": 220,
+    "playable_tracks": 171,
+    "unique_playable_tracks": 156,
+    "missing": 78
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Michael Chandler",
   "slug": "michael-chandler",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 1,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

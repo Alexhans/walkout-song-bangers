@@ -1,8 +1,17 @@
 {
   "fighter": "Daniel Cormier",
   "slug": "daniel-cormier",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    },
     {
       "song_title": "When We Ride on Our Enemies/Right Above It",
       "artist": "Tupac/Lil' Wayne",
@@ -11,12 +20,21 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

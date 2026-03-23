@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Condit",
   "slug": "carlos-condit",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Home",
@@ -11,12 +11,21 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Hell's Bells",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

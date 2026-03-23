@@ -1,8 +1,17 @@
 {
   "fighter": "Roxanne Modafferi",
   "slug": "roxanne-modafferi",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Wolf Totem",
+      "artist": "The Hu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LSn5it9bQhJqyfEq1PM3l",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 1,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

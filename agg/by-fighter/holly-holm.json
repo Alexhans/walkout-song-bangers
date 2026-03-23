@@ -1,7 +1,7 @@
 {
   "fighter": "Holly Holm",
   "slug": "holly-holm",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "The Landlord's Walk",
@@ -22,6 +22,15 @@
       "date": "2019-07-06"
     },
     {
+      "song_title": "Rock and Roll",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
       "song_title": "The Landlord's Walk",
       "artist": "Blair Douglas",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

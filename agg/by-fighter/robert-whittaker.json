@@ -1,7 +1,7 @@
 {
   "fighter": "Robert Whittaker",
   "slug": "robert-whittaker",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Can't Be Touched",
@@ -11,6 +11,15 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     },
     {
       "song_title": "",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 2
   }

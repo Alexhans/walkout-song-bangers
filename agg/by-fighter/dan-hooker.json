@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -11,6 +11,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     },
     {
       "song_title": "MANY MEN WISH DEATH",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 5
   }

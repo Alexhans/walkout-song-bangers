@@ -1,7 +1,7 @@
 {
   "fighter": "Nik Lentz",
   "slug": "nik-lentz",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Whipping Boy",
@@ -20,12 +20,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

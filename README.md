@@ -20,6 +20,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 <!-- BEGIN EVENTS -->
 | Event | Fighters | Gold | Silver | Bronze | Missing |
 |-------|----------|------|--------|--------|---------|
+| [UFC 200: Tate vs. Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 203: Miocic vs. Overeem](viz/ufc-203.md) | 20 | 0 | 0 | 19 | 1 |
 | [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
@@ -38,6 +39,11 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 241: Cormier vs. Miocic 2](viz/ufc-241.md) | 24 | 0 | 0 | 17 | 7 |
+| [UFC 246: McGregor vs. Cowboy](viz/ufc-246.md) | 22 | 0 | 0 | 14 | 8 |
+| [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
+| [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
+| [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
 | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
 | [UFC 268: Usman vs. Covington 2](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
@@ -48,10 +54,10 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 275: Teixeira vs. Prochazka](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
 | [UFC 276: Adesanya vs. Cannonier](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
 | [UFC 277: Pena vs. Nunes 2](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
-| [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 8 | 16 |
+| [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 9 | 15 |
 | [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
 | [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
-| [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 14 | 12 |
 | [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
 | [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |

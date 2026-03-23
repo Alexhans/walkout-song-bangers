@@ -1,7 +1,7 @@
 {
   "fighter": "Antonio Carlos Junior",
   "slug": "antonio-carlos-junior",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Let’s Twist Again",
@@ -20,12 +20,21 @@
       "event": "UFC 212: Aldo vs. Holloway",
       "event_slug": "ufc-212",
       "date": "2017-06-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

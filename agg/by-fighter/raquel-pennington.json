@@ -1,7 +1,7 @@
 {
   "fighter": "Raquel Pennington",
   "slug": "raquel-pennington",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Can't Hold Us",
@@ -20,6 +20,15 @@
       "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
+    },
+    {
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4sdxY934zYyz8mSCBv39gX",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
       "song_title": "",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 3
   }

@@ -1,8 +1,17 @@
 {
   "fighter": "Irene Aldana",
   "slug": "irene-aldana",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Antes de que nos olviden",
+      "artist": "Caifanes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZuGavt1YrOkg6G93lgfUw",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
     {
       "song_title": "Malaguena Salerosa",
       "artist": "Avenged Sevenfold",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

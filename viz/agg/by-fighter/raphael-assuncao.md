@@ -1,7 +1,9 @@
 # Raphael Assuncao
 
-1 event(s) | 1 song(s) found | 1 unique
+3 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-07-09 | UFC 200: Tate vs. Nunes | Favela | Ludmilla | [Listen](https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt) |
 | 2017-06-03 | UFC 212: Aldo vs. Holloway | Podo Vir | Tiago Brasil | [Listen](https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG) |
+| 2019-08-17 | UFC 241: Cormier vs. Miocic 2 | Positive Vibration | Bob Marley | [Listen](https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd) |

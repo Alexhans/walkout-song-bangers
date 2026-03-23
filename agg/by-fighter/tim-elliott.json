@@ -1,7 +1,7 @@
 {
   "fighter": "Tim Elliott",
   "slug": "tim-elliott",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Karate",
@@ -11,6 +11,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
       "song_title": "Pusher Man",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

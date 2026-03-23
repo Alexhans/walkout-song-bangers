@@ -1,7 +1,8 @@
 # Makhmud Muradov
 
-1 event(s) | 0 song(s) found | 0 unique
+2 event(s) | 0 song(s) found | 0 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2021-01-23 | UFC 257: Poirier vs. McGregor 2 | — | — | |
 | 2022-10-22 | UFC 280: Oliveira vs. Makhachev | — | — | |

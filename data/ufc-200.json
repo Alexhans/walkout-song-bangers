@@ -1,0 +1,204 @@
+{
+  "event": "UFC 200: Tate vs. Nunes",
+  "event_slug": "ufc-200",
+  "date": "2016-07-09",
+  "location": "T-Mobile Arena, Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-200-Tate-vs-Nunes-107743"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Miesha Tate",
+      "song_title": "Warrior",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00",
+      "notes": ""
+    },
+    {
+      "fighter": "Brock Lesnar",
+      "song_title": "Enter Sandman",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Hunt",
+      "song_title": "Lonely Boy",
+      "artist": "The Black Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Anderson Silva",
+      "song_title": "Ain't No Sunshine",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "notes": ""
+    },
+    {
+      "fighter": "Cain Velasquez",
+      "song_title": "La Bamba",
+      "artist": "Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
+      "notes": ""
+    },
+    {
+      "fighter": "Travis Browne",
+      "song_title": "Something from Nothing",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9",
+      "notes": ""
+    },
+    {
+      "fighter": "Sage Northcutt",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Enrique Marin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "Country Boy Can Survive",
+      "artist": "Hank Williams Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77dcKrzRUI02XjHd2okARp",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "notes": ""
+    },
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "Levels",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "Marreta Da CCD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tbB6J1ofT4smWyfg9FlIb",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Dillashaw",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "Favela",
+      "artist": "Ludmilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt",
+      "notes": ""
+    },
+    {
+      "fighter": "Cat Zingano",
+      "song_title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "notes": ""
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "notes": ""
+    },
+    {
+      "fighter": "Takanori Gomi",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Lauzon",
+      "song_title": "Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "notes": ""
+    }
+  ]
+}

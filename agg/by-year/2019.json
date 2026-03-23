@@ -1,6 +1,6 @@
 {
   "year": 2019,
-  "events": 1,
+  "events": 2,
   "tracks": [
     {
       "fighter": "Jon Jones",
@@ -241,13 +241,253 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Nate Diaz",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Hate Me Now",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Dream On",
+      "artist": "Aerosmith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K2Ji4ca76JNgoO6xG2QKm",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Yoel Romero",
+      "song_title": "Cara al Sol",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01DfCVe55lOTzDXtxd8Pab",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "Bodak Yellow",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "El Corrido del Diablo",
+      "artist": "Enigma Norteno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Welcome to Atlanta",
+      "artist": "Jermaine Dupri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "All I Do Is Win",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12sXrSIdiqCtB0vKYHNH29",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Khama Worthy",
+      "song_title": "Humble and Kind",
+      "artist": "Tim McGraw",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Devonte Smith",
+      "song_title": "Go Hard",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Electric Feel",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "Positive Vibration",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Casey Kenney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Manny Bermudez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Hannah Cifers",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Jodie Esquibel",
+      "song_title": "California Dreamin'",
+      "artist": "The Mamas and the Papas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Kyung Ho Kang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Brandon Davis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Sabina Mazo",
+      "song_title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "fighter": "Shana Dobson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {
-    "total_fighters": 24,
-    "with_song": 24,
-    "playable_tracks": 20,
-    "unique_playable_tracks": 20,
-    "missing": 0
+    "total_fighters": 48,
+    "with_song": 41,
+    "playable_tracks": 37,
+    "unique_playable_tracks": 37,
+    "missing": 7
   }
 }

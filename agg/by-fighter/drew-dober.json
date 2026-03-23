@@ -1,7 +1,7 @@
 {
   "fighter": "Drew Dober",
   "slug": "drew-dober",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Shoop",
@@ -29,6 +29,15 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
       "song_title": "This is How We Do It",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 5
   }
 }

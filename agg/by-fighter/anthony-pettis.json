@@ -1,7 +1,7 @@
 {
   "fighter": "Anthony Pettis",
   "slug": "anthony-pettis",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Showtime",
@@ -29,12 +29,30 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "Hate Me Now",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "Showtime",
+      "artist": "Tum Tum feat. Jim Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fhtqfdH6kVfNcnM0NkECz",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

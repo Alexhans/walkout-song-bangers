@@ -1,0 +1,204 @@
+{
+  "event": "UFC 241: Cormier vs. Miocic 2",
+  "event_slug": "ufc-241",
+  "date": "2019-08-17",
+  "location": "Honda Center, Anaheim, California, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-241-Walkout-Tracks-160225"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Diaz",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Hate Me Now",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Dream On",
+      "artist": "Aerosmith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K2Ji4ca76JNgoO6xG2QKm",
+      "notes": ""
+    },
+    {
+      "fighter": "Yoel Romero",
+      "song_title": "Cara al Sol",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01DfCVe55lOTzDXtxd8Pab",
+      "notes": ""
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "Bodak Yellow",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "El Corrido del Diablo",
+      "artist": "Enigma Norteno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3",
+      "notes": ""
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Welcome to Atlanta",
+      "artist": "Jermaine Dupri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "All I Do Is Win",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12sXrSIdiqCtB0vKYHNH29",
+      "notes": ""
+    },
+    {
+      "fighter": "Khama Worthy",
+      "song_title": "Humble and Kind",
+      "artist": "Tim McGraw",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+      "notes": ""
+    },
+    {
+      "fighter": "Devonte Smith",
+      "song_title": "Go Hard",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Electric Feel",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "Positive Vibration",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey Kenney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Manny Bermudez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Hannah Cifers",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jodie Esquibel",
+      "song_title": "California Dreamin'",
+      "artist": "The Mamas and the Papas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyung Ho Kang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Davis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sabina Mazo",
+      "song_title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
+      "notes": ""
+    },
+    {
+      "fighter": "Shana Dobson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

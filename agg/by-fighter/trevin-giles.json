@@ -1,7 +1,7 @@
 {
   "fighter": "Trevin Giles",
   "slug": "trevin-giles",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Wait a Minute",
@@ -11,6 +11,15 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
     },
     {
       "song_title": "JESUS WALKS",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

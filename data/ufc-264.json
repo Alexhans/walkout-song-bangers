@@ -1,0 +1,204 @@
+{
+  "event": "UFC 264: Poirier vs. McGregor 3",
+  "event_slug": "ufc-264",
+  "date": "2021-07-10",
+  "location": "T-Mobile Arena, Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-264-180448"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "Duffle Bag Boy",
+      "artist": "Playaz Circle ft. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn",
+      "notes": ""
+    },
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "The Foggy Dew / Hypnotize",
+      "artist": "Sinead O'Connor / The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "Tropa de Elite",
+      "artist": "Tihuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0KuDeGUXh5QQ7gSiB6KGPh",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Wannabe",
+      "artist": "Spice Girls",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT",
+      "notes": ""
+    },
+    {
+      "fighter": "Greg Hardy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Irene Aldana",
+      "song_title": "Antes de que nos olviden",
+      "artist": "Caifanes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZuGavt1YrOkg6G93lgfUw",
+      "notes": ""
+    },
+    {
+      "fighter": "Yana Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Suga Suga",
+      "artist": "Baby Bash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU",
+      "notes": ""
+    },
+    {
+      "fighter": "Kris Moutinho",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Condit",
+      "song_title": "Hell's Bells",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z",
+      "notes": ""
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "notes": ""
+    },
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "El Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Hall",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Live it Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jennifer Maia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhalgas Zhumagulov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jerome Rivera",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

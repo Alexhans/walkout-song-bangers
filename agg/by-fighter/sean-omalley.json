@@ -1,8 +1,17 @@
 {
   "fighter": "Sean O'Malley",
   "slug": "sean-omalley",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Suga Suga",
+      "artist": "Baby Bash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
     {
       "song_title": "Super Gremlin",
       "artist": "Kodak Black",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

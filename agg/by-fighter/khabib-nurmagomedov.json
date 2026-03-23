@@ -1,7 +1,7 @@
 {
   "fighter": "Khabib Nurmagomedov",
   "slug": "khabib-nurmagomedov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Dagestan",
@@ -29,12 +29,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "Dagestan",
+      "artist": "Sabina Saidova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

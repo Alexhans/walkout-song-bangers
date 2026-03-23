@@ -1,7 +1,7 @@
 {
   "fighter": "Donald Cerrone",
   "slug": "donald-cerrone",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Cowboy",
@@ -31,6 +31,15 @@
       "date": "2017-07-29"
     },
     {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 1
   }

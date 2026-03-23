@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Fili",
   "slug": "andre-fili",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "I'm Feeling Myself",
@@ -11,6 +11,15 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
       "song_title": "Open the Gate",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

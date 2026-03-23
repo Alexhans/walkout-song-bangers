@@ -1744,10 +1744,10 @@
     },
     {
       "fighter": "Islam Makhachev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
@@ -2225,9 +2225,9 @@
   ],
   "stats": {
     "total_fighters": 222,
-    "with_song": 96,
-    "playable_tracks": 93,
-    "unique_playable_tracks": 85,
-    "missing": 126
+    "with_song": 97,
+    "playable_tracks": 94,
+    "unique_playable_tracks": 86,
+    "missing": 125
   }
 }

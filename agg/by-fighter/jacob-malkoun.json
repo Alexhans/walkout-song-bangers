@@ -1,8 +1,17 @@
 {
   "fighter": "Jacob Malkoun",
   "slug": "jacob-malkoun",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
+    },
     {
       "song_title": "WALK THESE STREETS",
       "artist": "Rakim, Maino & Tracy Horton",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Walt Harris",
   "slug": "walt-harris",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "New Level",
@@ -20,12 +20,21 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

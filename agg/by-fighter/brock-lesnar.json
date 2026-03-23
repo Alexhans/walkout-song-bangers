@@ -1,0 +1,22 @@
+{
+  "fighter": "Brock Lesnar",
+  "slug": "brock-lesnar",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Enter Sandman",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

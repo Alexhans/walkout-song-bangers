@@ -1,8 +1,26 @@
 {
   "fighter": "Tai Tuivasa",
   "slug": "tai-tuivasa",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "Bam Bam",
+      "artist": "Sister Nancy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
+    },
+    {
+      "song_title": "Wannabe",
+      "artist": "Spice Girls",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
     {
       "song_title": "GIRLS JUST WANT TO HAVE FUN",
       "artist": "Cyndi Lauper",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

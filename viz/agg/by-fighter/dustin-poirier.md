@@ -1,10 +1,12 @@
 # Dustin Poirier
 
-4 event(s) | 3 song(s) found | 3 unique
+6 event(s) | 5 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2017-05-13 | UFC 211: Miocic vs. Dos Santos 2 | Ain't No Stopping' Us Now | McFadden & Whitehead | [Listen](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) |
+| 2021-01-23 | UFC 257: Poirier vs. McGregor 2 | Duffle Bag Boy | Playaz Circle ft. Lil Wayne | [Listen](https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn) |
+| 2021-07-10 | UFC 264: Poirier vs. McGregor 3 | Duffle Bag Boy | Playaz Circle ft. Lil Wayne | [Listen](https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn) |
 | 2023-07-29 | UFC 291: Poirier vs. Gaethje 2 | — | — | |
 | 2024-06-01 | UFC 302: Makhachev vs. Poirier | Diamonds / The Boss | Rihanna / James Brown | [Listen](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx) |
 | 2025-07-19 | UFC 318: Holloway vs. Poirier 3 | The Boss | James Brown | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |

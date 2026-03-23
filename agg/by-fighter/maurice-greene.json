@@ -1,0 +1,22 @@
+{
+  "fighter": "Maurice Greene",
+  "slug": "maurice-greene",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Shit Done Changed",
+      "artist": "T-Billa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

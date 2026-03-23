@@ -1,0 +1,22 @@
+{
+  "fighter": "Khama Worthy",
+  "slug": "khama-worthy",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Humble and Kind",
+      "artist": "Tim McGraw",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

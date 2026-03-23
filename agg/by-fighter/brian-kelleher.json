@@ -1,7 +1,7 @@
 {
   "fighter": "Brian Kelleher",
   "slug": "brian-kelleher",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Blessed Up",
@@ -11,6 +11,15 @@
       "event": "UFC 212: Aldo vs. Holloway",
       "event_slug": "ufc-212",
       "date": "2017-06-03"
+    },
+    {
+      "song_title": "The Warrior's Code",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
       "song_title": "When the Music Stops",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

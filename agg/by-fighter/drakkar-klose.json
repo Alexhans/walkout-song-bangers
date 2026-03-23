@@ -1,7 +1,7 @@
 {
   "fighter": "Drakkar Klose",
   "slug": "drakkar-klose",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Devastated",
@@ -11,6 +11,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     },
     {
       "song_title": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

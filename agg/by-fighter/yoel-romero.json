@@ -1,7 +1,7 @@
 {
   "fighter": "Yoel Romero",
   "slug": "yoel-romero",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Solado",
@@ -20,12 +20,21 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "Cara al Sol",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01DfCVe55lOTzDXtxd8Pab",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

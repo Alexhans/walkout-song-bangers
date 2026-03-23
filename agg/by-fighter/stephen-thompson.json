@@ -1,7 +1,7 @@
 {
   "fighter": "Stephen Thompson",
   "slug": "stephen-thompson",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Wonderboy",
@@ -31,6 +31,15 @@
       "date": "2017-11-04"
     },
     {
+      "song_title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
       "song_title": "Wonderboy",
       "artist": "Tenacious D",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

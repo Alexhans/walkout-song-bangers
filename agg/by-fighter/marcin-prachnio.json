@@ -1,8 +1,17 @@
 {
   "fighter": "Marcin Prachnio",
   "slug": "marcin-prachnio",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Isis",
+      "artist": "Joyner Lucas ft. Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
     {
       "song_title": "Can’t Stop",
       "artist": "Red Hot Chili Peppers",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

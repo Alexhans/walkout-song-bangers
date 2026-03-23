@@ -1,7 +1,7 @@
 {
   "fighter": "Justin Gaethje",
   "slug": "justin-gaethje",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Champion",
@@ -11,6 +11,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Ain't No Rest for the Wicked",
+      "artist": "Cage the Elephant",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     },
     {
       "song_title": "",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Derek Brunson",
   "slug": "derek-brunson",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Welcome to Atlanta",
+      "artist": "Jermaine Dupri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
     {
       "song_title": "10K",
       "artist": "KB",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

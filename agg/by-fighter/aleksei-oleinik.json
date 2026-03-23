@@ -1,7 +1,7 @@
 {
   "fighter": "Aleksei Oleinik",
   "slug": "aleksei-oleinik",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Ballad For The Suppression",
@@ -22,6 +22,15 @@
       "date": "2017-11-04"
     },
     {
+      "song_title": "Ballad for Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11t7SXGpNgZSqTLk3plWJ1",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

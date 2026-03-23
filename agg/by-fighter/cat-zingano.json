@@ -1,0 +1,22 @@
+{
+  "fighter": "Cat Zingano",
+  "slug": "cat-zingano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

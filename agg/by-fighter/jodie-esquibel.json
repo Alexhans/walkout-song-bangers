@@ -1,0 +1,22 @@
+{
+  "fighter": "Jodie Esquibel",
+  "slug": "jodie-esquibel",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "California Dreamin'",
+      "artist": "The Mamas and the Papas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

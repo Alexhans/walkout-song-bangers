@@ -1,0 +1,188 @@
+{
+  "event": "UFC 246: McGregor vs. Cowboy",
+  "event_slug": "ufc-246",
+  "date": "2020-01-18",
+  "location": "T-Mobile Arena, Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-246-Walkout-Tracks-168909"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "The Foggy Dew / Hypnotize",
+      "artist": "Sinead O'Connor / The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "Rock and Roll",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4sdxY934zYyz8mSCBv39gX",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksei Oleinik",
+      "song_title": "Ballad for Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11t7SXGpNgZSqTLk3plWJ1",
+      "notes": ""
+    },
+    {
+      "fighter": "Maurice Greene",
+      "song_title": "Shit Done Changed",
+      "artist": "T-Billa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "The Warrior's Code",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Ferreira",
+      "song_title": "Footloose",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Showtime",
+      "artist": "Tum Tum feat. Jim Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fhtqfdH6kVfNcnM0NkECz",
+      "notes": ""
+    },
+    {
+      "fighter": "Roxanne Modafferi",
+      "song_title": "Wolf Totem",
+      "artist": "The Hu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LSn5it9bQhJqyfEq1PM3l",
+      "notes": ""
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
+      "notes": ""
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "Bodak Yellow",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf",
+      "notes": ""
+    },
+    {
+      "fighter": "Askar Askarov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksa Camur",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Ledet",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sabina Mazo",
+      "song_title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
+      "notes": ""
+    },
+    {
+      "fighter": "JJ Aldrich",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}
