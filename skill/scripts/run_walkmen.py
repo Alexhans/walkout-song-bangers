@@ -232,12 +232,41 @@ def _parse_ufcstats_event_details(event_url: str) -> tuple[str, str, list[str]]:
 
 
 def _find_walkmen_url(event_number: int) -> str:
+    """Find the Sherdog Walkmen walkout-tracks article URL for a numbered UFC event.
+
+    Sherdog's sitemap appears to omit some newer Walkmen pages, so we use:
+    1) sitemap-articles.xml (fast, when present)
+    2) fallback: scrape Sherdog's paginated articles list pages for a matching URL
+    """
     sitemap = _http_get("https://www.sherdog.com/sitemap-articles.xml")
     pat = rf"https://www\.sherdog\.com/news/articles/The-Walkmen-(?:All-)?UFC-{event_number}-[^<]+"
     m = re.search(pat, sitemap)
-    if not m:
-        raise RuntimeError(f"Could not find Walkmen article for UFC {event_number} in Sherdog sitemap")
-    return m.group(0)
+    if m:
+        return m.group(0)
+
+    # Fallback: walk recent article list pages until we find a matching Walkmen URL.
+    # This is intentionally bounded to keep runtime predictable.
+    for page in range(1, 301):
+        if page == 1:
+            url = "https://www.sherdog.com/news/articles/list"
+        else:
+            url = f"https://www.sherdog.com/news/articles/list/{page}"
+
+        html_txt = _http_get(url)
+
+        # Look for Walkmen article hrefs that include the UFC number in the slug.
+        hrefs = re.findall(r'href="(?P<href>/news/articles/The-Walkmen-[^"]+)"', html_txt)
+        for href in hrefs:
+            if f"UFC-{event_number}-" in href:
+                return "https://www.sherdog.com" + href
+
+        # Stop early if we've paged back before 2021-ish to avoid huge scans.
+        # (Older events are generally present in the sitemap anyway.)
+        if "2020" in html_txt or "2019" in html_txt:
+            break
+
+    raise RuntimeError(f"Could not find Walkmen article for UFC {event_number}")
+
 
 
 def _parse_walkmen_article(url: str, event_number: int) -> dict[str, tuple[str, str]]:
