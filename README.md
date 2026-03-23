@@ -8,7 +8,14 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 
 ## Browse the data
 
-Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](viz/) (markdown tables with Spotify links).
+**By event** — walkout songs for each processed event:
+- [`viz/`](viz/) — markdown tables with Spotify links per event
+- [`data/`](data/) — raw JSON source files
+
+**Aggregations** — cross-event views:
+- [Top walkout songs](viz/agg/top-songs.md) — songs used by the most fighters, with Spotify links
+- [Coverage by year](viz/agg/by-year.md) — walkout song coverage per year
+- [`viz/agg/by-fighter/`](viz/agg/by-fighter/) — one page per fighter showing their walkout history (e.g., [Max Holloway](viz/agg/by-fighter/max-holloway.md))
 
 <!-- BEGIN EVENTS -->
 | Event | Fighters | Gold | Silver | Bronze | Missing |
@@ -98,6 +105,8 @@ How much should you trust that this song is what actually played at the event?
 | **missing** | No walkout song data found for this fighter at this event | — |
 
 Pre-event or historical associations ("fighter has used X in the past") are **not** included. If no post-event source confirms it for this specific event, the fighter is marked as `missing`.
+
+**Note on song matching:** Song names and artists are not normalized across events — the same song may appear with different titles, artist spellings, or Spotify links (e.g., multi-song walkouts get matched to different tracks depending on the search query). Aggregations reflect this as-is. Normalization is a future improvement.
 
 ## Gold verification
 
