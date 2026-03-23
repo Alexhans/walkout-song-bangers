@@ -1,0 +1,204 @@
+{
+  "event": "UFC 292",
+  "event_slug": "ufc-292",
+  "date": "2023-08-19",
+  "location": "Boston, Massachusetts, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-292-Walkout-Tracks-190805"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "Blackout / I Love",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blackout%20/%20I%20Love%20Joyner%20Lucas",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Lemos",
+      "song_title": "Deixa",
+      "artist": "Maria Marcai",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Deixa%20Maria%20Marcai",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Da'Mon Blackshear",
+      "song_title": "Drop\nThe World",
+      "artist": "Lil Wayne feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Where You Come From",
+      "artist": "DJ Khaled feat Buju Banton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
+      "artist": "Racion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tears%20Alborosie",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "This Means War",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut",
+      "notes": ""
+    },
+    {
+      "fighter": "Denis Tiuliulin",
+      "song_title": "ДЕЛЕ",
+      "artist": "ОБ.в",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/%D0%94%D0%95%D0%9B%D0%95%20%D0%9E%D0%91.%D0%B2",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kurt Holobaugh",
+      "song_title": "Take It Outside",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1AJBs8myLazWQpOMZ8Vtpg",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "Born Different",
+      "artist": "Shafer, Gawne & Matty Beats",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sMtVYi2blJUi2TllBCvVa",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Katona",
+      "song_title": "Crazy",
+      "artist": "Gnarls Barkley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Gibson",
+      "song_title": "A Beautiful Day",
+      "artist": "Trinix x Rushawn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/A%20Beautiful%20Day%20Trinix%20x%20Rushawn",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Still Dre",
+      "artist": "Dre feat. Snoop Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Still%20Dre%20Dre%20feat.%20Snoop%20Dogg",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "99 Red Balloons",
+      "artist": "Goldfinger",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
+      "notes": ""
+    },
+    {
+      "fighter": "Natalia Silva",
+      "song_title": "Nothing Is Impossible - Planet Shakers\nLive",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Nothing%20Is%20Impossible%20-%20Planet%20Shakers%0ALive%20Bethel%20Church",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Andrea Lee",
+      "song_title": "Big Brother",
+      "artist": "Hi-Rez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7sRTc615a47VKZt71Zl8qR",
+      "notes": ""
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "Pantera Negra",
+      "artist": "Etncida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Pantera%20Negra%20Etncida",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Maryna Moroz",
+      "song_title": "Жми КОЗАКИ (АТО.Укра7на)",
+      "artist": "ТМЬ СОНЦЯ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/%D0%96%D0%BC%D0%B8%20%D0%9A%D0%9E%D0%97%D0%90%D0%9A%D0%98%20%28%D0%90%D0%A2%D0%9E.%D0%A3%D0%BA%D1%80%D0%B07%D0%BD%D0%B0%29%20%D0%A2%D0%9C%D0%AC%20%D0%A1%D0%9E%D0%9D%D0%A6%D0%AF",
+      "notes": "spotify_match: search_fallback"
+    }
+  ]
+}

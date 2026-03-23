@@ -29,6 +29,10 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 292](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC 293](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC 294](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC 295](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 296](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 297](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 298](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
@@ -45,7 +49,9 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 13 | 15 |
 | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
+| [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 0 | 28 |
 | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
 
 ## How it works
