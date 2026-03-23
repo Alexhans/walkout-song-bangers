@@ -1,0 +1,222 @@
+{
+  "event": "UFC 300: Pereira vs. Hill",
+  "event_slug": "ufc-300",
+  "date": "2024-04-13",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-best-ufc-walkouts-of-two-thousand-twenty-four/",
+    "https://www.mmahive.com/blog/ufc-walkout-songs/",
+    "https://www.essentiallysports.com/ufc-mma-news-best-ufc-300-walkout-songs-featuring-alex-pereira-jamahal-hill-max-holloway-justin-gaethje-more/"
+  ],
+  "generated_at": "2026-03-23T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsári",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": "Confirmed at UFC 300 by post-event EssentiallySports 2024 walkouts article"
+    },
+    {
+      "fighter": "Jamahal Hill",
+      "song_title": "Miss Me",
+      "artist": "Drake, Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53VIWPPMz9S7ob0D8JxF9N",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "滄海一聲笑 (Swordsman & Sea of Laughter)",
+      "artist": "Sam Hui",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q1wqjzUrLPcJFGAIJ9q04",
+      "notes": "Theme from Swordsman II, composed by Huang Zhan"
+    },
+    {
+      "fighter": "Yan Xiaonan",
+      "song_title": "远走高飞 (Fly Away)",
+      "artist": "Jin Zhiwen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y7t5BKQRdUjwMte9SlAP4",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Running Up That Hill (A Deal With God) / Hawaiian Kickboxer",
+      "artist": "Kate Bush / Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO",
+      "notes": "Mashup walkout; Hawaiian Kickboxer: https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy"
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "Celebrate",
+      "artist": "Dirty Heads, The Unlikely Candidates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XQDkTogzdulU5iHZItUda",
+      "notes": "Confirmed for UFC 300 bout vs Holloway by LowKickMMA"
+    },
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "Yarkhushta",
+      "artist": "Sevak Amroyan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GHBxSesm8nYHCrfn9TWYh",
+      "notes": "Traditional Armenian folk song"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God (Outro)",
+      "artist": "Jon Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "notes": "Consistent walkout song across all UFC appearances"
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "Fantasy",
+      "artist": "Mariah Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "notes": ""
+    },
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "In the City",
+      "artist": "Kevin Rudolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ix4xoMPPOo8H43TG1DQA1",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksandar Rakic",
+      "song_title": "Music the Best 3",
+      "artist": "Justin Seven",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "I Love",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cEqfElQEKHTsZsoMaYRWB",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Kayla Harrison",
+      "song_title": "Unbreakable",
+      "artist": "Jay Kill & The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dzGkZuSHw42eh9VLV1Mzd",
+      "notes": "Consistent walkout song across all UFC appearances including UFC 300 debut"
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Fighter changes walkout songs frequently; no UFC 300-specific data found"
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "Power",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "notes": ""
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Zendaya",
+      "artist": "Cozz, J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "É Hora de Vencer",
+      "artist": "Facção 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/%C3%89%20Hora%20de%20Vencer%20Fac%C3%A7%C3%A3o%20288",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "I'm Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Bobby Green",
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "notes": "Fighter also known as King Green"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Baludão",
+      "artist": "Dkria, MC Tikão",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pKgeh1VrZqw8nDpeQWv4Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    }
+  ]
+}
