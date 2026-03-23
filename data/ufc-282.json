@@ -1,0 +1,204 @@
+{
+  "event": "UFC 282",
+  "event_slug": "ufc-282",
+  "date": "2022-12-10",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-282-Walkout-Tracks-188659"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "The Song Of The Dragonborn",
+      "artist": "Skyrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zqMYQfc6bb5zASIfLl8rD",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry / Heads Will Roll",
+      "artist": "Sunnary James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lethal%20Industry%20/%20Heads%20Will%20Roll%20Sunnary%20James",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+      "notes": ""
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Blackout",
+      "artist": "Turnstile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
+      "notes": ""
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Till",
+      "song_title": "Tourner Dans Le Vide",
+      "artist": "Indila",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq",
+      "notes": ""
+    },
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "Fronteamos Porque Podemos",
+      "artist": "De La Ghetto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryce Mitchell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Raul Rosas Jr.",
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "notes": ""
+    },
+    {
+      "fighter": "Jay Perrin",
+      "song_title": "Miracle",
+      "artist": "A Day to Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1l00qUHfmONY1jNaE2Ievs",
+      "notes": ""
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "Fox On The Run",
+      "artist": "Sweet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "notes": ""
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dalcha Lungiambula",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "War",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gNiZCXy602U2vofLySOiL",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Billy Quarantillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "Spinnin'",
+      "artist": "Connor Price",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "notes": ""
+    },
+    {
+      "fighter": "Erik Silva",
+      "song_title": "Valhalla Calling Me",
+      "artist": "Viking",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nRKJI3XsWPb5d8VXwn2iK",
+      "notes": ""
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Steven Koslow",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

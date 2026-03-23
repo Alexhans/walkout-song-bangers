@@ -1,0 +1,236 @@
+{
+  "event": "UFC 274",
+  "event_slug": "ufc-274",
+  "date": "2022-05-07",
+  "location": "Phoenix, Arizona, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-274-Walkout-Tracks-186499"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "I'M SHIPPING UP TO BOSTON",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "THE PARTY HAS JUST BEGUN",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mauricio Rua",
+      "song_title": "SAIL",
+      "artist": "Awolnation",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "HERE COMES THE HOTSTEPPER",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "notes": ""
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Trinaldo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "BIG FOR YOUR BOOTS",
+      "artist": "Stormzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46jHE9rVH5HqZ7VKZHPinC",
+      "notes": ""
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "FIRE SQUAD",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "notes": ""
+    },
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "ROCK AND ROLL PART 2",
+      "artist": "Gary Glitter",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "FANCY",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "notes": ""
+    },
+    {
+      "fighter": "Blagoy Ivanov",
+      "song_title": "MIKE TYSON SONG",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zN1Cr7chwMed20zF9IZzW",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "notes": ""
+    },
+    {
+      "fighter": "Cameron VanCamp",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tracy Cortez",
+      "song_title": "COMO LA FLOR",
+      "artist": "Selena",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "CAN'T TELL ME NOTHING",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "notes": ""
+    },
+    {
+      "fighter": "Kleydson Rodrigues",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane Carnelossi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Journey Newson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Fernie Garcia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "event": "UFC 290",
+  "event_slug": "ufc-290",
+  "date": "2023-07-08",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-290-with-chili-peppers-john-lennon-greta-van-fleet-and-two-versions-of-down-under"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "Down Under",
+      "artist": "Men at Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "notes": ""
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Invincible",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "El Corrido del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "notes": ""
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Live it Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "notes": ""
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "notes": ""
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "notes": ""
+    },
+    {
+      "fighter": "Val Woodburn",
+      "song_title": "Shootaz",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab",
+      "notes": ""
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Promentory” main theme from “The Last of the Mohicans",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "notes": ""
+    },
+    {
+      "fighter": "Edgar Chairez",
+      "song_title": "El Rey",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na",
+      "notes": ""
+    },
+    {
+      "fighter": "Denise Gomes",
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Yazmin Jauregui",
+      "song_title": "De Mi Cada Gota De Sangre",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Bannks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Wrong One",
+      "artist": "Seth Sentry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dmT0RFjIL4m5ReWDt96TA",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Bruno & Barretto",
+      "artist": "Bruto Memo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bruno%20%26%20Barretto%20Bruto%20Memo",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Marcin Prachnio",
+      "song_title": "Can’t Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrence Mitchell",
+      "song_title": "Cult of Personality",
+      "artist": "Living Colour",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesus Aguilar",
+      "song_title": "Nada es Coincidencia",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7maoQr1s4iFoMlfJVy3uD4",
+      "notes": ""
+    },
+    {
+      "fighter": "Shannon Ross",
+      "song_title": "Down Under",
+      "artist": "Luude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG",
+      "notes": ""
+    },
+    {
+      "fighter": "Esteban Ribovics",
+      "song_title": "Argentina",
+      "artist": "Trueno, Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo",
+      "notes": ""
+    },
+    {
+      "fighter": "Kamuela Kirk",
+      "song_title": "Fight Another Day",
+      "artist": "Maoli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6V7SZUEdkrwU08fLffqImh",
+      "notes": ""
+    }
+  ]
+}

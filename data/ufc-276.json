@@ -1,0 +1,204 @@
+{
+  "event": "UFC 276",
+  "event_slug": "ufc-276",
+  "date": "2022-07-02",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-276-Walkout-Tracks-187305"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Running Up That Hill / Hawaiian Kickboxer",
+      "artist": "Kate Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Running%20Up%20That%20Hill%20/%20Hawaiian%20Kickboxer%20Kate%20Bush",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Promentory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "If I Ruled The World",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
+      "notes": ""
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Zendaya",
+      "artist": "Cozz feat. J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Riddell",
+      "song_title": "Sons of Plunder",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69ZRVsGoLXjHrQWHMX5iCN",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabe Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4g0uvKVVh4Hf1X0eS8Uvqc",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Made You Look",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA",
+      "notes": ""
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "Praise God",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T",
+      "notes": ""
+    },
+    {
+      "fighter": "Julija Stoliarenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica-Rose Clark",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

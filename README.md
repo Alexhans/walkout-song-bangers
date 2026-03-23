@@ -29,6 +29,17 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 274](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
+| [UFC 276](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
+| [UFC 277](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC 280](viz/ufc-280.md) | 24 | 0 | 0 | 8 | 16 |
+| [UFC 282](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
+| [UFC 283](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
+| [UFC 284](viz/ufc-284.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC 287](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
+| [UFC 288](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 289](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
+| [UFC 290](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 292](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 293](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 294](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
