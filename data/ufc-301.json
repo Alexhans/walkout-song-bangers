@@ -1,0 +1,221 @@
+{
+  "event": "UFC 301: Pantoja vs. Erceg",
+  "event_slug": "ufc-301",
+  "date": "2024-05-04",
+  "location": "Farmasi Arena, Rio de Janeiro, Brazil",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-the-best-ufc-301-walkout-songs-featuring-alexandre-pantoja-jose-aldo-steve-erceg-and-more/",
+    "https://www.mmahive.com/blog/ufc-walkout-songs/"
+  ],
+  "generated_at": "2026-03-23T00:22:55Z",
+  "songs": [
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "JAY-Z, Rihanna, Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "El Papa de los Pollitos",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Abertura Oficial Vitor Petrino",
+      "artist": "DJ Ruan do Primeiro, MC Mininin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4l6fgooWQqn6m0QM9lARjU",
+      "notes": "Custom walkout track"
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "Torce o Olho",
+      "artist": "Gusttavo Lima, Hugo & Guilherme",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CJnFX2V9CEUWrnrNGa60b",
+      "notes": ""
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Reported to use ЯРМАК (Yarmak) but no specific song confirmed"
+    },
+    {
+      "fighter": "Caio Borralho",
+      "song_title": "Ultimos Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "notes": "Consistent walkout song across UFC appearances"
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Victory Over the Sun",
+      "artist": "Biffy Clyro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/119zQmCUSi1aoE5Wo8fTMW",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanderson Brito",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Iasmin Lucindo",
+      "song_title": "Rap Da Felicidade",
+      "artist": "Cidinho & Doca, DJ Marlboro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Myktybek Orolbai",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Conflicting data across sources"
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "X Gon' Give It to Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquim Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mauricio Ruffy",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Dione Barbosa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ernesta Kareckaite",
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "notes": ""
+    },
+    {
+      "fighter": "Ismael Bonfim",
+      "song_title": "Chegou o Tempo",
+      "artist": "Leandro Borges, Dieggo Molina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nL91974zK2xj7Pn0VKUmD",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessandro Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Borjas",
+      "song_title": "Meidin Perú",
+      "artist": "Norick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6U5CFrQgyhLJwR4dvNimum",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "event": "UFC 303: Pereira vs. Prochazka 2",
+  "event_slug": "ufc-303",
+  "date": "2024-06-29",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-best-ufc-303-walkout-songs-featuring-alex-pereira-brian-ortega-jiri-prochazka-michael-venom-page-ian-garry-and-others/",
+    "https://www.mmahive.com/blog/ufc-walkout-songs/"
+  ],
+  "generated_at": "2026-03-23T00:24:55Z",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsári",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Fighter selects different walkout songs for each event; no UFC 303-specific data found"
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "DEVASTATED",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "notes": "Confirmed for UFC 303 short-notice fight vs Dan Ige"
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Everybody",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "Take Me to Church",
+      "artist": "Hozier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Page",
+      "song_title": "Venomous Undertaking",
+      "artist": "Couper, Wassup D Will, Michael Venom Page",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sOIkh52l7AWXYcr9NAwBS",
+      "notes": "Custom walkout track"
+    },
+    {
+      "fighter": "Joe Pyfer",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cub Swanson",
+      "song_title": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm",
+      "notes": ""
+    },
+    {
+      "fighter": "Jean Silva",
+      "song_title": "Earth Melodies",
+      "artist": "Ekaterina Shelehova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XN3MLpVCSgyeei69MY7r2",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Payton Talbott",
+      "song_title": "Kerosene",
+      "artist": "Crystal Castles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
+      "notes": ""
+    },
+    {
+      "fighter": "Yanis Ghemmouri",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michelle Waterson-Gomez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Martin Buday",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "Rei Tsuruya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Simon",
+      "song_title": "Italy",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3x1klOiEzRSExyfDpLZzZi",
+      "notes": ""
+    }
+  ]
+}

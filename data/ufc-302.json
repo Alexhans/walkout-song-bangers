@@ -1,0 +1,205 @@
+{
+  "event": "UFC 302: Makhachev vs. Poirier",
+  "event_slug": "ufc-302",
+  "date": "2024-06-01",
+  "location": "Prudential Center, Newark, New Jersey",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-best-ufc-302-walkout-songs-featuring-islam-makhachev-dustin-poirier-paulo-costa-sean-strickland-more/",
+    "https://www.mmahive.com/blog/ufc-walkout-songs/"
+  ],
+  "generated_at": "2026-03-23T00:23:55Z",
+  "songs": [
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "Diamonds / The Boss",
+      "artist": "Rihanna / James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx",
+      "notes": "Confirmed UFC 302 mashup of Willie Spence cover of Diamonds + The Boss; The Boss: https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": "Metal version"
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Clubbed to Death",
+      "artist": "Rob Dougan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk",
+      "notes": "From The Matrix soundtrack"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "02.02.99",
+      "artist": "That Mexican OT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Potop Muzyka z Filmu Choragwie Rzeczpospolitej",
+      "artist": "Kazimierz Serocki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Potop%20Muzyka%20Kazimierz%20Serocki",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory to God",
+      "artist": "KJ-52, JONAH",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Enemies",
+      "artist": "Eleine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Lime Light",
+      "artist": "Masicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
+      "notes": ""
+    },
+    {
+      "fighter": "Elizeu Zaleski dos Santos",
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "My Motherland Siberia",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cesar Almeida",
+      "song_title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "Perna Bamba",
+      "artist": "Parangolé, Léo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Stop%20the%20Time%20Amatory",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Solecki",
+      "song_title": "Bury My Bones",
+      "artist": "Whiskey Myers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yggZbtgrxPNwWOs06cS8L",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "NHF (No Hard Feelings)",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Rowe",
+      "song_title": "Can We Talk",
+      "artist": "Tevin Campbell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4",
+      "notes": ""
+    },
+    {
+      "fighter": "Bassil Hafez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
+      "notes": ""
+    },
+    {
+      "fighter": "Ailin Perez",
+      "song_title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "notes": ""
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "Panama",
+      "artist": "Ruben Blades",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Panama%20Ruben%20Blades",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Andre Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mitch Raposo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

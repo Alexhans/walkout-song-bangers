@@ -29,6 +29,11 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
+| [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
