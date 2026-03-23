@@ -1,0 +1,22 @@
+{
+  "fighter": "Bryce Mitchell",
+  "slug": "bryce-mitchell",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "God Had Other Plans",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4m0EGbdEIdqYWkpuomboUp",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

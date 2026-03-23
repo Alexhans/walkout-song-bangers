@@ -1,0 +1,22 @@
+{
+  "fighter": "Julia Avila",
+  "slug": "julia-avila",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bad Girls",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Edmen Shahbazyan",
+  "slug": "edmen-shahbazyan",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Artsakh",
+      "artist": "Ara Gevorgyan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Ailin Perez",
+  "slug": "ailin-perez",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "El Sonidito",
+      "artist": "Hechizeros Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

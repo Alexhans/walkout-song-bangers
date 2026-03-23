@@ -1,0 +1,40 @@
+{
+  "fighter": "Ovince Saint Preux",
+  "slug": "ovince-saint-preux",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Skrilla",
+      "artist": "Kodiak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

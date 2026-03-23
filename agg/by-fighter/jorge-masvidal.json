@@ -1,0 +1,40 @@
+{
+  "fighter": "Jorge Masvidal",
+  "slug": "jorge-masvidal",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Tony Montana",
+      "artist": "(Scarface Theme Song)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Scarface - Tony Montana Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Scarface%20-%20Tony%20Montana%20Theme%20Song",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

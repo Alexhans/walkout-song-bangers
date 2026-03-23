@@ -1,0 +1,31 @@
+{
+  "fighter": "Paul Craig",
+  "slug": "paul-craig",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Alive",
+      "artist": "Chase and Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "Victory Over the Sun",
+      "artist": "Biffy Clyro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/119zQmCUSi1aoE5Wo8fTMW",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

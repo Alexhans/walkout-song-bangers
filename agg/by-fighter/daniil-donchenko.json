@@ -1,0 +1,22 @@
+{
+  "fighter": "Daniil Donchenko",
+  "slug": "daniil-donchenko",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "RAGNAROK",
+      "artist": "YARMAK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

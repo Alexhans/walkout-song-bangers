@@ -1,0 +1,40 @@
+{
+  "fighter": "Jamie Mullarkey",
+  "slug": "jamie-mullarkey",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "My Brother’s Keeper",
+      "artist": "Kid Mac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qMIPg5G5vEwPIcydKJaCq",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

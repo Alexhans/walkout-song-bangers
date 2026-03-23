@@ -1,0 +1,22 @@
+{
+  "fighter": "Kevin Jousset",
+  "slug": "kevin-jousset",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I’m Not Afraid",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%E2%80%99m%20Not%20Afraid%20Eminem",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

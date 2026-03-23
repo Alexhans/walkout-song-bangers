@@ -1,0 +1,22 @@
+{
+  "fighter": "Kalindra Faria",
+  "slug": "kalindra-faria",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Macaco Theme",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00qiehape73rXG9YTeuog8",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

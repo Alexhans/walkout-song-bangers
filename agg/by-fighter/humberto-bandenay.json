@@ -1,0 +1,22 @@
+{
+  "fighter": "Humberto Bandenay",
+  "slug": "humberto-bandenay",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Peruano Luchador",
+      "artist": "Luis Chang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Peruano+Luchador+Luis+Chang",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

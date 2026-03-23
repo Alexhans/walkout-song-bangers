@@ -1,0 +1,40 @@
+{
+  "fighter": "Iuri Alcantara",
+  "slug": "iuri-alcantara",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Nao Morrerei",
+      "artist": "Marquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "Nao Morrerei",
+      "artist": "Marquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "Nao Morrerei",
+      "artist": "Narquinhos Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40J1DIF5Row0abZP4Wk1bA",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

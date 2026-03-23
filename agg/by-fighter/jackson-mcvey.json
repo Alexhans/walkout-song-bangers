@@ -1,0 +1,22 @@
+{
+  "fighter": "Jackson McVey",
+  "slug": "jackson-mcvey",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Steppin' Out",
+      "artist": "Steel Pulse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

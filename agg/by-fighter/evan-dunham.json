@@ -1,0 +1,22 @@
+{
+  "fighter": "Evan Dunham",
+  "slug": "evan-dunham",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Fortunate Son",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Xiao Long",
+  "slug": "xiao-long",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

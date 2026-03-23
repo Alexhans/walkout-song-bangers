@@ -1,0 +1,22 @@
+{
+  "fighter": "Bartosz Fabinski",
+  "slug": "bartosz-fabinski",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The One and Only",
+      "artist": "Chesney Hawkes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

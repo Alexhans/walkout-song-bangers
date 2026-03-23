@@ -1,0 +1,22 @@
+{
+  "fighter": "Nate Diaz",
+  "slug": "nate-diaz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Ambitionz az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

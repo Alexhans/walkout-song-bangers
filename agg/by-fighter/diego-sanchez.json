@@ -1,0 +1,22 @@
+{
+  "fighter": "Diego Sanchez",
+  "slug": "diego-sanchez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

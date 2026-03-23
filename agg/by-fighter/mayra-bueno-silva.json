@@ -1,0 +1,31 @@
+{
+  "fighter": "Mayra Bueno Silva",
+  "slug": "mayra-bueno-silva",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Giro de Sueracao",
+      "artist": "MC Lele JP",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Giro%20de%20Sueracao%20MC%20Lele%20JP",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

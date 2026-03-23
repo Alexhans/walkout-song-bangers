@@ -1,0 +1,22 @@
+{
+  "fighter": "Danny Barlow",
+  "slug": "danny-barlow",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "By Mistake",
+      "artist": "Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tpLBCGQi9oFrfVuaY9gjk",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

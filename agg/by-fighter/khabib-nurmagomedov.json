@@ -1,0 +1,40 @@
+{
+  "fighter": "Khabib Nurmagomedov",
+  "slug": "khabib-nurmagomedov",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Dagestan",
+      "artist": "Direct Hit & Sabina Saldova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Daghestan",
+      "artist": "Direct Hit & Sabina Saidova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Dagestan (Remix)",
+      "artist": "SABINA, Timaro",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

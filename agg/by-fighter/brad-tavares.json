@@ -1,0 +1,49 @@
+{
+  "fighter": "Brad Tavares",
+  "slug": "brad-tavares",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Auhs5MMDextVqwl8T3SX9",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Tears",
+      "artist": "Alborosie feat. Wendy Rene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57noNuqOEAkEGQvbsJEjHo",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    },
+    {
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tears%20Alborosie",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

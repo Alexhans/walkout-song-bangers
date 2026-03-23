@@ -1,0 +1,31 @@
+{
+  "fighter": "Johny Hendricks",
+  "slug": "johny-hendricks",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Simple Man",
+      "artist": "Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "I'll Sing About Mine",
+      "artist": "Josh Abbott Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4GtXuqiBbAmK4XIePNT6QM",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

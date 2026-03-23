@@ -1,0 +1,253 @@
+{
+  "year": 2019,
+  "events": 1,
+  "tracks": [
+    {
+      "fighter": "Jon Jones",
+      "song_title": "We Are the Champions/The Champ is Here",
+      "artist": "Queen/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "Marreta Da CCD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Marreta%20Da%20CCD%20Para%20O%20Mundo%20MC%20Isaac%20Saradinho",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Champion%20Carrie%20Underwood%20feat.%20Ludacris",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "Black Dog",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "Scarface - Tony Montana Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Scarface%20-%20Tony%20Montana%20Theme%20Song",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Ben Askren",
+      "song_title": "Give Up the Funk",
+      "artist": "Parliament",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Luke Rockhold",
+      "song_title": "Live is Life",
+      "artist": "Opus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hkOgKKybgawYUcrkZD3wV",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Gilbert Melendez",
+      "song_title": "Can't C Me",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "Club Foot",
+      "artist": "Kasabian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "That's All I Need",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yja5esGPVO3Pg0crH1IW5",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Nohelin Hernandez",
+      "song_title": "Cameras",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Swx0M6iLt0Lr5nN33YCEB",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Claudia Gadelha",
+      "song_title": "Agradecer",
+      "artist": "Pacificadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/38YgO0u1U6aM8OiT91KyCj",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Randa Markos",
+      "song_title": "No Love",
+      "artist": "Eminem feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "Un Puno De Tierra",
+      "artist": "Antonio Aguilar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "Artsakh",
+      "artist": "Ara Gevorgyan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Ismail Naurdiev",
+      "song_title": "Shukran",
+      "artist": "Moe Phoenix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dZVTIPbPV5xUTwv5vWmC8",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Chance Rencountre",
+      "song_title": "Built to Kill",
+      "artist": "Northern Cree",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7GavZMVUNWgHLJ3tExQkwJ",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Julia Avila",
+      "song_title": "Bad Girls",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Be My Lover",
+      "artist": "La Bouche",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "total_fighters": 24,
+    "with_song": 24,
+    "playable_tracks": 20,
+    "unique_playable_tracks": 20,
+    "missing": 0
+  }
+}

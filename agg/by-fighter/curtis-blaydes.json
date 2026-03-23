@@ -1,0 +1,40 @@
+{
+  "fighter": "Curtis Blaydes",
+  "slug": "curtis-blaydes",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Mortal Combat Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hcKSIrthkCAIFBiSn5jBh",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Encounter The Ultimate (Mortal Kombat Theme)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Techno Syndrome (Mortal Kombat)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

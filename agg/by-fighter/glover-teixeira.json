@@ -1,0 +1,22 @@
+{
+  "fighter": "Glover Teixeira",
+  "slug": "glover-teixeira",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "All the Way Up",
+      "artist": "Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

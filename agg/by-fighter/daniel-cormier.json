@@ -1,0 +1,22 @@
+{
+  "fighter": "Daniel Cormier",
+  "slug": "daniel-cormier",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "When We Ride on Our Enemies/Right Above It",
+      "artist": "Tupac/Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

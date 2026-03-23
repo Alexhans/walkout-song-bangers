@@ -1,0 +1,31 @@
+{
+  "fighter": "Louis Smolka",
+  "slug": "louis-smolka",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Bigger Than Me",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "Eazy",
+      "artist": "G-Eazy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ohwrBQrxIlqMYfkoYERiN",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

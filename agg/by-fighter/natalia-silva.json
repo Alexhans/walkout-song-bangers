@@ -1,0 +1,31 @@
+{
+  "fighter": "Natalia Silva",
+  "slug": "natalia-silva",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Nothing Is Impossible - Planet Shakers\nLive",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Nothing%20Is%20Impossible%20-%20Planet%20Shakers%0ALive%20Bethel%20Church",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

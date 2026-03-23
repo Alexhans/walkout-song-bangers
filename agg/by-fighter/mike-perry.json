@@ -1,0 +1,31 @@
+{
+  "fighter": "Mike Perry",
+  "slug": "mike-perry",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Hustlaz Ambition",
+      "artist": "Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jLmubk3fQ8NJY7Vc9GQwL",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "Mind of a Maniac",
+      "artist": "Lil' Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OCFWtV1maSYVa4AP7Mkmc",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

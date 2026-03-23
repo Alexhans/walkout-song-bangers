@@ -1,0 +1,40 @@
+{
+  "fighter": "Donald Cerrone",
+  "slug": "donald-cerrone",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

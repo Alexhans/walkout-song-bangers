@@ -1,0 +1,31 @@
+{
+  "fighter": "Daniel Omielanczuk",
+  "slug": "daniel-omielanczuk",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "King Bruce Lee Karate Mistrz",
+      "artist": "Franek Kimono",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5eNnuKhQMh9jieIYzWutgR",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "King Bruce Lee Karate Mistrz",
+      "artist": "Franek Kimono",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5eNnuKhQMh9jieIYzWutgR",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

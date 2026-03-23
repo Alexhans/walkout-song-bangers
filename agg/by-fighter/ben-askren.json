@@ -1,0 +1,22 @@
+{
+  "fighter": "Ben Askren",
+  "slug": "ben-askren",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Give Up the Funk",
+      "artist": "Parliament",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

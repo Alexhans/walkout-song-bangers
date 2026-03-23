@@ -1,0 +1,49 @@
+{
+  "fighter": "Alistair Overeem",
+  "slug": "alistair-overeem",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Pride Fighting Championships Official Theme",
+      "artist": "Yasuharu Takanashi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DZ9Tqbv3vEh0wmGpSnHKb",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Enter the Reem Ultimate",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "Fearless",
+      "artist": "Bold Action",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jWwoS0kZJjQxS2bpQZwYW",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Put Your Hands Up 4 Detroit",
+      "artist": "Fedde Le Grand",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tyMOrVliF1wRnumVdcEwP",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

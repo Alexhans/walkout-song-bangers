@@ -1,0 +1,40 @@
+{
+  "fighter": "Jiri Prochazka",
+  "slug": "jiri-prochazka",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Black Adam theme",
+      "artist": "Lorne Balfe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "In the City",
+      "artist": "Kevin Rudolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ix4xoMPPOo8H43TG1DQA1",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

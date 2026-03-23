@@ -1,0 +1,22 @@
+{
+  "fighter": "Amir Albazi",
+  "slug": "amir-albazi",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Takat Wala Mataket",
+      "artist": "Salah El Baher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Takat%20Wala%20Mataket%20Salah%20El%20Baher",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

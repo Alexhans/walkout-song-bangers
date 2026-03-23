@@ -1,0 +1,49 @@
+{
+  "fighter": "Andre Fili",
+  "slug": "andre-fili",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "I'm Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Open the Gate",
+      "artist": "Zach Bryan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
+    "unique_songs": 2
+  }
+}

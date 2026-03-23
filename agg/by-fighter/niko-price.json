@@ -1,0 +1,40 @@
+{
+  "fighter": "Niko Price",
+  "slug": "niko-price",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Coming Home",
+      "artist": "Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52, JONAH",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "Praise",
+      "artist": "Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

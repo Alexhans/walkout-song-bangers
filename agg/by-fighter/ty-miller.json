@@ -1,0 +1,22 @@
+{
+  "fighter": "Ty Miller",
+  "slug": "ty-miller",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Parabola",
+      "artist": "TOOL",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

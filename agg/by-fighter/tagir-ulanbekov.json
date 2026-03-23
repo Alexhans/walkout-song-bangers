@@ -1,0 +1,22 @@
+{
+  "fighter": "Tagir Ulanbekov",
+  "slug": "tagir-ulanbekov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Vse Zvezdy",
+      "artist": "Gimi Dagestana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Vse%20Zvezdy%20Gimi%20Dagestana",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Omari Akhmedov",
+  "slug": "omari-akhmedov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

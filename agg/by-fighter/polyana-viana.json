@@ -1,0 +1,22 @@
+{
+  "fighter": "Polyana Viana",
+  "slug": "polyana-viana",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Silhouette",
+      "artist": "Naruto and Sasuke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Silhouette%20Naruto%20and%20Sasuke",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

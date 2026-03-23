@@ -1,0 +1,22 @@
+{
+  "fighter": "Brendson Ribeiro",
+  "slug": "brendson-ribeiro",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

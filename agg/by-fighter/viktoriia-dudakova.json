@@ -1,0 +1,22 @@
+{
+  "fighter": "Viktoriia Dudakova",
+  "slug": "viktoriia-dudakova",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Am Russian",
+      "artist": "Shaman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%20Am%20Russian%20Shaman",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

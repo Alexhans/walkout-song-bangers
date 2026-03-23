@@ -1,0 +1,22 @@
+{
+  "fighter": "Alexandra Albu",
+  "slug": "alexandra-albu",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Like a Prayer",
+      "artist": "We Are the Fallen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

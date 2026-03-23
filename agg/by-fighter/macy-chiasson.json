@@ -1,0 +1,31 @@
+{
+  "fighter": "Macy Chiasson",
+  "slug": "macy-chiasson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "WASSUP",
+      "artist": "Young Miko",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

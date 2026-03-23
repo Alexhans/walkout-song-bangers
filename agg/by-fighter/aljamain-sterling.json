@@ -1,0 +1,40 @@
+{
+  "fighter": "Aljamain Sterling",
+  "slug": "aljamain-sterling",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Big Rich Town",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6J8sIQRDr96yMAj2OquEkj",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Blackout / I Love",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blackout%20/%20I%20Love%20Joyner%20Lucas",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "I Love",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cEqfElQEKHTsZsoMaYRWB",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Alex Reyes",
+  "slug": "alex-reyes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Mmhmm (Remix)",
+      "artist": "BigXthaPlug feat. Finesse2Tymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FpFflePX0w1AxrxSXKTzz",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Colby Covington",
+  "slug": "colby-covington",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Me, Myself and I",
+      "artist": "G-Eazy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "Medal",
+      "artist": "Jim Johnston, I’m Me by Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Medal%20Jim%20Johnston%2C%20I%E2%80%99m%20Me%20by%20Lil%20Wayne",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

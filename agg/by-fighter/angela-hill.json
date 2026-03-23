@@ -1,0 +1,22 @@
+{
+  "fighter": "Angela Hill",
+  "slug": "angela-hill",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Warrior",
+      "artist": "Scandal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

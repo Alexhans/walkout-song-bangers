@@ -1,0 +1,31 @@
+{
+  "fighter": "Ricardo Ramos",
+  "slug": "ricardo-ramos",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Get Your Walk On",
+      "artist": "Xzibit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RPhSs2lDYKjDsELKtPvQd",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Cheia De Manias",
+      "artist": "Raça Negra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wtLEFD3kYHydIrPoB1TPj",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

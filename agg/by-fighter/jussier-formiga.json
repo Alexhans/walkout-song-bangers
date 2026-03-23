@@ -1,0 +1,22 @@
+{
+  "fighter": "Jussier Formiga",
+  "slug": "jussier-formiga",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

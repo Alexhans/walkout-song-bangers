@@ -1,0 +1,31 @@
+{
+  "fighter": "Muhammad Mokaev",
+  "slug": "muhammad-mokaev",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20People%20Zagir%20Magomedov",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20People%20Zagir%20Magomedov",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

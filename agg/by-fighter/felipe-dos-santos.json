@@ -1,0 +1,22 @@
+{
+  "fighter": "Felipe dos Santos",
+  "slug": "felipe-dos-santos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Priordade",
+      "artist": "Midian Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Priordade%20Midian%20Lima",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

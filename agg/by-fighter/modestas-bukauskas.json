@@ -1,0 +1,31 @@
+{
+  "fighter": "Modestas Bukauskas",
+  "slug": "modestas-bukauskas",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Talkin the Hardest",
+      "artist": "Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gNvWEzTJ5pP6Mt1Hjnoai",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "The Battle / Look What the Cat Dragged In",
+      "artist": "Hans Zimmer / Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6eh67gdCTEpfZ5E2hCojiH",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

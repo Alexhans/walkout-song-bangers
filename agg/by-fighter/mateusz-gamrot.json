@@ -1,0 +1,22 @@
+{
+  "fighter": "Mateusz Gamrot",
+  "slug": "mateusz-gamrot",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "My Songs Know What You Did in the Dark (Light ’em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Rafael Fiziev",
+  "slug": "rafael-fiziev",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Hurricane",
+      "artist": "Mulla Muhammad Bujbara",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hurricane%20Mulla%20Muhammad%20Bujbara",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

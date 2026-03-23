@@ -1,0 +1,22 @@
+{
+  "fighter": "Marlon Moraes",
+  "slug": "marlon-moraes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I'm Coming Home",
+      "artist": "Diddy feat. Skylar Grey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

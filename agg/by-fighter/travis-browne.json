@@ -1,0 +1,31 @@
+{
+  "fighter": "Travis Browne",
+  "slug": "travis-browne",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "You're the Best",
+      "artist": "Joe Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "I'm Only Human After All",
+      "artist": "John \"Ragin Cajun\" Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Jd1bpQBw6Jc4eSfzTqEp1",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

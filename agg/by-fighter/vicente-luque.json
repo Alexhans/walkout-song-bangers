@@ -1,0 +1,31 @@
+{
+  "fighter": "Vicente Luque",
+  "slug": "vicente-luque",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Baby Baby",
+      "artist": "Topkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Troopkilaz",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/search/Baby+Baby+Troopkilaz",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

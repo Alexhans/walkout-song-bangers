@@ -1,0 +1,22 @@
+{
+  "fighter": "Ryan LaFlare",
+  "slug": "ryan-laflare",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Release Yo' Self",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wGjTruvCtFKrAOJrMdMay",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

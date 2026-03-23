@@ -1,0 +1,22 @@
+{
+  "fighter": "Pedro Munhoz",
+  "slug": "pedro-munhoz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
+      "artist": "Racion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

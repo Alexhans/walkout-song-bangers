@@ -1,0 +1,40 @@
+{
+  "fighter": "Chris Curtis",
+  "slug": "chris-curtis",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Industry Baby",
+      "artist": "Lil Nas X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BI4iNZigfF4SUq13TcFPh",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "Metalingus",
+      "artist": "Edge",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Metalingus%20Edge",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

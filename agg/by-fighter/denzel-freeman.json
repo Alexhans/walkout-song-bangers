@@ -1,0 +1,22 @@
+{
+  "fighter": "Denzel Freeman",
+  "slug": "denzel-freeman",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Final Fantasy VII Remake",
+      "artist": "Nobuo Uematsu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Final%20Fantasy%20VII%20Remake%20Nobuo%20Uematsu",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

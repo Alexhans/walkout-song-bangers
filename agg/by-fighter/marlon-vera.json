@@ -1,0 +1,49 @@
+{
+  "fighter": "Marlon Vera",
+  "slug": "marlon-vera",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "That's All I Need",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yja5esGPVO3Pg0crH1IW5",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "Where You Come From",
+      "artist": "DJ Khaled feat Buju Banton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Smile (Living My Best Life)",
+      "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "song_title": "Tripolar",
+      "artist": "Canserbero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02DIjDfe3wiaiNEzjtohJP",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

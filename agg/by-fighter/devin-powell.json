@@ -1,0 +1,22 @@
+{
+  "fighter": "Devin Powell",
+  "slug": "devin-powell",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Kentucky Derby",
+      "artist": "Eyenine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yniMtRG6gVEZFgUVRlnPR",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

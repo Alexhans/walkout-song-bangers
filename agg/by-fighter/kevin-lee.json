@@ -1,0 +1,22 @@
+{
+  "fighter": "Kevin Lee",
+  "slug": "kevin-lee",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "First Day Out",
+      "artist": "Tee Grizzley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Michel Pereira",
+  "slug": "michel-pereira",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Torce o Olho",
+      "artist": "Gusttavo Lima, Hugo & Guilherme",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CJnFX2V9CEUWrnrNGa60b",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

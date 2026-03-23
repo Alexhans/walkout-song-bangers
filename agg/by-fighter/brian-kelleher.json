@@ -1,0 +1,31 @@
+{
+  "fighter": "Brian Kelleher",
+  "slug": "brian-kelleher",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Blessed Up",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lidCG4c4lX6hIRXt0MKVA",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "When the Music Stops",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/73qINA7ccO03wxD8nsJalr",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

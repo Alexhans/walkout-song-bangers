@@ -1,0 +1,22 @@
+{
+  "fighter": "Giga Chikadze",
+  "slug": "giga-chikadze",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Xorumi",
+      "artist": "Georgian folk dance",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Xorumi%20Georgian%20folk",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Nad Narimani",
+  "slug": "nad-narimani",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Could You Be Loved",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

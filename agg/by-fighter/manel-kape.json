@@ -1,0 +1,31 @@
+{
+  "fighter": "Manel Kape",
+  "slug": "manel-kape",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Minha Terra",
+      "artist": "Supa Squad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45abSZHiweBryVKrp8jF8p",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Minha Terra",
+      "artist": "Supa Squad, Mariza, Apollo G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45abSZHiweBryVKrp8jF8p",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

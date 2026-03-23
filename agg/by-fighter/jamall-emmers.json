@@ -1,0 +1,22 @@
+{
+  "fighter": "Jamall Emmers",
+  "slug": "jamall-emmers",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Paid in Full",
+      "artist": "Dame D.O.L.L.A., Tobe Nwigwe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5z8oTybJ16TO50fr4PkipK",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Alejandro Perez",
+  "slug": "alejandro-perez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Un Puno De Tierra",
+      "artist": "Antonio Aguilar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

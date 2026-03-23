@@ -1,0 +1,31 @@
+{
+  "fighter": "Tom Aspinall",
+  "slug": "tom-aspinall",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Englishman in New York",
+      "artist": "Sting",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "Supersonic / Move on Up",
+      "artist": "Oasis / Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

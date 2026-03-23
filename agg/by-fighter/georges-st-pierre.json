@@ -1,0 +1,22 @@
+{
+  "fighter": "Georges St-Pierre",
+  "slug": "georges-st-pierre",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Afro Trap Pt. 7 (La Puissance)",
+      "artist": "MHD",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wdI9sg2VdgjqSg0ozu9PK",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

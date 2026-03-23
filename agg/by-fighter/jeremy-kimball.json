@@ -1,0 +1,22 @@
+{
+  "fighter": "Jeremy Kimball",
+  "slug": "jeremy-kimball",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "You Can't Stop Me",
+      "artist": "Andy Mineo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3E5R61s1v3K6Us4QXKXE5r",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

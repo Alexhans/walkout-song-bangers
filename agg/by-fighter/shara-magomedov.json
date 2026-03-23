@@ -1,0 +1,22 @@
+{
+  "fighter": "Shara Magomedov",
+  "slug": "shara-magomedov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Legendary 2",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Legendary%202%20Tupac",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

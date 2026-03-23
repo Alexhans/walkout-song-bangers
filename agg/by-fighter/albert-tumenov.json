@@ -1,0 +1,22 @@
+{
+  "fighter": "Albert Tumenov",
+  "slug": "albert-tumenov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Heroes of Yore",
+      "artist": "Officers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

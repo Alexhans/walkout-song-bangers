@@ -1,0 +1,22 @@
+{
+  "fighter": "Ketlen Souza",
+  "slug": "ketlen-souza",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "A Rezadeira",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BPkH7NwsbjEGwyMI7EtVE",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

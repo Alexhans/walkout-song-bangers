@@ -1,0 +1,31 @@
+{
+  "fighter": "Jon Jones",
+  "slug": "jon-jones",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "God Gave Me Style/The Champ Is Here",
+      "artist": "50 Cent/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "We Are the Champions/The Champ is Here",
+      "artist": "Queen/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

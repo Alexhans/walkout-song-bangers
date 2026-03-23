@@ -1,0 +1,22 @@
+{
+  "fighter": "Gadzhimurad Antigulov",
+  "slug": "gadzhimurad-antigulov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Because I am a Highlander",
+      "artist": "Marat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

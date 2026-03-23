@@ -1,0 +1,573 @@
+{
+  "year": 2025,
+  "events": 2,
+  "tracks": [
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Hawaiian Kickboxer / Hawaiian Hitman",
+      "artist": "Moke Boy / Pohaku",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Clubbed to Death",
+      "artist": "Rob Dougan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "My Motherland Siberia",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Daniel Rodriguez",
+      "song_title": "California Love",
+      "artist": "2Pac, Roger, Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Ghost",
+      "artist": "YoungBoy Never Broke Again",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Patricio Freire",
+      "song_title": "Tumbalacatumba",
+      "artist": "Galinha Pintadinha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/72aoXCBt2gTpYVZrYJenwq",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Everybody",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "Golden Boy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Nikolay Veretennikov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Ateba Gautier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Robert Valentin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Islam Dulatov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Adam Fugitt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Lights Go Down",
+      "artist": "Bazanji",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Marcin Prachnio",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "I'm a Go Getta",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Im%20A%20Go%20Getta%20Lil%20Wayne",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Lukasz Brzeski",
+      "song_title": "Mój Świat",
+      "artist": "Lukasyno, Kriso, Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "The Lonely Man Theme",
+      "artist": "Joe Harnell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ZgDn35QKjN3CM2crhTIIs",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Jackson McVey",
+      "song_title": "Steppin' Out",
+      "artist": "Steel Pulse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Carli Judice",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Nicolle Caliari",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "Lezginka",
+      "artist": "Traditional Folk Dance",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "Wu Zu",
+      "artist": "V.G.P.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Sean Brady",
+      "song_title": "They Don't Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "Jugador Franquicia",
+      "artist": "Myke Towers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kNpoVStauSMwm0mF0qShU",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Carlos Prates",
+      "song_title": "Marolento",
+      "artist": "Puterrier feat. Borges",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/44KoAoBa6T3U5Jkf7jXXHu",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "A Beautiful Exchange",
+      "artist": "Hillsong Worship",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Benoît Saint Denis",
+      "song_title": "Le Chant des Commandos",
+      "artist": "Suprême NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46jtBanrgmdCIQv1Wo7m8K",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Jon Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Rodolfo Vieira",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "The Last Hero",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "The Blessing",
+      "artist": "Kari Jobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "The Business",
+      "artist": "Tiësto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Tracy Cortez",
+      "song_title": "La Chona",
+      "artist": "Los Tucanes de Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Malcolm Wellmaker",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. & Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Ethyn Ewing",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Man",
+      "artist": "Aloe Blacc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "The Imperial March",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "The Champ",
+      "artist": "Ghostface Killah",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5iT0oOBAZek1ynX91Pr4iI",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Chepe Mariscal",
+      "song_title": "El Rey",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "The Warrior",
+      "artist": "Scandal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Fatima Kline",
+      "song_title": "Girl on Fire",
+      "artist": "Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Baisangur Susurkaev",
+      "song_title": "Traditional Chechen Music",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ht10mPGMxbHnoOdXH7vUK",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Eric McConico",
+      "song_title": "Hustlin'",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Viacheslav Borshchev",
+      "song_title": "The Last Hero",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "fighter": "Matheus Camilo",
+      "song_title": "Brasil",
+      "artist": "Cazuza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "total_fighters": 56,
+    "with_song": 45,
+    "playable_tracks": 42,
+    "unique_playable_tracks": 41,
+    "missing": 11
+  }
+}

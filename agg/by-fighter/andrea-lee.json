@@ -1,0 +1,31 @@
+{
+  "fighter": "Andrea Lee",
+  "slug": "andrea-lee",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Big Brother",
+      "artist": "Hi-Rez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7sRTc615a47VKZt71Zl8qR",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

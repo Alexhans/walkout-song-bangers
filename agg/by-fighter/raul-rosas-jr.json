@@ -1,0 +1,22 @@
+{
+  "fighter": "Raul Rosas Jr.",
+  "slug": "raul-rosas-jr",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "México Lindo y Querido",
+      "artist": "Vicente Fernández",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

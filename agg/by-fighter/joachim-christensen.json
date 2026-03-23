@@ -1,0 +1,22 @@
+{
+  "fighter": "Joachim Christensen",
+  "slug": "joachim-christensen",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Store Far",
+      "artist": "Denz feat. T.A.P. Malledrengen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YoDSE0GClozWoRKBB7y6i",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

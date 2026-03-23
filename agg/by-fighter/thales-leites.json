@@ -1,0 +1,22 @@
+{
+  "fighter": "Thales Leites",
+  "slug": "thales-leites",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Three Little Birds",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Jason Knight",
+  "slug": "jason-knight",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Sleeping Dog",
+      "artist": "Blackberry Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3tJ9FsjhspfsrhtYvMWCKp",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

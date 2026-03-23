@@ -1,0 +1,31 @@
+{
+  "fighter": "Jesus Aguilar",
+  "slug": "jesus-aguilar",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Nada Es Coincidencia",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7maoQr1s4iFoMlfJVy3uD4",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

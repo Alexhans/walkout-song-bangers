@@ -1,0 +1,188 @@
+{
+  "event": "UFC 291",
+  "event_slug": "ufc-291",
+  "date": "2023-07-29",
+  "location": "Salt Lake City, Utah, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-291-Walkout-Tracks-190622"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "The Politics & The Life (King Arthur)",
+      "artist": "Daniel Pemberton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Politics%20%26%20The%20Life%20%28King%20Arthur%29%20Daniel%20Pemberton",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "I Was Just Thinking",
+      "artist": "Gunna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Bonfim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "Swisha And Dosha",
+      "artist": "UGK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM",
+      "notes": ""
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "Utah Freestyle",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g6wdIeJk6dIRfrCQ2ABq5",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinicius Salvador",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "МОЯ РОДИНА СИБИРЬ (РАТИНА)",
+      "artist": "николАй ЕМЕЛИН",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52OLFCPvFyIknSeBTQEegZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Ribeiro",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "NHF (No Hard Feelings)",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
+      "notes": ""
+    },
+    {
+      "fighter": "Darrius Flowers",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Matthew Semelsberger",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

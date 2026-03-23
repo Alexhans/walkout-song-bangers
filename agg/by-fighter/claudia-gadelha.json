@@ -1,0 +1,31 @@
+{
+  "fighter": "Claudia Gadelha",
+  "slug": "claudia-gadelha",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Best is Yet To come",
+      "artist": "Luvbug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YzzQrDGPAC27tGHST2DBZ",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "Agradecer",
+      "artist": "Pacificadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/38YgO0u1U6aM8OiT91KyCj",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

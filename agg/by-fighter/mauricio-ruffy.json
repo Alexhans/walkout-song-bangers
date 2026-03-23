@@ -1,0 +1,31 @@
+{
+  "fighter": "Mauricio Ruffy",
+  "slug": "mauricio-ruffy",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "Maurício Ruffy",
+      "artist": "Maurício Ruffy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IpmBlAxjq47YnDec2tT9D",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

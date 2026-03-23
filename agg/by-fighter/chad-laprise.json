@@ -1,0 +1,22 @@
+{
+  "fighter": "Chad Laprise",
+  "slug": "chad-laprise",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "God's Song",
+      "artist": "Mikey Rukus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1IJ3FJepMPSBTzoPdfY9g2",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Josh Culibao",
+  "slug": "josh-culibao",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Hey Baby (Uhh, Ahh)",
+      "artist": "Anton feat. DJ Otzi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hey%20Baby%20%28Uhh%2C%20Ahh%29%20Anton%20feat.%20DJ%20Otzi",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

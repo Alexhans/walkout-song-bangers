@@ -1,0 +1,31 @@
+{
+  "fighter": "Matthew Lopez",
+  "slug": "matthew-lopez",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Lunatic Fringe",
+      "artist": "Red Rider",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Lunatic Fringe",
+      "artist": "Red Rider",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4rAnSE0E0f33unxXsQa5Fr",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

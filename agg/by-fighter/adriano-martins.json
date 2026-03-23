@@ -1,0 +1,22 @@
+{
+  "fighter": "Adriano Martins",
+  "slug": "adriano-martins",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Say Yes",
+      "artist": "Joe Vasoncelos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

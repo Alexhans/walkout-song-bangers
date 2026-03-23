@@ -1,0 +1,22 @@
+{
+  "fighter": "Yair Rodriguez",
+  "slug": "yair-rodriguez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Corrido de Chuhuahua",
+      "artist": "Los Rieleros Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

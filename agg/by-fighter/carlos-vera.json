@@ -1,0 +1,22 @@
+{
+  "fighter": "Carlos Vera",
+  "slug": "carlos-vera",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I’m Bad",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

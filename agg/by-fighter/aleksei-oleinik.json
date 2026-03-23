@@ -1,0 +1,31 @@
+{
+  "fighter": "Aleksei Oleinik",
+  "slug": "aleksei-oleinik",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Ballad For The Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Ballad For The Suppression",
+      "artist": "Vladimir Vysotsky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

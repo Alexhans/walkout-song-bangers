@@ -1,0 +1,31 @@
+{
+  "fighter": "Israel Adesanya",
+  "slug": "israel-adesanya",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Bring It On Down (Battlezone) Remix",
+      "artist": "Flii Stylz & Tenashus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bring%20It%20On%20Down%20%28Battlezone%29%20Remix%20Flii%20Stylz%20%26%20Tenashus",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Donda / 11:11",
+      "artist": "Kanye West / Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Donda%20/%2011%3A11%20Kanye%20West%20/%20Chris%20Brown",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Brandon Royval",
+  "slug": "brandon-royval",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Shimmy Shimmy Ya",
+      "artist": "Ol’ Dirty Bastard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

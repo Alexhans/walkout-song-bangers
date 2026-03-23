@@ -1,0 +1,22 @@
+{
+  "fighter": "Ilia Topuria",
+  "slug": "ilia-topuria",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Hells Bells / Cancion Del Mariachi",
+      "artist": "AC/DC / Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hells%20Bells%20/%20Cancion%20Del%20Mariachi%20AC/DC%20/%20Antonio%20Banderas%20and%20Los%20Lobos",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

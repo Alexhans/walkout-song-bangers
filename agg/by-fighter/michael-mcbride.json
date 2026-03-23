@@ -1,0 +1,22 @@
+{
+  "fighter": "Michael McBride",
+  "slug": "michael-mcbride",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Yellow Flicker Beat",
+      "artist": "Lorde",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

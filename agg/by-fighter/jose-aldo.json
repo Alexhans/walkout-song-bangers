@@ -1,0 +1,40 @@
+{
+  "fighter": "Jose Aldo",
+  "slug": "jose-aldo",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Run This Town",
+      "artist": "Rihanna feat. Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "Somos Sente De Zambada",
+      "artist": "Lenin Ramirez feat. Regulo Cabo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Somos%20Sente%20De%20Zambada%20Lenin%20Ramirez",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    },
+    {
+      "song_title": "Run This Town",
+      "artist": "JAY-Z, Rihanna, Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

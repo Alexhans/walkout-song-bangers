@@ -1,0 +1,22 @@
+{
+  "fighter": "Thiago Santos",
+  "slug": "thiago-santos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Marreta Da CCD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Marreta%20Da%20CCD%20Para%20O%20Mundo%20MC%20Isaac%20Saradinho",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

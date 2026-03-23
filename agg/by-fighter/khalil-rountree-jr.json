@@ -1,0 +1,22 @@
+{
+  "fighter": "Khalil Rountree Jr.",
+  "slug": "khalil-rountree-jr",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

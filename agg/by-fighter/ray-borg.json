@@ -1,0 +1,31 @@
+{
+  "fighter": "Ray Borg",
+  "slug": "ray-borg",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Shout at the Devil",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "Shout at the Devil",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

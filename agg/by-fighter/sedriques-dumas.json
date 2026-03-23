@@ -1,0 +1,22 @@
+{
+  "fighter": "Sedriques Dumas",
+  "slug": "sedriques-dumas",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Ready",
+      "artist": "Young Nudy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

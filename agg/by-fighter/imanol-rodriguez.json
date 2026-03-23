@@ -1,0 +1,22 @@
+{
+  "fighter": "Imanol Rodriguez",
+  "slug": "imanol-rodriguez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Las Horas Pasan",
+      "artist": "Zxmyr, Sandro Malandro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

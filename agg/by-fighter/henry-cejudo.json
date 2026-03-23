@@ -1,0 +1,31 @@
+{
+  "fighter": "Henry Cejudo",
+  "slug": "henry-cejudo",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    },
+    {
+      "song_title": "Am I Wrong",
+      "artist": "Nico & Vinz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

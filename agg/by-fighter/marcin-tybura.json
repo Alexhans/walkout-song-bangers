@@ -1,0 +1,22 @@
+{
+  "fighter": "Marcin Tybura",
+  "slug": "marcin-tybura",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Get Me the G.I. Joes",
+      "artist": "Henry Jackman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ooJFQwMx8HHJnHZd0QCDr",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

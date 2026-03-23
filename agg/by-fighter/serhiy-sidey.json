@@ -1,0 +1,22 @@
+{
+  "fighter": "Serhiy Sidey",
+  "slug": "serhiy-sidey",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

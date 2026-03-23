@@ -1,0 +1,31 @@
+{
+  "fighter": "Ateba Gautier",
+  "slug": "ateba-gautier",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Mentalité du Djonks",
+      "artist": "Petit Kante",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/68dOxageNfYfEyaflnwyzk",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

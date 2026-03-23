@@ -1,0 +1,40 @@
+{
+  "fighter": "Amanda Lemos",
+  "slug": "amanda-lemos",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Deixa",
+      "artist": "Maria Marcai",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Deixa%20Maria%20Marcai",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Bencaos Que Nao Tem Fim",
+      "artist": "Isadora Pompeu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

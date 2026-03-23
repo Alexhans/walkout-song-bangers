@@ -1,0 +1,22 @@
+{
+  "fighter": "Mark Hunt",
+  "slug": "mark-hunt",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Poppin Them Thangs",
+      "artist": "G Unit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

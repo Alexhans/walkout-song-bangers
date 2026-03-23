@@ -1,0 +1,31 @@
+{
+  "fighter": "Irene Aldana",
+  "slug": "irene-aldana",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Malaguena Salerosa",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "El Sinaloense",
+      "artist": "Lola Beltran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DcH2KPdamXaIbiz4XqhHS",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

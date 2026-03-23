@@ -1,0 +1,49 @@
+{
+  "fighter": "Steve Erceg",
+  "slug": "steve-erceg",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "You Don't Mess With Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "You Don’t Mess With Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
+  }
+}

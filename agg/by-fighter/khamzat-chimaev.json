@@ -1,0 +1,22 @@
+{
+  "fighter": "Khamzat Chimaev",
+  "slug": "khamzat-chimaev",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Timur Mutsuraev",
+      "artist": "Tu Noch Kogda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Timur%20Mutsuraev%20Tu%20Noch%20Kogda",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

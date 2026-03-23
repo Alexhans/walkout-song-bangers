@@ -1,0 +1,31 @@
+{
+  "fighter": "Demian Maia",
+  "slug": "demian-maia",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

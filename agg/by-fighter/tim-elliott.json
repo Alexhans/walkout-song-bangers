@@ -1,0 +1,31 @@
+{
+  "fighter": "Tim Elliott",
+  "slug": "tim-elliott",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Karate",
+      "artist": "Kennedy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7heDoIselh7glb6h6D8tPh",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Pusher Man",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

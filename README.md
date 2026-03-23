@@ -95,6 +95,32 @@ The pipeline extracts a 30-second audio clip and runs Shazam recognition. If Sha
 3. **MMA Junkie "Fight Tracks"** — excellent, complete per-event
 4. **MixedMartialArts.com** — good for older events
 
+## Build a Spotify playlist
+
+Aggregated data lives in `agg/` (generated from `data/`). To build a playlist for any year:
+
+```bash
+python3 skill/scripts/aggregate.py                          # regenerate all aggregations
+python3 skill/scripts/aggregate.py --year 2026 --urls-only  # get Spotify track URLs
+```
+
+Then in Spotify desktop: **Create new playlist** → **Ctrl+V / Cmd+V** to paste the URLs. Spotify resolves them into tracks.
+
+```bash
+# Copy all 2026 tracks to clipboard (macOS)
+python3 skill/scripts/aggregate.py --year 2026 --urls-only | pbcopy
+
+# Copy all 2026 tracks to clipboard (Linux)
+python3 skill/scripts/aggregate.py --year 2026 --urls-only | xclip -selection clipboard
+```
+
+Other aggregation modes:
+
+```bash
+python3 skill/scripts/aggregate.py --year 2026              # full year JSON with stats
+python3 skill/scripts/aggregate.py --fighter "Max Holloway"  # single fighter history
+```
+
 ## Output format
 
 **JSON** (`data/{slug}.json`) — source of truth:

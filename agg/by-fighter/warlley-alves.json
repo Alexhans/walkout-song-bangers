@@ -1,0 +1,22 @@
+{
+  "fighter": "Warlley Alves",
+  "slug": "warlley-alves",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Coming in Hot",
+      "artist": "Andy Mineo and Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

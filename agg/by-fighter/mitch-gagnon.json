@@ -1,0 +1,22 @@
+{
+  "fighter": "Mitch Gagnon",
+  "slug": "mitch-gagnon",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bleed it Out",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

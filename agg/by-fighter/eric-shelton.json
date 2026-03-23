@@ -1,0 +1,22 @@
+{
+  "fighter": "Eric Shelton",
+  "slug": "eric-shelton",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Element",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

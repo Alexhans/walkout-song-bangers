@@ -1,0 +1,40 @@
+{
+  "fighter": "Sam Patterson",
+  "slug": "sam-patterson",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Rumble",
+      "artist": "Skrillex, Fred Again and Flowdan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Rumble%20Skrillex%2C%20Fred%20Again%20and%20Flowdan",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "Baddadan",
+      "artist": "Chase & Status, Bou, Flowdan, IRAH, Trigga, Takura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

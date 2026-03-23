@@ -1,0 +1,31 @@
+{
+  "fighter": "Tonya Evinger",
+  "slug": "tonya-evinger",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

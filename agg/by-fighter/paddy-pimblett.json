@@ -1,0 +1,40 @@
+{
+  "fighter": "Paddy Pimblett",
+  "slug": "paddy-pimblett",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Lethal Industry",
+      "artist": "Sunnery James and Ryan Marciano, Heads Will Roll by Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lethal%20Industry%20Sunnery%20James%20and%20Ryan%20Marciano%2C%20Heads%20Will%20Roll%20by%20Yeah%20Yeah%20Yeahs",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    },
+    {
+      "song_title": "Lethal Industry / Heads Will Roll",
+      "artist": "Sunnery James & Ryan Marciano / Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1GmOmsqRLexWoH1IYSQTOb",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "Lethal Industry / Heads Will Roll / Where's Your Head At",
+      "artist": "Sunnery James & Ryan Marciano / Yeah Yeah Yeahs / Basement Jaxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1GmOmsqRLexWoH1IYSQTOb",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

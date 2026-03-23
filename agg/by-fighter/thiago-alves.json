@@ -1,0 +1,22 @@
+{
+  "fighter": "Thiago Alves",
+  "slug": "thiago-alves",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Full Clip",
+      "artist": "Gang Starr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

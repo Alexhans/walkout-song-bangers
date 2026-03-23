@@ -1,0 +1,49 @@
+{
+  "fighter": "Diego Lopes",
+  "slug": "diego-lopes",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Por Mi Mexico",
+      "artist": "Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo and Neto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Por%20Mi%20Mexico%20Lefty%20SM%2C%20Santa%20Fe%20Klan%2C%20Dharius%2C%20C-Kan%2C%20MC%20Davo%20and%20Neto",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "DEVASTATED",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "La Chona",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
+  }
+}

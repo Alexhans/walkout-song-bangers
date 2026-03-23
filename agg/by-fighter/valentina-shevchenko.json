@@ -1,0 +1,22 @@
+{
+  "fighter": "Valentina Shevchenko",
+  "slug": "valentina-shevchenko",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Lezginka",
+      "artist": "Traditional Folk Dance",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

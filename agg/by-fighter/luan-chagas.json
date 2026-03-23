@@ -1,0 +1,22 @@
+{
+  "fighter": "Luan Chagas",
+  "slug": "luan-chagas",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "O Nome de Jesus",
+      "artist": "Isadora Pompeu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

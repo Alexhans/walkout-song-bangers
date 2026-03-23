@@ -1,0 +1,22 @@
+{
+  "fighter": "Jessica Aguilar",
+  "slug": "jessica-aguilar",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Gallo De Oro",
+      "artist": "Ana Gabriel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bPxASg7VSeQWWeK9q8CzL",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

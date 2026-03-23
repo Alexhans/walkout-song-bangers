@@ -1,0 +1,22 @@
+{
+  "fighter": "Anthony Johnson",
+  "slug": "anthony-johnson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Moment",
+      "artist": "Young Money feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

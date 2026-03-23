@@ -1,0 +1,22 @@
+{
+  "fighter": "Song Kenan",
+  "slug": "song-kenan",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "No More Hesitation",
+      "artist": "Justin Lin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/No%20More%20Hesitation%20Justin%20Lin",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

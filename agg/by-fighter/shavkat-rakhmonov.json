@@ -1,0 +1,22 @@
+{
+  "fighter": "Shavkat Rakhmonov",
+  "slug": "shavkat-rakhmonov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Tam Tau Adam",
+      "artist": "Oizhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tam%20Tau%20Adam%20Oizhas%20Albay",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

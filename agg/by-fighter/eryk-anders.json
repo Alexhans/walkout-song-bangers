@@ -1,0 +1,31 @@
+{
+  "fighter": "Eryk Anders",
+  "slug": "eryk-anders",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Ramen & OJ",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ramen%20%26%20OJ%20Joyner%20Lucas",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

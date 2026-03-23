@@ -1,0 +1,22 @@
+{
+  "fighter": "Anshul Jubli",
+  "slug": "anshul-jubli",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Ronin",
+      "artist": "Jade",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lpPuhGPA1XSD4PzsKU8gG",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

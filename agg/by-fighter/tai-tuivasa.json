@@ -1,0 +1,40 @@
+{
+  "fighter": "Tai Tuivasa",
+  "slug": "tai-tuivasa",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Scar",
+      "artist": "Missy Higgins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PQQsoMJOpSu12RDMan0AA",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Raise Your Glass",
+      "artist": "Pink",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    },
+    {
+      "song_title": "Man I Need",
+      "artist": "Olivia Dean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

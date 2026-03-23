@@ -1,0 +1,40 @@
+{
+  "fighter": "Miranda Maverick",
+  "slug": "miranda-maverick",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Top Gun theme",
+      "artist": "Harold Faltermyer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Top%20Gun%E2%80%9D%20theme%20Harold%20Faltermyer",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 1,
+    "missing": 2,
+    "unique_songs": 1
+  }
+}

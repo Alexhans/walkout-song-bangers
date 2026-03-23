@@ -1,0 +1,22 @@
+{
+  "fighter": "Felipe Bunes",
+  "slug": "felipe-bunes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Chico Bateu No Bode",
+      "artist": "Banda Grafith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ybr42DJG4RoRVNetX7yEv",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

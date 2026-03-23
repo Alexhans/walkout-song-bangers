@@ -1,0 +1,22 @@
+{
+  "fighter": "Jinh Yu Frey",
+  "slug": "jinh-yu-frey",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Sloth’s Revenge",
+      "artist": "The Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

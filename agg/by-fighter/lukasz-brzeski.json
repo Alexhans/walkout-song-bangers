@@ -1,0 +1,31 @@
+{
+  "fighter": "Lukasz Brzeski",
+  "slug": "lukasz-brzeski",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Mój Świat",
+      "artist": "Lukasyno, Kriso, Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "Mój Świat",
+      "artist": "Lukasyno, Kriso, Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

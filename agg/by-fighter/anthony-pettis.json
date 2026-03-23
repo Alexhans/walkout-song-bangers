@@ -1,0 +1,40 @@
+{
+  "fighter": "Anthony Pettis",
+  "slug": "anthony-pettis",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Showtime",
+      "artist": "Jim Jones and Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Showtime",
+      "artist": "Jim Jones & Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gEPKKr6rA2SoEQnFD5SoN",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

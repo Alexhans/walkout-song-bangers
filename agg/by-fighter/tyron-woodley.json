@@ -1,0 +1,40 @@
+{
+  "fighter": "Tyron Woodley",
+  "slug": "tyron-woodley",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "I Ain't Turning Back",
+      "artist": "Thi'sl feat. Flame",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/21hhV2VDGpukgfUrQK6kwC",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "I Ain't Turning Back",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iyc3BlDHRi2utwTblalaJ",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "DNA/I Ain't Turning Back",
+      "artist": "Kendrick Lamar/Thi'sl feat. Flame",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

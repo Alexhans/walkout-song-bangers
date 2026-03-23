@@ -1,0 +1,58 @@
+{
+  "fighter": "Roman Kopylov",
+  "slug": "roman-kopylov",
+  "appearances": 5,
+  "walkouts": [
+    {
+      "song_title": "МОЯ РОДИНА СИБИРЬ (РАТИНА)",
+      "artist": "николАй ЕМЕЛИН",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52OLFCPvFyIknSeBTQEegZ",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "My Motherland Siberia",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    },
+    {
+      "song_title": "My Motherland Siberia",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "My Motherland Siberia",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "The Last Hero",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 5,
+    "with_song": 5,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

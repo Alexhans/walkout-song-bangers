@@ -1,0 +1,22 @@
+{
+  "fighter": "Yohan Lainesse",
+  "slug": "yohan-lainesse",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Run%20This%20Town%20Jay-Z%20feat.%20Rihanna%20and%20Kanye%20West",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Gilbert Melendez",
+  "slug": "gilbert-melendez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Can't C Me",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

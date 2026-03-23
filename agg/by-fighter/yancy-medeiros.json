@@ -1,0 +1,40 @@
+{
+  "fighter": "Yancy Medeiros",
+  "slug": "yancy-medeiros",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Make It Bun Dem",
+      "artist": "Damien Marley and Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Thunder",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "We are Hawaii's Finest/Till I Collapse",
+      "artist": "Ekulo/Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

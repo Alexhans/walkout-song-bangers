@@ -1,0 +1,22 @@
+{
+  "fighter": "Ulka Sasaki",
+  "slug": "ulka-sasaki",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Time to Say Goodbye",
+      "artist": "Andrea Bocelli & Sarah Brightman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NNqrcjdK8YAiXV6YPasz3",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

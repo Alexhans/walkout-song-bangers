@@ -1,0 +1,31 @@
+{
+  "fighter": "Randy Brown",
+  "slug": "randy-brown",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Broad Daylight",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uGrfMK19vf1rT8pWhNNvq",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Lime Light",
+      "artist": "Masicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

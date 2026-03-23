@@ -1,0 +1,22 @@
+{
+  "fighter": "Cesar Almeida",
+  "slug": "cesar-almeida",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

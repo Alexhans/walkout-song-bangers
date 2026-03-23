@@ -1,0 +1,31 @@
+{
+  "fighter": "Johnny Walker",
+  "slug": "johnny-walker",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "The Rocky Road to Dublin",
+      "artist": "High Kings and Insomnia by Faithless",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Rocky%20Road%20to%20Dublin%20High%20Kings%20and%20Insomnia%20by%20Faithless",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
+      "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
+      "artist": "Snap!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

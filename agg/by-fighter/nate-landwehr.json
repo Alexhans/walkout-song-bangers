@@ -1,0 +1,22 @@
+{
+  "fighter": "Nate Landwehr",
+  "slug": "nate-landwehr",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "You And Me",
+      "artist": "Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

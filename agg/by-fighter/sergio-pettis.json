@@ -1,0 +1,31 @@
+{
+  "fighter": "Sergio Pettis",
+  "slug": "sergio-pettis",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Good Life",
+      "artist": "Kanye West feat. T-Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    },
+    {
+      "song_title": "Programs",
+      "artist": "Mac Miller",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

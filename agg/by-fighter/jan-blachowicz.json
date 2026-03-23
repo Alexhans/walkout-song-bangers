@@ -1,0 +1,31 @@
+{
+  "fighter": "Jan Blachowicz",
+  "slug": "jan-blachowicz",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "The Politics & The Life (King Arthur)",
+      "artist": "Daniel Pemberton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Politics%20%26%20The%20Life%20%28King%20Arthur%29%20Daniel%20Pemberton",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

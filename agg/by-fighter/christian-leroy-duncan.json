@@ -1,0 +1,31 @@
+{
+  "fighter": "Christian Leroy Duncan",
+  "slug": "christian-leroy-duncan",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Fly Team",
+      "artist": "Yung Montanna & Gripper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fly%20Team%20Yung%20Montanna%20Gripper",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

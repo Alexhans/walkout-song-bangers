@@ -1,0 +1,22 @@
+{
+  "fighter": "Gabriel Miranda",
+  "slug": "gabriel-miranda",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "O Som Que Desperta",
+      "artist": "Fred Arrais",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Ux75bPsXempzygaOjFOck",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

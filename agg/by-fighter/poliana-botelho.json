@@ -1,0 +1,31 @@
+{
+  "fighter": "Poliana Botelho",
+  "slug": "poliana-botelho",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Wild Thoughts",
+      "artist": "DJ Khaled feat. Rihanna and Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    },
+    {
+      "song_title": "Wild Thoughts",
+      "artist": "DJ Khaled ft. Rihanna & Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

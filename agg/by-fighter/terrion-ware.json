@@ -1,0 +1,22 @@
+{
+  "fighter": "Terrion Ware",
+  "slug": "terrion-ware",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Amazing",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01UniWABhnIka7GgvzOC02",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

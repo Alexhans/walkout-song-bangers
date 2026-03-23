@@ -1,0 +1,22 @@
+{
+  "fighter": "Kailin Curran",
+  "slug": "kailin-curran",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Entourage",
+      "artist": "Nick Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZMZcoAPh4fzDL9rYfqze0",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

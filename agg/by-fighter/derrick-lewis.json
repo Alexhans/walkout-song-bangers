@@ -1,0 +1,40 @@
+{
+  "fighter": "Derrick Lewis",
+  "slug": "derrick-lewis",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Wanna Be a Baller",
+      "artist": "Lil' Troy",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

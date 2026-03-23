@@ -1,0 +1,22 @@
+{
+  "fighter": "Kurt Holobaugh",
+  "slug": "kurt-holobaugh",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Take It Outside",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1AJBs8myLazWQpOMZ8Vtpg",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Emil Weber Meek",
+  "slug": "emil-weber-meek",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Fare Fare Krigsman",
+      "artist": "Autokarma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23iueOvgcLgMeEq2SEBTax",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

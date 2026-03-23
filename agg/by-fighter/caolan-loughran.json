@@ -1,0 +1,22 @@
+{
+  "fighter": "Caolan Loughran",
+  "slug": "caolan-loughran",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Dreams / Thank You (Not So Bad)",
+      "artist": "The Cranberries / Dimitri Vegas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

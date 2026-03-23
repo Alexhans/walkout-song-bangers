@@ -1,0 +1,22 @@
+{
+  "fighter": "Jesus Pinedo",
+  "slug": "jesus-pinedo",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Contigo Peru",
+      "artist": "Arturo 'Zambo' Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

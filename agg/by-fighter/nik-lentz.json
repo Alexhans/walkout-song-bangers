@@ -1,0 +1,31 @@
+{
+  "fighter": "Nik Lentz",
+  "slug": "nik-lentz",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Whipping Boy",
+      "artist": "Shearwater",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59CeX5YG93zTwKAnT3eUec",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "The Greatest Show Unearthed",
+      "artist": "Creature Feature",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YEkxfNMTHkfoYlh4d1Y7b",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

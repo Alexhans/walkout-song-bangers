@@ -1,0 +1,22 @@
+{
+  "fighter": "Dong Hyun Kim",
+  "slug": "dong-hyun-kim",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Danza Kuduro",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

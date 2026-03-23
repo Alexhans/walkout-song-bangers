@@ -1,0 +1,49 @@
+{
+  "fighter": "Jessica Andrade",
+  "slug": "jessica-andrade",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Drag Me Down",
+      "artist": "One Direction",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Chegui",
+      "artist": "Ludmilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Bht3AhEqb8jmiWiJBigFw",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Diz (You Say)",
+      "artist": "Gabriela Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Diz%20%28You%20Say%29%20Gabriela%20Rocha",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "É Hora de Vencer",
+      "artist": "Facção 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/%C3%89%20Hora%20de%20Vencer%20Fac%C3%A7%C3%A3o%20288",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

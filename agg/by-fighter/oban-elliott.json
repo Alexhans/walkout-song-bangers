@@ -1,0 +1,40 @@
+{
+  "fighter": "Oban Elliott",
+  "slug": "oban-elliott",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Ian Machado Garry: Layla",
+      "artist": "Derek & the Dominos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ian%20Machado%20Garry%3A%20%E2%80%9CLayla%20Derek%20%26%20the%20Dominos",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    },
+    {
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio, L.V.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "Welcome To The Jungle",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

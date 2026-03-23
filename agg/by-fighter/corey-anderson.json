@@ -1,0 +1,22 @@
+{
+  "fighter": "Corey Anderson",
+  "slug": "corey-anderson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "My Time",
+      "artist": "Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

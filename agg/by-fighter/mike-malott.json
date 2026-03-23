@@ -1,0 +1,31 @@
+{
+  "fighter": "Mike Malott",
+  "slug": "mike-malott",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "Mike Malott : Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mike%20Malott%20%3A%20Fat%20Lip%20Sum%2041",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

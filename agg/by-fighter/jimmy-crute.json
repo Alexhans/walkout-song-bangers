@@ -1,0 +1,22 @@
+{
+  "fighter": "Jimmy Crute",
+  "slug": "jimmy-crute",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Lights Go Down",
+      "artist": "Bazanji",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

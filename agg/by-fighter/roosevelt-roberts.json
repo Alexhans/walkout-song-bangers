@@ -1,0 +1,22 @@
+{
+  "fighter": "Roosevelt Roberts",
+  "slug": "roosevelt-roberts",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Not in the Mood",
+      "artist": "Lil’ TJay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

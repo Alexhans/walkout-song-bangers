@@ -1,0 +1,31 @@
+{
+  "fighter": "Douglas Silva de Andrade",
+  "slug": "douglas-silva-de-andrade",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Conquistando o Impossavel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Golden (David Guetta Remix)",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, David Guetta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20HUNTRX%20David%20Guetta%20Remix",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

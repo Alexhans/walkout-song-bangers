@@ -1,0 +1,22 @@
+{
+  "fighter": "Damian Stasiak",
+  "slug": "damian-stasiak",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

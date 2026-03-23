@@ -1,0 +1,22 @@
+{
+  "fighter": "Malcolm Wellmaker",
+  "slug": "malcolm-wellmaker",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. & Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

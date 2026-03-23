@@ -1,0 +1,31 @@
+{
+  "fighter": "Aiemann Zahabi",
+  "slug": "aiemann-zahabi",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Still Crusin",
+      "artist": "Eazy E feat. The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

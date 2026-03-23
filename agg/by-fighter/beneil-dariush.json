@@ -1,0 +1,40 @@
+{
+  "fighter": "Beneil Dariush",
+  "slug": "beneil-dariush",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Broken Vessels (Amazing Grace)",
+      "artist": "Hillsong United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "A Beautiful Exchange",
+      "artist": "Hillsong Worship",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fighter": "Dustin Poirier",
+  "slug": "dustin-poirier",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Ain't No Stopping' Us Now",
+      "artist": "McFadden & Whitehead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Diamonds / The Boss",
+      "artist": "Rihanna / James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
+  }
+}

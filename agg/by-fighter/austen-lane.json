@@ -1,0 +1,31 @@
+{
+  "fighter": "Austen Lane",
+  "slug": "austen-lane",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Because I’m Me",
+      "artist": "The Avalanches",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Denis Tiuliulin",
+  "slug": "denis-tiuliulin",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "ДЕЛЕ",
+      "artist": "ОБ.в",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/%D0%94%D0%95%D0%9B%D0%95%20%D0%9E%D0%91.%D0%B2",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

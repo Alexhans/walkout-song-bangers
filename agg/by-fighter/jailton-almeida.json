@@ -1,0 +1,31 @@
+{
+  "fighter": "Jailton Almeida",
+  "slug": "jailton-almeida",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Perna Bamba",
+      "artist": "Parangolé, Léo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "Perseverança",
+      "artist": "Xande de Pilares",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RoTNWss4JqUwI1R19rhGW",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

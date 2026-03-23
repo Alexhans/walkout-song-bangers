@@ -1,0 +1,22 @@
+{
+  "fighter": "Nazim Sadykhov",
+  "slug": "nazim-sadykhov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Scenario",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6kCXdQb0ope40wooHb8aFN",
+      "event": "UFC 295",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

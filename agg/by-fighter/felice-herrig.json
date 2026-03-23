@@ -1,0 +1,31 @@
+{
+  "fighter": "Felice Herrig",
+  "slug": "felice-herrig",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Blinded by the Light",
+      "artist": "Manfred Mann's Earth Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vB1LXvjlmOG47FPgVQHFS",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    },
+    {
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Tracy Cortez",
+  "slug": "tracy-cortez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "La Chona",
+      "artist": "Los Tucanes de Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

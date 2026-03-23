@@ -1,0 +1,31 @@
+{
+  "fighter": "Marc Diakiese",
+  "slug": "marc-diakiese",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "My Moment",
+      "artist": "DJ Drama feat. 2 Chainz, Meek Mill & Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Gva0j7oBU6MdvUMQyDRTJ",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "Man's Not Hot",
+      "artist": "Big Shaq",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

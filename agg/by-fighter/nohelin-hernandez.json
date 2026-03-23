@@ -1,0 +1,22 @@
+{
+  "fighter": "Nohelin Hernandez",
+  "slug": "nohelin-hernandez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Cameras",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Swx0M6iLt0Lr5nN33YCEB",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

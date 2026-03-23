@@ -1,0 +1,31 @@
+{
+  "fighter": "Jalin Turner",
+  "slug": "jalin-turner",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "New Patek",
+      "artist": "Lil Uzi Vert",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Zendaya",
+      "artist": "Cozz, J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Dustin Jacoby",
+  "slug": "dustin-jacoby",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty and the Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZIqc8hMV2PqK5qPqvcI6H",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    },
+    {
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Go%20DJ%20Lil%20Wayne",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

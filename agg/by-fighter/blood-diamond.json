@@ -1,0 +1,22 @@
+{
+  "fighter": "Blood Diamond",
+  "slug": "blood-diamond",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "One Blood",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GPWJP1Ai1RUCfsOOFw3dl",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

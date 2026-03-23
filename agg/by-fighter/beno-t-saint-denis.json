@@ -1,0 +1,22 @@
+{
+  "fighter": "Benoît Saint Denis",
+  "slug": "beno-t-saint-denis",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Le Chant des Commandos",
+      "artist": "Suprême NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46jtBanrgmdCIQv1Wo7m8K",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

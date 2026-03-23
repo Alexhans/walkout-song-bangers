@@ -1,0 +1,49 @@
+{
+  "fighter": "Drew Dober",
+  "slug": "drew-dober",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Shoop",
+      "artist": "Salt N Pepa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Wild Thing",
+      "artist": "Tone Loc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "No Diggity",
+      "artist": "Backstreet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "This Is How We Do It",
+      "artist": "Montell Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

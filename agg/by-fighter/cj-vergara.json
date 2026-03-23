@@ -1,0 +1,22 @@
+{
+  "fighter": "CJ Vergara",
+  "slug": "cj-vergara",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Utah Freestyle",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g6wdIeJk6dIRfrCQ2ABq5",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

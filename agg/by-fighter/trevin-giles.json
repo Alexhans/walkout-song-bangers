@@ -1,0 +1,31 @@
+{
+  "fighter": "Trevin Giles",
+  "slug": "trevin-giles",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Wait a Minute",
+      "artist": "Phresher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNS8rIcTvKVdgbSuQC9Xe",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Swisha And Dosha",
+      "artist": "UGK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

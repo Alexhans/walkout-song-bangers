@@ -1,0 +1,22 @@
+{
+  "fighter": "Val Woodburn",
+  "slug": "val-woodburn",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Mxrdah / Intence",
+      "artist": "Govana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mxrdah%20/%20Intence%20Govana",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

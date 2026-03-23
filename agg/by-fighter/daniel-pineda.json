@@ -1,0 +1,22 @@
+{
+  "fighter": "Daniel Pineda",
+  "slug": "daniel-pineda",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "It's a Fight",
+      "artist": "Three 6 Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Its%20a%20Fight%20Three%206%20Mafia",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

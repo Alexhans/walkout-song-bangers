@@ -1,0 +1,22 @@
+{
+  "fighter": "Michael Morales",
+  "slug": "michael-morales",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Jugador Franquicia",
+      "artist": "Myke Towers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kNpoVStauSMwm0mF0qShU",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fighter": "Gregory Rodrigues",
+  "slug": "gregory-rodrigues",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "This Means War",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "This Means War",
+      "artist": "Avenged Sevenfold",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "The Blessing",
+      "artist": "Kari Jobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "Javid Basharat",
+  "slug": "javid-basharat",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/You%20Can%E2%80%99t%20Stop%20Me%20Now%20RZA",
+      "event": "UFC 294",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
+      "song_title": "Ready For War (HBO Instrumental)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ready%20For%20War%20HBO%2050%20Cent",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fighter": "John Makdessi",
+  "slug": "john-makdessi",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Fade",
+      "artist": "Alan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ELU5WP9GpuMQ78RAivBjx",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Victory 2004",
+      "artist": "Diddy feat. The Notorious B.I.G., Busta Rhymes, 50 Cent & Lloyd Banks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Yslb5NGqlZ8dC94ARxivO",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

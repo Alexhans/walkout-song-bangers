@@ -1,0 +1,31 @@
+{
+  "fighter": "Roman Dolidze",
+  "slug": "roman-dolidze",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 0,
+    "missing": 2,
+    "unique_songs": 0
+  }
+}

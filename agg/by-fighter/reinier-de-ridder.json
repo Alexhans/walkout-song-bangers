@@ -1,0 +1,22 @@
+{
+  "fighter": "Reinier de Ridder",
+  "slug": "reinier-de-ridder",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Four Seasons — Winter",
+      "artist": "Antonio Vivaldi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2z6S4COxgGKNLZUYxt6T99",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

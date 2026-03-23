@@ -1,0 +1,31 @@
+{
+  "fighter": "Jake Matthews",
+  "slug": "jake-matthews",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "NHF (No Hard Feelings)",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "NHF (No Hard Feelings)",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

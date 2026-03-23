@@ -1,0 +1,31 @@
+{
+  "fighter": "Randa Markos",
+  "slug": "randa-markos",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Shake It Out",
+      "artist": "Florence and the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "No Love",
+      "artist": "Eminem feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

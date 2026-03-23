@@ -1,0 +1,49 @@
+{
+  "fighter": "Marc-Andre Barriault",
+  "slug": "marc-andre-barriault",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 289",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "White Horse",
+      "artist": "Chris Stapleton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "Lion's Roar",
+      "artist": "Dominik Witka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5r2s5GWVdAPf58KS9zwq3v",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
+    "unique_songs": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Gray Maynard",
+  "slug": "gray-maynard",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Know Your Enemy",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

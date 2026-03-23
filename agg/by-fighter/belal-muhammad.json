@@ -1,0 +1,40 @@
+{
+  "fighter": "Belal Muhammad",
+  "slug": "belal-muhammad",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "We Ready",
+      "artist": "Archie Ebersole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Dammi Falastini",
+      "artist": "Mohammad Assaf, Exgeist",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

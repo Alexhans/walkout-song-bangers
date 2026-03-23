@@ -1,0 +1,40 @@
+{
+  "fighter": "Dan Hooker",
+  "slug": "dan-hooker",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Who I Smoke",
+      "artist": "Fastmoney Goon, Spinabenz & Yungeen Ace",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2fujhLR4zhDRPbYDhI0xRr",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    },
+    {
+      "song_title": "Hold Ya Head",
+      "artist": "The Notorious B.I.G., Bob Marley & The Wailers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

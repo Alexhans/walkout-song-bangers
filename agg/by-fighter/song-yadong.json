@@ -1,0 +1,31 @@
+{
+  "fighter": "Song Yadong",
+  "slug": "song-yadong",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "龍拳 (Dragon Fist)",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

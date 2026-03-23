@@ -1,0 +1,22 @@
+{
+  "fighter": "Brian Camozzi",
+  "slug": "brian-camozzi",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Here Comes the Hotstepper",
+      "artist": "Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

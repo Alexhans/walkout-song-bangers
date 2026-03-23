@@ -1,0 +1,22 @@
+{
+  "fighter": "Brandon Moreno",
+  "slug": "brandon-moreno",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

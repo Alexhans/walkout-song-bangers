@@ -1,0 +1,22 @@
+{
+  "fighter": "Mara Romero Borella",
+  "slug": "mara-romero-borella",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Zoku (Japanese Drum)",
+      "artist": "Kodo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6msToMBObcfik5vw6nGorJ",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

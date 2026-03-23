@@ -1,0 +1,31 @@
+{
+  "fighter": "Jack Jenkins",
+  "slug": "jack-jenkins",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "8 Mile Eminem final rap battle",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/8%20Mile%20Eminem%20final%20rap%20battle",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Horses",
+      "artist": "Daryl Braithwaite",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

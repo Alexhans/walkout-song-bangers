@@ -1,0 +1,31 @@
+{
+  "fighter": "Frankie Edgar",
+  "slug": "frankie-edgar",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Kick in the Door",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24CA5I411NVDYodjjmKPx3",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Kick in the Door",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

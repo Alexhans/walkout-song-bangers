@@ -1,0 +1,31 @@
+{
+  "fighter": "Dricus Du Plessis",
+  "slug": "dricus-du-plessis",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "South Africa national anthem / Live It Up",
+      "artist": "South Africa national anthem / Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/South%20Africa%20national%20anthem%20/%20Live%20It%20Up%20South%20Africa%20national%20anthem%20/%20Airbourne",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

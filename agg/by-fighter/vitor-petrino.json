@@ -1,0 +1,31 @@
+{
+  "fighter": "Vitor Petrino",
+  "slug": "vitor-petrino",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Abertura Oficial Vitor Petrino",
+      "artist": "DJ Ruan do Primeiro, MC Mininin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4l6fgooWQqn6m0QM9lARjU",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

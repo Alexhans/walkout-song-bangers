@@ -1,0 +1,22 @@
+{
+  "fighter": "Eric Spicely",
+  "slug": "eric-spicely",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bro Hymn",
+      "artist": "Pennywise",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

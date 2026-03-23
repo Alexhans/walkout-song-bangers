@@ -1,0 +1,22 @@
+{
+  "fighter": "Kris Moutinho",
+  "slug": "kris-moutinho",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

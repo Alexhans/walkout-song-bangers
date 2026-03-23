@@ -1,0 +1,22 @@
+{
+  "fighter": "Alex Perez",
+  "slug": "alex-perez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

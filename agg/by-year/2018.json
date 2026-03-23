@@ -1,0 +1,493 @@
+{
+  "year": 2018,
+  "events": 2,
+  "tracks": [
+    {
+      "fighter": "Khabib Nurmagomedov",
+      "song_title": "Dagestan (Remix)",
+      "artist": "SABINA, Timaro",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "The Foggy Dew / Hypnotize",
+      "artist": "The Chieftains & Sinead O'Connor / The Notorious B.I.G.",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Wanna Be a Baller",
+      "artist": "Lil' Troy",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Zima Mama",
+      "artist": "25/17",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5wUUnAZXcgCNA4vM91paUg",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Michelle Waterson",
+      "song_title": "New Blood",
+      "artist": "Zayde Wolf",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/7GRGNtCeVyaC9kH48i0vUi",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Felice Herrig",
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Jussier Formiga",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Sergio Pettis",
+      "song_title": "Programs",
+      "artist": "Mac Miller",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Troopkilaz",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/search/Baby+Baby+Troopkilaz",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "New Patek",
+      "artist": "Lil Uzi Vert",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Aspen Ladd",
+      "song_title": "Promontory",
+      "artist": "Trevor Jones",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Tonya Evinger",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Scott Holtzman",
+      "song_title": "Nothin' but a Good Time",
+      "artist": "Poison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Alan Patrick",
+      "song_title": "12 Ate o Fim",
+      "artist": "Mano Hethi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Yana Kunitskaya",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Lina Lansberg",
+      "song_title": "Sail",
+      "artist": "AWOLNATION",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Nik Lentz",
+      "song_title": "The Greatest Show Unearthed",
+      "artist": "Creature Feature",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YEkxfNMTHkfoYlh4d1Y7b",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Gray Maynard",
+      "song_title": "Know Your Enemy",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Anthony Rocco Martin",
+      "song_title": "No Love",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Ryan LaFlare",
+      "song_title": "Release Yo' Self",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wGjTruvCtFKrAOJrMdMay",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "Bien Alto",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sOa9gg19G0U9DPR39NYQG",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae ft. Suzy Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Get+Ready+Eric+Herzog",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
+      "artist": "Snap!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Khalil Rountree",
+      "song_title": "If You're Out There",
+      "artist": "John Legend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jWNwr5r9emJVwNeYCgJY7",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Shook Ones Part II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Cezar Ferreira",
+      "song_title": "Das Duas Uma",
+      "artist": "Junior e Cezar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17VwiDmnGc6P1n6OqYh9TC",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Smile (Living My Best Life)",
+      "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Guido Cannetti",
+      "song_title": "No Te Creas Importante",
+      "artist": "Damas Gratis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Poliana Botelho",
+      "song_title": "Wild Thoughts",
+      "artist": "DJ Khaled ft. Rihanna & Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Michel Prazeres",
+      "song_title": "Negro Drama (Ao Vivo)",
+      "artist": "Racionais MC's",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Bartosz Fabinski",
+      "song_title": "The One and Only",
+      "artist": "Chesney Hawkes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Ulka Sasaki",
+      "song_title": "Time to Say Goodbye",
+      "artist": "Andrea Bocelli & Sarah Brightman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NNqrcjdK8YAiXV6YPasz3",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Austin Arnett",
+      "song_title": "Destiny",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5n4ZzdO7KtpxsDpoDTa3D6",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Humberto Bandenay",
+      "song_title": "Peruano Luchador",
+      "artist": "Luis Chang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Peruano+Luchador+Luis+Chang",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Laureano Staropoli",
+      "song_title": "Himno Nacional Argentino",
+      "artist": "Banda Militar Del Ejército Argentino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3fguMAWviZzPzvFORRQJWm",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Hector Aldana",
+      "song_title": "Puro Cachanilla",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Jesus Pinedo",
+      "song_title": "Contigo Peru",
+      "artist": "Arturo 'Zambo' Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Devin Powell",
+      "song_title": "Kentucky Derby",
+      "artist": "Eyenine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yniMtRG6gVEZFgUVRlnPR",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Nad Narimani",
+      "song_title": "Could You Be Loved",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    },
+    {
+      "fighter": "Anderson dos Santos",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
+    }
+  ],
+  "stats": {
+    "total_fighters": 48,
+    "with_song": 48,
+    "playable_tracks": 45,
+    "unique_playable_tracks": 44,
+    "missing": 0
+  }
+}

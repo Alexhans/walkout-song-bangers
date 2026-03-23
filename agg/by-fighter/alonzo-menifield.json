@@ -1,0 +1,22 @@
+{
+  "fighter": "Alonzo Menifield",
+  "slug": "alonzo-menifield",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Bannks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Monster%202.0%20Jacob%20Bannks%20feat.%20Boogie",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

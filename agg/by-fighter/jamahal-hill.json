@@ -1,0 +1,22 @@
+{
+  "fighter": "Jamahal Hill",
+  "slug": "jamahal-hill",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Miss Me",
+      "artist": "Drake, Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53VIWPPMz9S7ob0D8JxF9N",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

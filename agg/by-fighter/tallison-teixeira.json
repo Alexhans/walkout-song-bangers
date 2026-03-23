@@ -1,0 +1,22 @@
+{
+  "fighter": "Tallison Teixeira",
+  "slug": "tallison-teixeira",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Só Rock 3",
+      "artist": "Major RD, Borges, MC Cabelinho, Young Ganni, meLLo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

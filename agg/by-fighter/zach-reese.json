@@ -1,0 +1,22 @@
+{
+  "fighter": "Zach Reese",
+  "slug": "zach-reese",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "NO EVIL",
+      "artist": "SiR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

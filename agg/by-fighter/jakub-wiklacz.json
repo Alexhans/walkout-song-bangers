@@ -1,0 +1,22 @@
+{
+  "fighter": "Jakub Wiklacz",
+  "slug": "jakub-wiklacz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "You're the Best",
+      "artist": "Joe \"Bean\" Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

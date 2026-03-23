@@ -1,0 +1,22 @@
+{
+  "fighter": "Da Woon Jung",
+  "slug": "da-woon-jung",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Digimon Adventure Butter-Fly Perfect Final Version",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Digimon%20Adventure%20Butter-Fly%20Perfect%20Final%20Version",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

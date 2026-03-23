@@ -1,0 +1,22 @@
+{
+  "fighter": "Shamil Gaziev",
+  "slug": "shamil-gaziev",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "My Dagestan",
+      "artist": "Manarsha Hiraeva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Dagestan%20Manarsha%20Hiraeva",
+      "event": "UFC 296",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

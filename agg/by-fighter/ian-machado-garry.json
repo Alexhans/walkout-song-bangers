@@ -1,0 +1,40 @@
+{
+  "fighter": "Ian Machado Garry",
+  "slug": "ian-machado-garry",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Layla",
+      "artist": "Derek & the Dominos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz",
+      "event": "UFC 298",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    },
+    {
+      "song_title": "Take Me to Church",
+      "artist": "Hozier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
+  }
+}

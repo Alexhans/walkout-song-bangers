@@ -1,0 +1,22 @@
+{
+  "fighter": "Nate Marquardt",
+  "slug": "nate-marquardt",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Baited",
+      "artist": "Flame",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4QVWuTwr9rwYNlVtfjNeq0",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

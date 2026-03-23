@@ -1,0 +1,31 @@
+{
+  "fighter": "King Green",
+  "slug": "king-green",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Tuve Hermano",
+      "artist": "Los Gemelos De Sinaloa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

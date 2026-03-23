@@ -1,0 +1,31 @@
+{
+  "fighter": "Chris Weidman",
+  "slug": "chris-weidman",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "New York State of Mind",
+      "artist": "Billy Joel, \"Coming Home\" by P. Diddy, \"Empire State of Mind by Jay-Z, \"I Won't Back Down\" by Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 292",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

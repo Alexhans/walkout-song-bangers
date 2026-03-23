@@ -1,0 +1,22 @@
+{
+  "fighter": "Ismael Bonfim",
+  "slug": "ismael-bonfim",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Chegou o Tempo",
+      "artist": "Leandro Borges, Dieggo Molina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nL91974zK2xj7Pn0VKUmD",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

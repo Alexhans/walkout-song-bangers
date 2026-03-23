@@ -1,0 +1,31 @@
+{
+  "fighter": "Tyson Pedro",
+  "slug": "tyson-pedro",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Sexual",
+      "artist": "Neiked",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "All My Life",
+      "artist": "Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 293",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

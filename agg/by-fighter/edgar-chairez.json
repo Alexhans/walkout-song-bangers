@@ -1,0 +1,22 @@
+{
+  "fighter": "Edgar Chairez",
+  "slug": "edgar-chairez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Hoo-Bangin'",
+      "artist": "Mack 10, Ice Cube",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7azG6CLuWpm0YHNTFG6WSa",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

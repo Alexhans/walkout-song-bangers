@@ -1,0 +1,40 @@
+{
+  "fighter": "Cody Brundage",
+  "slug": "cody-brundage",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Fantasy",
+      "artist": "Mariah Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "Fantasy",
+      "artist": "Mariah Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

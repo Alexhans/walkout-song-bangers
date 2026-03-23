@@ -1,0 +1,31 @@
+{
+  "fighter": "Daniel Zellhuber",
+  "slug": "daniel-zellhuber",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Golden Boy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Goldenboy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

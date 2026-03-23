@@ -1,0 +1,22 @@
+{
+  "fighter": "Josh Hokit",
+  "slug": "josh-hokit",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

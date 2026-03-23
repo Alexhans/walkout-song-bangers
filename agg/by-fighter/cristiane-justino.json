@@ -1,0 +1,31 @@
+{
+  "fighter": "Cristiane Justino",
+  "slug": "cristiane-justino",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Santo Esperito",
+      "artist": "Gezi Monteiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KryzjvKvDmbTXKWetvQxa",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Stomp (Remix)",
+      "artist": "Kirk Franklin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

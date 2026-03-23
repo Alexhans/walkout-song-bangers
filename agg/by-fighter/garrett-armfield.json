@@ -1,0 +1,22 @@
+{
+  "fighter": "Garrett Armfield",
+  "slug": "garrett-armfield",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Congratulations",
+      "artist": "Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "event": "UFC 297",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

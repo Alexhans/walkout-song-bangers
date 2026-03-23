@@ -1,0 +1,40 @@
+{
+  "fighter": "Michael Johnson",
+  "slug": "michael-johnson",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Welcome to New York City",
+      "artist": "Cam'ron feat. Jay-Z & Juelz Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7vbv1mNw1fhMCaqbJ5haAT",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Bring Your Whole Crew",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}
