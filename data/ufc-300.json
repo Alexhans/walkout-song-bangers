@@ -1,0 +1,222 @@
+{
+  "event": "UFC 300: Pereira vs. Hill",
+  "event_slug": "ufc-300",
+  "date": "2024-04-13",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-best-ufc-300-walkout-songs-featuring-alex-pereira-jamahal-hill-max-holloway-justin-gaethje-more/",
+    "https://forums.sherdog.com/threads/ufc-300-walkout-songs-list.4327922/",
+    "https://sports.yahoo.com/live/ufc-300-full-results-alex-pereira-max-holloway-deliver-stunning-kos-215924418.html"
+  ],
+  "generated_at": "2026-03-23T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsári",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Itsari%20Sepultura",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jamahal Hill",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Only pre-event predictions found (In the Air Tonight by Phil Collins — historical use)"
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Only historical signature song found (Swordsman & Sea of Laughter by Huangshan) — no post-event confirmation for UFC 300"
+    },
+    {
+      "fighter": "Yan Xiaonan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Hawaiian Kickboxer",
+      "artist": "Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hawaiian%20Kickboxer%20Moke%20Boy",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "Celebrate",
+      "artist": "Dirty Heads ft. The Unlikely Candidates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Celebrate%20Dirty%20Heads",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: Yarkhusta (traditional Armenian warrior song) — no post-event confirmation for UFC 300 specifically"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: O Hino by Fernandinho — no post-event confirmation for UFC 300 specifically"
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jiří Procházka",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "One source mentions 'In the City' by Kevin Rudolf — unclear if post-event confirmed or historical pattern"
+    },
+    {
+      "fighter": "Aleksandar Rakić",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: The House of the Rising Sun by The Animals"
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: I Love by Joyner Lucas — no post-event confirmation for UFC 300 specifically"
+    },
+    {
+      "fighter": "Kayla Harrison",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: The Landlord's Walk by Blair Douglas"
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Isaac%20Edson%20Gomes",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Historical: Prvt E Hora de Vencer by Faccao 288"
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Bobby Green",
+      "song_title": "GO",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/GO%20Chief%20Keef",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Voando Pro Pará",
+      "artist": "Joelma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Voando%20Pro%20Para%20Joelma",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}
