@@ -1,0 +1,22 @@
+{
+  "fighter": "Raoni Barcelos",
+  "slug": "raoni-barcelos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "CACHAMBI OTEIRO",
+      "artist": "Mirechal Bento Ribeiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

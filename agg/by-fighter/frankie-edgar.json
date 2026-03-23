@@ -1,7 +1,7 @@
 {
   "fighter": "Frankie Edgar",
   "slug": "frankie-edgar",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Kick in the Door",
@@ -20,12 +20,21 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

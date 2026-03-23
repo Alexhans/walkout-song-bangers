@@ -1,8 +1,17 @@
 {
   "fighter": "Casey O'Neill",
   "slug": "casey-oneill",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "AMBITIONZ AZ A RIDAH",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
     {
       "song_title": "Still Here",
       "artist": "Drake",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

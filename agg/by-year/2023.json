@@ -1,7 +1,1047 @@
 {
   "year": 2023,
-  "events": 7,
+  "events": 12,
   "tracks": [
+    {
+      "fighter": "Jamahal Hill",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Knuckles",
+      "artist": "The Snuts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "Ykpa7Hcbki отамани",
+      "artist": "ЯРМАК ft. Лев",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7a1HRV14m0sA1v11ax6uy0",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Mauricio Rua",
+      "song_title": "SAIL",
+      "artist": "Awolnation",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Thiago Moises",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Gabriel Bonfim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Mounir Lazzez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Luan Lacerda",
+      "song_title": "Legendary",
+      "artist": "Welshly Arms",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Ismael Bonfim",
+      "song_title": "Vitorioso Es",
+      "artist": "Gabriel Guedes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Josiane Nunes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Zarah Fairn",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Daniel Marcos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Saimon Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Corrido De Chihuahua",
+      "artist": "Los Reileros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky’s The Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Speed Off",
+      "artist": "Valiant",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Justin Tafa",
+      "song_title": "Tama Samoa",
+      "artist": "Rsa Band Samoa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YBa6Gk5UYe9lr1SFlEMyD",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Lights Go Down",
+      "artist": "Bazanji",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Cuff It",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Melsik Baghdasaryan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Kleydson Rodrigues",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Shannon Ross",
+      "song_title": "Down Under",
+      "artist": "Luude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Jack Jenkins",
+      "song_title": "8 Mile Final Rap Battle",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Don Shainis",
+      "song_title": "Violet",
+      "artist": "Conner Price & Killa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4tbntx7YYQGxKbpTcLjNw0",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Loma Lookboonmee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Homecoming",
+      "artist": "Ryan Caraveo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cnLho7dzoDLv837gm9Bn9",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Blake Bilder",
+      "song_title": "Call Me Nobody",
+      "artist": "Clever",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Shane Young",
+      "song_title": "Tangaroa",
+      "artist": "Tiki Taane",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4oKohi8zFgDsgSLtdecgbZ",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Zubaira Tukhugov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "Scarface Theme Song",
+      "artist": "Giorgio Moroder",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Welcome To Jamrock",
+      "artist": "Damien Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "Oh La La",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Tell Me",
+      "artist": "MGF Bandit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mkO3QQGV2M3GSylMXAiDb",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Raul Rosas Jr.",
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "Last Time That I Checc'd",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Luana Pinheiro",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Michelle Waterson-Gomez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Joe Pyfer",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Ignacio Bahamondes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Trey Ogden",
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "Armies",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Shayilan Nuerdanbieke",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Sam Hughes",
+      "song_title": "The Next Episode",
+      "artist": "Dr. Dre & Snoop Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alica Keys, “It’s All About the Benjamins” by Puff Daddy, “Go Dumb” by Aljamain Sterling and “Just Wanna Rock” by Lil’ Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "My Blood is Palestine",
+      "artist": "Dami Falasteeni",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Yan Xiaonan",
+      "song_title": "Yuan Zou Gao Fei",
+      "artist": "Jin Zhiwen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qGo5OBXfO9z74zhbDexlE",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Movsar Evloev",
+      "song_title": "Melodies of the Mountains",
+      "artist": "Sulambek Mamilov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3roZ8GYNvxgGrslNhuFSHc",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "Flaco Pesado",
+      "artist": "Zxmyr feat. Geramx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "John Wick Mode",
+      "artist": "Le Castle Vania",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zwcnaxahJOnYwG0H6tXTz",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Kron Gracie",
+      "song_title": "Open Letter",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2DnH4XlEkghUdE8ymdVom5",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Narco",
+      "artist": "Blasterjaxx and Timmy Trumpet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Kennedy Nzechukwu",
+      "song_title": "This Year (Blessing)",
+      "artist": "Victor Thompson and Ehis D Greatest",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun and Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4qT1t3Ot2DaoN4VYzgWGlA",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Rolando Bedoya",
+      "song_title": "Nocaute",
+      "artist": "MC Lucas DM and MC Robs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "The Message",
+      "artist": "Grand Master Flash and the Furious Five",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yd8AwPHpPb8kuSivoN1wL",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Braxton Smith",
+      "song_title": "Power",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Ikram Aliskerov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "Electrifying the Rock",
+      "artist": "Jim Johnston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76kjXpUTrh4RDeX0OE9h7r",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Claudio Ribeiro",
+      "song_title": "Audio Que Te Entrega",
+      "artist": "Leo Santana, MC Don Juan and Mari Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bvExfRtDzg0sXuUkvTUyL",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "fighter": "Joseph Holmes",
+      "song_title": "I’m the Man",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
     {
       "fighter": "Amanda Nunes",
       "song_title": "American Oxygen",
@@ -221,6 +1261,266 @@
       "event": "UFC 289",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "Down Under",
+      "artist": "Men at Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Invincible",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "El Corrido del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Live it Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Val Woodburn",
+      "song_title": "Shootaz",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Promentory” main theme from “The Last of the Mohicans",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Edgar Chairez",
+      "song_title": "El Rey",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Denise Gomes",
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Yazmin Jauregui",
+      "song_title": "De Mi Cada Gota De Sangre",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Bannks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Wrong One",
+      "artist": "Seth Sentry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dmT0RFjIL4m5ReWDt96TA",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Bruno & Barretto",
+      "artist": "Bruto Memo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bruno%20%26%20Barretto%20Bruto%20Memo",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Marcin Prachnio",
+      "song_title": "Can’t Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Terrence Mitchell",
+      "song_title": "Cult of Personality",
+      "artist": "Living Colour",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Jesus Aguilar",
+      "song_title": "Nada es Coincidencia",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7maoQr1s4iFoMlfJVy3uD4",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Shannon Ross",
+      "song_title": "Down Under",
+      "artist": "Luude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Esteban Ribovics",
+      "song_title": "Argentina",
+      "artist": "Trueno, Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "fighter": "Kamuela Kirk",
+      "song_title": "Fight Another Day",
+      "artist": "Maoli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6V7SZUEdkrwU08fLffqImh",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "fighter": "Justin Gaethje",
@@ -1684,10 +2984,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 168,
-    "with_song": 139,
-    "playable_tracks": 90,
-    "unique_playable_tracks": 86,
-    "missing": 29
+    "total_fighters": 298,
+    "with_song": 219,
+    "playable_tracks": 169,
+    "unique_playable_tracks": 155,
+    "missing": 79
   }
 }

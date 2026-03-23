@@ -1,7 +1,7 @@
 {
   "fighter": "Carla Esparza",
   "slug": "carla-esparza",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Bodies",
@@ -11,12 +11,21 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "I'M SHIPPING UP TO BOSTON",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

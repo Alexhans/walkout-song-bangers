@@ -1,8 +1,17 @@
 {
   "fighter": "Victor Henry",
   "slug": "victor-henry",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "BARING TEETH FOR REVOLT",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
     {
       "song_title": "Baring Teeth for Revolt",
       "artist": "Goatwhore",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

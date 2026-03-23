@@ -1,0 +1,22 @@
+{
+  "fighter": "Chris Barnett",
+  "slug": "chris-barnett",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "SPECIAL DELIVERY",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Wb5k3t9SJvyHhulD8JSjv",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

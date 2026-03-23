@@ -1,8 +1,17 @@
 {
   "fighter": "Mateusz Gamrot",
   "slug": "mateusz-gamrot",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
     {
       "song_title": "My Songs Know What You Did in the Dark (Light ’em Up)",
       "artist": "Fall Out Boy",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

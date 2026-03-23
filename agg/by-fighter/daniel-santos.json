@@ -1,0 +1,22 @@
+{
+  "fighter": "Daniel Santos",
+  "slug": "daniel-santos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

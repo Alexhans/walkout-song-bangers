@@ -1,0 +1,22 @@
+{
+  "fighter": "Pete Rodriguez",
+  "slug": "pete-rodriguez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "OUT HERE GRINDIN",
+      "artist": "DJ Khaled feat. Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79G57uvrydpEheEOiPJpPY",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

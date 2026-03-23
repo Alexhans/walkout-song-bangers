@@ -1,0 +1,22 @@
+{
+  "fighter": "Julio Arce",
+  "slug": "julio-arce",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

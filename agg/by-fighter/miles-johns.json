@@ -1,0 +1,22 @@
+{
+  "fighter": "Miles Johns",
+  "slug": "miles-johns",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

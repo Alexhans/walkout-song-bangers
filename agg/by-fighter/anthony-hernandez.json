@@ -1,8 +1,17 @@
 {
   "fighter": "Anthony Hernandez",
   "slug": "anthony-hernandez",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
     {
       "song_title": "Por Ti Volare",
       "artist": "Endo Rivera",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

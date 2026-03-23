@@ -1,0 +1,22 @@
+{
+  "fighter": "Mana Martinez",
+  "slug": "mana-martinez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

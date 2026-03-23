@@ -1,8 +1,17 @@
 {
   "fighter": "Paddy Pimblett",
   "slug": "paddy-pimblett",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Lethal Industry / Heads Will Roll",
+      "artist": "Sunnary James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lethal%20Industry%20/%20Heads%20Will%20Roll%20Sunnary%20James",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
     {
       "song_title": "Lethal Industry",
       "artist": "Sunnery James and Ryan Marciano, Heads Will Roll by Yeah Yeah Yeahs",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,0 +1,31 @@
+{
+  "fighter": "Kay Hansen",
+  "slug": "kay-hansen",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "GRINDING ALL MY LIFE",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

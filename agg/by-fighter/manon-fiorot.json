@@ -1,0 +1,22 @@
+{
+  "fighter": "Manon Fiorot",
+  "slug": "manon-fiorot",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "En Mode 1",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

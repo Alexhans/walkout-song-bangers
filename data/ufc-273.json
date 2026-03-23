@@ -1,0 +1,204 @@
+{
+  "event": "UFC 273",
+  "event_slug": "ufc-273",
+  "date": "2022-04-09",
+  "location": "Jacksonville, Florida, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-273-Walkout-Tracks-185878"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chan Sung Jung",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "notes": ""
+    },
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Olympic Fanfare / Thunderstruck",
+      "artist": "John Willams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20/%20Thunderstruck%20John%20Willams",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway To Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Darian Weeks",
+      "song_title": "Safe And Save",
+      "artist": "JD Hails",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hernandez",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Aspen Ladd",
+      "song_title": "Promentory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Malott",
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Woke Up This Morning",
+      "artist": "Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksei Oleinik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Piera Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kay Hansen",
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "notes": ""
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

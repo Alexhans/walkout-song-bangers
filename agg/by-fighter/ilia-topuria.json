@@ -1,8 +1,17 @@
 {
   "fighter": "Ilia Topuria",
   "slug": "ilia-topuria",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Fronteamos Porque Podemos",
+      "artist": "De La Ghetto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
     {
       "song_title": "Hells Bells / Cancion Del Mariachi",
       "artist": "AC/DC / Antonio Banderas and Los Lobos",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

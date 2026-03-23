@@ -1,8 +1,26 @@
 {
   "fighter": "Sean O'Malley",
   "slug": "sean-omalley",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "",
+      "artist": "Lupe Fiasco “Superstar”",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
     {
       "song_title": "Superstar",
       "artist": "Lupe Fiasco",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

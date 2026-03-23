@@ -1,0 +1,31 @@
+{
+  "fighter": "Ciryl Gane",
+  "slug": "ciryl-gane",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Still Tippin",
+      "artist": "Mike Jones feat Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "2 OF AMERIKAZ MOST WANTED",
+      "artist": "2Pac feat Snoop Doggy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

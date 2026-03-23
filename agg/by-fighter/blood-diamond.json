@@ -1,8 +1,26 @@
 {
   "fighter": "Blood Diamond",
   "slug": "blood-diamond",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
     {
       "song_title": "One Blood",
       "artist": "The Game",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 3,
     "with_song": 1,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 1
   }
 }

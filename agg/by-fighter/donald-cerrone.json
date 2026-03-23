@@ -1,7 +1,7 @@
 {
   "fighter": "Donald Cerrone",
   "slug": "donald-cerrone",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Cowboy",
@@ -29,12 +29,21 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

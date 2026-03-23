@@ -1,0 +1,22 @@
+{
+  "fighter": "Jay Perrin",
+  "slug": "jay-perrin",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Miracle",
+      "artist": "A Day to Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1l00qUHfmONY1jNaE2Ievs",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fighter": "Gilbert Burns",
+  "slug": "gilbert-burns",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 1,
+    "missing": 3,
+    "unique_songs": 1
+  }
+}

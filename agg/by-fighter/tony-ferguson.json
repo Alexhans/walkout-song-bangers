@@ -1,7 +1,7 @@
 {
   "fighter": "Tony Ferguson",
   "slug": "tony-ferguson",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "The Party Has Just Begun",
@@ -20,6 +20,15 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "THE PARTY HAS JUST BEGUN",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     },
     {
       "song_title": "The Party Has Just Begun",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

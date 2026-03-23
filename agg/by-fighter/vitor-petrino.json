@@ -1,8 +1,17 @@
 {
   "fighter": "Vitor Petrino",
   "slug": "vitor-petrino",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Bruno & Barretto",
+      "artist": "Bruto Memo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bruno%20%26%20Barretto%20Bruto%20Memo",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Abertura Oficial Vitor Petrino",
       "artist": "DJ Ruan do Primeiro, MC Mininin",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

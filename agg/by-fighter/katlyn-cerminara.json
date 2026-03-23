@@ -1,7 +1,7 @@
 {
   "fighter": "Katlyn Cerminara",
   "slug": "katlyn-cerminara",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 0,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 0
   }
 }

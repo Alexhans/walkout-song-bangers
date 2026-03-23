@@ -1,7 +1,7 @@
 {
   "fighter": "Glover Teixeira",
   "slug": "glover-teixeira",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "All the Way Up",
@@ -11,12 +11,30 @@
       "event": "UFC 202: Diaz vs. McGregor 2",
       "event_slug": "ufc-202",
       "date": "2016-08-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 3,
     "with_song": 1,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 1
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Sean Strickland",
   "slug": "sean-strickland",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
     {
       "song_title": "When Johnny Comes Marching Home",
       "artist": "Megaraptor – Metal Version",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 2
   }

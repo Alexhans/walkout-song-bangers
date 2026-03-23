@@ -1,8 +1,17 @@
 {
   "fighter": "Jiri Prochazka",
   "slug": "jiri-prochazka",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Legends Are Made",
+      "artist": "Sam Tinnesz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1M1FjrseqHIeuTQHhQVcp4",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
     {
       "song_title": "Black Adam theme",
       "artist": "Lorne Balfe",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

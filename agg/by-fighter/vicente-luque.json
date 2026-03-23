@@ -1,7 +1,7 @@
 {
   "fighter": "Vicente Luque",
   "slug": "vicente-luque",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Baby Baby",
@@ -20,12 +20,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

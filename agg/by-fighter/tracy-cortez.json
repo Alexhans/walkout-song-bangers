@@ -1,8 +1,17 @@
 {
   "fighter": "Tracy Cortez",
   "slug": "tracy-cortez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "COMO LA FLOR",
+      "artist": "Selena",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
     {
       "song_title": "La Chona",
       "artist": "Los Tucanes de Tijuana",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

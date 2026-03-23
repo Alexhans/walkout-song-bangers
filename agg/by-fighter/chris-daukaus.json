@@ -1,0 +1,31 @@
+{
+  "fighter": "Chris Daukaus",
+  "slug": "chris-daukaus",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "FOX ON THE RUN",
+      "artist": "Sweet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Fox On The Run",
+      "artist": "Sweet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

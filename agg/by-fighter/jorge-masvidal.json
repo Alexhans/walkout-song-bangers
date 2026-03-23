@@ -1,7 +1,7 @@
 {
   "fighter": "Jorge Masvidal",
   "slug": "jorge-masvidal",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Scarface Theme Song",
+      "artist": "Giorgio Moroder",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

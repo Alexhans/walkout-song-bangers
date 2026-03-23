@@ -1,7 +1,7 @@
 {
   "fighter": "Karolina Kowalkiewicz",
   "slug": "karolina-kowalkiewicz",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "The Passenger",
@@ -22,6 +22,15 @@
       "date": "2017-06-03"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
       "song_title": "T.N.T.",
       "artist": "AC/DC",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

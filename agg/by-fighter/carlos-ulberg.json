@@ -1,8 +1,17 @@
 {
   "fighter": "Carlos Ulberg",
   "slug": "carlos-ulberg",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "CAUGHT IN A DAZE",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2pHLq9CCpFF980qtszJTXF",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
     {
       "song_title": "Conquer",
       "artist": "SWIDT",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

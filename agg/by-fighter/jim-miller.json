@@ -1,7 +1,7 @@
 {
   "fighter": "Jim Miller",
   "slug": "jim-miller",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Bad Moon Rising",
@@ -22,6 +22,15 @@
       "date": "2017-07-08"
     },
     {
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
       "song_title": "Bad Moon Rising",
       "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

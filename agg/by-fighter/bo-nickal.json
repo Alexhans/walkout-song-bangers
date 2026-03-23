@@ -1,8 +1,17 @@
 {
   "fighter": "Bo Nickal",
   "slug": "bo-nickal",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Hand of God",
+      "artist": "Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Hand of God (Outro)",
       "artist": "Jon Bellion",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

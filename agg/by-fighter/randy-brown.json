@@ -1,7 +1,7 @@
 {
   "fighter": "Randy Brown",
   "slug": "randy-brown",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Broad Daylight",
@@ -11,6 +11,24 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "HERE COMES THE HOTSTEPPER",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "Speed Off",
+      "artist": "Valiant",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     },
     {
       "song_title": "Lime Light",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

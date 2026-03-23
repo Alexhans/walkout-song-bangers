@@ -1,7 +1,7 @@
 {
   "fighter": "Brad Tavares",
   "slug": "brad-tavares",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Tears",
@@ -25,6 +25,15 @@
       "song_title": "Tears",
       "artist": "Alborosie",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4g0uvKVVh4Hf1X0eS8Uvqc",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Tears%20Alborosie",
       "event": "UFC 292",
       "event_slug": "ufc-292",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 2
   }

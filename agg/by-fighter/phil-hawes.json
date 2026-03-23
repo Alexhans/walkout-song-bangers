@@ -1,0 +1,31 @@
+{
+  "fighter": "Phil Hawes",
+  "slug": "phil-hawes",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "UNCHAINED",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Electrifying the Rock",
+      "artist": "Jim Johnston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76kjXpUTrh4RDeX0OE9h7r",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

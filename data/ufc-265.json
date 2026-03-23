@@ -1,0 +1,220 @@
+{
+  "event": "UFC 265",
+  "event_slug": "ufc-265",
+  "date": "2021-08-07",
+  "location": "Houston, Texas, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-265-Walkout-Tracks-180944"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "Still Tippin",
+      "artist": "Mike Jones feat Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Tudo Que Eu Guardo",
+      "artist": "Quebrada United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
+      "notes": ""
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "We Ready",
+      "artist": "Archie Eversole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey Kenney",
+      "song_title": "Thug",
+      "artist": "Slim Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vince Morales",
+      "song_title": "I Declare War",
+      "artist": "King Iso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hBKV3H01V6VOozMcLmRDS",
+      "notes": ""
+    },
+    {
+      "fighter": "Drako Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ed Herman",
+      "song_title": "Streets of Siam",
+      "artist": "Paul Hertzog & Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Penne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Manel Kape",
+      "song_title": "Festa Da Paz",
+      "artist": "Helder Rei do Kuduro & Dog Murras",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3AFBzLOK2nPdCJjQj24kwJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "Stand In Faith",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12gkIsBWFWPHOgX7odzUCK",
+      "notes": ""
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Anderson Dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Victoria Leonardo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Munoz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamey Simmons",
+      "song_title": "Yessuh",
+      "artist": "Oswin Benjamin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZHOpAfEBvtCAlM2RKP4sr",
+      "notes": ""
+    }
+  ]
+}

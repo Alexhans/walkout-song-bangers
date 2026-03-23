@@ -1,8 +1,17 @@
 {
   "fighter": "Mark Madsen",
   "slug": "mark-madsen",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Olympic Fanfare / Thunderstruck",
+      "artist": "John Willams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20/%20Thunderstruck%20John%20Willams",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
     {
       "song_title": "Olympic Fanfare",
       "artist": "John Williams, Thunderstruck by AC/DC",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

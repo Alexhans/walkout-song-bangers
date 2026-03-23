@@ -1,8 +1,35 @@
 {
   "fighter": "Alex Pereira",
   "slug": "alex-pereira",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
     {
       "song_title": "Itsari",
       "artist": "Sepultura",
@@ -41,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
-    "missing": 0,
+    "events": 7,
+    "with_song": 6,
+    "missing": 1,
     "unique_songs": 2
   }
 }

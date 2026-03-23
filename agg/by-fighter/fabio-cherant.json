@@ -1,0 +1,22 @@
+{
+  "fighter": "Fabio Cherant",
+  "slug": "fabio-cherant",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "SUPER GREMLINS",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

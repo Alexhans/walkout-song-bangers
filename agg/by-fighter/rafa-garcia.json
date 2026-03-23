@@ -1,0 +1,22 @@
+{
+  "fighter": "Rafa Garcia",
+  "slug": "rafa-garcia",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote y Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

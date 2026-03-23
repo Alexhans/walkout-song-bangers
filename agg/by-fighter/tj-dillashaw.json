@@ -1,7 +1,7 @@
 {
   "fighter": "TJ Dillashaw",
   "slug": "tj-dillashaw",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Can’t Stop",
@@ -11,12 +11,21 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

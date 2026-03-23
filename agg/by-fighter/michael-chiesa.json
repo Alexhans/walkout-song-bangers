@@ -1,7 +1,7 @@
 {
   "fighter": "Michael Chiesa",
   "slug": "michael-chiesa",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Stranglehold",
@@ -17,15 +17,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 291",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 1,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

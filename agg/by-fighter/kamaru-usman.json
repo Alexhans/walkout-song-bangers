@@ -1,8 +1,17 @@
 {
   "fighter": "Kamaru Usman",
   "slug": "kamaru-usman",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "YABA BULUKU",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
     {
       "song_title": "Shaq & Kobe",
       "artist": "Rick Ross",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

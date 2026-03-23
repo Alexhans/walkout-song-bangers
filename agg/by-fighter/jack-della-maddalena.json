@@ -1,8 +1,35 @@
 {
   "fighter": "Jack Della Maddalena",
   "slug": "jack-della-maddalena",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
     {
       "song_title": "TNT",
       "artist": "AC/DC",
@@ -14,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 4,
     "with_song": 1,
-    "missing": 0,
+    "missing": 3,
     "unique_songs": 1
   }
 }

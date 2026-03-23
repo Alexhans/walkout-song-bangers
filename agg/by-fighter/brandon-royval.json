@@ -1,8 +1,17 @@
 {
   "fighter": "Brandon Royval",
   "slug": "brandon-royval",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
     {
       "song_title": "Shimmy Shimmy Ya",
       "artist": "Ol’ Dirty Bastard",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

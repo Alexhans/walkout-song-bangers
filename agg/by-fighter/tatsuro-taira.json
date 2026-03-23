@@ -1,0 +1,22 @@
+{
+  "fighter": "Tatsuro Taira",
+  "slug": "tatsuro-taira",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

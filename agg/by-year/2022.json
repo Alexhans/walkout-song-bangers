@@ -1,0 +1,2233 @@
+{
+  "year": 2022,
+  "events": 9,
+  "tracks": [
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "2 OF AMERIKAZ MOST WANTED",
+      "artist": "2Pac feat Snoop Doggy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Said Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "STAYING ALIVE",
+      "artist": "Bee Gees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "JESUS WALKS",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "BARING TEETH FOR REVOLT",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "CACHAMBI OTEIRO",
+      "artist": "Mirechal Bento Ribeiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Pete Rodriguez",
+      "song_title": "OUT HERE GRINDIN",
+      "artist": "DJ Khaled feat. Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79G57uvrydpEheEOiPJpPY",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "CAN'T C ME",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Saimon Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "ROLLIN",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Genaro Valdez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Kay Hansen",
+      "song_title": "GRINDING ALL MY LIFE",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "GIRLS JUST WANT TO HAVE FUN",
+      "artist": "Cyndi Lauper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "WATCHDOG",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mfOtyCa850gMBlsHrMHN1",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "AMBITIONZ AZ A RIDAH",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Roxanne Modafferi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Marcelo Rojo",
+      "song_title": "DAMAS GRATIS",
+      "artist": "Perrito Malvado ft. L-Gante & Marita",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "CAUGHT IN A DAZE",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2pHLq9CCpFF980qtszJTXF",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Fabio Cherant",
+      "song_title": "SUPER GREMLINS",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Ronnie Lawrence",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Mana Martinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "WALK THESE STREETS",
+      "artist": "Rakim, Maino & Tracy Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VMe2CXrzlkvssB3ySs0No",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "AJ Dobson",
+      "song_title": "ZOO YORK",
+      "artist": "Lil Tjay featuring Fivio Foreign & Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Sergey Morozov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Jeremiah Wells",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Blood Diamond",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Maxim Grishin",
+      "song_title": "UNSTOPPABLE",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Chan Sung Jung",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Olympic Fanfare / Thunderstruck",
+      "artist": "John Willams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20/%20Thunderstruck%20John%20Willams",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway To Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Darian Weeks",
+      "song_title": "Safe And Save",
+      "artist": "JD Hails",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Anthony Hernandez",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Aspen Ladd",
+      "song_title": "Promentory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Mike Malott",
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Woke Up This Morning",
+      "artist": "Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Aleksei Oleinik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Piera Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Kay Hansen",
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Daniel Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "I'M SHIPPING UP TO BOSTON",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "THE PARTY HAS JUST BEGUN",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Mauricio Rua",
+      "song_title": "SAIL",
+      "artist": "Awolnation",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "HERE COMES THE HOTSTEPPER",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Francisco Trinaldo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "BIG FOR YOUR BOOTS",
+      "artist": "Stormzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46jHE9rVH5HqZ7VKZHPinC",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "FIRE SQUAD",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "ROCK AND ROLL PART 2",
+      "artist": "Gary Glitter",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "FANCY",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Blagoy Ivanov",
+      "song_title": "MIKE TYSON SONG",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zN1Cr7chwMed20zF9IZzW",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Cameron VanCamp",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Tracy Cortez",
+      "song_title": "COMO LA FLOR",
+      "artist": "Selena",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "CAN'T TELL ME NOTHING",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Kleydson Rodrigues",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Ariane Carnelossi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Journey Newson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Fernie Garcia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "Legends Are Made",
+      "artist": "Sam Tinnesz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1M1FjrseqHIeuTQHhQVcp4",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Taila Santos",
+      "song_title": "Unstoppable",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Got This",
+      "artist": "Lisi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "Amor A Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Ramazan Emeev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "SeungWoo Choi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Maheshate",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "Walk These Streets",
+      "artist": "Rakim, Maino & Tracey Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Kyung Ho Kang",
+      "song_title": "Better Than Yesterday",
+      "artist": "P-Masta feat. Mr. Room9",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Batgerel Danaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Liang Na",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Ramona Pascual",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Running Up That Hill / Hawaiian Kickboxer",
+      "artist": "Kate Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Running%20Up%20That%20Hill%20/%20Hawaiian%20Kickboxer%20Kate%20Bush",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Promentory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "If I Ruled The World",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Zendaya",
+      "artist": "Cozz feat. J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Brad Riddell",
+      "song_title": "Sons of Plunder",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69ZRVsGoLXjHrQWHMX5iCN",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Gabe Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Brad Tavares",
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4g0uvKVVh4Hf1X0eS8Uvqc",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Made You Look",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "Praise God",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Julija Stoliarenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Jessica-Rose Clark",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "American Oxygen",
+      "artist": "Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Sweet Child O’ Mine",
+      "artist": "Guns N Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Matthew Semelsberger",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Rafael Alves",
+      "song_title": "Believe (DJ Jefinho Remix)",
+      "artist": "Cher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Hamdy Abdelwahab",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Rafa Garcia",
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote y Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Adam Fugitt",
+      "song_title": "Deliverance",
+      "artist": "Bubba Sparxxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Ji Yeon Kim",
+      "song_title": "하현우 - 들넣이 (이대원 출라쓰)",
+      "artist": "Ha Hyun Woo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Nicolae Negumereanu",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "Welcome to Ukraine",
+      "artist": "JKLN",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vPzOAkd8NNzih7DQxn42L",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Orion Cosce",
+      "song_title": "Revan's Revenge",
+      "artist": "GreyBush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Blood Diamond",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "TJ Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "",
+      "artist": "Lupe Fiasco “Superstar”",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "БОЙЦОВСКАЯ ТРОПА",
+      "artist": "Drummatix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Manon Fiorot",
+      "song_title": "En Mode 1",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Sean Brady",
+      "song_title": "They Don't Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Caio Borralho",
+      "song_title": "Ultimos Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Makhmud Muradov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Volkan Oezdemir",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Abubakar Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Gadzhi Omargadzhiev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Armen Petrosyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "AJ Dobson",
+      "song_title": "Zoo York",
+      "artist": "Lil Tjay featuring Fivio Foreign & Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Malcolm Gordon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt E Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Lina Lansberg",
+      "song_title": "Sail",
+      "artist": "Awolnation",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "The Song Of The Dragonborn",
+      "artist": "Skyrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zqMYQfc6bb5zASIfLl8rD",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry / Heads Will Roll",
+      "artist": "Sunnary James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lethal%20Industry%20/%20Heads%20Will%20Roll%20Sunnary%20James",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Blackout",
+      "artist": "Turnstile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Darren Till",
+      "song_title": "Tourner Dans Le Vide",
+      "artist": "Indila",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "Fronteamos Porque Podemos",
+      "artist": "De La Ghetto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Bryce Mitchell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Raul Rosas Jr.",
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Jay Perrin",
+      "song_title": "Miracle",
+      "artist": "A Day to Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1l00qUHfmONY1jNaE2Ievs",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "Fox On The Run",
+      "artist": "Sweet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Dalcha Lungiambula",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "War",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gNiZCXy602U2vofLySOiL",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Billy Quarantillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "Spinnin'",
+      "artist": "Connor Price",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Erik Silva",
+      "song_title": "Valhalla Calling Me",
+      "artist": "Viking",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nRKJI3XsWPb5d8VXwn2iK",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "fighter": "Steven Koslow",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    }
+  ],
+  "stats": {
+    "total_fighters": 222,
+    "with_song": 96,
+    "playable_tracks": 93,
+    "unique_playable_tracks": 85,
+    "missing": 126
+  }
+}

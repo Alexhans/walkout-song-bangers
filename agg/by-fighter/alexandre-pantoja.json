@@ -1,8 +1,26 @@
 {
   "fighter": "Alexandre Pantoja",
   "slug": "alexandre-pantoja",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
-    "missing": 0,
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
     "unique_songs": 1
   }
 }

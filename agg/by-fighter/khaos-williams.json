@@ -1,0 +1,31 @@
+{
+  "fighter": "Khaos Williams",
+  "slug": "khaos-williams",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

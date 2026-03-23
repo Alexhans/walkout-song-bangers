@@ -1,8 +1,17 @@
 {
   "fighter": "Kai Kara-France",
   "slug": "kai-kara-france",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
     {
       "song_title": "Māori Ki Te Ao",
       "artist": "Stan Walker",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

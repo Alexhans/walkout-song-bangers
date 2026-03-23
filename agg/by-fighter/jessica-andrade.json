@@ -1,7 +1,7 @@
 {
   "fighter": "Jessica Andrade",
   "slug": "jessica-andrade",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Drag Me Down",
@@ -20,6 +20,33 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "Diz (You Say)",
@@ -41,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
-    "missing": 0,
-    "unique_songs": 4
+    "events": 7,
+    "with_song": 5,
+    "missing": 2,
+    "unique_songs": 5
   }
 }

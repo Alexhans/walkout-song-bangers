@@ -1,8 +1,17 @@
 {
   "fighter": "Melquizael Costa",
   "slug": "melquizael-costa",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
     {
       "song_title": "Bladadah",
       "artist": "Mozzy",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

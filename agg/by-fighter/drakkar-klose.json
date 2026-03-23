@@ -1,7 +1,7 @@
 {
   "fighter": "Drakkar Klose",
   "slug": "drakkar-klose",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Devastated",
@@ -11,6 +11,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     },
     {
       "song_title": "X Gon' Give It to Ya",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

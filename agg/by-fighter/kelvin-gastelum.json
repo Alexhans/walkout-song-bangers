@@ -1,7 +1,7 @@
 {
   "fighter": "Kelvin Gastelum",
   "slug": "kelvin-gastelum",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "People Get Up and Drive Your Funky Soul",
@@ -11,12 +11,21 @@
       "event": "UFC 206: Holloway vs. Pettis",
       "event_slug": "ufc-206",
       "date": "2016-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

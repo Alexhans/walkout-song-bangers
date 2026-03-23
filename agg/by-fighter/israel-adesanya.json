@@ -1,8 +1,35 @@
 {
   "fighter": "Israel Adesanya",
   "slug": "israel-adesanya",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
     {
       "song_title": "Bring It On Down (Battlezone) Remix",
       "artist": "Flii Stylz & Tenashus",
@@ -23,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 5,
     "with_song": 2,
-    "missing": 0,
+    "missing": 3,
     "unique_songs": 2
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Gian Villante",
+  "slug": "gian-villante",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "THE DOWNEASTER ALEXA",
+      "artist": "Billy Joel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39cFQHfY6tsdMRmSbFse3X",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

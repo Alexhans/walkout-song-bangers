@@ -1,0 +1,31 @@
+{
+  "fighter": "AJ Dobson",
+  "slug": "aj-dobson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "ZOO YORK",
+      "artist": "Lil Tjay featuring Fivio Foreign & Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Zoo York",
+      "artist": "Lil Tjay featuring Fivio Foreign & Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

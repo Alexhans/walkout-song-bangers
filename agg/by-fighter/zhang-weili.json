@@ -1,8 +1,26 @@
 {
   "fighter": "Zhang Weili",
   "slug": "zhang-weili",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 5,
     "with_song": 2,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 2
   }
 }

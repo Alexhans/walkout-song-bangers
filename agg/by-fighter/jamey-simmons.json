@@ -1,0 +1,22 @@
+{
+  "fighter": "Jamey Simmons",
+  "slug": "jamey-simmons",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Yessuh",
+      "artist": "Oswin Benjamin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZHOpAfEBvtCAlM2RKP4sr",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

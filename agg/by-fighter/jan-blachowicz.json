@@ -1,7 +1,7 @@
 {
   "fighter": "Jan Blachowicz",
   "slug": "jan-blachowicz",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "House of the Rising Sun",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "The Song Of The Dragonborn",
+      "artist": "Skyrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zqMYQfc6bb5zASIfLl8rD",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
     },
     {
       "song_title": "The Politics & The Life (King Arthur)",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

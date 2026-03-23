@@ -1,7 +1,7 @@
 {
   "fighter": "Robbie Lawler",
   "slug": "robbie-lawler",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Ain't No Grave",
@@ -11,12 +11,39 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "PROMONTORY",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Promentory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Promentory” main theme from “The Last of the Mohicans",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

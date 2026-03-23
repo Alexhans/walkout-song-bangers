@@ -1,0 +1,22 @@
+{
+  "fighter": "Uriah Hall",
+  "slug": "uriah-hall",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Made You Look",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -10,6 +10,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 
 Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](viz/) (markdown tables with Spotify links).
 
+<!-- BEGIN EVENTS -->
 | Event | Fighters | Gold | Silver | Bronze | Missing |
 |-------|----------|------|--------|--------|---------|
 | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
@@ -27,9 +28,17 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |
 | [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
-| [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 265](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC 266](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC 268](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
+| [UFC 270](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
+| [UFC 271](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
+| [UFC 273](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
 | [UFC 274](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
+| [UFC 275](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
 | [UFC 276](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
 | [UFC 277](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 280](viz/ufc-280.md) | 24 | 0 | 0 | 8 | 16 |
@@ -40,6 +49,7 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 288](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 289](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
 | [UFC 290](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
+| [UFC 291](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
 | [UFC 292](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 293](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 294](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
@@ -47,23 +57,23 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 296](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 297](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 298](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
-| [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
 | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
+| [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
 | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
 | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
-| [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 13 | 15 |
+| [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 12 | 16 |
 | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
-| [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 0 | 28 |
 | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
+<!-- END EVENTS -->
 
 ## How it works
 

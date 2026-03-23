@@ -1,8 +1,17 @@
 {
   "fighter": "Brunno Ferreira",
   "slug": "brunno-ferreira",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
     {
       "song_title": "The Lonely Man Theme",
       "artist": "Joe Harnell",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

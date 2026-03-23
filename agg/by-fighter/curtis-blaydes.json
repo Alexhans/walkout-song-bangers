@@ -1,7 +1,7 @@
 {
   "fighter": "Curtis Blaydes",
   "slug": "curtis-blaydes",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Mortal Combat Theme Song",
@@ -22,6 +22,15 @@
       "date": "2017-11-04"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
       "song_title": "Techno Syndrome (Mortal Kombat)",
       "artist": "The Immortals",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Ji Yeon Kim",
+  "slug": "ji-yeon-kim",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "하현우 - 들넣이 (이대원 출라쓰)",
+      "artist": "Ha Hyun Woo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jCRPdDQvCA5kQXtrPFWPC",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

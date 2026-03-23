@@ -1,7 +1,7 @@
 {
   "fighter": "Henry Cejudo",
   "slug": "henry-cejudo",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "The Show Goes On",
@@ -11,6 +11,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "Am I Wrong",
@@ -23,8 +32,8 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

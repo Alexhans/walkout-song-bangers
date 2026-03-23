@@ -1,8 +1,44 @@
 {
   "fighter": "Brandon Moreno",
   "slug": "brandon-moreno",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "El Corrido del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Corrido del Bebé Asesino",
       "artist": "Corridos Para Peleadores",
@@ -14,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 5,
+    "with_song": 2,
+    "missing": 3,
+    "unique_songs": 2
   }
 }

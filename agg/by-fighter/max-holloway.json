@@ -1,7 +1,7 @@
 {
   "fighter": "Max Holloway",
   "slug": "max-holloway",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Legend/Hawaiian Kickboxer",
@@ -29,6 +29,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Running Up That Hill / Hawaiian Kickboxer",
+      "artist": "Kate Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Running%20Up%20That%20Hill%20/%20Hawaiian%20Kickboxer%20Kate%20Bush",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "Running Up That Hill (A Deal With God) / Hawaiian Kickboxer",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

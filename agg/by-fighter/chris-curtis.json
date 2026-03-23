@@ -1,8 +1,35 @@
 {
   "fighter": "Chris Curtis",
   "slug": "chris-curtis",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "THE ONLY THING I KNOW FOR REAL",
+      "artist": "Metal Gear Rising OST",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "War",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gNiZCXy602U2vofLySOiL",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "Last Time That I Checc'd",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
     {
       "song_title": "Industry Baby",
       "artist": "Lil Nas X",
@@ -32,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

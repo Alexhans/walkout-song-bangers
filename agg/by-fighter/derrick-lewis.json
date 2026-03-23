@@ -1,7 +1,7 @@
 {
   "fighter": "Derrick Lewis",
   "slug": "derrick-lewis",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Wanna Be a Baller",
@@ -11,6 +11,33 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     },
     {
       "song_title": "",
@@ -32,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 6,
     "with_song": 2,
-    "missing": 1,
+    "missing": 4,
     "unique_songs": 2
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Don Shainis",
+  "slug": "don-shainis",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Violet",
+      "artist": "Conner Price & Killa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4tbntx7YYQGxKbpTcLjNw0",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,17 @@
 {
   "fighter": "Jamie Mullarkey",
   "slug": "jamie-mullarkey",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
     {
       "song_title": "My Brother’s Keeper",
       "artist": "Kid Mac",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

@@ -1,8 +1,26 @@
 {
   "fighter": "Joselyne Edwards",
   "slug": "joselyne-edwards",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
     {
       "song_title": "Panama",
       "artist": "Ruben Blades",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 4,
     "with_song": 1,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 1
   }
 }

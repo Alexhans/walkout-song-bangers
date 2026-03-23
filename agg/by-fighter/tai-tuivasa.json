@@ -1,8 +1,17 @@
 {
   "fighter": "Tai Tuivasa",
   "slug": "tai-tuivasa",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "GIRLS JUST WANT TO HAVE FUN",
+      "artist": "Cyndi Lauper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
     {
       "song_title": "Scar",
       "artist": "Missy Higgins",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Marlon Vera",
   "slug": "marlon-vera",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "That's All I Need",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "HAND ON THE PUMP",
+      "artist": "Cypress Hill Muggs 2021 Remix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zyEstwLZ9czW67b8CyIAt",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     },
     {
       "song_title": "Where You Come From",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

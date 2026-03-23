@@ -1,8 +1,17 @@
 {
   "fighter": "Movsar Evloev",
   "slug": "movsar-evloev",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Melodies of the Mountains",
+      "artist": "Sulambek Mamilov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3roZ8GYNvxgGrslNhuFSHc",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
     {
       "song_title": "Started from the Bottom",
       "artist": "Drake",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

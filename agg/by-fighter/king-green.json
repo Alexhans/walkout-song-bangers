@@ -1,8 +1,35 @@
 {
   "fighter": "King Green",
   "slug": "king-green",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 5,
     "with_song": 1,
-    "missing": 1,
+    "missing": 4,
     "unique_songs": 1
   }
 }

@@ -1,8 +1,26 @@
 {
   "fighter": "Raul Rosas Jr.",
   "slug": "raul-rosas-jr",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
     {
       "song_title": "México Lindo y Querido",
       "artist": "Vicente Fernández",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

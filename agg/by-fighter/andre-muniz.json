@@ -1,0 +1,22 @@
+{
+  "fighter": "Andre Muniz",
+  "slug": "andre-muniz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

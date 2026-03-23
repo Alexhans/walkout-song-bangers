@@ -1,7 +1,7 @@
 {
   "fighter": "Volkan Oezdemir",
   "slug": "volkan-oezdemir",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Pinocchio",
@@ -11,12 +11,21 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

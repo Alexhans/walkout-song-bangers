@@ -1,0 +1,31 @@
+{
+  "fighter": "Jared Vanderaa",
+  "slug": "jared-vanderaa",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 0,
+    "missing": 2,
+    "unique_songs": 0
+  }
+}

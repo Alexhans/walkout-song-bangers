@@ -1,0 +1,236 @@
+{
+  "event": "UFC 268",
+  "event_slug": "ufc-268",
+  "date": "2021-11-06",
+  "location": "New York City, New York, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-268-Walkout-Tracks-182812"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "YABA BULUKU",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
+      "notes": ""
+    },
+    {
+      "fighter": "Colby Covington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "HAND ON THE PUMP",
+      "artist": "Cypress Hill Muggs 2021 Remix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zyEstwLZ9czW67b8CyIAt",
+      "notes": ""
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "FREEDOM IS PRICELESS",
+      "artist": "Saint Jhn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7DE1LoxxYupnDkuqDhIcCm",
+      "notes": ""
+    },
+    {
+      "fighter": "Billy Quarantillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andreas Michailidis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Al Iaquinta",
+      "song_title": "WOKE UP THIS MORNING",
+      "artist": "Alabama 3 (The Sopranos Mix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "THE ONLY THING I KNOW FOR REAL",
+      "artist": "Metal Gear Rising OST",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "UNCHAINED",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
+      "notes": ""
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Barnett",
+      "song_title": "SPECIAL DELIVERY",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Wb5k3t9SJvyHhulD8JSjv",
+      "notes": ""
+    },
+    {
+      "fighter": "Gian Villante",
+      "song_title": "THE DOWNEASTER ALEXA",
+      "artist": "Billy Joel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39cFQHfY6tsdMRmSbFse3X",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "RUNNIN' DOWN A DREAM",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "notes": ""
+    },
+    {
+      "fighter": "John Allan",
+      "song_title": "EMPIRE STATE OF MIND",
+      "artist": "Jay Zft Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "notes": ""
+    },
+    {
+      "fighter": "Melsik Baghdasaryan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "BLUE NOTES 2",
+      "artist": "Meek Mill feat Lil Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kdhiombBoiHjvSKG3EI0m",
+      "notes": ""
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "",
+      "artist": "“CAN'T TELL ME NOTHING” by Kanye West « Previous Kamaru Usman, Rose Namajunas Retain Championships in Route-Going Efforts at UFC 268 Next By the Numbers: UFC 268 » More view more --> Junior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerShillan & Duffy: UFC Seattle previewArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat' Subscribe to our Newsletter * indicates required Email Address * Latest News ALLUFCPFL Junior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat'Joel Alvarez names hardest puncher he’s ever facedKhabib Nurmagomedov congratulates Movsar Evloev on UFC London victoryMassive payday rumored for Nate Diaz on MVP cardArman Tsarukyan offers to 'save the featherweight division' after UFC LondonJunior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat'Joel Alvarez names hardest puncher he’s ever facedKhabib Nurmagomedov congratulates Movsar Evloev on UFC London victoryArman Tsarukyan offers to 'save the featherweight division' after UFC LondonAljamain Sterling questions scoring of UFC London headlinerCostello van Steenis leaves no doubt against Fabian Edwards at PFL MadridPFL Madrid ‘Van Steenis vs. Edwards 2’ play-by-play, results & round scoringJoe Schilling to return at PFL Brussels against fellow ex-kickboxerPFL Madrid weigh-in results: Middleweight title fight setFull Card Official for PFL Africa on April 10Heavyweight matchup added to PFL ChicagoPFL announces release of former heavyweight king Francis NgannouStreaking French bantamweight meets fellow UFC veteran at PFL Brussels EVENTS / FIGHTS UFCPFL MORE Mar282026 UFC Fight Night 271 Adesanya vs. Pyfer Apr042026 UFC Fight Night 272 Moicano vs. Duncan Apr112026 UFC 327 Prochazka vs. Ulberg Apr182026 UFC Fight Night 273 Burns vs. Malott Apr252026 UFC Fight Night 274 Sterling vs. Zalal Mar282026 Professional Fighters League PFL Pittsburgh - Eblen vs. Battle Apr102026 Professional Fighters League PFL Africa 1: 2026 First Round Apr112026 Professional Fighters League PFL Chicago - Pettis vs. McKee Apr162026 Professional Fighters League PFL Belfast - Hughes vs. Wilson May022026 Professional Fighters League PFL Sioux Falls - Storley vs. Zendeli + MORE UFC FIGHTS+ MORE PFL FIGHTS {firstname} { \"nickname\" }{lastname} {firstname} { \"nickname\" }{lastname} {name} - {title} FIGHT FINDER FIGHTER OF THE WEEK Ariane Lipski da Silva TOP TRENDING FIGHTERS Joe PyferJohnny EblenIsrael AdesanyaBryan Battle MORE FIGHTERS... Mansur Abdul-Malik",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

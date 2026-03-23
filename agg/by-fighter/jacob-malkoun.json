@@ -1,8 +1,26 @@
 {
   "fighter": "Jacob Malkoun",
   "slug": "jacob-malkoun",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "WALK THESE STREETS",
+      "artist": "Rakim, Maino & Tracy Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VMe2CXrzlkvssB3ySs0No",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Walk These Streets",
+      "artist": "Rakim, Maino & Tracey Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
     {
       "song_title": "WE HERE NOW",
       "artist": "Th4 W3st",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

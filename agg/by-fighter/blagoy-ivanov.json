@@ -1,0 +1,22 @@
+{
+  "fighter": "Blagoy Ivanov",
+  "slug": "blagoy-ivanov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "MIKE TYSON SONG",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zN1Cr7chwMed20zF9IZzW",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Rose Namajunas",
   "slug": "rose-namajunas",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Supersonic",
@@ -11,6 +11,24 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     },
     {
       "song_title": "",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

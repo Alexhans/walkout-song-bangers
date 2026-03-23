@@ -1,0 +1,22 @@
+{
+  "fighter": "Marcelo Rojo",
+  "slug": "marcelo-rojo",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "DAMAS GRATIS",
+      "artist": "Perrito Malvado ft. L-Gante & Marita",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf",
+      "event": "UFC 271",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

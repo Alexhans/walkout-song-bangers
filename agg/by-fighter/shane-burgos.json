@@ -1,0 +1,22 @@
+{
+  "fighter": "Shane Burgos",
+  "slug": "shane-burgos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "FREEDOM IS PRICELESS",
+      "artist": "Saint Jhn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7DE1LoxxYupnDkuqDhIcCm",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

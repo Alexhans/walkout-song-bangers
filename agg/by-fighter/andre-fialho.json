@@ -1,0 +1,40 @@
+{
+  "fighter": "Andre Fialho",
+  "slug": "andre-fialho",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "Amor A Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

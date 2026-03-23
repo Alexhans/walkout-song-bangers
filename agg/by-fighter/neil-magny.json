@@ -1,7 +1,7 @@
 {
   "fighter": "Neil Magny",
   "slug": "neil-magny",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "No Regrets",
@@ -35,6 +35,15 @@
       "artist": "Lecrae",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
       "event": "UFC 292",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 2
   }

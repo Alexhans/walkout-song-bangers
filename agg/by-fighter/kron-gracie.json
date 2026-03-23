@@ -1,0 +1,22 @@
+{
+  "fighter": "Kron Gracie",
+  "slug": "kron-gracie",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Open Letter",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2DnH4XlEkghUdE8ymdVom5",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

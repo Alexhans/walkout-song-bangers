@@ -1,0 +1,22 @@
+{
+  "fighter": "Tony Gravely",
+  "slug": "tony-gravely",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "CAN'T C ME",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

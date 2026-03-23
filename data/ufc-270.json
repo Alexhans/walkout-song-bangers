@@ -1,0 +1,188 @@
+{
+  "event": "UFC 270",
+  "event_slug": "ufc-270",
+  "date": "2022-01-22",
+  "location": "Anaheim, California, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-270-Walkout-Tracks-184289"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "2 OF AMERIKAZ MOST WANTED",
+      "artist": "2Pac feat Snoop Doggy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "AMOR A PORTUGAL",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "notes": ""
+    },
+    {
+      "fighter": "Said Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "STAYING ALIVE",
+      "artist": "Bee Gees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "JESUS WALKS",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "BARING TEETH FOR REVOLT",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "notes": ""
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "CACHAMBI OTEIRO",
+      "artist": "Mirechal Bento Ribeiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Pete Rodriguez",
+      "song_title": "OUT HERE GRINDIN",
+      "artist": "DJ Khaled feat. Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79G57uvrydpEheEOiPJpPY",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "CAN'T C ME",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "notes": ""
+    },
+    {
+      "fighter": "Saimon Oliveira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "ROLLIN",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
+      "notes": ""
+    },
+    {
+      "fighter": "Genaro Valdez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kay Hansen",
+      "song_title": "GRINDING ALL MY LIFE",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "notes": ""
+    }
+  ]
+}

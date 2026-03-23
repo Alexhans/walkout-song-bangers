@@ -1,8 +1,26 @@
 {
   "fighter": "Pedro Munhoz",
   "slug": "pedro-munhoz",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Tudo Que Eu Guardo",
+      "artist": "Quebrada United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "If I Ruled The World",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
     {
       "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
       "artist": "Racion",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

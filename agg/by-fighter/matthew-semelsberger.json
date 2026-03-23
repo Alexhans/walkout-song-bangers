@@ -1,8 +1,26 @@
 {
   "fighter": "Matthew Semelsberger",
   "slug": "matthew-semelsberger",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 3,
     "with_song": 0,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 0
   }
 }

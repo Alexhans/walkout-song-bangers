@@ -1,8 +1,17 @@
 {
   "fighter": "Uros Medic",
   "slug": "uros-medic",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "ROOKIE OF THE YEAR",
+      "artist": "Moneybagg Yo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
     {
       "song_title": "Immigrant Song",
       "artist": "Led Zeppelin",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

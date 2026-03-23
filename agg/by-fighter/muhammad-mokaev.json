@@ -1,8 +1,17 @@
 {
   "fighter": "Muhammad Mokaev",
   "slug": "muhammad-mokaev",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
     {
       "song_title": "My People",
       "artist": "Zagir Magomedov",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Joanna Jedrzejczyk",
   "slug": "joanna-jedrzejczyk",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Przejmij ster w swoje dłonie",
@@ -29,12 +29,21 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

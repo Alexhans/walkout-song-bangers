@@ -1,0 +1,22 @@
+{
+  "fighter": "Darian Weeks",
+  "slug": "darian-weeks",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Safe And Save",
+      "artist": "JD Hails",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

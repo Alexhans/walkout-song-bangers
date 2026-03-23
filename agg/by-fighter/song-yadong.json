@@ -1,7 +1,7 @@
 {
   "fighter": "Song Yadong",
   "slug": "song-yadong",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Kung Fu Fighting",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     },
     {
       "song_title": "龍拳 (Dragon Fist)",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

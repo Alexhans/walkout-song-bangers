@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Oliveira",
   "slug": "charles-oliveira",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "O Hino",
@@ -11,6 +11,24 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 6,
     "with_song": 3,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 1
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Manel Kape",
   "slug": "manel-kape",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Festa Da Paz",
+      "artist": "Helder Rei do Kuduro & Dog Murras",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3AFBzLOK2nPdCJjQj24kwJ",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
     {
       "song_title": "Minha Terra",
       "artist": "Supa Squad",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Joseph Holmes",
+  "slug": "joseph-holmes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I’m the Man",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

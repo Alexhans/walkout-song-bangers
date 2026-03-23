@@ -1,0 +1,31 @@
+{
+  "fighter": "Cameron Saaiman",
+  "slug": "cameron-saaiman",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

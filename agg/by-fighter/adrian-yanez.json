@@ -1,0 +1,22 @@
+{
+  "fighter": "Adrian Yanez",
+  "slug": "adrian-yanez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Oh La La",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

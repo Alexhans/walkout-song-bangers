@@ -1,0 +1,22 @@
+{
+  "fighter": "Esteban Ribovics",
+  "slug": "esteban-ribovics",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Argentina",
+      "artist": "Trueno, Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

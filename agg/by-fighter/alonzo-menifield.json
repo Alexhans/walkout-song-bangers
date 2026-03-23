@@ -1,8 +1,35 @@
 {
   "fighter": "Alonzo Menifield",
   "slug": "alonzo-menifield",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Bannks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Monster 2.0",
       "artist": "Jacob Bannks feat. Boogie",
@@ -14,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
     "unique_songs": 1
   }
 }

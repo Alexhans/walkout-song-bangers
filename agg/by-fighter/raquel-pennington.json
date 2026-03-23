@@ -1,7 +1,7 @@
 {
   "fighter": "Raquel Pennington",
   "slug": "raquel-pennington",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Can't Hold Us",
@@ -22,6 +22,15 @@
       "date": "2016-11-12"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
       "song_title": "The Bravest",
       "artist": "Sir Roosevelt",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

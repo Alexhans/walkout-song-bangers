@@ -1,0 +1,22 @@
+{
+  "fighter": "Brad Riddell",
+  "slug": "brad-riddell",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Sons of Plunder",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69ZRVsGoLXjHrQWHMX5iCN",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

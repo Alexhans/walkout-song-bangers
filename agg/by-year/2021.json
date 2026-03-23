@@ -1,0 +1,813 @@
+{
+  "year": 2021,
+  "events": 3,
+  "tracks": [
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "Still Tippin",
+      "artist": "Mike Jones feat Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Tudo Que Eu Guardo",
+      "artist": "Quebrada United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "We Ready",
+      "artist": "Archie Eversole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Casey Kenney",
+      "song_title": "Thug",
+      "artist": "Slim Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Vince Morales",
+      "song_title": "I Declare War",
+      "artist": "King Iso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hBKV3H01V6VOozMcLmRDS",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Drako Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Ed Herman",
+      "song_title": "Streets of Siam",
+      "artist": "Paul Hertzog & Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Jessica Penne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Manel Kape",
+      "song_title": "Festa Da Paz",
+      "artist": "Helder Rei do Kuduro & Dog Murras",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3AFBzLOK2nPdCJjQj24kwJ",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "Stand In Faith",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12gkIsBWFWPHOgX7odzUCK",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Anderson Dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Victoria Leonardo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Johnny Munoz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Jamey Simmons",
+      "song_title": "Yessuh",
+      "artist": "Oswin Benjamin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZHOpAfEBvtCAlM2RKP4sr",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Brian Ortega",
+      "song_title": "THE PURGE",
+      "artist": "Demetrius X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37M4IPkEmlMhysqhJimj8U",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "BAD TO THE BONE",
+      "artist": "George Thorogood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "PROMONTORY",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Nick Diaz",
+      "song_title": "CEREMONY",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Marlon Moraes",
+      "song_title": "YOU'RE THE BEST AROUND",
+      "artist": "Joe Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "MANY MEN WISH DEATH",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "FOX ON THE RUN",
+      "artist": "Sweet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Taila Santos",
+      "song_title": "UNSTOPPABLE",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Roxanne Modafferi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "PUNCHIN THE CLOCK",
+      "artist": "J Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ilwtjmDj6Xyx9Lp2LDFuq",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "ROOKIE OF THE YEAR",
+      "artist": "Moneybagg Yo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Nick Maximov",
+      "song_title": "DIGITAL BATH",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "'9 TO 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Matthew Semelsberger",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Martin Sano",
+      "song_title": "NO CAP",
+      "artist": "D Lucky and Faraon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0WMlNzYdZ1m2exVLeiRhd6",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Omar Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "YABA BULUKU",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Colby Covington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "HAND ON THE PUMP",
+      "artist": "Cypress Hill Muggs 2021 Remix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zyEstwLZ9czW67b8CyIAt",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "FREEDOM IS PRICELESS",
+      "artist": "Saint Jhn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7DE1LoxxYupnDkuqDhIcCm",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Billy Quarantillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Andreas Michailidis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Al Iaquinta",
+      "song_title": "WOKE UP THIS MORNING",
+      "artist": "Alabama 3 (The Sopranos Mix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "THE ONLY THING I KNOW FOR REAL",
+      "artist": "Metal Gear Rising OST",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "UNCHAINED",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Jordan Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Chris Barnett",
+      "song_title": "SPECIAL DELIVERY",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Wb5k3t9SJvyHhulD8JSjv",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Gian Villante",
+      "song_title": "THE DOWNEASTER ALEXA",
+      "artist": "Billy Joel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39cFQHfY6tsdMRmSbFse3X",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "RUNNIN' DOWN A DREAM",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "John Allan",
+      "song_title": "EMPIRE STATE OF MIND",
+      "artist": "Jay Zft Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Melsik Baghdasaryan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Bruno Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "BLUE NOTES 2",
+      "artist": "Meek Mill feat Lil Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kdhiombBoiHjvSKG3EI0m",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "",
+      "artist": "“CAN'T TELL ME NOTHING” by Kanye West « Previous Kamaru Usman, Rose Namajunas Retain Championships in Route-Going Efforts at UFC 268 Next By the Numbers: UFC 268 » More view more --> Junior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerShillan & Duffy: UFC Seattle previewArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat' Subscribe to our Newsletter * indicates required Email Address * Latest News ALLUFCPFL Junior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat'Joel Alvarez names hardest puncher he’s ever facedKhabib Nurmagomedov congratulates Movsar Evloev on UFC London victoryMassive payday rumored for Nate Diaz on MVP cardArman Tsarukyan offers to 'save the featherweight division' after UFC LondonJunior dos Santos: Alex Pereira has ideal matchup for heavyweight debutUFC Seattle main card finalized with late changeLerone Murphy shares extent of hip injury suffered in UFC London headlinerArman Tsarukyan wary of Georgio Poullas: 'He’s like a rat'Joel Alvarez names hardest puncher he’s ever facedKhabib Nurmagomedov congratulates Movsar Evloev on UFC London victoryArman Tsarukyan offers to 'save the featherweight division' after UFC LondonAljamain Sterling questions scoring of UFC London headlinerCostello van Steenis leaves no doubt against Fabian Edwards at PFL MadridPFL Madrid ‘Van Steenis vs. Edwards 2’ play-by-play, results & round scoringJoe Schilling to return at PFL Brussels against fellow ex-kickboxerPFL Madrid weigh-in results: Middleweight title fight setFull Card Official for PFL Africa on April 10Heavyweight matchup added to PFL ChicagoPFL announces release of former heavyweight king Francis NgannouStreaking French bantamweight meets fellow UFC veteran at PFL Brussels EVENTS / FIGHTS UFCPFL MORE Mar282026 UFC Fight Night 271 Adesanya vs. Pyfer Apr042026 UFC Fight Night 272 Moicano vs. Duncan Apr112026 UFC 327 Prochazka vs. Ulberg Apr182026 UFC Fight Night 273 Burns vs. Malott Apr252026 UFC Fight Night 274 Sterling vs. Zalal Mar282026 Professional Fighters League PFL Pittsburgh - Eblen vs. Battle Apr102026 Professional Fighters League PFL Africa 1: 2026 First Round Apr112026 Professional Fighters League PFL Chicago - Pettis vs. McKee Apr162026 Professional Fighters League PFL Belfast - Hughes vs. Wilson May022026 Professional Fighters League PFL Sioux Falls - Storley vs. Zendeli + MORE UFC FIGHTS+ MORE PFL FIGHTS {firstname} { \"nickname\" }{lastname} {firstname} { \"nickname\" }{lastname} {name} - {title} FIGHT FINDER FIGHTER OF THE WEEK Ariane Lipski da Silva TOP TRENDING FIGHTERS Joe PyferJohnny EblenIsrael AdesanyaBryan Battle MORE FIGHTERS... Mansur Abdul-Malik",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "total_fighters": 80,
+    "with_song": 36,
+    "playable_tracks": 36,
+    "unique_playable_tracks": 36,
+    "missing": 44
+  }
+}

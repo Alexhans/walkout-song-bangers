@@ -1,8 +1,26 @@
 {
   "fighter": "Ihor Potieria",
   "slug": "ihor-potieria",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Welcome to Ukraine",
+      "artist": "JKLN",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vPzOAkd8NNzih7DQxn42L",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "Ykpa7Hcbki отамани",
+      "artist": "ЯРМАК ft. Лев",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7a1HRV14m0sA1v11ax6uy0",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

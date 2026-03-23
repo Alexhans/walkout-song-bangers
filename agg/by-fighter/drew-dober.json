@@ -1,7 +1,7 @@
 {
   "fighter": "Drew Dober",
   "slug": "drew-dober",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Shoop",
@@ -31,6 +31,24 @@
       "date": "2017-07-29"
     },
     {
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 277",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
       "song_title": "This Is How We Do It",
       "artist": "Montell Jordan",
       "confidence": "bronze",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

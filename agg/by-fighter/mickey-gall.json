@@ -1,7 +1,7 @@
 {
   "fighter": "Mickey Gall",
   "slug": "mickey-gall",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Hey Mickey",
@@ -22,6 +22,15 @@
       "date": "2017-11-04"
     },
     {
+      "song_title": "Woke Up This Morning",
+      "artist": "Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
       "song_title": "Hey Mickey",
       "artist": "Toni Basil",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

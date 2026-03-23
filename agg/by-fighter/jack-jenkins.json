@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Jenkins",
   "slug": "jack-jenkins",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "8 Mile Final Rap Battle",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
     {
       "song_title": "8 Mile Eminem final rap battle",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

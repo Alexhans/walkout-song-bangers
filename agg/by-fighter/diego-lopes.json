@@ -1,8 +1,17 @@
 {
   "fighter": "Diego Lopes",
   "slug": "diego-lopes",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Flaco Pesado",
+      "artist": "Zxmyr feat. Geramx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
     {
       "song_title": "Por Mi Mexico",
       "artist": "Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo and Neto",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

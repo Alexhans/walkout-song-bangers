@@ -1,8 +1,17 @@
 {
   "fighter": "Jake Matthews",
   "slug": "jake-matthews",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Got This",
+      "artist": "Lisi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
+      "event": "UFC 275",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
     {
       "song_title": "NHF (No Hard Feelings)",
       "artist": "Nito NB",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

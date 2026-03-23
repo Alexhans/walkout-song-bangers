@@ -1,0 +1,22 @@
+{
+  "fighter": "Rolando Bedoya",
+  "slug": "rolando-bedoya",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Nocaute",
+      "artist": "MC Lucas DM and MC Robs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

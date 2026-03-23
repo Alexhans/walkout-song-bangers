@@ -1,8 +1,17 @@
 {
   "fighter": "Ikram Aliskerov",
   "slug": "ikram-aliskerov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 0,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 0
   }
 }

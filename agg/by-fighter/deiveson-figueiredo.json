@@ -1,7 +1,7 @@
 {
   "fighter": "Deiveson Figueiredo",
   "slug": "deiveson-figueiredo",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,24 @@
       "event": "UFC 212: Aldo vs. Holloway",
       "event_slug": "ufc-212",
       "date": "2017-06-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "Baludão",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 5,
     "with_song": 2,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 2
   }
 }

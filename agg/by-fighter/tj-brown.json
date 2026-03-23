@@ -1,0 +1,22 @@
+{
+  "fighter": "TJ Brown",
+  "slug": "tj-brown",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Spinnin'",
+      "artist": "Connor Price",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "event": "UFC 282",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

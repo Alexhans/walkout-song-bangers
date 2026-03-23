@@ -1,8 +1,17 @@
 {
   "fighter": "Kevin Holland",
   "slug": "kevin-holland",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Tell Me",
+      "artist": "MGF Bandit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mkO3QQGV2M3GSylMXAiDb",
+      "event": "UFC 287",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
     {
       "song_title": "I Was Just Thinking",
       "artist": "Gunna",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

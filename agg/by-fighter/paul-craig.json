@@ -1,7 +1,7 @@
 {
   "fighter": "Paul Craig",
   "slug": "paul-craig",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Alive",
@@ -11,6 +11,15 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "Knuckles",
+      "artist": "The Snuts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "Victory Over the Sun",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -11,6 +11,24 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "MANY MEN WISH DEATH",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 266",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Who I Smoke",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

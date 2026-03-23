@@ -1,7 +1,7 @@
 {
   "fighter": "Yair Rodriguez",
   "slug": "yair-rodriguez",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "El Corrido de Chuhuahua",
@@ -11,12 +11,30 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "El Corrido De Chihuahua",
+      "artist": "Los Reileros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "El Invincible",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

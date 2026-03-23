@@ -1,0 +1,22 @@
+{
+  "fighter": "Casey Kenney",
+  "slug": "casey-kenney",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Thug",
+      "artist": "Slim Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

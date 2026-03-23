@@ -1,0 +1,18 @@
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "update-readme"
+name = "Regenerate README event table"
+entry = "python3 skill/scripts/update_readme.py"
+language = "system"
+files = '^data/.*\.json$'
+pass_filenames = false
+
+[[repos.hooks]]
+id = "aggregate"
+name = "Regenerate aggregations"
+entry = "python3 skill/scripts/aggregate.py"
+language = "system"
+files = '^data/.*\.json$'
+pass_filenames = false

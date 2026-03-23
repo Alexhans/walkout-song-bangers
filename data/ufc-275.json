@@ -1,0 +1,188 @@
+{
+  "event": "UFC 275",
+  "event_slug": "ufc-275",
+  "date": "2022-06-11",
+  "location": "Kallang, Singapore",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-275-Walkout-Tracks-187100"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "Legends Are Made",
+      "artist": "Sam Tinnesz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1M1FjrseqHIeuTQHhQVcp4",
+      "notes": ""
+    },
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Taila Santos",
+      "song_title": "Unstoppable",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Got This",
+      "artist": "Lisi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "Amor A Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramazan Emeev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "SeungWoo Choi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Maheshate",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "Walk These Streets",
+      "artist": "Rakim, Maino & Tracey Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyung Ho Kang",
+      "song_title": "Better Than Yesterday",
+      "artist": "P-Masta feat. Mr. Room9",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
+      "notes": ""
+    },
+    {
+      "fighter": "Batgerel Danaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Liang Na",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramona Pascual",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Virna Jandiroba",
+  "slug": "virna-jandiroba",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

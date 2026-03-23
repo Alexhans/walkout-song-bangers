@@ -1,8 +1,26 @@
 {
   "fighter": "Jimmy Crute",
   "slug": "jimmy-crute",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Lights Go Down",
+      "artist": "Bazanji",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "Wrong One",
+      "artist": "Seth Sentry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dmT0RFjIL4m5ReWDt96TA",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
     {
       "song_title": "Lights Go Down",
       "artist": "Bazanji",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

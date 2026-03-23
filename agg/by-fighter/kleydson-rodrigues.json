@@ -1,0 +1,31 @@
+{
+  "fighter": "Kleydson Rodrigues",
+  "slug": "kleydson-rodrigues",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 0,
+    "missing": 2,
+    "unique_songs": 0
+  }
+}

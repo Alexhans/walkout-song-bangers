@@ -1,7 +1,7 @@
 {
   "fighter": "Colby Covington",
   "slug": "colby-covington",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Me, Myself and I",
@@ -11,6 +11,15 @@
       "event": "UFC 202: Diaz vs. McGregor 2",
       "event_slug": "ufc-202",
       "date": "2016-08-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     },
     {
       "song_title": "Medal",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

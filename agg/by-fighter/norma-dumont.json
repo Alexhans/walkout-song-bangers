@@ -1,0 +1,22 @@
+{
+  "fighter": "Norma Dumont",
+  "slug": "norma-dumont",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "ROCK AND ROLL PART 2",
+      "artist": "Gary Glitter",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d",
+      "event": "UFC 274",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

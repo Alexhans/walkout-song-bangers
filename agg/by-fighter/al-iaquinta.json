@@ -1,0 +1,22 @@
+{
+  "fighter": "Al Iaquinta",
+  "slug": "al-iaquinta",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "WOKE UP THIS MORNING",
+      "artist": "Alabama 3 (The Sopranos Mix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

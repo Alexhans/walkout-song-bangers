@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Aldo",
   "slug": "jose-aldo",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Run This Town",
@@ -23,6 +23,15 @@
     },
     {
       "song_title": "Run This Town",
+      "artist": "Jay Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 265",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "Run This Town",
       "artist": "JAY-Z, Rihanna, Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

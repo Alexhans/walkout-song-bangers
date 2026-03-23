@@ -1,8 +1,17 @@
 {
   "fighter": "Yan Xiaonan",
   "slug": "yan-xiaonan",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Yuan Zou Gao Fei",
+      "artist": "Jin Zhiwen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qGo5OBXfO9z74zhbDexlE",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
     {
       "song_title": "远走高飞 (Fly Away)",
       "artist": "Jin Zhiwen",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

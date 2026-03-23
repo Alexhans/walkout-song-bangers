@@ -1,7 +1,7 @@
 {
   "fighter": "Belal Muhammad",
   "slug": "belal-muhammad",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Ruff Ryders' Anthem",
@@ -22,6 +22,24 @@
       "date": "2017-07-08"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "song_title": "My Blood is Palestine",
+      "artist": "Dami Falasteeni",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
+      "event": "UFC 288",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
       "song_title": "Dammi Falastini",
       "artist": "Mohammad Assaf, Exgeist",
       "confidence": "bronze",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
-    "missing": 0,
-    "unique_songs": 3
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

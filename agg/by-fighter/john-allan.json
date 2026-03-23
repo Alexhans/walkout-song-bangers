@@ -1,0 +1,22 @@
+{
+  "fighter": "John Allan",
+  "slug": "john-allan",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "EMPIRE STATE OF MIND",
+      "artist": "Jay Zft Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

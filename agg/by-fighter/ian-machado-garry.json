@@ -1,8 +1,35 @@
 {
   "fighter": "Ian Machado Garry",
   "slug": "ian-machado-garry",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 6,
     "with_song": 2,
-    "missing": 1,
+    "missing": 4,
     "unique_songs": 2
   }
 }

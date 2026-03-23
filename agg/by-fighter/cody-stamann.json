@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Stamann",
   "slug": "cody-stamann",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Simple Man",
@@ -20,12 +20,30 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "STAYING ALIVE",
+      "artist": "Bee Gees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+      "event": "UFC 270",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "event": "UFC 283",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

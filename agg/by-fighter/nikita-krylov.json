@@ -1,7 +1,7 @@
 {
   "fighter": "Nikita Krylov",
   "slug": "nikita-krylov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Muzhitskaya Silushka",
@@ -11,6 +11,15 @@
       "event": "UFC 206: Holloway vs. Pettis",
       "event_slug": "ufc-206",
       "date": "2016-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "Шахта (Mine)",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

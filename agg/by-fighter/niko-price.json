@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -11,6 +11,15 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC 290",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Glory to God",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }
