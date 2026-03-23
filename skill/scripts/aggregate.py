@@ -124,6 +124,39 @@ def aggregate_by_fighter(events):
     return results
 
 
+def aggregate_by_song(events):
+    """Count appearances of each song, keyed by Spotify URL."""
+    counts = defaultdict(lambda: {"artist": "", "song_title": "", "spotify_url": "", "count": 0, "fighters": set()})
+
+    for event in events:
+        for song in event.get("songs", []):
+            url = song["spotify_url"]
+            if not url or song["confidence"] == "missing":
+                continue
+            entry = counts[url]
+            entry["spotify_url"] = url
+            entry["artist"] = song["artist"]
+            entry["song_title"] = song["song_title"]
+            entry["count"] += 1
+            entry["fighters"].add(song["fighter"])
+
+    # Convert sets to counts for JSON serialization
+    for entry in counts.values():
+        entry["unique_fighters"] = len(entry["fighters"])
+        del entry["fighters"]
+
+    return sorted(counts.values(), key=lambda x: (-x["unique_fighters"], -x["count"], x["artist"], x["song_title"]))
+
+
+def write_by_song(song_data):
+    """Write the by-song aggregation file."""
+    AGG_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = AGG_DIR / "by-song.json"
+    with open(out_path, "w") as f:
+        json.dump(song_data, f, indent=2, ensure_ascii=False)
+    return out_path
+
+
 def write_by_year(year_data, year):
     """Write a single year aggregation file."""
     out_dir = AGG_DIR / "by-year"
@@ -230,6 +263,13 @@ def main():
         print(f"\nagg/by-fighter/ -> {count} fighters ({multi_event} with multiple events)")
         if not filter_fighter:
             print(f"  load: {(t_load - t0)*1000:.1f}ms | aggregate: {(t_fighter - t_load)*1000:.1f}ms | total: {(time.perf_counter() - t0)*1000:.1f}ms")
+
+    # By song (always runs in full mode, skip when filtering)
+    if not filter_year and not filter_fighter:
+        song_results = aggregate_by_song(events)
+        path = write_by_song(song_results)
+        multi = sum(1 for s in song_results if s["count"] > 1)
+        print(f"\n{path} -> {len(song_results)} unique songs ({multi} used by 2+ fighters)")
 
 
 if __name__ == "__main__":
