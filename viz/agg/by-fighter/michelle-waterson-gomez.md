@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-04-08 | UFC 287: Pereira vs. Adesanya 2 | — | — | |
-| 2024-06-29 | UFC 303: Pereira vs. Prochazka 2 | — | — | |
+| 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |
+| 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |

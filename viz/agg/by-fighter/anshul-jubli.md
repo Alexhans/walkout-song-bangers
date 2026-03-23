@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | Ronin | Jade | [Listen](https://open.spotify.com/track/5lpPuhGPA1XSD4PzsKU8gG) |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Ronin | Jade | [Listen](https://open.spotify.com/track/5lpPuhGPA1XSD4PzsKU8gG) |

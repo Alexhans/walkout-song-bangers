@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-08-17 | UFC 241: Cormier vs. Miocic 2 | — | — | |
+| 2019-08-17 | [UFC 241: Cormier vs. Miocic 2](../../ufc-241.md) | — | — | |

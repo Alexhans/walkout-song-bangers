@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-04-08 | UFC 287: Pereira vs. Adesanya 2 | Fire Squad | J. Cole | [Listen](https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A) |
+| 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | Fire Squad | J. Cole | [Listen](https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A) |

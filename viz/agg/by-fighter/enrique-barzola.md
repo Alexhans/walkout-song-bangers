@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-05-13 | UFC 211: Miocic vs. Dos Santos 2 | Le Llaman Guerrero | Juan Carlos Alvarado | [Listen](https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ) |
+| 2017-05-13 | [UFC 211: Miocic vs. Dos Santos 2](../../ufc-211.md) | Le Llaman Guerrero | Juan Carlos Alvarado | [Listen](https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ) |

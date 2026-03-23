@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-10-08 | UFC 204: Bisping vs. Henderson 2 | Fire on the Beach | Total Combat | [Listen](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) |
+| 2016-10-08 | [UFC 204: Bisping vs. Henderson 2](../../ufc-204.md) | Fire on the Beach | Total Combat | [Listen](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-10-06 | UFC 229: Khabib vs McGregor | Release Yo' Self | Method Man | [Listen](https://open.spotify.com/track/3wGjTruvCtFKrAOJrMdMay) |
+| 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Release Yo' Self | Method Man | [Listen](https://open.spotify.com/track/3wGjTruvCtFKrAOJrMdMay) |

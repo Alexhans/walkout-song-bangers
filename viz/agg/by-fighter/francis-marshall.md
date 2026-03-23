@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |

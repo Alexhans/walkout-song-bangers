@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | — | — | |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |

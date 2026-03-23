@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | Intro | DMX | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Intro | DMX | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |

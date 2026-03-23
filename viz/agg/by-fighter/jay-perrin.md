@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-12-10 | UFC 282: Blachowicz vs. Ankalaev | Miracle | A Day to Remember | [Listen](https://open.spotify.com/track/1l00qUHfmONY1jNaE2Ievs) |
+| 2022-12-10 | [UFC 282: Blachowicz vs. Ankalaev](../../ufc-282.md) | Miracle | A Day to Remember | [Listen](https://open.spotify.com/track/1l00qUHfmONY1jNaE2Ievs) |

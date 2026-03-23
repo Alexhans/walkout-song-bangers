@@ -236,12 +236,13 @@ def write_viz_fighter(fighter_data):
         "|------|-------|------|--------|---------|",
     ]
     for w in fighter_data["walkouts"]:
+        event_link = f"[{w['event']}](../../{w['event_slug']}.md)"
         if w["confidence"] == "missing":
-            lines.append(f"| {w['date']} | {w['event']} | — | — | |")
+            lines.append(f"| {w['date']} | {event_link} | — | — | |")
         else:
             url = w["spotify_url"]
             link = f"[Listen]({url})" if is_playable_url(url) else ""
-            lines.append(f"| {w['date']} | {w['event']} | {w['song_title']} | {w['artist']} | {link} |")
+            lines.append(f"| {w['date']} | {event_link} | {w['song_title']} | {w['artist']} | {link} |")
     out_path.write_text("\n".join(lines) + "\n")
     return out_path
 

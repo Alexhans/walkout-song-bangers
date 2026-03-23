@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-10-06 | UFC 229: Khabib vs McGregor | Nothin' but a Good Time | Poison | [Listen](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) |
+| 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Nothin' but a Good Time | Poison | [Listen](https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR) |

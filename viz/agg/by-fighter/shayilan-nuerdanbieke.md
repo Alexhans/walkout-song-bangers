@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-04-08 | UFC 287: Pereira vs. Adesanya 2 | — | — | |
+| 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |

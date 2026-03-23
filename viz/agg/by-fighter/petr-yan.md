@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | Стволок за поясок | Ноггано | [Listen](https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a) |
-| 2022-10-22 | UFC 280: Oliveira vs. Makhachev | БОЙЦОВСКАЯ ТРОПА | Drummatix | [Listen](https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF) |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | Стволок за поясок | Ноггано | [Listen](https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a) |
+| 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | БОЙЦОВСКАЯ ТРОПА | Drummatix | [Listen](https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF) |

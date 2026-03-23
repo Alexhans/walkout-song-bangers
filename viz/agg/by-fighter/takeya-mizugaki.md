@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-08-20 | UFC 202: Diaz vs. McGregor 2 | Wake Me Up | Avicii | [Listen](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) |
+| 2016-08-20 | [UFC 202: Diaz vs. McGregor 2](../../ufc-202.md) | Wake Me Up | Avicii | [Listen](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) |

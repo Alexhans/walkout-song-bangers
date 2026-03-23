@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-10-06 | UFC 229: Khabib vs McGregor | Believer | Imagine Dragons | [Listen](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
+| 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Believer | Imagine Dragons | [Listen](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Open Letter | Lil’ Wayne | [Listen](https://open.spotify.com/track/2DnH4XlEkghUdE8ymdVom5) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Open Letter | Lil’ Wayne | [Listen](https://open.spotify.com/track/2DnH4XlEkghUdE8ymdVom5) |

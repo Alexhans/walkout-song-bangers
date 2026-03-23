@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-07-06 | UFC 239: Jones vs. Santos | Bad Girls | M.I.A. | [Listen](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) |
+| 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | Bad Girls | M.I.A. | [Listen](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-07-30 | UFC 277: Pena vs. Nunes 2 | Revan's Revenge | GreyBush | [Listen](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) |
+| 2022-07-30 | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | Revan's Revenge | GreyBush | [Listen](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) |

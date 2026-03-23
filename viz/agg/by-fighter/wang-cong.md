@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | 好汉歌 (Hero Song) | 刘欢 (Liu Huan) | [Listen](https://open.spotify.com/track/4pPjpyCJE2MqVwKmqg5Gea) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | 好汉歌 (Hero Song) | 刘欢 (Liu Huan) | [Listen](https://open.spotify.com/track/4pPjpyCJE2MqVwKmqg5Gea) |

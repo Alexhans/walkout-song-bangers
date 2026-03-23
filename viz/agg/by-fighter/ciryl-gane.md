@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | Still Tippin | Mike Jones feat Slim Thug and Paul Wall | [Listen](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) |
-| 2022-01-22 | UFC 270: Ngannou vs. Gane | 2 OF AMERIKAZ MOST WANTED | 2Pac feat Snoop Doggy | [Listen](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | Still Tippin | Mike Jones feat Slim Thug and Paul Wall | [Listen](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) |
+| 2022-01-22 | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | 2 OF AMERIKAZ MOST WANTED | 2Pac feat Snoop Doggy | [Listen](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) |

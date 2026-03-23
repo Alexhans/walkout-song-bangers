@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-06-11 | UFC 275: Teixeira vs. Prochazka | — | — | |
-| 2025-07-19 | UFC 318: Holloway vs. Poirier 3 | — | — | |
+| 2022-06-11 | [UFC 275: Teixeira vs. Prochazka](../../ufc-275.md) | — | — | |
+| 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | — | — | |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-01-20 | UFC 297: Strickland vs. Du Plessis | Congratulations | Post Malone | [Listen](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) |
+| 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | Congratulations | Post Malone | [Listen](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) |

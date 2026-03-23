@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-08-19 | UFC 292: Sterling vs. O'Malley | Take It Outside | Brantley Gilbert | [Listen](https://open.spotify.com/track/1AJBs8myLazWQpOMZ8Vtpg) |
+| 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Take It Outside | Brantley Gilbert | [Listen](https://open.spotify.com/track/1AJBs8myLazWQpOMZ8Vtpg) |

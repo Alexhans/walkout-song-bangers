@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-07-27 | UFC 304: Edwards vs. Muhammad 2 | Xorumi | Georgian folk dance |  |
+| 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Xorumi | Georgian folk dance |  |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | Legendary 2 | Tupac |  |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Legendary 2 | Tupac |  |

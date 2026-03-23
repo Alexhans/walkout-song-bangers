@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | La Puerta Negra | Los Tigres Del Norte | [Listen](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | La Puerta Negra | Los Tigres Del Norte | [Listen](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) |

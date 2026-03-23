@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-06-10 | UFC 289: Nunes vs. Aldana | Hard Man | Paul Lagendyk | [Listen](https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR) |
+| 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | Hard Man | Paul Lagendyk | [Listen](https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2020-01-18 | UFC 246: McGregor vs. Cowboy | — | — | |
+| 2020-01-18 | [UFC 246: McGregor vs. Cowboy](../../ufc-246.md) | — | — | |

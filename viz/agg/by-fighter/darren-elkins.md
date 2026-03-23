@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-03-04 | UFC 209: Woodley vs. Thompson 2 | Get Ready | Eric Herzog | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
-| 2018-11-17 | UFC Fight Night 140: Magny vs. Ponzinibbio | Get Ready | Eric Herzog |  |
+| 2017-03-04 | [UFC 209: Woodley vs. Thompson 2](../../ufc-209.md) | Get Ready | Eric Herzog | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
+| 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Get Ready | Eric Herzog |  |

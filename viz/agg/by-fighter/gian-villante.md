@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-11-06 | UFC 268: Usman vs. Covington 2 | THE DOWNEASTER ALEXA | Billy Joel | [Listen](https://open.spotify.com/track/39cFQHfY6tsdMRmSbFse3X) |
+| 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | THE DOWNEASTER ALEXA | Billy Joel | [Listen](https://open.spotify.com/track/39cFQHfY6tsdMRmSbFse3X) |

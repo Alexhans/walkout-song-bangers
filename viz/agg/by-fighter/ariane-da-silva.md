@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-12-16 | UFC 296: Edwards vs. Covington | — | — | |
+| 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | — | — | |

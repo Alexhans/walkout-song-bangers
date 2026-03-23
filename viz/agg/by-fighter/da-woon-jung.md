@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2020-10-24 | UFC 254: Khabib vs. Gaethje | — | — | |
-| 2023-09-09 | UFC 293: Adesanya vs. Strickland | Digimon Adventure Butter-Fly Perfect Final Version |  |  |
+| 2020-10-24 | [UFC 254: Khabib vs. Gaethje](../../ufc-254.md) | — | — | |
+| 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Digimon Adventure Butter-Fly Perfect Final Version |  |  |

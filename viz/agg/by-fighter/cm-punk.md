@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-09-10 | UFC 203: Miocic vs. Overeem | — | — | |
+| 2016-09-10 | [UFC 203: Miocic vs. Overeem](../../ufc-203.md) | — | — | |

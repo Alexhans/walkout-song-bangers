@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-30 | UFC 207: Nunes vs. Rousey | Sou Foda | Avassaladores | [Listen](https://open.spotify.com/track/2G02ZQ8Q9ftBTQHkyc3YKV) |
+| 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | Sou Foda | Avassaladores | [Listen](https://open.spotify.com/track/2G02ZQ8Q9ftBTQHkyc3YKV) |

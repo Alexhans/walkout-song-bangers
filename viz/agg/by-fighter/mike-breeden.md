@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-11-11 | UFC 295: Prochazka vs. Pereira | Joshua ‘The Fearless’ Van | Sui Ceu |  |
+| 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Joshua ‘The Fearless’ Van | Sui Ceu |  |

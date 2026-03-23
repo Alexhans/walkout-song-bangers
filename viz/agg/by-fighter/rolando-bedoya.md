@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Nocaute | MC Lucas DM and MC Robs | [Listen](https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Nocaute | MC Lucas DM and MC Robs | [Listen](https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX) |

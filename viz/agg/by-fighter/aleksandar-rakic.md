@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-04-13 | UFC 300: Pereira vs. Hill | Music the Best 3 | Justin Seven | [Listen](https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT) |
+| 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Music the Best 3 | Justin Seven | [Listen](https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT) |

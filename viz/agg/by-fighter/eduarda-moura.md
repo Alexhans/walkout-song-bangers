@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | Beautiful Things | Benson Boone | [Listen](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Beautiful Things | Benson Boone | [Listen](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) |

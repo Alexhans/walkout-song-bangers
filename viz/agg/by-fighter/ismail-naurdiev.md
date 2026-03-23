@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-07-06 | UFC 239: Jones vs. Santos | Shukran | Moe Phoenix | [Listen](https://open.spotify.com/track/4dZVTIPbPV5xUTwv5vWmC8) |
+| 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | Shukran | Moe Phoenix | [Listen](https://open.spotify.com/track/4dZVTIPbPV5xUTwv5vWmC8) |

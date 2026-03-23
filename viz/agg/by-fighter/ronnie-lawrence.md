@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-02-12 | UFC 271: Adesanya vs. Whittaker 2 | — | — | |
+| 2022-02-12 | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |

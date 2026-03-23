@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-21 | UFC Fight Night: Strickland vs. Hernandez | Широка река (Shiroka Reka) | Nadezhda Kadysheva and Golden Ring | [Listen](https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg) |
+| 2026-02-21 | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | Широка река (Shiroka Reka) | Nadezhda Kadysheva and Golden Ring | [Listen](https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg) |

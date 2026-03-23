@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-06-03 | UFC 212: Aldo vs. Holloway | Moment 4 Life | Nicki Minaj feat. Drake | [Listen](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) |
+| 2017-06-03 | [UFC 212: Aldo vs. Holloway](../../ufc-212.md) | Moment 4 Life | Nicki Minaj feat. Drake | [Listen](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | Move On Up | Curtis Mayfield | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | Move On Up | Curtis Mayfield | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-06-01 | UFC 302: Makhachev vs. Poirier | Stop the Time | Amatory |  |
+| 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Stop the Time | Amatory |  |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | New Day | 50 Cent | [Listen](https://open.spotify.com/track/2rMreweJkDadtWMOEv1w67) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | New Day | 50 Cent | [Listen](https://open.spotify.com/track/2rMreweJkDadtWMOEv1w67) |

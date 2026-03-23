@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | Blue Parrot | Alan Silvestri |  |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Blue Parrot | Alan Silvestri |  |

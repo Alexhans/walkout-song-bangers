@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | Zombie | The Cranberries | [Listen](https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb) |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | Zombie | The Cranberries | [Listen](https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb) |

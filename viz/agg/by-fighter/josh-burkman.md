@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-07-29 | UFC 214: Cormier vs. Jones 2 | The Baddest Man Alive | The Black Keys & RZA | [Listen](https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV) |
+| 2017-07-29 | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | The Baddest Man Alive | The Black Keys & RZA | [Listen](https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV) |

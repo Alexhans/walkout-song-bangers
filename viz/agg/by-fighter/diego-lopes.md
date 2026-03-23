@@ -4,8 +4,8 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Flaco Pesado | Zxmyr feat. Geramx | [Listen](https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0) |
-| 2023-11-11 | UFC 295: Prochazka vs. Pereira | Por Mi Mexico | Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo and Neto |  |
-| 2024-04-13 | UFC 300: Pereira vs. Hill | — | — | |
-| 2024-06-29 | UFC 303: Pereira vs. Prochazka 2 | DEVASTATED | Joey Bada$$ | [Listen](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) |
-| 2026-01-31 | UFC 325: Volkanovski vs. Lopes 2 | La Chona | Los Tucanes De Tijuana | [Listen](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Flaco Pesado | Zxmyr feat. Geramx | [Listen](https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0) |
+| 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Por Mi Mexico | Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo and Neto |  |
+| 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | — | — | |
+| 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | DEVASTATED | Joey Bada$$ | [Listen](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) |
+| 2026-01-31 | [UFC 325: Volkanovski vs. Lopes 2](../../ufc-325.md) | La Chona | Los Tucanes De Tijuana | [Listen](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) |

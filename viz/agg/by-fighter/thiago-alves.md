@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-11-12 | UFC 205: Alvarez vs. McGregor | Full Clip | Gang Starr | [Listen](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) |
+| 2016-11-12 | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Full Clip | Gang Starr | [Listen](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) |

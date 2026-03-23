@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Power | Kanye West | [Listen](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Power | Kanye West | [Listen](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) |

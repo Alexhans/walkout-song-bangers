@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | Purple Lamborghini | Skrillex & Rick Ross | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
-| 2025-11-15 | UFC 322: Della Maddalena vs. Makhachev | Marolento | Puterrier feat. Borges | [Listen](https://open.spotify.com/track/44KoAoBa6T3U5Jkf7jXXHu) |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Purple Lamborghini | Skrillex & Rick Ross | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
+| 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | Marolento | Puterrier feat. Borges | [Listen](https://open.spotify.com/track/44KoAoBa6T3U5Jkf7jXXHu) |

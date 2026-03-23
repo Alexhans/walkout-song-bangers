@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-11-11 | UFC 295: Prochazka vs. Pereira | Whoopty | CJ | [Listen](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) |
+| 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Whoopty | CJ | [Listen](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) |

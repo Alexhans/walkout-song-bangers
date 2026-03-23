@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-11-04 | UFC 217: Bisping vs. St-Pierre | Oro Se Do Bheatha Bhaile | Sean Mor | [Listen](https://open.spotify.com/track/4Cht4IwOKR23JU1YrIxCcS) |
+| 2017-11-04 | [UFC 217: Bisping vs. St-Pierre](../../ufc-217.md) | Oro Se Do Bheatha Bhaile | Sean Mor | [Listen](https://open.spotify.com/track/4Cht4IwOKR23JU1YrIxCcS) |

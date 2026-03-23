@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | I Declare War | King Iso | [Listen](https://open.spotify.com/track/4hBKV3H01V6VOozMcLmRDS) |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | I Declare War | King Iso | [Listen](https://open.spotify.com/track/4hBKV3H01V6VOozMcLmRDS) |

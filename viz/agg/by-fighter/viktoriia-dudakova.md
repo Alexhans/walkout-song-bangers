@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | I Am Russian | Shaman |  |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | I Am Russian | Shaman |  |

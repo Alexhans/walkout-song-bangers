@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-09-09 | UFC 293: Adesanya vs. Strickland | I’m Not Afraid | Eminem |  |
+| 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | I’m Not Afraid | Eminem |  |

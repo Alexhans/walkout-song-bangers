@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-11-17 | UFC Fight Night 140: Magny vs. Ponzinibbio | Could You Be Loved | Bob Marley | [Listen](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) |
+| 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Could You Be Loved | Bob Marley | [Listen](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) |

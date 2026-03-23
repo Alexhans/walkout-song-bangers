@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-11-12 | UFC 205: Alvarez vs. McGregor | — | — | |
+| 2016-11-12 | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | — | — | |

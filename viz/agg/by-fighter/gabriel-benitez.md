@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-05-13 | UFC 211: Miocic vs. Dos Santos 2 | Mejor Morir En Pie | Tierra Santa | [Listen](https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF) |
-| 2019-08-17 | UFC 241: Cormier vs. Miocic 2 | El Corrido del Diablo | Enigma Norteno | [Listen](https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3) |
+| 2017-05-13 | [UFC 211: Miocic vs. Dos Santos 2](../../ufc-211.md) | Mejor Morir En Pie | Tierra Santa | [Listen](https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF) |
+| 2019-08-17 | [UFC 241: Cormier vs. Miocic 2](../../ufc-241.md) | El Corrido del Diablo | Enigma Norteno | [Listen](https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3) |

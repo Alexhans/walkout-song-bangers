@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | Ambitionz Az A Ridah | 2Pac | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | Ambitionz Az A Ridah | 2Pac | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |

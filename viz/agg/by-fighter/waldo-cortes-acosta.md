@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | K PARA DE QUÉ | El Alfa, El Shick | [Listen](https://open.spotify.com/track/7phz5W0WmlFowDvp8488Xb) |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | K PARA DE QUÉ | El Alfa, El Shick | [Listen](https://open.spotify.com/track/7phz5W0WmlFowDvp8488Xb) |

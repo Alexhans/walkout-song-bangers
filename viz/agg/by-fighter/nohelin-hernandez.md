@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-07-06 | UFC 239: Jones vs. Santos | Cameras | Wiz Khalifa | [Listen](https://open.spotify.com/track/0Swx0M6iLt0Lr5nN33YCEB) |
+| 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | Cameras | Wiz Khalifa | [Listen](https://open.spotify.com/track/0Swx0M6iLt0Lr5nN33YCEB) |

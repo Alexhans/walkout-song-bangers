@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | Safe And Save | JD Hails | [Listen](https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK) |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | Safe And Save | JD Hails | [Listen](https://open.spotify.com/track/5R44eDYOtCyipsoiJtvwVK) |

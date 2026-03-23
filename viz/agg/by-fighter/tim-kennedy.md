@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | Rooster | Alice in Chains | [Listen](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | Rooster | Alice in Chains | [Listen](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) |

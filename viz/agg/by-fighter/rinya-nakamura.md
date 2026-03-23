@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-02-17 | UFC 298: Volkanovski vs. Topuria | Festivo | Keiichi Zuzuki |  |
+| 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Festivo | Keiichi Zuzuki |  |

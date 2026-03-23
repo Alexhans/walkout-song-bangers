@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-12-30 | UFC 219: Cyborg vs. Holm | Back on the Path | Marcin Przbylowicz & Percival Schuttenbach | [Listen](https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb) |
+| 2017-12-30 | [UFC 219: Cyborg vs. Holm](../../ufc-219.md) | Back on the Path | Marcin Przbylowicz & Percival Schuttenbach | [Listen](https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb) |

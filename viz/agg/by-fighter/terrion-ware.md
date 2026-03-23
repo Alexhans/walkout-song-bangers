@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-07-08 | UFC 213: Romero vs. Whittaker | Amazing | Kanye West | [Listen](https://open.spotify.com/track/01UniWABhnIka7GgvzOC02) |
+| 2017-07-08 | [UFC 213: Romero vs. Whittaker](../../ufc-213.md) | Amazing | Kanye West | [Listen](https://open.spotify.com/track/01UniWABhnIka7GgvzOC02) |

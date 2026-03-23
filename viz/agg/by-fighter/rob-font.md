@@ -4,6 +4,6 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-07-08 | UFC 213: Romero vs. Whittaker | Welcome to Jamrock | Damian Marley | [Listen](https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ) |
-| 2023-04-08 | UFC 287: Pereira vs. Adesanya 2 | Welcome To Jamrock | Damien Marley | [Listen](https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ) |
-| 2026-03-07 | UFC 326: Holloway vs. Oliveira 2 | Welcome to Jamrock | Damian Marley | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |
+| 2017-07-08 | [UFC 213: Romero vs. Whittaker](../../ufc-213.md) | Welcome to Jamrock | Damian Marley | [Listen](https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ) |
+| 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | Welcome To Jamrock | Damien Marley | [Listen](https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ) |
+| 2026-03-07 | [UFC 326: Holloway vs. Oliveira 2](../../ufc-326.md) | Welcome to Jamrock | Damian Marley | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |

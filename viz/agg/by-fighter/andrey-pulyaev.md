@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | Masha | Rahmuddin | [Listen](https://open.spotify.com/track/0CbdgqTPmDdiTOHn4bpFc1) |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Masha | Rahmuddin | [Listen](https://open.spotify.com/track/0CbdgqTPmDdiTOHn4bpFc1) |

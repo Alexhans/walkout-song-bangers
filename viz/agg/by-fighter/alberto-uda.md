@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-08-20 | UFC 202: Diaz vs. McGregor 2 | — | — | |
+| 2016-08-20 | [UFC 202: Diaz vs. McGregor 2](../../ufc-202.md) | — | — | |

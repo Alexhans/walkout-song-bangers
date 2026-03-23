@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | Dancing Queen | ABBA | [Listen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Dancing Queen | ABBA | [Listen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) |

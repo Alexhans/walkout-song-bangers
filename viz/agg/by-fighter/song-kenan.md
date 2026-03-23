@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | No More Hesitation | Justin Lin |  |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | No More Hesitation | Justin Lin |  |

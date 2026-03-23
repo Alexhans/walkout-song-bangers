@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | I’m the Man | 50 Cent | [Listen](https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | I’m the Man | 50 Cent | [Listen](https://open.spotify.com/track/3LmuxO8mh3wwIfRUqHJFFy) |

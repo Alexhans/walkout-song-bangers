@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-10-08 | UFC 204: Bisping vs. Henderson 2 | Made In America | Toby Keith | [Listen](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) |
+| 2016-10-08 | [UFC 204: Bisping vs. Henderson 2](../../ufc-204.md) | Made In America | Toby Keith | [Listen](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) |

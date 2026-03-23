@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-05-07 | UFC 274: Oliveira vs. Gaethje | — | — | |
-| 2023-02-11 | UFC 284: Makhachev vs. Volkanovski | — | — | |
+| 2022-05-07 | [UFC 274: Oliveira vs. Gaethje](../../ufc-274.md) | — | — | |
+| 2023-02-11 | [UFC 284: Makhachev vs. Volkanovski](../../ufc-284.md) | — | — | |

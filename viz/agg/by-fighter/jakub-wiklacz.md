@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | You're the Best | Joe "Bean" Esposito | [Listen](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | You're the Best | Joe "Bean" Esposito | [Listen](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | Moroccan national anthem |  |  |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Moroccan national anthem |  |  |

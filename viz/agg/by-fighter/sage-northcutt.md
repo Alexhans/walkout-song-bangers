@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-07-09 | UFC 200: Tate vs. Nunes | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
+| 2016-07-09 | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |

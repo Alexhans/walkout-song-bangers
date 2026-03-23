@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-12-10 | UFC 282: Blachowicz vs. Ankalaev | Spinnin' | Connor Price | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |
+| 2022-12-10 | [UFC 282: Blachowicz vs. Ankalaev](../../ufc-282.md) | Spinnin' | Connor Price | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |

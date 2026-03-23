@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-06-29 | UFC 303: Pereira vs. Prochazka 2 | — | — | |
+| 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |

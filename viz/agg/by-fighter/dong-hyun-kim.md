@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-30 | UFC 207: Nunes vs. Rousey | Danza Kuduro | Don Omar | [Listen](https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH) |
+| 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | Danza Kuduro | Don Omar | [Listen](https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH) |

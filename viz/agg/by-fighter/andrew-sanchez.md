@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-01-23 | UFC 257: Poirier vs. McGregor 2 | — | — | |
+| 2021-01-23 | [UFC 257: Poirier vs. McGregor 2](../../ufc-257.md) | — | — | |

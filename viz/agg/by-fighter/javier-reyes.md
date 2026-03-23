@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | Y.M.C.A. | Village People | [Listen](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Y.M.C.A. | Village People | [Listen](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) |

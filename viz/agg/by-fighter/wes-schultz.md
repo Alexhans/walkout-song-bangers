@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | Religious Man | Mister Loco | [Listen](https://open.spotify.com/track/42C2Bpog7Apv4oou2NSOTv) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Religious Man | Mister Loco | [Listen](https://open.spotify.com/track/42C2Bpog7Apv4oou2NSOTv) |

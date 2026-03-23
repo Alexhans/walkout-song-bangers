@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-03-07 | UFC 326: Holloway vs. Oliveira 2 | — | — | |
+| 2026-03-07 | [UFC 326: Holloway vs. Oliveira 2](../../ufc-326.md) | — | — | |

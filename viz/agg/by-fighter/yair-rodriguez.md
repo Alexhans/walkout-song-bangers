@@ -4,6 +4,6 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-05-13 | UFC 211: Miocic vs. Dos Santos 2 | El Corrido de Chuhuahua | Los Rieleros Del Norte | [Listen](https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8) |
-| 2023-02-11 | UFC 284: Makhachev vs. Volkanovski | El Corrido De Chihuahua | Los Reileros del Norte | [Listen](https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8) |
-| 2023-07-08 | UFC 290: Volkanovski vs. Rodriguez | El Invincible | Los Rieleros del Norte | [Listen](https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x) |
+| 2017-05-13 | [UFC 211: Miocic vs. Dos Santos 2](../../ufc-211.md) | El Corrido de Chuhuahua | Los Rieleros Del Norte | [Listen](https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8) |
+| 2023-02-11 | [UFC 284: Makhachev vs. Volkanovski](../../ufc-284.md) | El Corrido De Chihuahua | Los Reileros del Norte | [Listen](https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8) |
+| 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | El Invincible | Los Rieleros del Norte | [Listen](https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x) |

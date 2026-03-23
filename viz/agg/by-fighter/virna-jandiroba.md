@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Empire State of Mind | Jay Z and Alicia Keys | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Empire State of Mind | Jay Z and Alicia Keys | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |

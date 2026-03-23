@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2020-10-24 | UFC 254: Khabib vs. Gaethje | — | — | |
-| 2026-03-14 | UFC Fight Night: Emmett vs. Vallejos | — | — | |
+| 2020-10-24 | [UFC 254: Khabib vs. Gaethje](../../ufc-254.md) | — | — | |
+| 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | — | — | |

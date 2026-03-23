@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2025-07-19 | UFC 318: Holloway vs. Poirier 3 | California Love | 2Pac, Roger, Dr. Dre | [Listen](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) |
+| 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | California Love | 2Pac, Roger, Dr. Dre | [Listen](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) |

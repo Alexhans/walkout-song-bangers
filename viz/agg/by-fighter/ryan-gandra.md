@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | A Dança | MC Hariel, Gilberto Gil | [Listen](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | A Dança | MC Hariel, Gilberto Gil | [Listen](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) |

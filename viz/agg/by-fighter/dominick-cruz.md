@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-30 | UFC 207: Nunes vs. Rousey | Dominator (Ezer Remix) | Armin van Buuren vs Human Resource | [Listen](https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu) |
+| 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | Dominator (Ezer Remix) | Armin van Buuren vs Human Resource | [Listen](https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu) |

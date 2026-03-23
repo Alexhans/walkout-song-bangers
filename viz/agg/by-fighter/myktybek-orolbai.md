@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-05-04 | UFC 301: Pantoja vs. Erceg | — | — | |
-| 2026-03-14 | UFC Fight Night: Emmett vs. Vallejos | — | — | |
+| 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | — | — | |
+| 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | — | — | |

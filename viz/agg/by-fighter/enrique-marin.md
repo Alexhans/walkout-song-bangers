@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-07-09 | UFC 200: Tate vs. Nunes | — | — | |
+| 2016-07-09 | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | — | — | |

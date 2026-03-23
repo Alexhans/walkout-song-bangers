@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-06-10 | UFC 289: Nunes vs. Aldana | — | — | |
+| 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | — | — | |

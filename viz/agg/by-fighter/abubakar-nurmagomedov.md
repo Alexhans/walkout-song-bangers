@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-10-22 | UFC 280: Oliveira vs. Makhachev | — | — | |
+| 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |

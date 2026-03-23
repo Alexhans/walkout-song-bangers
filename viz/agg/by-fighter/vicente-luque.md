@@ -4,6 +4,6 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-11-12 | UFC 205: Alvarez vs. McGregor | Baby Baby | Topkillaz | [Listen](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) |
-| 2018-10-06 | UFC 229: Khabib vs McGregor | Baby Baby | Troopkilaz |  |
-| 2021-08-07 | UFC 265: Lewis vs. Gane | — | — | |
+| 2016-11-12 | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Baby Baby | Topkillaz | [Listen](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) |
+| 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Baby Baby | Troopkilaz |  |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |

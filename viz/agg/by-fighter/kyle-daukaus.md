@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2025-11-15 | UFC 322: Della Maddalena vs. Makhachev | The Man | Aloe Blacc | [Listen](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) |
+| 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Man | Aloe Blacc | [Listen](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) |

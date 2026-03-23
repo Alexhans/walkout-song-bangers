@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-11-17 | UFC Fight Night 140: Magny vs. Ponzinibbio | Himno Nacional Argentino | Banda Militar Del Ejército Argentino | [Listen](https://open.spotify.com/track/3fguMAWviZzPzvFORRQJWm) |
+| 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Himno Nacional Argentino | Banda Militar Del Ejército Argentino | [Listen](https://open.spotify.com/track/3fguMAWviZzPzvFORRQJWm) |

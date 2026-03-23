@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | My Time | Fabolous, Jeremih | [Listen](https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | My Time | Fabolous, Jeremih | [Listen](https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | Streets of Siam | Paul Hertzog & Stan Bush | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | Streets of Siam | Paul Hertzog & Stan Bush | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |

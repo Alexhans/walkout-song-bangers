@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | Go To Sleep | Eminem feat. Obie Trice and DMX |  |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Go To Sleep | Eminem feat. Obie Trice and DMX |  |

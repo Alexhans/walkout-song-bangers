@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-07-27 | UFC 304: Edwards vs. Muhammad 2 | Dangerous | Conroy Smith | [Listen](https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg) |
+| 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Dangerous | Conroy Smith | [Listen](https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg) |

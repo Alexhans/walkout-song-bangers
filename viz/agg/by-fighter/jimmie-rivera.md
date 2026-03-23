@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-09-10 | UFC 203: Miocic vs. Overeem | Conteo | Don Omar | [Listen](https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs) |
+| 2016-09-10 | [UFC 203: Miocic vs. Overeem](../../ufc-203.md) | Conteo | Don Omar | [Listen](https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs) |

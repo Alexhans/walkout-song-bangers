@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | — | — | |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |

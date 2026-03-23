@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | Final Fantasy VII Remake | Nobuo Uematsu |  |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Final Fantasy VII Remake | Nobuo Uematsu |  |

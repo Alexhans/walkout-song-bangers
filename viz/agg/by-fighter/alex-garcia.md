@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-30 | UFC 207: Nunes vs. Rousey | Banana Boat Song (Day-O) | Harry Belafonte | [Listen](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) |
+| 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | Banana Boat Song (Day-O) | Harry Belafonte | [Listen](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) |

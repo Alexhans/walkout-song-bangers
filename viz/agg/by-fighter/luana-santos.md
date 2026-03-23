@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | Fall Out Boy & Alicia Keys | Christina Grimmie & Mike Tompkins |  |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Fall Out Boy & Alicia Keys | Christina Grimmie & Mike Tompkins |  |

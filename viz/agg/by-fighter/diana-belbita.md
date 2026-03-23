@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-06-10 | UFC 289: Nunes vs. Aldana | God's Plan | Drake | [Listen](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) |
+| 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | God's Plan | Drake | [Listen](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) |

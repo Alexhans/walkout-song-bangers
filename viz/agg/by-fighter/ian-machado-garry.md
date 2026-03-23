@@ -4,9 +4,9 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-11-06 | UFC 268: Usman vs. Covington 2 | — | — | |
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | — | — | |
-| 2022-07-02 | UFC 276: Adesanya vs. Cannonier | — | — | |
-| 2023-08-19 | UFC 292: Sterling vs. O'Malley | — | — | |
-| 2024-02-17 | UFC 298: Volkanovski vs. Topuria | Layla | Derek & the Dominos | [Listen](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) |
-| 2024-06-29 | UFC 303: Pereira vs. Prochazka 2 | Take Me to Church | Hozier | [Listen](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) |
+| 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | — | — | |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |
+| 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |
+| 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | — | — | |
+| 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Layla | Derek & the Dominos | [Listen](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) |
+| 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | Take Me to Church | Hozier | [Listen](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) |

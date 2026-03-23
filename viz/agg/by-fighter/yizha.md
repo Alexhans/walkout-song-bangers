@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-31 | UFC 325: Volkanovski vs. Lopes 2 | Go Play | Debal |  |
+| 2026-01-31 | [UFC 325: Volkanovski vs. Lopes 2](../../ufc-325.md) | Go Play | Debal |  |

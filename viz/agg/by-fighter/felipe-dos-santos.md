@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-09-09 | UFC 293: Adesanya vs. Strickland | Priordade | Midian Lima |  |
+| 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Priordade | Midian Lima |  |

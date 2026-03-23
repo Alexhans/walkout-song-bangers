@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | Bleed it Out | Linkin Park | [Listen](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | Bleed it Out | Linkin Park | [Listen](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) |

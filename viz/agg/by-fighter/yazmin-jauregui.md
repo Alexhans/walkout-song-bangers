@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-07-08 | UFC 290: Volkanovski vs. Rodriguez | De Mi Cada Gota De Sangre | Ariel Macias | [Listen](https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq) |
+| 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | De Mi Cada Gota De Sangre | Ariel Macias | [Listen](https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq) |

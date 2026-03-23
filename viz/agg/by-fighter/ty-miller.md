@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | Parabola | TOOL | [Listen](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Parabola | TOOL | [Listen](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) |

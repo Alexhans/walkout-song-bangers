@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | Fare Fare Krigsman | Autokarma | [Listen](https://open.spotify.com/track/23iueOvgcLgMeEq2SEBTax) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | Fare Fare Krigsman | Autokarma | [Listen](https://open.spotify.com/track/23iueOvgcLgMeEq2SEBTax) |

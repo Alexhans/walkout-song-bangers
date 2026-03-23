@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-05-04 | UFC 301: Pantoja vs. Erceg | El Papa de los Pollitos | Los Tucanes De Tijuana | [Listen](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) |
+| 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | El Papa de los Pollitos | Los Tucanes De Tijuana | [Listen](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) |

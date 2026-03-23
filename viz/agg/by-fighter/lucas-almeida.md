@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-12-16 | UFC 296: Edwards vs. Covington | Efesios 6 | Anderson Freire | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |
+| 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Efesios 6 | Anderson Freire | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |

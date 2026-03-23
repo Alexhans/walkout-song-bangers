@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2025-11-15 | UFC 322: Della Maddalena vs. Makhachev | Simple Man | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |
+| 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | Simple Man | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |

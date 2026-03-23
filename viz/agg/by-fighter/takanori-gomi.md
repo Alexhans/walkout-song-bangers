@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-07-09 | UFC 200: Tate vs. Nunes | Gonna Fly Now | Bill Conti | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
+| 2016-07-09 | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Gonna Fly Now | Bill Conti | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |

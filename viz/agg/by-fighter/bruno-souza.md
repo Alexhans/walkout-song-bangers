@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-11-06 | UFC 268: Usman vs. Covington 2 | — | — | |
+| 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | — | — | |

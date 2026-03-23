@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-07-02 | UFC 276: Adesanya vs. Cannonier | Sons of Plunder | Disturbed | [Listen](https://open.spotify.com/track/69ZRVsGoLXjHrQWHMX5iCN) |
+| 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Sons of Plunder | Disturbed | [Listen](https://open.spotify.com/track/69ZRVsGoLXjHrQWHMX5iCN) |

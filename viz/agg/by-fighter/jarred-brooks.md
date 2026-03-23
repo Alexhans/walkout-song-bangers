@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-07-29 | UFC 214: Cormier vs. Jones 2 | Brooklyn Zoo | Ol' Dirty Bastard | [Listen](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) |
+| 2017-07-29 | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | Brooklyn Zoo | Ol' Dirty Bastard | [Listen](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) |

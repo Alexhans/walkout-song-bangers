@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-02-12 | UFC 271: Adesanya vs. Whittaker 2 | — | — | |
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | — | — | |
+| 2022-02-12 | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-07-06 | UFC 239: Jones vs. Santos | Give Up the Funk | Parliament | [Listen](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) |
+| 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | Give Up the Funk | Parliament | [Listen](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) |

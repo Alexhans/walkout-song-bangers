@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-12-10 | UFC 282: Blachowicz vs. Ankalaev | — | — | |
-| 2023-12-16 | UFC 296: Edwards vs. Covington | God Had Other Plans | Zauntee | [Listen](https://open.spotify.com/track/4m0EGbdEIdqYWkpuomboUp) |
+| 2022-12-10 | [UFC 282: Blachowicz vs. Ankalaev](../../ufc-282.md) | — | — | |
+| 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | God Had Other Plans | Zauntee | [Listen](https://open.spotify.com/track/4m0EGbdEIdqYWkpuomboUp) |

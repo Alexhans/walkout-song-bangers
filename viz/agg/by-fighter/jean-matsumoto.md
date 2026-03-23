@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-07 | UFC Fight Night: Bautista vs. Oliveira | O Hino | Fernandinho | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |
+| 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | O Hino | Fernandinho | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |

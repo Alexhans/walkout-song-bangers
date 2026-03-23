@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-12-30 | UFC 219: Cyborg vs. Holm | Meus Proprios Meios | Oficina G3 | [Listen](https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV) |
+| 2017-12-30 | [UFC 219: Cyborg vs. Holm](../../ufc-219.md) | Meus Proprios Meios | Oficina G3 | [Listen](https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV) |

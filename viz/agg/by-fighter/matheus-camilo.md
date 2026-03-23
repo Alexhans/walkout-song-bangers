@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2025-11-15 | UFC 322: Della Maddalena vs. Makhachev | Brasil | Cazuza | [Listen](https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk) |
+| 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | Brasil | Cazuza | [Listen](https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk) |

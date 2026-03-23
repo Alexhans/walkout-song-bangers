@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-07-27 | UFC 304: Edwards vs. Muhammad 2 | It's a Fight | Three 6 Mafia |  |
+| 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | It's a Fight | Three 6 Mafia |  |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-07-30 | UFC 277: Pena vs. Nunes 2 | — | — | |
+| 2022-07-30 | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | — | — | |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-12-10 | UFC 282: Blachowicz vs. Ankalaev | — | — | |
+| 2022-12-10 | [UFC 282: Blachowicz vs. Ankalaev](../../ufc-282.md) | — | — | |

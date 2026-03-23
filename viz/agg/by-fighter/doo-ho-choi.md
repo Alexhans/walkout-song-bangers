@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-10 | UFC 206: Holloway vs. Pettis | Superman Theme | John Williams | [Listen](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) |
+| 2016-12-10 | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | Superman Theme | John Williams | [Listen](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) |

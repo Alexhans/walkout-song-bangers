@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-08-20 | UFC 202: Diaz vs. McGregor 2 | Juicy | Notorious B.I.G. | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |
+| 2016-08-20 | [UFC 202: Diaz vs. McGregor 2](../../ufc-202.md) | Juicy | Notorious B.I.G. | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |

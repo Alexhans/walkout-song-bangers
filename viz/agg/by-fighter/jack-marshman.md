@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2019-07-06 | UFC 239: Jones vs. Santos | God's Gonna Cut You Down | Johnny Cash | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
+| 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | God's Gonna Cut You Down | Johnny Cash | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |

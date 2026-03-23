@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-06-01 | UFC 302: Makhachev vs. Poirier | Hellfire | Jonathan Young | [Listen](https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF) |
+| 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Hellfire | Jonathan Young | [Listen](https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF) |

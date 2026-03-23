@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-10-07 | UFC 216: Ferguson vs. Lee | Who Gon' Stop Me | Kanye West & Jay-Z | [Listen](https://open.spotify.com/track/22ngk2DRBy7audIugfYDKd) |
+| 2017-10-07 | [UFC 216: Ferguson vs. Lee](../../ufc-216.md) | Who Gon' Stop Me | Kanye West & Jay-Z | [Listen](https://open.spotify.com/track/22ngk2DRBy7audIugfYDKd) |

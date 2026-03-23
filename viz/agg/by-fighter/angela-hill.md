@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | We Ready | Archie Eversole | [Listen](https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI) |
-| 2025-11-15 | UFC 322: Della Maddalena vs. Makhachev | The Warrior | Scandal | [Listen](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | We Ready | Archie Eversole | [Listen](https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI) |
+| 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Warrior | Scandal | [Listen](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) |

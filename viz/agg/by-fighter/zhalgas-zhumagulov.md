@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-01-23 | UFC 257: Poirier vs. McGregor 2 | — | — | |
-| 2021-07-10 | UFC 264: Poirier vs. McGregor 3 | — | — | |
+| 2021-01-23 | [UFC 257: Poirier vs. McGregor 2](../../ufc-257.md) | — | — | |
+| 2021-07-10 | [UFC 264: Poirier vs. McGregor 3](../../ufc-264.md) | — | — | |

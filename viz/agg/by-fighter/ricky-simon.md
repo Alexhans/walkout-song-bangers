@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-06-29 | UFC 303: Pereira vs. Prochazka 2 | Italy | Russ | [Listen](https://open.spotify.com/track/3x1klOiEzRSExyfDpLZzZi) |
+| 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | Italy | Russ | [Listen](https://open.spotify.com/track/3x1klOiEzRSExyfDpLZzZi) |

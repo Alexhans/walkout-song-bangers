@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-02-17 | UFC 298: Volkanovski vs. Topuria | I’m Bad | LL Cool J | [Listen](https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7) |
+| 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | I’m Bad | LL Cool J | [Listen](https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7) |

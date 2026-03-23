@@ -4,6 +4,6 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-06-11 | UFC 275: Teixeira vs. Prochazka | — | — | |
-| 2023-02-11 | UFC 284: Makhachev vs. Volkanovski | — | — | |
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | Hey Baby (Uhh, Ahh) | Anton feat. DJ Otzi |  |
+| 2022-06-11 | [UFC 275: Teixeira vs. Prochazka](../../ufc-275.md) | — | — | |
+| 2023-02-11 | [UFC 284: Makhachev vs. Volkanovski](../../ufc-284.md) | — | — | |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Hey Baby (Uhh, Ahh) | Anton feat. DJ Otzi |  |

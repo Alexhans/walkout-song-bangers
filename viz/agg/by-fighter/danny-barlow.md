@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-02-17 | UFC 298: Volkanovski vs. Topuria | By Mistake | Young Dolph | [Listen](https://open.spotify.com/track/7tpLBCGQi9oFrfVuaY9gjk) |
+| 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | By Mistake | Young Dolph | [Listen](https://open.spotify.com/track/7tpLBCGQi9oFrfVuaY9gjk) |

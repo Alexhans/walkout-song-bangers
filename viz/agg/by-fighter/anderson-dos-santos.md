@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-11-17 | UFC Fight Night 140: Magny vs. Ponzinibbio | O Hino | Fernandinho | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |
+| 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | O Hino | Fernandinho | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |

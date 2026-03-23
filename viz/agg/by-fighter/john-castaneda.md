@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-11-11 | UFC 295: Prochazka vs. Pereira | I’ll Whip Ya Head Boy | 50 Cent | [Listen](https://open.spotify.com/track/7eF7tMtetxreNLpfq3J93B) |
+| 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | I’ll Whip Ya Head Boy | 50 Cent | [Listen](https://open.spotify.com/track/7eF7tMtetxreNLpfq3J93B) |

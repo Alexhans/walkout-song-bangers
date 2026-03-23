@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-06-11 | UFC 275: Teixeira vs. Prochazka | God's Country | Blake Shelton | [Listen](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) |
-| 2023-04-08 | UFC 287: Pereira vs. Adesanya 2 | Armies | KB | [Listen](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) |
+| 2022-06-11 | [UFC 275: Teixeira vs. Prochazka](../../ufc-275.md) | God's Country | Blake Shelton | [Listen](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) |
+| 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | Armies | KB | [Listen](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) |

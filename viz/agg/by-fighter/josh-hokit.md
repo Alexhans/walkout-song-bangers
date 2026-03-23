@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | Jesus Walks | Kanye West | [Listen](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Jesus Walks | Kanye West | [Listen](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) |

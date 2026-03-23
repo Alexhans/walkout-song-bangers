@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2018-10-06 | UFC 229: Khabib vs McGregor | Know Your Enemy | Rage Against the Machine | [Listen](https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB) |
+| 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Know Your Enemy | Rage Against the Machine | [Listen](https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB) |

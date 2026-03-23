@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-10-07 | UFC 216: Ferguson vs. Lee | Macaco Theme | Pregador Luo | [Listen](https://open.spotify.com/track/00qiehape73rXG9YTeuog8) |
+| 2017-10-07 | [UFC 216: Ferguson vs. Lee](../../ufc-216.md) | Macaco Theme | Pregador Luo | [Listen](https://open.spotify.com/track/00qiehape73rXG9YTeuog8) |

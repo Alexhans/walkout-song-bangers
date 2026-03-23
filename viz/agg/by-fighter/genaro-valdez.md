@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-01-22 | UFC 270: Ngannou vs. Gane | — | — | |
+| 2022-01-22 | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | — | — | |

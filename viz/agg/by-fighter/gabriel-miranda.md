@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-09-09 | UFC 293: Adesanya vs. Strickland | O Som Que Desperta | Fred Arrais | [Listen](https://open.spotify.com/track/1Ux75bPsXempzygaOjFOck) |
+| 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | O Som Que Desperta | Fred Arrais | [Listen](https://open.spotify.com/track/1Ux75bPsXempzygaOjFOck) |

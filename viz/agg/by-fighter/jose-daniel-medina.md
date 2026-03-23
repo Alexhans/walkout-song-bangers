@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-02-28 | UFC Fight Night: Moreno vs. Kavanagh | No Me Sé Rajar | Vicente Fernández | [Listen](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) |
+| 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | No Me Sé Rajar | Vicente Fernández | [Listen](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) |

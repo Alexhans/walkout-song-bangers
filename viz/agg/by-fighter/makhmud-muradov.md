@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-01-23 | UFC 257: Poirier vs. McGregor 2 | — | — | |
-| 2022-10-22 | UFC 280: Oliveira vs. Makhachev | — | — | |
+| 2021-01-23 | [UFC 257: Poirier vs. McGregor 2](../../ufc-257.md) | — | — | |
+| 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |

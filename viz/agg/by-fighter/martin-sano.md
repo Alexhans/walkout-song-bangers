@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-09-25 | UFC 266: Volkanovski vs. Ortega | NO CAP | D Lucky and Faraon | [Listen](https://open.spotify.com/track/0WMlNzYdZ1m2exVLeiRhd6) |
+| 2021-09-25 | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | NO CAP | D Lucky and Faraon | [Listen](https://open.spotify.com/track/0WMlNzYdZ1m2exVLeiRhd6) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-07-08 | UFC 290: Volkanovski vs. Rodriguez | Argentina | Trueno, Nathy Peluso | [Listen](https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo) |
+| 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | Argentina | Trueno, Nathy Peluso | [Listen](https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo) |

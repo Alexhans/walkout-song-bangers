@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-08-17 | UFC 305: Du Plessis vs. Adesanya | Voluspa | Wardruna | [Listen](https://open.spotify.com/track/2YWgwUMdfbgbMuE50bdMr0) |
+| 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Voluspa | Wardruna | [Listen](https://open.spotify.com/track/2YWgwUMdfbgbMuE50bdMr0) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | This Year (Blessing) | Victor Thompson and Ehis D Greatest | [Listen](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | This Year (Blessing) | Victor Thompson and Ehis D Greatest | [Listen](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) |

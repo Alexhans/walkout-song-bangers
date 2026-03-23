@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-10-07 | UFC 216: Ferguson vs. Lee | First Day Out | Tee Grizzley | [Listen](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) |
+| 2017-10-07 | [UFC 216: Ferguson vs. Lee](../../ufc-216.md) | First Day Out | Tee Grizzley | [Listen](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) |

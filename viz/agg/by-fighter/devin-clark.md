@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-05-06 | UFC 288: Sterling vs. Cejudo | Die Tonight | Adam Calhoun and Ryan Upchurch | [Listen](https://open.spotify.com/track/4qT1t3Ot2DaoN4VYzgWGlA) |
+| 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Die Tonight | Adam Calhoun and Ryan Upchurch | [Listen](https://open.spotify.com/track/4qT1t3Ot2DaoN4VYzgWGlA) |

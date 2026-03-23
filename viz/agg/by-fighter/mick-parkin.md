@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-07-27 | UFC 304: Edwards vs. Muhammad 2 | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
+| 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-11-04 | UFC 217: Bisping vs. St-Pierre | Afro Trap Pt. 7 (La Puissance) | MHD | [Listen](https://open.spotify.com/track/6wdI9sg2VdgjqSg0ozu9PK) |
+| 2017-11-04 | [UFC 217: Bisping vs. St-Pierre](../../ufc-217.md) | Afro Trap Pt. 7 (La Puissance) | MHD | [Listen](https://open.spotify.com/track/6wdI9sg2VdgjqSg0ozu9PK) |

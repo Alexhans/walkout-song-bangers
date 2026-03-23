@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-06-03 | UFC 212: Aldo vs. Holloway | Turn Down for What | DJ Snake & Lil' John | [Listen](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) |
+| 2017-06-03 | [UFC 212: Aldo vs. Holloway](../../ufc-212.md) | Turn Down for What | DJ Snake & Lil' John | [Listen](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) |

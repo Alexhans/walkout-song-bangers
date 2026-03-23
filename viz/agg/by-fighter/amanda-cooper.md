@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-12-02 | UFC 218: Holloway vs. Aldo 2 | Detroit Rock City | Kiss | [Listen](https://open.spotify.com/track/3IjrDeaVRFEi3GgHI5xyjX) |
+| 2017-12-02 | [UFC 218: Holloway vs. Aldo 2](../../ufc-218.md) | Detroit Rock City | Kiss | [Listen](https://open.spotify.com/track/3IjrDeaVRFEi3GgHI5xyjX) |

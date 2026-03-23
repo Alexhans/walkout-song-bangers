@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | UFC 265: Lewis vs. Gane | — | — | |
-| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | — | — | |
+| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |
+| 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |

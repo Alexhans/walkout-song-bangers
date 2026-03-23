@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-10-07 | UFC 216: Ferguson vs. Lee | Stronger | Kanye West | [Listen](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) |
+| 2017-10-07 | [UFC 216: Ferguson vs. Lee](../../ufc-216.md) | Stronger | Kanye West | [Listen](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) |

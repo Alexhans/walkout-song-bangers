@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2017-07-08 | UFC 213: Romero vs. Whittaker | God's Song | Mikey Rukus | [Listen](https://open.spotify.com/track/1IJ3FJepMPSBTzoPdfY9g2) |
+| 2017-07-08 | [UFC 213: Romero vs. Whittaker](../../ufc-213.md) | God's Song | Mikey Rukus | [Listen](https://open.spotify.com/track/1IJ3FJepMPSBTzoPdfY9g2) |

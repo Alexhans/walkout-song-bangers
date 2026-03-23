@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-11-06 | UFC 268: Usman vs. Covington 2 | EMPIRE STATE OF MIND | Jay Zft Alicia Keys | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
+| 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | EMPIRE STATE OF MIND | Jay Zft Alicia Keys | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |

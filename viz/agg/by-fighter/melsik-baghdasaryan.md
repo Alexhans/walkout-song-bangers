@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-11-06 | UFC 268: Usman vs. Covington 2 | — | — | |
-| 2023-02-11 | UFC 284: Makhachev vs. Volkanovski | — | — | |
+| 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | — | — | |
+| 2023-02-11 | [UFC 284: Makhachev vs. Volkanovski](../../ufc-284.md) | — | — | |

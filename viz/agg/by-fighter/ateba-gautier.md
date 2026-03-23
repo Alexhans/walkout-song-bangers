@@ -4,5 +4,5 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2025-07-19 | UFC 318: Holloway vs. Poirier 3 | — | — | |
-| 2026-01-24 | UFC 324: Gaethje vs. Pimblett | Mentalité du Djonks | Petit Kante | [Listen](https://open.spotify.com/track/68dOxageNfYfEyaflnwyzk) |
+| 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | — | — | |
+| 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Mentalité du Djonks | Petit Kante | [Listen](https://open.spotify.com/track/68dOxageNfYfEyaflnwyzk) |

@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2022-07-02 | UFC 276: Adesanya vs. Cannonier | — | — | |
+| 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |

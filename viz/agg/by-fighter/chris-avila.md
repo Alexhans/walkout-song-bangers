@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-08-20 | UFC 202: Diaz vs. McGregor 2 | Troublesome '96 | 2Pac | [Listen](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) |
+| 2016-08-20 | [UFC 202: Diaz vs. McGregor 2](../../ufc-202.md) | Troublesome '96 | 2Pac | [Listen](https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj) |

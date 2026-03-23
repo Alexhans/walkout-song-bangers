@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2023-10-21 | UFC 294: Makhachev vs. Volkanovski 2 | Don’t Tread On Me | We the Kingdom | [Listen](https://open.spotify.com/track/0PtGL1a2HWLAafLnhg6pkL) |
+| 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Don’t Tread On Me | We the Kingdom | [Listen](https://open.spotify.com/track/0PtGL1a2HWLAafLnhg6pkL) |

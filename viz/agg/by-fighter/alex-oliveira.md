@@ -4,6 +4,6 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-12-30 | UFC 207: Nunes vs. Rousey | Balada | Gusttavo Lima | [Listen](https://open.spotify.com/track/561KH32varxPqqwIY4gA7z) |
-| 2017-12-02 | UFC 218: Holloway vs. Aldo 2 | Balada | Gusttavo Lima | [Listen](https://open.spotify.com/track/561KH32varxPqqwIY4gA7z) |
-| 2020-10-24 | UFC 254: Khabib vs. Gaethje | — | — | |
+| 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | Balada | Gusttavo Lima | [Listen](https://open.spotify.com/track/561KH32varxPqqwIY4gA7z) |
+| 2017-12-02 | [UFC 218: Holloway vs. Aldo 2](../../ufc-218.md) | Balada | Gusttavo Lima | [Listen](https://open.spotify.com/track/561KH32varxPqqwIY4gA7z) |
+| 2020-10-24 | [UFC 254: Khabib vs. Gaethje](../../ufc-254.md) | — | — | |

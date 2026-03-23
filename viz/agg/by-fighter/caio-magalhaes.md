@@ -4,4 +4,4 @@
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-09-10 | UFC 203: Miocic vs. Overeem | Vou Colher Sorrindo | Pregador Luo | [Listen](https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc) |
+| 2016-09-10 | [UFC 203: Miocic vs. Overeem](../../ufc-203.md) | Vou Colher Sorrindo | Pregador Luo | [Listen](https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc) |
