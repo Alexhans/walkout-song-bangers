@@ -1,0 +1,221 @@
+{
+  "event": "UFC Fight Night: Moreno vs. Kavanagh",
+  "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+  "date": "2026-02-28",
+  "location": "Arena CDMX, Mexico City, Mexico",
+  "source_urls": [
+    "https://forums.sherdog.com/threads/mexico-city-walkout-songs.4379301/",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-mexico-walkout-songs-list-of-entrance-music-used-by-brandon-moreno-loneer-kavanagh-marlon-vera-and-others/"
+  ],
+  "generated_at": "2026-03-24T00:05:00Z",
+  "songs": [
+    {
+      "fighter": "Lone'er Kavanagh",
+      "song_title": "Spirit",
+      "artist": "J Hus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vKVaAoTG6ag83gW3RHwIn",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "notes": ""
+    },
+    {
+      "fighter": "David Martinez",
+      "song_title": "Black Spartan",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4prXPIgXhTfRG0Y2oj4aSo",
+      "notes": "Custom corrido for the fighter"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Tripolar",
+      "artist": "Canserbero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02DIjDfe3wiaiNEzjtohJP",
+      "notes": ""
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "Tuve Hermano",
+      "artist": "Los Gemelos De Sinaloa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3",
+      "notes": "Fighter formerly known as Bobby Green"
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "Goldenboy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Edgar Chairez",
+      "song_title": "Hoo-Bangin'",
+      "artist": "Mack 10, Ice Cube",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7azG6CLuWpm0YHNTFG6WSa",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Bunes",
+      "song_title": "Chico Bateu No Bode",
+      "artist": "Banda Grafith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ybr42DJG4RoRVNetX7yEv",
+      "notes": ""
+    },
+    {
+      "fighter": "Imanol Rodriguez",
+      "song_title": "Las Horas Pasan",
+      "artist": "Zxmyr, Sandro Malandro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Borjas",
+      "song_title": "Meidin Perú",
+      "artist": "Norick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6U5CFrQgyhLJwR4dvNimum",
+      "notes": ""
+    },
+    {
+      "fighter": "Santiago Luna",
+      "song_title": "La Puerta Negra",
+      "artist": "Los Tigres Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI",
+      "notes": ""
+    },
+    {
+      "fighter": "Angel Pacheco",
+      "song_title": "Gallo De Pelea",
+      "artist": "Los Tigres Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Gandra",
+      "song_title": "A Dança",
+      "artist": "MC Hariel, Gilberto Gil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Daniel Medina",
+      "song_title": "No Me Sé Rajar",
+      "artist": "Vicente Fernández",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8",
+      "notes": ""
+    },
+    {
+      "fighter": "Ailin Perez",
+      "song_title": "El Sonidito",
+      "artist": "Hechizeros Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3kCeW0fmkrLBWCpEGazRMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "WASSUP",
+      "artist": "Young Miko",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristian Quinonez",
+      "song_title": "Vale la Pena",
+      "artist": "Silar Kilos De Estilo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XSDxvr7R6yLjSYxcYx5L5",
+      "notes": ""
+    },
+    {
+      "fighter": "Kris Moutinho",
+      "song_title": "Empty Out Your Pockets",
+      "artist": "Juice WRLD",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9",
+      "notes": ""
+    },
+    {
+      "fighter": "Javier Reyes",
+      "song_title": "Y.M.C.A.",
+      "artist": "Village People",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp",
+      "notes": ""
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Golden (David Guetta Remix)",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, David Guetta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20HUNTRX%20David%20Guetta%20Remix",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Regina Tarin",
+      "song_title": "La Nena",
+      "artist": "Eden Muñoz, Cosme Tadeo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC",
+      "notes": ""
+    },
+    {
+      "fighter": "Ernesta Kareckaite",
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "notes": "From Rocky IV soundtrack"
+    },
+    {
+      "fighter": "Francis Marshall",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Erik Silva",
+      "song_title": "Kings Never Die",
+      "artist": "Eminem, Gwen Stefani",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4uX7M3U4I1nsZ7SFM4XNCn",
+      "notes": ""
+    },
+    {
+      "fighter": "Damian Pinas",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Wes Schultz",
+      "song_title": "Religious Man",
+      "artist": "Mister Loco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42C2Bpog7Apv4oou2NSOTv",
+      "notes": ""
+    }
+  ]
+}

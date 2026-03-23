@@ -1,0 +1,204 @@
+{
+  "event": "UFC 293",
+  "event_slug": "ufc-293",
+  "date": "2023-09-09",
+  "location": "Sydney, New South Wales, Australia",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120021892.html"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor – Metal Version",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20Johnny%20Comes%20Marching%20Home%20Megaraptor%20%E2%80%93%20Metal%20Version",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "Bring It On Down (Battlezone) Remix",
+      "artist": "Flii Stylz & Tenashus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bring%20It%20On%20Down%20%28Battlezone%29%20Remix%20Flii%20Stylz%20%26%20Tenashus",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Mama Mi Vse Tiagelo Bolni",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mama%20Mi%20Vse%20Tiagelo%20Bolni%2025/17",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Scar",
+      "artist": "Missy Higgins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PQQsoMJOpSu12RDMan0AA",
+      "notes": ""
+    },
+    {
+      "fighter": "Manel Kape",
+      "song_title": "Minha Terra",
+      "artist": "Supa Squad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45abSZHiweBryVKrp8jF8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe dos Santos",
+      "song_title": "Priordade",
+      "artist": "Midian Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Priordade%20Midian%20Lima",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Justin Tafa",
+      "song_title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk",
+      "notes": ""
+    },
+    {
+      "fighter": "Austen Lane",
+      "song_title": "Because I’m Me",
+      "artist": "The Avalanches",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "All My Life",
+      "artist": "Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "notes": ""
+    },
+    {
+      "fighter": "Anton Turkalj",
+      "song_title": "Sexy Back",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "Conquer",
+      "artist": "SWIDT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G6zNFC5PAfpyrKDe9I1iV",
+      "notes": ""
+    },
+    {
+      "fighter": "Da Woon Jung",
+      "song_title": "Digimon Adventure Butter-Fly Perfect Final Version",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Digimon%20Adventure%20Butter-Fly%20Perfect%20Final%20Version",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Chepe Mariscal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Jenkins",
+      "song_title": "8 Mile Eminem final rap battle",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/8%20Mile%20Eminem%20final%20rap%20battle",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "My Brother’s Keeper",
+      "artist": "Kid Mac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qMIPg5G5vEwPIcydKJaCq",
+      "notes": ""
+    },
+    {
+      "fighter": "John Makdessi",
+      "song_title": "Victory 2004",
+      "artist": "Diddy feat. The Notorious B.I.G., Busta Rhymes, 50 Cent & Lloyd Banks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Yslb5NGqlZ8dC94ARxivO",
+      "notes": ""
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "My Mother How Much I Love Her",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Mother%20How%20Much%20I%20Love%20Her",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Landon Quinones",
+      "song_title": "Twinz (Deep Cover 98)",
+      "artist": "Big Pun",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Radtke",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Blood Diamond",
+      "song_title": "One Blood",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GPWJP1Ai1RUCfsOOFw3dl",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Miranda",
+      "song_title": "O Som Que Desperta",
+      "artist": "Fred Arrais",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Ux75bPsXempzygaOjFOck",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Young",
+      "song_title": "Til I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Jousset",
+      "song_title": "I’m Not Afraid",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%E2%80%99m%20Not%20Afraid%20Eminem",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kiefer Crosbie",
+      "song_title": "The Rocky Road to Dublin",
+      "artist": "The Dubliners",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2u2olzUT4gYEwpPDOOK4ld",
+      "notes": ""
+    }
+  ]
+}

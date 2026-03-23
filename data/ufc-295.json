@@ -1,0 +1,220 @@
+{
+  "event": "UFC 295",
+  "event_slug": "ufc-295",
+  "date": "2023-11-11",
+  "location": "New York City, New York, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-295-with-sabbath-sting-and-jay-z-rihanna-trying-that-in-a-big-town"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "Black Adam theme",
+      "artist": "Lorne Balfe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l",
+      "notes": ""
+    },
+    {
+      "fighter": "Tom Aspinall",
+      "song_title": "Englishman in New York",
+      "artist": "Sting",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "Fly Away on Wings of the Wind",
+      "artist": "Kalevala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02FKaMjb1wQpdxcBqUJHEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Diz (You Say)",
+      "artist": "Gabriela Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Diz%20%28You%20Say%29%20Gabriela%20Rocha",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "notes": ""
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Le Chant des Commandos/Saint Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Le%20Chant%20des%20Commandos/Saint%20Denis%20NTM",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Narco",
+      "artist": "Blasterjaxx and Timmy Trumpet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Lopes",
+      "song_title": "Por Mi Mexico",
+      "artist": "Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo and Neto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Por%20Mi%20Mexico%20Lefty%20SM%2C%20Santa%20Fe%20Klan%2C%20Dharius%2C%20C-Kan%2C%20MC%20Davo%20and%20Neto",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "Ironman",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessandro Costa",
+      "song_title": "Run This Town",
+      "artist": "Jay Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vengan a Calarse",
+      "artist": "Ariel Armando Macias Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Vengan%20a%20Calarse%20Ariel%20Armando%20Macias%20Madrid",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateusz Rebecki",
+      "song_title": "Lockzi",
+      "artist": "Hi-Fi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lockzi%20Hi-Fi",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Roosevelt Roberts",
+      "song_title": "Not in the Mood",
+      "artist": "Lil’ TJay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT",
+      "notes": ""
+    },
+    {
+      "fighter": "Nazim Sadykhov",
+      "song_title": "Scenario",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6kCXdQb0ope40wooHb8aFN",
+      "notes": ""
+    },
+    {
+      "fighter": "Viacheslav Borshchev",
+      "song_title": "Good Day",
+      "artist": "Nappy Roots",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s9COZY8wLOadAzbHka2GO",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "By Faith I Will Find It",
+      "artist": "Steven Furtick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56GjiZZduzhDzWDw7L5Pp8",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Olympic Fanfare",
+      "artist": "John Williams, Thunderstruck by AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20John%20Williams%2C%20Thunderstruck%20by%20AC/DC",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "John Castaneda",
+      "song_title": "I’ll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7eF7tMtetxreNLpfq3J93B",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyung Ho Kang",
+      "song_title": "Better Than Yesterday",
+      "artist": "Ktob, MC BK, Outsider, P-Masta, Mr. Room 9",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Better%20Than%20Yesterday%20Ktob%2C%20MC%20BK%2C%20Outsider%2C%20P-Masta%2C%20Mr.%20Room%209",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "Joshua ‘The Fearless’ Van",
+      "artist": "Sui Ceu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Joshua%20%E2%80%98The%20Fearless%E2%80%99%20Van%20Sui%20Ceu",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kevin Borjas",
+      "song_title": "Alma Corazan y Vida",
+      "artist": "7/14 Meidin Peru-Norick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Alma%20Corazan%20y%20Vida%207/14%20Meidin%20Peru-Norick",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "Paid in Full",
+      "artist": "Dame D.O.L.L.A., Tobe Nwigwe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5z8oTybJ16TO50fr4PkipK",
+      "notes": ""
+    },
+    {
+      "fighter": "Dennis Buzukja",
+      "song_title": "Whoopty",
+      "artist": "CJ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA",
+      "notes": ""
+    }
+  ]
+}

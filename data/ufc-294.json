@@ -1,0 +1,220 @@
+{
+  "event": "UFC 294",
+  "event_slug": "ufc-294",
+  "date": "2023-10-21",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-294-with-men-at-work-and-many-men-wishing-death-but-one-conspicuously-absent-name"
+  ],
+  "generated_at": "2026-03-24",
+  "songs": [
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Lezginka",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Lezginka",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "Down Under",
+      "artist": "Men at Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "notes": ""
+    },
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "Timur Mutsuraev",
+      "artist": "Tu Noch Kogda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Timur%20Mutsuraev%20Tu%20Noch%20Kogda",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "Shaq & Kobe",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FAFmXCsjrIV4Vu7ee7WuX",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "Georgian dance",
+      "artist": "Legend Erisioni",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Georgian%20dance%20Legend%20Erisioni",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "The Rocky Road to Dublin",
+      "artist": "High Kings and Insomnia by Faithless",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Rocky%20Road%20to%20Dublin%20High%20Kings%20and%20Insomnia%20by%20Faithless",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Ikram Aliskerov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "Coming in Hot",
+      "artist": "Andy Mineo and Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8",
+      "notes": ""
+    },
+    {
+      "fighter": "Said Nurmagomedov",
+      "song_title": "Dagestan",
+      "artist": "Suleymanov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hAIQ7SFFPBV5dpM6N8QRS",
+      "notes": ""
+    },
+    {
+      "fighter": "Muin Gafurov",
+      "song_title": "Amirjon Ruziev",
+      "artist": "Mardi Vatan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Amirjon%20Ruziev%20Mardi%20Vatan",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20People%20Zagir%20Magomedov",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "Pusher Man",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Peek",
+      "song_title": "Don’t Tread On Me",
+      "artist": "We the Kingdom",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0PtGL1a2HWLAafLnhg6pkL",
+      "notes": ""
+    },
+    {
+      "fighter": "Mohammad Yahya",
+      "song_title": "United Arab Emirates army song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/United%20Arab%20Emirates%20army%20song",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/You%20Can%E2%80%99t%20Stop%20Me%20Now%20RZA",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "notes": ""
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Ready",
+      "artist": "Young Nudy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS",
+      "notes": ""
+    },
+    {
+      "fighter": "Abu Azaitar",
+      "song_title": "Moroccan national anthem",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Moroccan%20national%20anthem",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Mike Breeden",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Anshul Jubli",
+      "song_title": "Ronin",
+      "artist": "Jade",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lpPuhGPA1XSD4PzsKU8gG",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Naimov",
+      "song_title": "Cristiano Ronaldo Cvrtoon Plevne Turkish",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Cristiano%20Ronaldo%20Cvrtoon%20Plevne%20Turkish",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Nathaniel Wood",
+      "song_title": "I’m a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "notes": ""
+    },
+    {
+      "fighter": "Viktoriia Dudakova",
+      "song_title": "I Am Russian",
+      "artist": "Shaman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%20Am%20Russian%20Shaman",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jinh Yu Frey",
+      "song_title": "Sloth’s Revenge",
+      "artist": "The Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "notes": ""
+    },
+    {
+      "fighter": "Shara Magomedov",
+      "song_title": "Legendary 2",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Legendary%202%20Tupac",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola de Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Escola%20de%20Vida%20Black%20Style",
+      "notes": "spotify_match: search_fallback"
+    }
+  ]
+}
