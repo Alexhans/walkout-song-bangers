@@ -29,7 +29,7 @@ The user should not need to remember temp paths or `--data-dir`. In eval mode, t
 
 ### Step 1: Normalize the event identifier
 
-Convert the user's input into a slug for filenames (e.g., `"UFC 229"` → `ufc-229`, `"UFC Fight Night: Evloev vs Murphy"` → `ufc-fight-night-evloev-vs-murphy`). Keep the original event name for display.
+Convert the user's input into a slug for filenames (e.g., `"UFC 229"` → `ufc-229`, `"UFC Fight Night: Evloev vs Murphy"` → `ufc-fight-night-evloev-vs-murphy`). Use the user's input as a working name for searches, but the **canonical event name** comes from UFCStats in Step 3.
 
 ### Step 2: Search for walkout song data
 
@@ -62,8 +62,11 @@ If no source-specific results, broaden: `"{event name}" walkout songs full card`
 Get the complete roster of fighters from UFCStats. This is the authoritative source for fighter coverage — every fighter on the card must appear in the output, even if no walkout song was found.
 
 1. **Find the event on UFCStats:** Use `curl` via Bash to fetch `http://www.ufcstats.com/statistics/events/completed` and find the event URL (format: `http://www.ufcstats.com/event-details/{id}`).
-2. **Scrape the fight card:** Use `curl` on the event details page and parse with python3 to extract all fighter names. The page lists every bout with both fighter names.
-3. **Count bouts and fighters:** Verify the total matches expectations (e.g., 12 bouts = 24 fighters). This count is the ground truth for coverage.
+2. **Extract the canonical event name:** The event listing page shows the full name (e.g., "UFC 290: Volkanovski vs. Rodriguez"). Use this as the `"event"` field in the output JSON — never use the user's shorthand input (e.g., "UFC 290") as the event name.
+3. **Scrape the fight card:** Use `curl` on the event details page and parse with python3 to extract all fighter names. The page lists every bout with both fighter names.
+4. **Count bouts and fighters:** Verify the total matches expectations (e.g., 12 bouts = 24 fighters). This count is the ground truth for coverage.
+
+**Caching:** Save fetched HTML pages to `/tmp/walkout-song-bangers-cache/` (e.g., `/tmp/walkout-song-bangers-cache/ufcstats-events.html`, `/tmp/walkout-song-bangers-cache/ufcstats-{event-slug}.html`). Before fetching, check if a cached copy exists and is less than 24 hours old — reuse it instead of re-fetching. This avoids hammering external sites when processing multiple events in a session.
 
 If UFCStats is unavailable, fall back to the Wikipedia event page via `curl` (WebFetch returns 403 on Wikipedia).
 
