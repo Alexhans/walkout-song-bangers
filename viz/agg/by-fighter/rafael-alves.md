@@ -1,0 +1,7 @@
+# Rafael Alves
+
+1 event(s) | 1 song(s) found | 1 unique
+
+| Date | Event | Song | Artist | Spotify |
+|------|-------|------|--------|---------|
+| 2022-07-30 | UFC 277: Pena vs. Nunes 2 | Believe (DJ Jefinho Remix) | Cher | [Listen](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |

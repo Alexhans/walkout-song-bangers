@@ -1,0 +1,8 @@
+# Tecia Pennington
+
+2 event(s) | 0 song(s) found | 0 unique
+
+| Date | Event | Song | Artist | Spotify |
+|------|-------|------|--------|---------|
+| 2021-08-07 | UFC 265: Lewis vs. Gane | — | — | |
+| 2022-04-09 | UFC 273: Volkanovski vs. The Korean Zombie | — | — | |

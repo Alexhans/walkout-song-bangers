@@ -1,0 +1,8 @@
+# Ciryl Gane
+
+2 event(s) | 2 song(s) found | 2 unique
+
+| Date | Event | Song | Artist | Spotify |
+|------|-------|------|--------|---------|
+| 2021-08-07 | UFC 265: Lewis vs. Gane | Still Tippin | Mike Jones feat Slim Thug and Paul Wall | [Listen](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) |
+| 2022-01-22 | UFC 270: Ngannou vs. Gane | 2 OF AMERIKAZ MOST WANTED | 2Pac feat Snoop Doggy | [Listen](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) |

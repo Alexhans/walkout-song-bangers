@@ -1,0 +1,9 @@
+# Vicente Luque
+
+3 event(s) | 2 song(s) found | 2 unique
+
+| Date | Event | Song | Artist | Spotify |
+|------|-------|------|--------|---------|
+| 2016-11-12 | UFC 205: Alvarez vs. McGregor | Baby Baby | Topkillaz | [Listen](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) |
+| 2018-10-06 | UFC 229: Khabib vs McGregor | Baby Baby | Troopkilaz |  |
+| 2021-08-07 | UFC 265: Lewis vs. Gane | — | — | |

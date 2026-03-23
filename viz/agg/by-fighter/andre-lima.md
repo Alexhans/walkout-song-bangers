@@ -1,0 +1,7 @@
+# Andre Lima
+
+1 event(s) | 0 song(s) found | 0 unique
+
+| Date | Event | Song | Artist | Spotify |
+|------|-------|------|--------|---------|
+| 2024-06-01 | UFC 302: Makhachev vs. Poirier | — | — | |

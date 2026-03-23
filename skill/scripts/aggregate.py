@@ -177,6 +177,75 @@ def write_by_fighter(fighter_data, slug):
     return out_path
 
 
+VIZ_AGG_DIR = Path("viz/agg")
+
+
+def write_viz_top_songs(song_data):
+    """Write a markdown table of top walkout songs."""
+    VIZ_AGG_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = VIZ_AGG_DIR / "top-songs.md"
+    lines = [
+        "# Top Walkout Songs",
+        "",
+        "Songs sorted by number of unique fighters who have used them.",
+        "",
+        "| # | Song | Artist | Unique Fighters | Total Plays | Spotify |",
+        "|---|------|--------|-----------------|-------------|---------|",
+    ]
+    for i, s in enumerate(song_data, 1):
+        if s["unique_fighters"] < 2:
+            break
+        url = s["spotify_url"]
+        link = f"[Listen]({url})" if is_playable_url(url) else ""
+        lines.append(f"| {i} | {s['song_title']} | {s['artist']} | {s['unique_fighters']} | {s['count']} | {link} |")
+    out_path.write_text("\n".join(lines) + "\n")
+    return out_path
+
+
+def write_viz_by_year(year_results):
+    """Write a markdown summary table of all years."""
+    VIZ_AGG_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = VIZ_AGG_DIR / "by-year.md"
+    lines = [
+        "# Walkout Songs by Year",
+        "",
+        "| Year | Events | Songs Found | Unique Playable | Missing | Coverage |",
+        "|------|--------|-------------|-----------------|---------|----------|",
+    ]
+    for year in sorted(year_results.keys()):
+        data = year_results[year]
+        s = data["stats"]
+        total = s["total_fighters"]
+        coverage = f"{s['with_song'] / total * 100:.0f}%" if total else "0%"
+        lines.append(f"| {year} | {data['events']} | {s['with_song']} | {s['unique_playable_tracks']} | {s['missing']} | {coverage} |")
+    out_path.write_text("\n".join(lines) + "\n")
+    return out_path
+
+
+def write_viz_fighter(fighter_data):
+    """Write a single fighter markdown viz."""
+    out_dir = VIZ_AGG_DIR / "by-fighter"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{fighter_data['slug']}.md"
+    lines = [
+        f"# {fighter_data['fighter']}",
+        "",
+        f"{fighter_data['appearances']} event(s) | {fighter_data['stats']['with_song']} song(s) found | {fighter_data['stats']['unique_songs']} unique",
+        "",
+        "| Date | Event | Song | Artist | Spotify |",
+        "|------|-------|------|--------|---------|",
+    ]
+    for w in fighter_data["walkouts"]:
+        if w["confidence"] == "missing":
+            lines.append(f"| {w['date']} | {w['event']} | — | — | |")
+        else:
+            url = w["spotify_url"]
+            link = f"[Listen]({url})" if is_playable_url(url) else ""
+            lines.append(f"| {w['date']} | {w['event']} | {w['song_title']} | {w['artist']} | {link} |")
+    out_path.write_text("\n".join(lines) + "\n")
+    return out_path
+
+
 def main():
     args = sys.argv[1:]
     urls_only = "--urls-only" in args
@@ -257,6 +326,7 @@ def main():
 
         for fighter, data in fighters_to_write.items():
             write_by_fighter(data, data["slug"])
+            write_viz_fighter(data)
 
         count = len(fighters_to_write)
         multi_event = sum(1 for d in fighters_to_write.values() if d["appearances"] > 1)
@@ -270,6 +340,11 @@ def main():
         path = write_by_song(song_results)
         multi = sum(1 for s in song_results if s["count"] > 1)
         print(f"\n{path} -> {len(song_results)} unique songs ({multi} used by 2+ fighters)")
+
+        # Viz markdown tables
+        write_viz_top_songs(song_results)
+        write_viz_by_year(year_results)
+        print(f"viz/agg/ -> top-songs.md, by-year.md")
 
 
 if __name__ == "__main__":
