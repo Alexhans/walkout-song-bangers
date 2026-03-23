@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -35,7 +35,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 283",
+      "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
     },
@@ -44,7 +44,7 @@
       "artist": "Faccao 288",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     },
@@ -53,7 +53,7 @@
       "artist": "Gabriela Rocha",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Diz%20%28You%20Say%29%20Gabriela%20Rocha",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     },

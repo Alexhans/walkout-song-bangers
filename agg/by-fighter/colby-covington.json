@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 268",
+      "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
     },
@@ -26,7 +26,7 @@
       "artist": "Jim Johnston, I’m Me by Lil Wayne",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Medal%20Jim%20Johnston%2C%20I%E2%80%99m%20Me%20by%20Lil%20Wayne",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

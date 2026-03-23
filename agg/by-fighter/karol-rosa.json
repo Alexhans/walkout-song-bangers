@@ -8,7 +8,7 @@
       "artist": "Faccao 288",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
-      "event": "UFC 280",
+      "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
     },
@@ -17,7 +17,7 @@
       "artist": "Faccao 288",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Prvt%20e%20Hora%20Vencer%20Faccao%20288",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

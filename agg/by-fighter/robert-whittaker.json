@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
     },
@@ -26,7 +26,7 @@
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 290",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
     },
@@ -35,7 +35,7 @@
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 298",
+      "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
     }

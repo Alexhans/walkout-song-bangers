@@ -8,7 +8,7 @@
       "artist": "Guns N Roses",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-      "event": "UFC 277",
+      "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
     },
@@ -17,7 +17,7 @@
       "artist": "Turnstile",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
-      "event": "UFC 282",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
     },

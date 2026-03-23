@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 282",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
     },
@@ -17,7 +17,7 @@
       "artist": "Zauntee",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4m0EGbdEIdqYWkpuomboUp",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

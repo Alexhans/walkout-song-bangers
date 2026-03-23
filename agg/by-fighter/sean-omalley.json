@@ -8,7 +8,7 @@
       "artist": "Kodak Black",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
-      "event": "UFC 276",
+      "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     },
@@ -17,7 +17,7 @@
       "artist": "Lupe Fiasco “Superstar”",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 280",
+      "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
     },
@@ -26,7 +26,7 @@
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e",
-      "event": "UFC 292",
+      "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
     },

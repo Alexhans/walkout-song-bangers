@@ -8,7 +8,7 @@
       "artist": "Leo Santana, MC Don Juan and Mari Fernandez",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6bvExfRtDzg0sXuUkvTUyL",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     }

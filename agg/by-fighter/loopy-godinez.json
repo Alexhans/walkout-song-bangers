@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 274",
+      "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     },
@@ -26,7 +26,7 @@
       "artist": "Ariel Armando Macias Madrid",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Vengan%20a%20Calarse%20Ariel%20Armando%20Macias%20Madrid",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     }

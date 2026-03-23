@@ -17,7 +17,7 @@
       "artist": "J Cole",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7ilwtjmDj6Xyx9Lp2LDFuq",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -26,7 +26,7 @@
       "artist": "Cozz feat. J. Cole",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
-      "event": "UFC 276",
+      "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     },
@@ -35,7 +35,7 @@
       "artist": "J. Cole",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
-      "event": "UFC 290",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
     },

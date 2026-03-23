@@ -8,7 +8,7 @@
       "artist": "Danny Gokey",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/12gkIsBWFWPHOgX7odzUCK",
-      "event": "UFC 265",
+      "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
     },
@@ -17,7 +17,7 @@
       "artist": "Meek Mill feat Lil Uzi Vert",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2kdhiombBoiHjvSKG3EI0m",
-      "event": "UFC 268",
+      "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
     },

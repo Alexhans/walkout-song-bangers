@@ -17,7 +17,7 @@
       "artist": "Skyrim",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6zqMYQfc6bb5zASIfLl8rD",
-      "event": "UFC 282",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
     },
@@ -26,7 +26,7 @@
       "artist": "Daniel Pemberton",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/The%20Politics%20%26%20The%20Life%20%28King%20Arthur%29%20Daniel%20Pemberton",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     }

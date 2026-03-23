@@ -8,7 +8,7 @@
       "artist": "Dulce Pontes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
-      "event": "UFC 270",
+      "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
     },
@@ -17,7 +17,7 @@
       "artist": "Dulce Pontes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
-      "event": "UFC 274",
+      "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
     },
@@ -26,7 +26,7 @@
       "artist": "Dulce Pontes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
-      "event": "UFC 275",
+      "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
     }

@@ -8,7 +8,7 @@
       "artist": "John Willams",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20/%20Thunderstruck%20John%20Willams",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -17,7 +17,7 @@
       "artist": "John Williams, Thunderstruck by AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20John%20Williams%2C%20Thunderstruck%20by%20AC/DC",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     }

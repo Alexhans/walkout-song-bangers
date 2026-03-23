@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 270",
+      "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 275",
+      "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },

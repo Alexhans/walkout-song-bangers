@@ -8,7 +8,7 @@
       "artist": "Ted Nugent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -17,7 +17,7 @@
       "artist": "Grand Master Flash and the Furious Five",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0yd8AwPHpPb8kuSivoN1wL",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     }

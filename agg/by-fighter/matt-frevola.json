@@ -8,7 +8,7 @@
       "artist": "Limp Bizkit",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
-      "event": "UFC 270",
+      "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
     },
@@ -17,7 +17,7 @@
       "artist": "Blasterjaxx and Timmy Trumpet",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     },
@@ -26,7 +26,7 @@
       "artist": "Blasterjaxx and Timmy Trumpet",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     }

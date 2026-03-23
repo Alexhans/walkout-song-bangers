@@ -26,7 +26,7 @@
       "artist": "Bee Gees",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
-      "event": "UFC 270",
+      "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
     },
@@ -35,7 +35,7 @@
       "artist": "Lynyrd Skynyrd",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
-      "event": "UFC 283",
+      "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
     }

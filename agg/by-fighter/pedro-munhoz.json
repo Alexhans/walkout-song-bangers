@@ -8,7 +8,7 @@
       "artist": "Quebrada United",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
-      "event": "UFC 265",
+      "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
     },
@@ -17,7 +17,7 @@
       "artist": "Nas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
-      "event": "UFC 276",
+      "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     },
@@ -26,7 +26,7 @@
       "artist": "Racion",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
-      "event": "UFC 292",
+      "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
     }

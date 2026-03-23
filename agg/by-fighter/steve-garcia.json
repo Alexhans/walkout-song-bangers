@@ -8,7 +8,7 @@
       "artist": "Blake Shelton",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
-      "event": "UFC 275",
+      "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
     },
@@ -17,7 +17,7 @@
       "artist": "KB",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ",
-      "event": "UFC 287",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     }

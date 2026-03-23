@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 276",
+      "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     },
@@ -35,7 +35,7 @@
       "artist": "Flii Stylz & Tenashus",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Bring%20It%20On%20Down%20%28Battlezone%29%20Remix%20Flii%20Stylz%20%26%20Tenashus",
-      "event": "UFC 293",
+      "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
     },

@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     },
@@ -26,7 +26,7 @@
       "artist": "Goldfinger",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
-      "event": "UFC 292",
+      "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
     },

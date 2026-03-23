@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -35,7 +35,7 @@
       "artist": "Sir Roosevelt",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/The%20Bravest%20Sir%20Roosevelt",
-      "event": "UFC 297",
+      "event": "UFC 297: Strickland vs. Du Plessis",
       "event_slug": "ufc-297",
       "date": "2024-01-20"
     }

@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/My%20Mother%20How%20Much%20I%20Love%20Her",
-      "event": "UFC 293",
+      "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
     }

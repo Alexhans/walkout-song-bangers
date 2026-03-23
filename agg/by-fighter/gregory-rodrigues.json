@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 283",
+      "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
     },
@@ -17,7 +17,7 @@
       "artist": "Avenged Sevenfold",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2NImo2MajNai4CLk35wMut",
-      "event": "UFC 292",
+      "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
     },

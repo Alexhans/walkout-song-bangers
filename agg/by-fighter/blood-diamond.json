@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 277",
+      "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
     },
@@ -26,7 +26,7 @@
       "artist": "The Game",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3GPWJP1Ai1RUCfsOOFw3dl",
-      "event": "UFC 293",
+      "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
     }

@@ -8,7 +8,7 @@
       "artist": "Lisi",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
-      "event": "UFC 275",
+      "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
     },
@@ -17,7 +17,7 @@
       "artist": "Nito NB",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     },

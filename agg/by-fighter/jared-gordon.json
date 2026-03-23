@@ -8,7 +8,7 @@
       "artist": "Stevie Nicks",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
-      "event": "UFC 282",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
     },
@@ -17,7 +17,7 @@
       "artist": "Steven Furtick",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/56GjiZZduzhDzWDw7L5Pp8",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     }

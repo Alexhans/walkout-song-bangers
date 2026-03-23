@@ -8,7 +8,7 @@
       "artist": "Avenged Sevenfold",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk",
-      "event": "UFC 289",
+      "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
     },
@@ -17,7 +17,7 @@
       "artist": "Lola Beltran",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3DcH2KPdamXaIbiz4XqhHS",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

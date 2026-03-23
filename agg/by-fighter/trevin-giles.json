@@ -17,7 +17,7 @@
       "artist": "Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 270",
+      "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
     },
@@ -26,7 +26,7 @@
       "artist": "UGK",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     }

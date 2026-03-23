@@ -17,7 +17,7 @@
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     },
@@ -26,7 +26,7 @@
       "artist": "Nico & Vinz",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
-      "event": "UFC 298",
+      "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
     }

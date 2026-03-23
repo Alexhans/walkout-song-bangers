@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 289",
+      "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     },
@@ -26,7 +26,7 @@
       "artist": "Harold Faltermyer",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Top%20Gun%E2%80%9D%20theme%20Harold%20Faltermyer",
-      "event": "UFC 298",
+      "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
     }

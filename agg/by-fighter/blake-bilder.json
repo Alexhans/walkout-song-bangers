@@ -8,7 +8,7 @@
       "artist": "Clever",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -17,7 +17,7 @@
       "artist": "Trippie Redd feat. DaBaby",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO",
-      "event": "UFC 289",
+      "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
     }

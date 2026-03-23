@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 283",
+      "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     },
@@ -35,7 +35,7 @@
       "artist": "Buchecha",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
-      "event": "UFC 288",
+      "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
     }

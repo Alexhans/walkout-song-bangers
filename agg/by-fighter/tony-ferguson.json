@@ -26,7 +26,7 @@
       "artist": "Freestyle",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
-      "event": "UFC 274",
+      "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
     },
@@ -35,7 +35,7 @@
       "artist": "Freestyle",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
-      "event": "UFC 291",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
     },
@@ -44,7 +44,7 @@
       "artist": "Freestyle",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

@@ -8,7 +8,7 @@
       "artist": "2Pac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 271",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
     },
@@ -17,7 +17,7 @@
       "artist": "Drake",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     },

@@ -31,32 +31,32 @@ Walkout songs for processed events are in [`data/`](data/) (JSON) and [`viz/`](v
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
-| [UFC 265](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
-| [UFC 266](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
-| [UFC 268](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
-| [UFC 270](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
-| [UFC 271](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
-| [UFC 273](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
-| [UFC 274](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
-| [UFC 275](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
-| [UFC 276](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
-| [UFC 277](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
-| [UFC 280](viz/ufc-280.md) | 24 | 0 | 0 | 8 | 16 |
-| [UFC 282](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
-| [UFC 283](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
-| [UFC 284](viz/ufc-284.md) | 26 | 0 | 0 | 13 | 13 |
-| [UFC 287](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
-| [UFC 288](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
-| [UFC 289](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
-| [UFC 290](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
-| [UFC 291](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
-| [UFC 292](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
-| [UFC 293](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
-| [UFC 294](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
-| [UFC 295](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
-| [UFC 296](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
-| [UFC 297](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
-| [UFC 298](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC 268: Usman vs. Covington 2](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
+| [UFC 270: Ngannou vs. Gane](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
+| [UFC 271: Adesanya vs. Whittaker 2](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
+| [UFC 273: Volkanovski vs. The Korean Zombie](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
+| [UFC 274: Oliveira vs. Gaethje](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
+| [UFC 275: Teixeira vs. Prochazka](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
+| [UFC 276: Adesanya vs. Cannonier](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
+| [UFC 277: Pena vs. Nunes 2](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 8 | 16 |
+| [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
+| [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
+| [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
+| [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
+| [UFC 290: Volkanovski vs. Rodriguez](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
+| [UFC 291: Poirier vs. Gaethje 2](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
+| [UFC 292: Sterling vs. O'Malley](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC 293: Adesanya vs. Strickland](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC 294: Makhachev vs. Volkanovski 2](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC 295: Prochazka vs. Pereira](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC 296: Edwards vs. Covington](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 297: Strickland vs. Du Plessis](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 298: Volkanovski vs. Topuria](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
 | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |

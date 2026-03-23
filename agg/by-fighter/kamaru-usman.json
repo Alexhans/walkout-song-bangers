@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
-      "event": "UFC 268",
+      "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
     },
@@ -17,7 +17,7 @@
       "artist": "Rick Ross",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6FAFmXCsjrIV4Vu7ee7WuX",
-      "event": "UFC 294",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
     }

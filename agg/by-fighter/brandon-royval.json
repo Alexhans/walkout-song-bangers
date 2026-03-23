@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 274",
+      "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
     },
@@ -17,7 +17,7 @@
       "artist": "Ol’ Dirty Bastard",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi",
-      "event": "UFC 296",
+      "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
     }

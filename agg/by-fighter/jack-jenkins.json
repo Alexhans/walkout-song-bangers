@@ -8,7 +8,7 @@
       "artist": "Eminem",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/8%20Mile%20Eminem%20final%20rap%20battle",
-      "event": "UFC 293",
+      "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
     },

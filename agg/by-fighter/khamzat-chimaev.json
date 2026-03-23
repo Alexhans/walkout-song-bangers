@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -17,7 +17,7 @@
       "artist": "Tu Noch Kogda",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Timur%20Mutsuraev%20Tu%20Noch%20Kogda",
-      "event": "UFC 294",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
     }

@@ -8,7 +8,7 @@
       "artist": "George Thorogood",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -17,7 +17,7 @@
       "artist": "George Thorogood",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
-      "event": "UFC 283",
+      "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
     }

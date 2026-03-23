@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 280",
+      "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Lezginka",
-      "event": "UFC 294",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
     },

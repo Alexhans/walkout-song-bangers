@@ -17,7 +17,7 @@
       "artist": "Beyonce",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -26,7 +26,7 @@
       "artist": "Lil Durk",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
-      "event": "UFC 293",
+      "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
     }

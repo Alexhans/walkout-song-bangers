@@ -8,7 +8,7 @@
       "artist": "Jim Croce",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
-      "event": "UFC 289",
+      "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     },

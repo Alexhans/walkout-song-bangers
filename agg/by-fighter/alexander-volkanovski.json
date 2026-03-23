@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -17,7 +17,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -26,7 +26,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 276",
+      "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     },
@@ -35,7 +35,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 284",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
     },
@@ -44,7 +44,7 @@
       "artist": "Men at Work",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 290",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
     },
@@ -53,7 +53,7 @@
       "artist": "Men at Work",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 294",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
     },
@@ -62,7 +62,7 @@
       "artist": "Men at Work",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 298",
+      "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
     },

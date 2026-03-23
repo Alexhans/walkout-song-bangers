@@ -8,7 +8,7 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
     },
@@ -17,7 +17,7 @@
       "artist": "Hippie Sabotage",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
-      "event": "UFC 295",
+      "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
     },
@@ -26,7 +26,7 @@
       "artist": "Hippie Sabotage",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
-      "event": "UFC 298",
+      "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
     }

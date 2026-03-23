@@ -17,7 +17,7 @@
       "artist": "50 Cent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 266",
+      "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
     },
@@ -26,7 +26,7 @@
       "artist": "Brantley Gilbert and Jelly Roll",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
-      "event": "UFC 290",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
     },
