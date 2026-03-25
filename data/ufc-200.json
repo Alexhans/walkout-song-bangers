@@ -1,0 +1,204 @@
+{
+  "event": "UFC 200: Tate vs. Nunes",
+  "event_slug": "ufc-200",
+  "date": "2016-07-09",
+  "location": "T-Mobile Arena, Las Vegas, Nevada",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-200-Tate-vs-Nunes-107743"
+  ],
+  "generated_at": "2026-03-25T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "Tá Escrito",
+      "artist": "Grupo Revelação",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/T%C3%A1%20Escrito%20Grupo%20Revela%C3%A7%C3%A3o",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Miesha Tate",
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Roar%20Katy%20Perry",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Brock Lesnar",
+      "song_title": "Enter Sandman",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Enter%20Sandman%20Metallica",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Mark Hunt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Right Above It",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Right%20Above%20It%20Lil%20Wayne",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Anderson Silva",
+      "song_title": "No Sunshine",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/No%20Sunshine%20DMX",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Run%20This%20Town%20Jay-Z%20Rihanna",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "Kick in the Door",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Kick%20in%20the%20Door%20Notorious%20BIG",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cain Velasquez",
+      "song_title": "Los Mandados",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Los%20Mandados%20Vicente%20Fernandez",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Travis Browne",
+      "song_title": "You're the Best Around",
+      "artist": "Joe Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/You%27re%20the%20Best%20Around%20Joe%20Esposito",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Julianna Peña",
+      "song_title": "Crazy On You",
+      "artist": "Heart",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Crazy%20On%20You%20Heart",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Cat Zingano",
+      "song_title": "You're Going Down",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/You%27re%20Going%20Down%20Sick%20Puppies",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/El%20Palenque%20Vicente%20Fernandez",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "My Texas",
+      "artist": "Abbott Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/My%20Texas%20Abbott%20Band",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "T.J. Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Can%27t%20Stop%20Red%20Hot%20Chili%20Peppers",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Raphael Assunção",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sage Northcutt",
+      "song_title": "Awesome God",
+      "artist": "R-Swift",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Awesome%20God%20R-Swift",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Enrique Marín",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Lauzon",
+      "song_title": "Move",
+      "artist": "Thousand Foot Krutch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Move%20Thousand%20Foot%20Krutch",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/We%20Will%20Rock%20You%20Queen",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bad%20Moon%20Rising%20Creedence%20Clearwater%20Revival",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Takanori Gomi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}
