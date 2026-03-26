@@ -1,8 +1,17 @@
 {
   "fighter": "Derek Brunson",
   "slug": "derek-brunson",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
     {
       "song_title": "Welcome to Atlanta",
       "artist": "Jermaine Dupri",
@@ -20,12 +29,21 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

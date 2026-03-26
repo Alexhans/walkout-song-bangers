@@ -1,0 +1,22 @@
+{
+  "fighter": "Domingo Pilarte",
+  "slug": "domingo-pilarte",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Forever Flame",
+      "artist": "Miracle of Sound",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46iJ1bKTkCM2Jwaixk9cts",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

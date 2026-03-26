@@ -1,0 +1,22 @@
+{
+  "fighter": "Danny Chavez",
+  "slug": "danny-chavez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "One Mic",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,227 @@
 {
   "year": 2018,
-  "events": 2,
+  "events": 4,
   "tracks": [
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Movin On Up",
+      "artist": "Primal Scream",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Number One Stunna",
+      "artist": "Big Tymers feat. Lil Wayne & Juvenile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2OeZP4stWCbYdyMYz7mrY9",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "Despacito",
+      "artist": "Luis Fonsi feat. Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Mike Perry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Gokhan Saki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "How Deep Is Your Love",
+      "artist": "Calvin Harris & Disciples",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "King's Dead",
+      "artist": "Jay Rock, Kendrick Lamar & Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Curtis Millender",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Emily Whitmire",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "fighter": "Jamie Moyle",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
     {
       "fighter": "Khabib Nurmagomedov",
       "song_title": "Dagestan (Remix)",
@@ -241,6 +461,246 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "Tupac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%20Tupac",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Haunted",
+      "artist": "Marty Ray Project",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FCuwgM6Gpfgu2ZWpIDrNP",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Jacare Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "Fight",
+      "artist": "Project Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3H38zzO3vZ1h4zG1bkcGfW",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "David Branch",
+      "song_title": "Coming of Age",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01gu79iiKf0mEo1Sq1fe6K",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Karl Roberson",
+      "song_title": "Gang Gang",
+      "artist": "SNL Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Tick Tock",
+      "artist": "Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "Smile",
+      "artist": "Lil' Duval",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Jordan Rinaldi",
+      "song_title": "For Me To Live Is Christ",
+      "artist": "Sidewalk Prophets",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Just Another Thing",
+      "artist": "The Lacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aiap0DxIpyscSAIaPp9kk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Sijara Eubanks",
+      "song_title": "Money",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Roxanne Modafferi",
+      "song_title": "Lords of Iron",
+      "artist": "Antti Martikainen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bmFTmSBkqU3KArU798aSm",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Sheymon Moraes",
+      "song_title": "WIN",
+      "artist": "Jay Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Lyman Good",
+      "song_title": "Intro II",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Ben Saunders",
+      "song_title": "Wu Tang Clan Ain't Nuttin' Ta F Wit",
+      "artist": "Wu-Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "Actin' Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Kurt Holobaugh",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "fighter": "Adam Wieczorek",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     },
     {
       "fighter": "Santiago Ponzinibbio",
@@ -484,10 +944,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 48,
-    "with_song": 48,
-    "playable_tracks": 45,
-    "unique_playable_tracks": 44,
-    "missing": 0
+    "total_fighters": 94,
+    "with_song": 73,
+    "playable_tracks": 69,
+    "unique_playable_tracks": 67,
+    "missing": 21
   }
 }

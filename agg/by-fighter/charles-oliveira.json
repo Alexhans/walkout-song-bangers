@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Oliveira",
   "slug": "charles-oliveira",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "O Hino",
@@ -53,14 +53,23 @@
       "artist": "Fernandinho",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
+    },
+    {
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
     "unique_songs": 1
   }

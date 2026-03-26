@@ -36,11 +36,15 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |
 | [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
+| [UFC 226: Miocic vs. Cormier](viz/ufc-226.md) | 22 | 0 | 0 | 6 | 16 |
 | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [UFC 230: Cormier vs. Lewis](viz/ufc-230.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 241: Cormier vs. Miocic 2](viz/ufc-241.md) | 24 | 0 | 0 | 17 | 7 |
 | [UFC 246: McGregor vs. Cowboy](viz/ufc-246.md) | 22 | 0 | 0 | 14 | 8 |
+| [UFC 247: Jones vs. Reyes](viz/ufc-247.md) | 24 | 0 | 0 | 14 | 10 |
+| [UFC 252: Miocic vs. Cormier 3](viz/ufc-252.md) | 22 | 0 | 0 | 11 | 11 |
 | [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
 | [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
 | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
@@ -58,6 +62,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
 | [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
 | [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 14 | 12 |
+| [UFC 285: Jones vs. Gane](viz/ufc-285.md) | 28 | 0 | 0 | 27 | 1 |
 | [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
 | [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
@@ -76,6 +81,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 6 | 18 |
 | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |

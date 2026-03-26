@@ -1,0 +1,204 @@
+{
+  "event": "UFC 309: Jones vs. Miocic",
+  "event_slug": "ufc-309",
+  "date": "2024-11-16",
+  "location": "New York City, New York, USA",
+  "source_urls": [
+    "https://www.sportskeeda.com/mma/news-ufc-309-walkout-songs-tracks-jon-jones-stipe-miocic-charles-oliveira-michael-chandler-others-used"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Jon Jones",
+      "song_title": "Many Men / Hot in Herre / The Champ Is Here",
+      "artist": "50 Cent / Nelly / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Many%20Men%2050%20Cent",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "Unreleased",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz",
+      "notes": ""
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Jon Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mauricio Ruffy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "James Llontop",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcus McGhee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Damon Jackson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Roberto Romero",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jhonata Diniz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramiz Brahimaj",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Oban Elliott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Bassil Hafez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Eduarda Moura",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

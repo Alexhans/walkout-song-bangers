@@ -1,8 +1,17 @@
 {
   "fighter": "Gilbert Burns",
   "slug": "gilbert-burns",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
     {
       "song_title": "Tropa de Elite",
       "artist": "Tihuana",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 2,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 2
   }
 }

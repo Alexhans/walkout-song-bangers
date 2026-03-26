@@ -1,8 +1,17 @@
 {
   "fighter": "Sean O'Malley",
   "slug": "sean-omalley",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "Goat Talk",
+      "artist": "J Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
     {
       "song_title": "Suga Suga",
       "artist": "Baby Bash",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

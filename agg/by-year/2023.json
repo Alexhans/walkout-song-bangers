@@ -1,6 +1,6 @@
 {
   "year": 2023,
-  "events": 12,
+  "events": 13,
   "tracks": [
     {
       "fighter": "Jamahal Hill",
@@ -561,6 +561,286 @@
       "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
+    },
+    {
+      "fighter": "Jon Jones",
+      "song_title": "God Give Me Style / The Champ Is Here",
+      "artist": "50 Cent / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/God%20Give%20Me%20Style%2050%20Cent",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "Zoo",
+      "artist": "Kaaris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BaGyruhFKKP6f8e2koRri",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BX8uuikQRyKvPartWfrB3",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Shavkat Rakhmonov",
+      "song_title": "Tam Tau Adam",
+      "artist": "Oizhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "My Songs Know What You Did in the Dark",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Bo Nickal",
+      "song_title": "Hand of God",
+      "artist": "Jon Bellion",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Here Comes the Hotstepper",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Trevin Jones",
+      "song_title": "Spit Your Game",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Live It Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Fee Ra Huri",
+      "artist": "Omnia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "A Vida e Desafio",
+      "artist": "Racionais MCs and Afro X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Monster",
+      "artist": "Skillet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Julian Marquez",
+      "song_title": "Dance Monkey",
+      "artist": "Tones and I",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Ian Machado Garry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Song Kenan",
+      "song_title": "I am Wrath",
+      "artist": "Chronolyth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e3hPn8v9kkYZ4m6lbPcU4",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Mana Martinez",
+      "song_title": "Southside Da Realest",
+      "artist": "Big Tuck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sFxWkeAzMw1DD8ANl2qpw",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "Tellem That I'm Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Jessica Penne",
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Farid Basharat",
+      "song_title": "Blue Parrot (No Mercy)",
+      "artist": "Alan Silvestri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20%28No%20Mercy%29%20Alan%20Silvestri",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Da'Mon Blackshear",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Loik Radzhabov",
+      "song_title": "Assalam Aleykum",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZGpVo7NbtVmwQqIbylGUp",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "fighter": "Esteban Ribovics",
+      "song_title": "Givenchy",
+      "artist": "DUKI",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
       "fighter": "Israel Adesanya",
@@ -2984,10 +3264,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 298,
-    "with_song": 220,
-    "playable_tracks": 171,
-    "unique_playable_tracks": 156,
-    "missing": 78
+    "total_fighters": 326,
+    "with_song": 247,
+    "playable_tracks": 196,
+    "unique_playable_tracks": 175,
+    "missing": 79
   }
 }

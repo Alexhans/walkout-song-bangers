@@ -1,0 +1,22 @@
+{
+  "fighter": "John Dodson",
+  "slug": "john-dodson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Children of the Night",
+      "artist": "Kids Next Door",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

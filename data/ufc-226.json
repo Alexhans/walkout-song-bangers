@@ -1,0 +1,188 @@
+{
+  "event": "UFC 226: Miocic vs. Cormier",
+  "event_slug": "ufc-226",
+  "date": "2018-07-07",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.com/2018/07/fight-tracks-the-walkout-songs-of-ufc-226"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Movin On Up",
+      "artist": "Primal Scream",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz",
+      "notes": ""
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Number One Stunna",
+      "artist": "Big Tymers feat. Lil Wayne & Juvenile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2OeZP4stWCbYdyMYz7mrY9",
+      "notes": ""
+    },
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "Despacito",
+      "artist": "Luis Fonsi feat. Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Perry",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gokhan Saki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "How Deep Is Your Love",
+      "artist": "Calvin Harris & Disciples",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s",
+      "notes": ""
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "King's Dead",
+      "artist": "Jay Rock, Kendrick Lamar & Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Millender",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Emily Whitmire",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Moyle",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

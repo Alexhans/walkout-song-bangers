@@ -1,7 +1,7 @@
 {
   "fighter": "Dricus Du Plessis",
   "slug": "dricus-du-plessis",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Live it Up",
@@ -29,6 +29,15 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Live It Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
       "song_title": "Live it Up",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

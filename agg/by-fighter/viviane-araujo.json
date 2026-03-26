@@ -1,0 +1,31 @@
+{
+  "fighter": "Viviane Araujo",
+  "slug": "viviane-araujo",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "A Vida e Desafio",
+      "artist": "Racionais MCs and Afro X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

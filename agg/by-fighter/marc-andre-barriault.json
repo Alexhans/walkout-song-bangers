@@ -1,8 +1,17 @@
 {
   "fighter": "Marc-Andre Barriault",
   "slug": "marc-andre-barriault",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Monster",
+      "artist": "Skillet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

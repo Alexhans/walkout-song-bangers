@@ -1,7 +1,7 @@
 {
   "fighter": "Oban Elliott",
   "slug": "oban-elliott",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Ian Machado Garry: Layla",
@@ -22,6 +22,15 @@
       "date": "2024-07-27"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
+    },
+    {
       "song_title": "Welcome To The Jungle",
       "artist": "Guns N' Roses",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

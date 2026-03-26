@@ -1,8 +1,17 @@
 {
   "fighter": "Khaos Williams",
   "slug": "khaos-williams",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 1,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

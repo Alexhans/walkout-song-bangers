@@ -1,0 +1,22 @@
+{
+  "fighter": "Juan Adams",
+  "slug": "juan-adams",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bad Man",
+      "artist": "imk.a.y.o.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mAYTd8YPVZSjHxLKeL1jV",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

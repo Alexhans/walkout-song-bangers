@@ -1,8 +1,17 @@
 {
   "fighter": "Mario Bautista",
   "slug": "mario-bautista",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Kickstart My Heart",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "Immigrant Song",
       "artist": "Led Zeppelin",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

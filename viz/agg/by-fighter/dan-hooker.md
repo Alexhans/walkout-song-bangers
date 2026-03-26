@@ -1,10 +1,11 @@
 # Dan Hooker
 
-6 event(s) | 6 song(s) found | 5 unique
+7 event(s) | 6 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2017-12-30 | [UFC 219: Cyborg vs. Holm](../../ufc-219.md) | Runnin' | David Dallas | [Listen](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) |
+| 2018-07-07 | [UFC 226: Miocic vs. Cormier](../../ufc-226.md) | — | — | |
 | 2021-01-23 | [UFC 257: Poirier vs. McGregor 2](../../ufc-257.md) | Son of the Dirty South | Brantley Gilbert and Jelly Roll | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |
 | 2021-09-25 | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | MANY MEN WISH DEATH | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | Son of the Dirty South | Brantley Gilbert and Jelly Roll | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |

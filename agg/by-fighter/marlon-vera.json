@@ -1,7 +1,7 @@
 {
   "fighter": "Marlon Vera",
   "slug": "marlon-vera",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "That's All I Need",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     },
     {
       "song_title": "HAND ON THE PUMP",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

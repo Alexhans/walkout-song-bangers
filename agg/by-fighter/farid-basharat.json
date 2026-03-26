@@ -1,8 +1,17 @@
 {
   "fighter": "Farid Basharat",
   "slug": "farid-basharat",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Blue Parrot (No Mercy)",
+      "artist": "Alan Silvestri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20%28No%20Mercy%29%20Alan%20Silvestri",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
     {
       "song_title": "Blue Parrot",
       "artist": "Alan Silvestri",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

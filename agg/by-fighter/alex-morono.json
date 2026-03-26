@@ -1,8 +1,17 @@
 {
   "fighter": "Alex Morono",
   "slug": "alex-morono",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "Sweet Child O’ Mine",
       "artist": "Guns N Roses",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Mana Martinez",
   "slug": "mana-martinez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "Southside Da Realest",
+      "artist": "Big Tuck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sFxWkeAzMw1DD8ANl2qpw",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

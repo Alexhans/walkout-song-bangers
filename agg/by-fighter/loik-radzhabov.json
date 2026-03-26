@@ -1,0 +1,22 @@
+{
+  "fighter": "Loik Radzhabov",
+  "slug": "loik-radzhabov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Assalam Aleykum",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZGpVo7NbtVmwQqIbylGUp",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

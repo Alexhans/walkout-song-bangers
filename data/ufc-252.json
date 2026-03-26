@@ -1,0 +1,188 @@
+{
+  "event": "UFC 252: Miocic vs. Cormier 3",
+  "event_slug": "ufc-252",
+  "date": "2020-08-15",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-252-Walkout-Tracks-174587"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "2Pac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Goat Talk",
+      "artist": "J Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "notes": ""
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "No Dat a No Alla",
+      "artist": "Papa Touwtjie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Kluwolv6oUSPQaOGwngLL",
+      "notes": ""
+    },
+    {
+      "fighter": "Junior Dos Santos",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Pineda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Desabafo",
+      "artist": "Marcelo D2 & Claudia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl",
+      "notes": ""
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "John Dodson",
+      "song_title": "Children of the Night",
+      "artist": "Kids Next Door",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Felice Herrig",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Chavez",
+      "song_title": "One Mic",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Livinha Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ashley Yoder",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Kamaka",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Kelley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

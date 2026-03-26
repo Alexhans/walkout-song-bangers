@@ -1,7 +1,7 @@
 {
   "fighter": "Mickey Gall",
   "slug": "mickey-gall",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Hey Mickey",
@@ -38,12 +38,21 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

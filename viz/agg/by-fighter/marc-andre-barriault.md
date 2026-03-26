@@ -1,9 +1,10 @@
 # Marc-Andre Barriault
 
-4 event(s) | 2 song(s) found | 2 unique
+5 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2023-03-04 | [UFC 285: Jones vs. Gane](../../ufc-285.md) | Monster | Skillet | [Listen](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) |
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | — | — | |
 | 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | White Horse | Chris Stapleton | [Listen](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) |
 | 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |

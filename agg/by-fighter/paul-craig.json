@@ -1,7 +1,7 @@
 {
   "fighter": "Paul Craig",
   "slug": "paul-craig",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Alive",
@@ -29,12 +29,21 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

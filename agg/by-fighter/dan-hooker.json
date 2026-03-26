@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -11,6 +11,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     },
     {
       "song_title": "Son of the Dirty South",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 5
   }
 }

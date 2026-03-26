@@ -1,7 +1,7 @@
 {
   "fighter": "Stipe Miocic",
   "slug": "stipe-miocic",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Till I Die",
@@ -26,14 +26,41 @@
       "artist": "Machine Gun Kelly",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 1
   }

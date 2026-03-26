@@ -1,8 +1,17 @@
 {
   "fighter": "Matt Frevola",
   "slug": "matt-frevola",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

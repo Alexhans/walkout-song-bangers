@@ -1,7 +1,7 @@
 {
   "fighter": "Jon Jones",
   "slug": "jon-jones",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "God Gave Me Style/The Champ Is Here",
@@ -20,12 +20,39 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "God Gave Me Style / The Champ Is Here",
+      "artist": "50 Cent / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/God%20Gave%20Me%20Style%2050%20Cent",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "song_title": "God Give Me Style / The Champ Is Here",
+      "artist": "50 Cent / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/God%20Give%20Me%20Style%2050%20Cent",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Many Men / Hot in Herre / The Champ Is Here",
+      "artist": "50 Cent / Nelly / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Many%20Men%2050%20Cent",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

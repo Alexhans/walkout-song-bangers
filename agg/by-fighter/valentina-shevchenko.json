@@ -1,8 +1,17 @@
 {
   "fighter": "Valentina Shevchenko",
   "slug": "valentina-shevchenko",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,6 +32,15 @@
     },
     {
       "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Lezginka",
       "artist": "Traditional Folk Dance",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

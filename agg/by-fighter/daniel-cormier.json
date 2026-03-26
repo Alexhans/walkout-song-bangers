@@ -1,7 +1,7 @@
 {
   "fighter": "Daniel Cormier",
   "slug": "daniel-cormier",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Return of the Mack",
@@ -22,6 +22,24 @@
       "date": "2017-07-29"
     },
     {
+      "song_title": "Movin On Up",
+      "artist": "Primal Scream",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "Tupac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%20Tupac",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
       "song_title": "Right Above It",
       "artist": "Lil Wayne",
       "confidence": "bronze",
@@ -29,12 +47,21 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "2Pac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

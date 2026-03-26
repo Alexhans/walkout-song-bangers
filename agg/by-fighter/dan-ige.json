@@ -1,8 +1,17 @@
 {
   "fighter": "Dan Ige",
   "slug": "dan-ige",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Digging for Windows",
+      "artist": "Zack de la Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "Voodoo Child",
       "artist": "Jimi Hendrix",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

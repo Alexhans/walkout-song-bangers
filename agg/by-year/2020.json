@@ -1,6 +1,6 @@
 {
   "year": 2020,
-  "events": 2,
+  "events": 4,
   "tracks": [
     {
       "fighter": "Conor McGregor",
@@ -221,6 +221,466 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "fighter": "Jon Jones",
+      "song_title": "God Gave Me Style / The Champ Is Here",
+      "artist": "50 Cent / Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/God%20Gave%20Me%20Style%2050%20Cent",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Grindin' All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Justin Tafa",
+      "song_title": "German",
+      "artist": "No Money Enterprise",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CtQlS1NxP94RwYP7Jbr0p",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Juan Adams",
+      "song_title": "Bad Man",
+      "artist": "imk.a.y.o.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mAYTd8YPVZSjHxLKeL1jV",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Digging for Windows",
+      "artist": "Zack de la Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Mirsad Bektic",
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Ilir Latifi",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "New Money",
+      "artist": "Z-Ro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZudqHFSELAvUjinRURKDq",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "James Krause",
+      "song_title": "Rambo",
+      "artist": "Bryson Tiller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RqsqQU0erB0OgLbwem6pU",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Andrea Lee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Kickstart My Heart",
+      "artist": "Motley Crue",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Domingo Pilarte",
+      "song_title": "Forever Flame",
+      "artist": "Miracle of Sound",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46iJ1bKTkCM2Jwaixk9cts",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Journey Newson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Andre Ewell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Youssef Zalal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Austin Lingo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "2Pac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Goat Talk",
+      "artist": "J Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "No Dat a No Alla",
+      "artist": "Papa Touwtjie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Kluwolv6oUSPQaOGwngLL",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Junior Dos Santos",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Daniel Pineda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Desabafo",
+      "artist": "Marcelo D2 & Claudia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "John Dodson",
+      "song_title": "Children of the Night",
+      "artist": "Kids Next Door",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Felice Herrig",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Danny Chavez",
+      "song_title": "One Mic",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Livinha Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Ashley Yoder",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Kai Kamaka",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "fighter": "Tony Kelley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     },
     {
       "fighter": "Khabib Nurmagomedov",
@@ -464,10 +924,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 46,
-    "with_song": 20,
-    "playable_tracks": 20,
-    "unique_playable_tracks": 20,
-    "missing": 26
+    "total_fighters": 92,
+    "with_song": 45,
+    "playable_tracks": 43,
+    "unique_playable_tracks": 42,
+    "missing": 47
   }
 }

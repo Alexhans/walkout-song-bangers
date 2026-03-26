@@ -1,8 +1,17 @@
 {
   "fighter": "Jairzinho Rozenstruik",
   "slug": "jairzinho-rozenstruik",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "No Dat a No Alla",
+      "artist": "Papa Touwtjie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Kluwolv6oUSPQaOGwngLL",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Jamie Pickett",
+  "slug": "jamie-pickett",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Here Comes the Hotstepper",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Mirsad Bektic",
   "slug": "mirsad-bektic",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Big Things Poppin' (Do It)'",
@@ -20,12 +20,21 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

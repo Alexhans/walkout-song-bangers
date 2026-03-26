@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Garbrandt",
   "slug": "cody-garbrandt",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "We Will Rock You",
@@ -35,6 +35,15 @@
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 2
   }

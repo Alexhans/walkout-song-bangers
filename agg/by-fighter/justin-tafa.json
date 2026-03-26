@@ -1,8 +1,17 @@
 {
   "fighter": "Justin Tafa",
   "slug": "justin-tafa",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "German",
+      "artist": "No Money Enterprise",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CtQlS1NxP94RwYP7Jbr0p",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
     {
       "song_title": "Tama Samoa",
       "artist": "Rsa Band Samoa",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

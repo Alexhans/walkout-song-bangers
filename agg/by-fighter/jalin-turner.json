@@ -1,7 +1,7 @@
 {
   "fighter": "Jalin Turner",
   "slug": "jalin-turner",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "New Patek",
@@ -35,6 +35,15 @@
       "artist": "J. Cole",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 5
   }

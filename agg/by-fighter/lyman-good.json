@@ -1,0 +1,22 @@
+{
+  "fighter": "Lyman Good",
+  "slug": "lyman-good",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Intro II",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

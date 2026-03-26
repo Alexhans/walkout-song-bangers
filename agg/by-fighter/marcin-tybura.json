@@ -1,7 +1,7 @@
 {
   "fighter": "Marcin Tybura",
   "slug": "marcin-tybura",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Get Me the G.I. Joes",
@@ -11,12 +11,21 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

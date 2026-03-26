@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Marshman",
   "slug": "jack-marshman",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Tick Tock",
+      "artist": "Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
     {
       "song_title": "God's Gonna Cut You Down",
       "artist": "Johnny Cash",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

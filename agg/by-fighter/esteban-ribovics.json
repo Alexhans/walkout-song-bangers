@@ -1,8 +1,17 @@
 {
   "fighter": "Esteban Ribovics",
   "slug": "esteban-ribovics",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Givenchy",
+      "artist": "DUKI",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
     {
       "song_title": "Argentina",
       "artist": "Trueno, Nathy Peluso",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Felice Herrig",
   "slug": "felice-herrig",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Blinded by the Light",
@@ -20,12 +20,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

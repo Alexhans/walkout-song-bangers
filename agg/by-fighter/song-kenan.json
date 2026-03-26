@@ -1,8 +1,17 @@
 {
   "fighter": "Song Kenan",
   "slug": "song-kenan",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "I am Wrath",
+      "artist": "Chronolyth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e3hPn8v9kkYZ4m6lbPcU4",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
     {
       "song_title": "No More Hesitation",
       "artist": "Justin Lin",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

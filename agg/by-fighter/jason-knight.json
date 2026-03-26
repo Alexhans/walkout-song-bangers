@@ -1,7 +1,7 @@
 {
   "fighter": "Jason Knight",
   "slug": "jason-knight",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Sleeping Dog",
@@ -20,12 +20,21 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "Just Another Thing",
+      "artist": "The Lacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aiap0DxIpyscSAIaPp9kk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

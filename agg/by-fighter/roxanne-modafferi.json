@@ -1,8 +1,17 @@
 {
   "fighter": "Roxanne Modafferi",
   "slug": "roxanne-modafferi",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Lords of Iron",
+      "artist": "Antti Martikainen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bmFTmSBkqU3KArU798aSm",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
     {
       "song_title": "Wolf Totem",
       "artist": "The Hu",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

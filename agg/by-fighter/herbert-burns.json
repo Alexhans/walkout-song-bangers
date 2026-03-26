@@ -1,8 +1,17 @@
 {
   "fighter": "Herbert Burns",
   "slug": "herbert-burns",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Desabafo",
+      "artist": "Marcelo D2 & Claudia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
     {
       "song_title": "Desabafo / Deixa Eu Dizer",
       "artist": "Marcelo D2 / Claudia",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Anthony Pettis",
   "slug": "anthony-pettis",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Showtime",
@@ -20,6 +20,15 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     },
     {
       "song_title": "All Eyez on Me",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 5
   }
 }

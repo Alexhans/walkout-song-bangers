@@ -1,7 +1,7 @@
 {
   "fighter": "Shavkat Rakhmonov",
   "slug": "shavkat-rakhmonov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -16,6 +16,15 @@
       "song_title": "Tam Tau Adam",
       "artist": "Oizhas Albay",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Tam Tau Adam",
+      "artist": "Oizhas Albay",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Tam%20Tau%20Adam%20Oizhas%20Albay",
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
@@ -23,8 +32,8 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }

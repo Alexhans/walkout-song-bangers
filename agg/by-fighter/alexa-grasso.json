@@ -1,0 +1,22 @@
+{
+  "fighter": "Alexa Grasso",
+  "slug": "alexa-grasso",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BX8uuikQRyKvPartWfrB3",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

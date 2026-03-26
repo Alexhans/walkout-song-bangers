@@ -1,9 +1,10 @@
 # Israel Adesanya
 
-5 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2018-11-03 | [UFC 230: Cormier vs. Lewis](../../ufc-230.md) | Smile | Lil' Duval | [Listen](https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k) |
 | 2022-02-12 | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |
 | 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |

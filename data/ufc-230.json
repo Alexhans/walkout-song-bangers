@@ -1,0 +1,204 @@
+{
+  "event": "UFC 230: Cormier vs. Lewis",
+  "event_slug": "ufc-230",
+  "date": "2018-11-03",
+  "location": "New York City, New York, USA",
+  "source_urls": [
+    "https://www.mixedmartialarts.com/editorial/the-songs-they-walked-out-to-at-ufc-230:e9698021-b77d-46c4-89fb-2335f7ea2403/"
+  ],
+  "generated_at": "2026-03-26",
+  "songs": [
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "When We Ride on Our Enemies / Right Above It",
+      "artist": "Tupac / Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%20Tupac",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Haunted",
+      "artist": "Marty Ray Project",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FCuwgM6Gpfgu2ZWpIDrNP",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacare Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "Fight",
+      "artist": "Project Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3H38zzO3vZ1h4zG1bkcGfW",
+      "notes": ""
+    },
+    {
+      "fighter": "David Branch",
+      "song_title": "Coming of Age",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01gu79iiKf0mEo1Sq1fe6K",
+      "notes": ""
+    },
+    {
+      "fighter": "Karl Roberson",
+      "song_title": "Gang Gang",
+      "artist": "SNL Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Tick Tock",
+      "artist": "Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+      "notes": ""
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "Smile",
+      "artist": "Lil' Duval",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "notes": ""
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Rinaldi",
+      "song_title": "For Me To Live Is Christ",
+      "artist": "Sidewalk Prophets",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Just Another Thing",
+      "artist": "The Lacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aiap0DxIpyscSAIaPp9kk",
+      "notes": ""
+    },
+    {
+      "fighter": "Sijara Eubanks",
+      "song_title": "Money",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e",
+      "notes": ""
+    },
+    {
+      "fighter": "Roxanne Modafferi",
+      "song_title": "Lords of Iron",
+      "artist": "Antti Martikainen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bmFTmSBkqU3KArU798aSm",
+      "notes": ""
+    },
+    {
+      "fighter": "Sheymon Moraes",
+      "song_title": "WIN",
+      "artist": "Jay Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J",
+      "notes": ""
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Lyman Good",
+      "song_title": "Intro II",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e56CkYWD3JO6ovFZBA8po",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Saunders",
+      "song_title": "Wu Tang Clan Ain't Nuttin' Ta F Wit",
+      "artist": "Wu-Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "Actin' Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kurt Holobaugh",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Adam Wieczorek",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}
