@@ -84,8 +84,8 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 12 | 16 |
 | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
-| [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 0 | 28 |
-| [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 0 | 26 |
+| [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
+| [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 9 | 17 |
 <!-- END EVENTS -->
 
 ## How it works

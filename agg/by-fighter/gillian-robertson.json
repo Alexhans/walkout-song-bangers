@@ -22,10 +22,10 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 1,
-    "missing": 2,
+    "with_song": 2,
+    "missing": 1,
     "unique_songs": 1
   }
 }

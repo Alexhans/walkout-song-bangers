@@ -13,10 +13,10 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Gun Lean",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1HXyZ1aIi6hhnKZsXNU6xX",
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

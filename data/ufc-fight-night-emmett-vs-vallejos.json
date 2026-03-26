@@ -3,8 +3,10 @@
   "event_slug": "ufc-fight-night-emmett-vs-vallejos",
   "date": "2026-03-14",
   "location": "UFC APEX, Enterprise, Nevada",
-  "source_urls": [],
-  "generated_at": "2026-03-24T00:07:00Z",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-vegas-114-walkouts-entrance-music-used-by-josh-emmett-kevin-vallejos-gillian-robertson-and-others/"
+  ],
+  "generated_at": "2026-03-26",
   "songs": [
     {
       "fighter": "Kevin Vallejos",
@@ -16,26 +18,26 @@
     },
     {
       "fighter": "Josh Emmett",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Sky\"s the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
       "notes": ""
     },
     {
       "fighter": "Gillian Robertson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
       "notes": ""
     },
     {
       "fighter": "Amanda Lemos",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "De Dentro Pra Fora",
+      "artist": "Julia Vitoria",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
       "notes": ""
     },
     {
@@ -48,10 +50,10 @@
     },
     {
       "fighter": "Andre Fili",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Open The Gate",
+      "artist": "Zach Bryan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
       "notes": ""
     },
     {
@@ -64,18 +66,18 @@
     },
     {
       "fighter": "Harry Hardwick",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Breaking Free",
+      "artist": "High School Musical",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gF9RfiO8nBhFhBkLuiUrb",
       "notes": ""
     },
     {
       "fighter": "Ion Cutelaba",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Doina Haiducului",
+      "artist": "Zdob si Zdub",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
       "notes": ""
     },
     {
@@ -88,34 +90,34 @@
     },
     {
       "fighter": "Charles Johnson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Fu-gee-la",
+      "artist": "Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
       "notes": ""
     },
     {
       "fighter": "Bruno Silva",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Escola De Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29",
       "notes": ""
     },
     {
       "fighter": "Myktybek Orolbai",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I\"m Kyrgyz",
+      "artist": "Daniyar Ermatov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
       "notes": ""
     },
     {
       "fighter": "Chris Curtis",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Bad Boy For Life",
+      "artist": "P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
       "notes": ""
     },
     {

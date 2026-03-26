@@ -1,6 +1,6 @@
 # Andre Fili
 
-5 event(s) | 3 song(s) found | 3 unique
+5 event(s) | 4 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,4 +8,4 @@
 | 2020-01-18 | [UFC 246: McGregor vs. Cowboy](../../ufc-246.md) | Feeling Myself | Mac Dre | [Listen](https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf) |
 | 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Open the Gate | Zach Bryan | [Listen](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) |
 | 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |
-| 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | — | — | |
+| 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | Open The Gate | Zach Bryan | [Listen](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) |

@@ -13,10 +13,10 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I\"m Kyrgyz",
+      "artist": "Daniyar Ermatov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 0,
-    "missing": 2,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
   }
 }

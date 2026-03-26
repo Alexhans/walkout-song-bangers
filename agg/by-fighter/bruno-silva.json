@@ -13,10 +13,10 @@
       "date": "2023-10-21"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Escola De Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29",
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

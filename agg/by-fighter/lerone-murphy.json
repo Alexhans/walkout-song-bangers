@@ -4,10 +4,10 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
@@ -15,8 +15,8 @@
   ],
   "stats": {
     "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
   }
 }

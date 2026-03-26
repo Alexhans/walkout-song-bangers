@@ -22,10 +22,10 @@
       "date": "2024-07-27"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Baddadan",
+      "artist": "Chase & Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg",
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 2,
-    "missing": 1,
-    "unique_songs": 2
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
   }
 }

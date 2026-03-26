@@ -40,10 +40,10 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Open The Gate",
+      "artist": "Zach Bryan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 3,
-    "missing": 2,
-    "unique_songs": 3
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }
