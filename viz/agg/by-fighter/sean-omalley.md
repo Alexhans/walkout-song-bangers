@@ -1,6 +1,6 @@
 # Sean O'Malley
 
-9 event(s) | 8 song(s) found | 7 unique
+10 event(s) | 8 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,4 +12,5 @@
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Super Gremlin | Kodak Black | [Listen](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) |
 | 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
 | 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Superstar | Lupe Fiasco | [Listen](https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e) |
+| 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Superstar | Lupe Fiasco, Matthew Santos | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |

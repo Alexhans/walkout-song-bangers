@@ -7,6 +7,7 @@ Usage:
   python3 skill/scripts/run_fight_tracks_inkl.py \
     'UFC Fight Night: Ankalaev vs. Walker 2' \
     'https://sports.yahoo.com/...'
+  python3 skill/scripts/run_fight_tracks_inkl.py 'UFC 307'
 """
 
 from __future__ import annotations
@@ -23,6 +24,9 @@ import urllib.request
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
+
+from discover_fight_tracks import discover as discover_fight_tracks
+from run_logging import RunLogger
 
 
 REPO_ROOT = Path(__file__).parent.parent.parent
@@ -91,19 +95,6 @@ def _slugify_event_name(name: str) -> str:
     slug = re.sub(r"['’`]", "", slug)
     slug = re.sub(r"[^a-z0-9]+", "-", slug)
     return slug.strip("-")
-
-
-def _find_ufcstats_event_url(event_label: str) -> tuple[str, str]:
-    """Return (event_url, canonical_event_name) from UFCStats."""
-    index = _http_get("http://www.ufcstats.com/statistics/events/completed?page=all")
-    for m in re.finditer(
-        r'<a\s+href="(?P<url>http://www\.ufcstats\.com/event-details/[^"]+)"[^>]*>(?P<name>[^<]+)</a>',
-        index,
-    ):
-        name = html.unescape(m.group("name")).strip()
-        if name.startswith(event_label):
-            return m.group("url"), name
-    raise RuntimeError(f"Could not find {event_label} on UFCStats completed events page")
 
 
 def _parse_ufcstats_event_details(event_url: str) -> tuple[str, str, list[str]]:
@@ -295,70 +286,136 @@ class SpotifyClient:
 
 
 def main() -> int:
-    if len(sys.argv) != 3:
+    if len(sys.argv) not in (2, 3):
         print(__doc__.strip())
         return 2
 
     event_arg = sys.argv[1].strip()
-    inkl_url = sys.argv[2]
+    logger = RunLogger(script="run_fight_tracks_inkl", subject=event_arg)
+    use_cache = True
+    inkl_url = ""
+
+    if len(sys.argv) == 3:
+        if sys.argv[2] == "--refresh":
+            use_cache = False
+        else:
+            inkl_url = sys.argv[2]
+    logger.set_field("use_cache", use_cache)
+    logger.set_field("explicit_url", bool(inkl_url))
+    discovery: dict[str, object] | None = None
+
+    if not inkl_url:
+        with logger.stage("discover_source"):
+            discovery = discover_fight_tracks(event_arg, use_cache=use_cache, logger=logger)
+        inkl_url = str(discovery.get("best_url") or "").strip()
+        if not inkl_url:
+            print(f"{event_arg}: no Fight Tracks source discovered")
+            log_path = logger.finalize()
+            print(f"Log: {log_path}")
+            return 4
+        print(f"Discovered source: {inkl_url}")
+        logger.set_field("discovered_source", inkl_url)
+        logger.set_field("discovery_candidates", len(discovery.get("candidates") or []))
+    else:
+        logger.set_field("source_url", inkl_url)
 
     n: int | None = None
-    event_label = event_arg
-    if _looks_like_numbered_event_arg(event_arg):
-        n = _parse_event_number(event_arg)
-        event_label = f"UFC {n}"
+    with logger.stage("resolve_roster"):
+        if discovery:
+            event_name = str(discovery.get("event") or event_arg).strip()
+            ufcstats_url = str(discovery.get("event_url") or "").strip()
+            if not ufcstats_url:
+                raise RuntimeError(f"{event_arg}: discovery payload missing UFCStats event URL")
+        else:
+            event_name = event_arg
+            if _looks_like_numbered_event_arg(event_arg):
+                n = _parse_event_number(event_arg)
+                event_name = f"UFC {n}"
+            ufcstats_url = ""
+            index = _http_get("http://www.ufcstats.com/statistics/events/completed?page=all")
+            for m in re.finditer(
+                r'<a\s+href="(?P<url>http://www\.ufcstats\.com/event-details/[^"]+)"[^>]*>(?P<name>[^<]+)</a>',
+                index,
+            ):
+                name = html.unescape(m.group("name")).strip()
+                if name.startswith(event_name):
+                    ufcstats_url, event_name = m.group("url"), name
+                    break
+            if not ufcstats_url:
+                raise RuntimeError(f"Could not find {event_name} on UFCStats completed events page")
+        event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    if discovery:
+        slug = str(discovery.get("event_slug") or "").strip() or _slugify_event_name(event_name)
+        if re.fullmatch(r"ufc-(\d{1,4})", slug):
+            n = int(slug.split("-", 1)[1])
+    else:
+        slug = f"ufc-{n}" if n is not None else _slugify_event_name(event_name)
+    logger.set_field("event", event_name)
+    logger.set_field("event_slug", slug)
+    logger.set_field("date", event_date)
+    logger.set_field("location", location)
+    logger.set_field("roster_size", len(roster))
+    logger.set_field("source_url", inkl_url)
 
-    ufcstats_url, event_name = _find_ufcstats_event_url(event_label)
-    event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
-    slug = f"ufc-{n}" if n is not None else _slugify_event_name(event_name)
-
-    walkouts = _parse_inkl_fight_tracks(inkl_url)
-    spotify = SpotifyClient.from_env()
+    with logger.stage("parse_walkouts"):
+        walkouts = _parse_inkl_fight_tracks(inkl_url)
+    logger.set_field("walkout_entries", len(walkouts))
+    with logger.stage("spotify_auth"):
+        spotify = SpotifyClient.from_env()
+    logger.set_field("spotify_enabled", bool(spotify))
 
     songs: list[dict] = []
     found = 0
+    spotify_found = 0
 
-    for fighter in roster:
-        song_title = ""
-        artist = ""
+    with logger.stage("match_and_enrich"):
+        for fighter in roster:
+            song_title = ""
+            artist = ""
 
-        key = _norm_name(fighter)
-        if key in walkouts:
-            song_title, artist = walkouts[key]
-        else:
-            best_k = None
-            best = 0.0
-            for k in walkouts.keys():
-                score = difflib.SequenceMatcher(None, key, k).ratio()
-                if score > best:
-                    best = score
-                    best_k = k
-            if best_k and best >= 0.88:
-                song_title, artist = walkouts[best_k]
+            key = _norm_name(fighter)
+            if key in walkouts:
+                song_title, artist = walkouts[key]
+            else:
+                best_k = None
+                best = 0.0
+                for k in walkouts.keys():
+                    score = difflib.SequenceMatcher(None, key, k).ratio()
+                    if score > best:
+                        best = score
+                        best_k = k
+                if best_k and best >= 0.88:
+                    song_title, artist = walkouts[best_k]
 
-        confidence = "bronze" if song_title else "missing"
-        spotify_url = ""
-        notes = ""
+            confidence = "bronze" if song_title else "missing"
+            spotify_url = ""
+            notes = ""
 
-        if song_title:
-            found += 1
-            if spotify:
-                spotify_url, note = spotify.search_track_url(song_title, artist)
-                notes = note
+            if song_title:
+                found += 1
+                if spotify:
+                    spotify_url, note = spotify.search_track_url(song_title, artist)
+                    notes = note
+                    if spotify_url:
+                        spotify_found += 1
 
-        songs.append(
-            {
-                "fighter": fighter,
-                "song_title": song_title,
-                "artist": artist,
-                "confidence": confidence,
-                "spotify_url": spotify_url,
-                "notes": notes,
-            }
-        )
+            songs.append(
+                {
+                    "fighter": fighter,
+                    "song_title": song_title,
+                    "artist": artist,
+                    "confidence": confidence,
+                    "spotify_url": spotify_url,
+                    "notes": notes,
+                }
+            )
+    logger.set_field("songs_found", found)
+    logger.set_field("spotify_urls_found", spotify_found)
 
     if found == 0:
         print(f"{event_name}: 0 walkout songs found from sources; not writing {slug}.json")
+        log_path = logger.finalize()
+        print(f"Log: {log_path}")
         return 3
 
     out_path = DATA_DIR / f"{slug}.json"
@@ -372,11 +429,16 @@ def main() -> int:
         "songs": songs,
     }
 
-    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    with logger.stage("write_output"):
+        out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {out_path}")
+    logger.set_field("output_path", str(out_path))
 
     VIZ_DIR.mkdir(exist_ok=True)
-    os.system(f"python3 {REPO_ROOT / 'skill/scripts/generate_md.py'} {out_path}")
+    with logger.stage("generate_md"):
+        os.system(f"python3 {REPO_ROOT / 'skill/scripts/generate_md.py'} {out_path}")
+    log_path = logger.finalize()
+    print(f"Log: {log_path}")
 
     return 0
 

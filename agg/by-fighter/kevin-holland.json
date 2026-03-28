@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Holland",
   "slug": "kevin-holland",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Tell Me",
@@ -20,6 +20,15 @@
       "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
+    },
+    {
+      "song_title": "02.02.99",
+      "artist": "That Mexican OT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "02.02.99",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 5
   }

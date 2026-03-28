@@ -1,9 +1,10 @@
 # Song Yadong
 
-3 event(s) | 2 song(s) found | 2 unique
+4 event(s) | 2 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | Kung Fu Fighting | Carl Douglas | [Listen](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) |
 | 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |
+| 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | 龍拳 (Dragon Fist) | Jay Chou | [Listen](https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf) |

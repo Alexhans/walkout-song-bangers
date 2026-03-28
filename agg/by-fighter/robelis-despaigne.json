@@ -1,0 +1,22 @@
+{
+  "fighter": "Robelis Despaigne",
+  "slug": "robelis-despaigne",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Campeon",
+      "artist": "El Kimiko Y Yordy X Michel Boutic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

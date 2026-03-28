@@ -1,7 +1,7 @@
 {
   "fighter": "Sean O'Malley",
   "slug": "sean-omalley",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Superstar",
@@ -76,6 +76,15 @@
       "date": "2023-08-19"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
       "song_title": "Superstar",
       "artist": "Lupe Fiasco, Matthew Santos",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 8,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 7
   }
 }

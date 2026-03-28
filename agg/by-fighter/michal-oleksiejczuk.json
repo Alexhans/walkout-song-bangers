@@ -1,7 +1,7 @@
 {
   "fighter": "Michal Oleksiejczuk",
   "slug": "michal-oleksiejczuk",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Husaria Ginie",
@@ -11,6 +11,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "Potop Muzyka z Filmu Choragwie Rzeczpospolitej",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

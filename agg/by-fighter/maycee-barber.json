@@ -1,7 +1,7 @@
 {
   "fighter": "Maycee Barber",
   "slug": "maycee-barber",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Bad Guy",
@@ -20,12 +20,21 @@
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
+    },
+    {
+      "song_title": "Somethin' Bad",
+      "artist": "Miranda Lambert and Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

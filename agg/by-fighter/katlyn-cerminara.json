@@ -1,7 +1,7 @@
 {
   "fighter": "Katlyn Cerminara",
   "slug": "katlyn-cerminara",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
+    },
+    {
+      "song_title": "Where the Hood At?",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 0,
+    "events": 6,
+    "with_song": 1,
     "missing": 5,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

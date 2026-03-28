@@ -1,6 +1,6 @@
 {
   "year": 2024,
-  "events": 22,
+  "events": 23,
   "tracks": [
     {
       "fighter": "Dricus Du Plessis",
@@ -481,6 +481,286 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "The Madness",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Le Chant Des Commandos",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Michael Page",
+      "song_title": "Rest in Peace",
+      "artist": "The Undertaker WWE walkout music",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5V4JJSa7femKY5jCTeUrFo",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "02.02.99",
+      "artist": "That Mexican OT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "Perna Bamba",
+      "artist": "Parangole & Leo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "Somethin' Bad",
+      "artist": "Miranda Lambert and Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "Where the Hood At?",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "My Songs Know What You Did in the Dark (Light 'em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "Boladão (Grito de Um Guerreiro)",
+      "artist": "MC Sapão And DJ Marlboro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Rifles Rusos",
+      "artist": "Anuel AA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WzUy86kPLYRLRwLtinZ1x",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Philipe Lins",
+      "song_title": "Thedawning",
+      "artist": "Days Like These",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0aPgAvLQZNqfLDMrXv0IPE",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Ion Cutelaba",
+      "song_title": "Zdob Si Zdub",
+      "artist": "Doina Haiducului",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "Torce Oolho",
+      "artist": "Gustavo Lima & Hugo & Guilherme",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Robelis Despaigne",
+      "song_title": "El Campeon",
+      "artist": "El Kimiko Y Yordy X Michel Boutic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Josh Parisian",
+      "song_title": "So Alive",
+      "artist": "Goo Goo Dolls",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Se1ajfYEa51gkPKV5UgLV",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Asu Almabayev",
+      "song_title": "Jumry Kylysh",
+      "artist": "Ulytau",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14dHkSYaWtw5tAaBVQEJSh",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "CJ Vergara",
+      "song_title": "Texas",
+      "artist": "BigXThaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "Glitter & Gold",
+      "artist": "Barns Courtney",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Glitter%20%26%20Gold%20Barns%20Courtney",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "fighter": "Maryna Moroz",
+      "song_title": "We Will Endure",
+      "artist": "Kozak Siromaha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c4MlUZWf9DwIRwWOJMzZt",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "fighter": "Alex Pereira",
@@ -5464,10 +5744,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 546,
-    "with_song": 452,
-    "playable_tracks": 416,
-    "unique_playable_tracks": 357,
-    "missing": 94
+    "total_fighters": 574,
+    "with_song": 476,
+    "playable_tracks": 439,
+    "unique_playable_tracks": 372,
+    "missing": 98
   }
 }

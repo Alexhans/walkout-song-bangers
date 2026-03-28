@@ -1,7 +1,7 @@
 {
   "fighter": "Marlon Vera",
   "slug": "marlon-vera",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "That's All I Need",
@@ -40,6 +40,15 @@
       "date": "2023-08-19"
     },
     {
+      "song_title": "The Madness",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
       "song_title": "Smile (Living My Best Life)",
       "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Dustin Poirier",
   "slug": "dustin-poirier",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Ain't No Stopping' Us Now",
@@ -76,6 +76,15 @@
       "date": "2023-07-29"
     },
     {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
       "song_title": "Diamonds / The Boss",
       "artist": "Rihanna / James Brown",
       "confidence": "bronze",
@@ -95,8 +104,8 @@
     }
   ],
   "stats": {
-    "events": 10,
-    "with_song": 7,
+    "events": 11,
+    "with_song": 8,
     "missing": 3,
     "unique_songs": 4
   }

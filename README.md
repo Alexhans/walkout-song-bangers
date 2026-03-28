@@ -97,6 +97,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 298: Volkanovski vs. Topuria](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Moreno vs. Royval 2](viz/ufc-fight-night-moreno-vs-royval-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC 299: O'Malley vs. Vera 2](viz/ufc-299.md) | 28 | 0 | 0 | 24 | 4 |
 | [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |

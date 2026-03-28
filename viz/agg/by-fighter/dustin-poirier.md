@@ -1,6 +1,6 @@
 # Dustin Poirier
 
-10 event(s) | 7 song(s) found | 4 unique
+11 event(s) | 8 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,5 +12,6 @@
 | 2021-12-11 | [UFC 269: Oliveira vs. Poirier](../../ufc-269.md) | The Boss | James Brown | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |
 | 2022-11-12 | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | The Boss | James Brown | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | — | — | |
+| 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | The Boss | James Brown | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |
 | 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Diamonds / The Boss | Rihanna / James Brown | [Listen](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx) |
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | The Boss | James Brown | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |

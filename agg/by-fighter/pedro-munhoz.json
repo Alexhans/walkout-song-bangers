@@ -1,7 +1,7 @@
 {
   "fighter": "Pedro Munhoz",
   "slug": "pedro-munhoz",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Ambitionz Az a Ridah",
@@ -49,6 +49,15 @@
       "date": "2023-08-19"
     },
     {
+      "song_title": "Rifles Rusos",
+      "artist": "Anuel AA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WzUy86kPLYRLRwLtinZ1x",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

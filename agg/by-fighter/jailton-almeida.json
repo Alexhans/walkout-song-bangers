@@ -1,7 +1,7 @@
 {
   "fighter": "Jailton Almeida",
   "slug": "jailton-almeida",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Perna Bamba",
+      "artist": "Parangole & Leo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "Perna Bamba",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

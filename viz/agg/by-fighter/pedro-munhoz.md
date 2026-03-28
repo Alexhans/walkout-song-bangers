@@ -1,6 +1,6 @@
 # Pedro Munhoz
 
-6 event(s) | 5 song(s) found | 5 unique
+7 event(s) | 6 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,4 +10,5 @@
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | If I Ruled The World | Nas | [Listen](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) |
 | 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | CAPITULO 4 Versiculo 3/Vida Lokat PT "/HOMEM NA
 ESTRADA | Racion |  |
+| 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | Rifles Rusos | Anuel AA | [Listen](https://open.spotify.com/track/2WzUy86kPLYRLRwLtinZ1x) |
 | 2024-11-02 | [UFC Fight Night: Moreno vs. Albazi](../../ufc-fight-night-moreno-vs-albazi.md) | — | — | |

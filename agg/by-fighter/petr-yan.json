@@ -1,7 +1,7 @@
 {
   "fighter": "Petr Yan",
   "slug": "petr-yan",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Corbel Trunk",
@@ -44,14 +44,23 @@
       "artist": "Noggano",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 4
   }

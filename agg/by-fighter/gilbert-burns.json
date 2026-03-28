@@ -1,7 +1,7 @@
 {
   "fighter": "Gilbert Burns",
   "slug": "gilbert-burns",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -62,15 +62,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 2,
-    "missing": 5,
+    "missing": 6,
     "unique_songs": 2
   }
 }

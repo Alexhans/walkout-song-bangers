@@ -1,7 +1,7 @@
 {
   "fighter": "Benoit Saint Denis",
   "slug": "benoit-saint-denis",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Le Chant des Commandos/Saint Denis",
@@ -11,6 +11,15 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "Le Chant Des Commandos",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "Les Commandos / Seine Saint-Denis Style",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

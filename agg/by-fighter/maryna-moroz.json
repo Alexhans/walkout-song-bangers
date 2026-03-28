@@ -1,7 +1,7 @@
 {
   "fighter": "Maryna Moroz",
   "slug": "maryna-moroz",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Жми КОЗАКИ (АТО.Укра7на)",
@@ -11,12 +11,21 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "We Will Endure",
+      "artist": "Kozak Siromaha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c4MlUZWf9DwIRwWOJMzZt",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

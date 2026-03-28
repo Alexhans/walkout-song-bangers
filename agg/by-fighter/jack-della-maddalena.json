@@ -1,7 +1,7 @@
 {
   "fighter": "Jack Della Maddalena",
   "slug": "jack-della-maddalena",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -35,14 +35,23 @@
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 2,
     "missing": 3,
     "unique_songs": 1
   }
