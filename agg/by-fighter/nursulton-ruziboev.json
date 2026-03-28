@@ -1,0 +1,22 @@
+{
+  "fighter": "Nursulton Ruziboev",
+  "slug": "nursulton-ruziboev",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bu Vatan",
+      "artist": "Uzmir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wm6mi9Rnq3hdXTE8z1HcL",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

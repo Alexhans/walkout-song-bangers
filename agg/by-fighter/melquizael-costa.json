@@ -1,7 +1,7 @@
 {
   "fighter": "Melquizael Costa",
   "slug": "melquizael-costa",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Funk Do Patinho",
+      "artist": "Bento E Toto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vQgz7OFIrWFf7W0o2TccY",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
     },
     {
       "song_title": "Bladadah",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

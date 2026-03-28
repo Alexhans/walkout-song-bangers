@@ -1,7 +1,7 @@
 {
   "fighter": "Douglas Silva de Andrade",
   "slug": "douglas-silva-de-andrade",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Conquistando o Impossavel",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Moreno vs. Kavanagh",
       "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
       "date": "2026-02-28"
+    },
+    {
+      "song_title": "Conquistando O Impossivel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

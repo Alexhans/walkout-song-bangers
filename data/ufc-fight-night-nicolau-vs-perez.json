@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Nicolau vs. Perez",
+  "event_slug": "ufc-fight-night-nicolau-vs-perez",
+  "date": "2024-04-27",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-on-espn-55-with-rare-mumford-sons-led-zeppelin-eminem-curse"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "notes": ""
+    },
+    {
+      "fighter": "Bogdan Guskov",
+      "song_title": "Spinnin'",
+      "artist": "Connor Price & Bens",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "1st of tha Month",
+      "artist": "Bone Thugs N Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr",
+      "notes": ""
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jhonata Diniz",
+      "song_title": "Aonde Nos Chegou",
+      "artist": "Mc Menor Mr E Mc Dede",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm",
+      "notes": ""
+    },
+    {
+      "fighter": "Austen Lane",
+      "song_title": "Hexagram",
+      "artist": "The Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5w16bds4fklGhyIl9IFjay",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Peace",
+      "artist": "Mohbad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Dirty Birds",
+      "artist": "1K Phew",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Dg5bPoWB8jcpkXK3TrZix",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "notes": ""
+    },
+    {
+      "fighter": "Rani Yahya",
+      "song_title": "Sirius",
+      "artist": "the Alan Parsons Project",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hSs4vOZo1OkRiAOoLafrT",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "Good People",
+      "artist": "Mumford and Sons feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Figlak",
+      "song_title": "Shook Ones Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "notes": ""
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Machado",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Souza",
+      "song_title": "Louco E Sonhador",
+      "artist": "Mc Neguinho Do Kaxeta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hdBsNsVESpjbnVClbUa3y",
+      "notes": ""
+    },
+    {
+      "fighter": "Marnic Mann",
+      "song_title": "Wake Me Up",
+      "artist": "2CELLOS",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Padilla",
+      "song_title": "From the Ugly",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIGYmXHM5kEV98M9F7Xij",
+      "notes": ""
+    },
+    {
+      "fighter": "James Llontop",
+      "song_title": "X",
+      "artist": "21 Savage & Metro Boomin feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO",
+      "notes": ""
+    },
+    {
+      "fighter": "Ivana Petrovic",
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "notes": ""
+    },
+    {
+      "fighter": "Liang Na",
+      "song_title": "Break the Cocoon",
+      "artist": "Angela Zhang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS",
+      "notes": ""
+    },
+    {
+      "fighter": "Maheshate",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir En Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Cesar Almeida",
   "slug": "cesar-almeida",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "DNA.",
@@ -11,6 +11,15 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "Negro Drama",
+      "artist": "Racionals Mcs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60AdoWoaapM8mnAnmL4EzP",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "DNA",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Bill Algeo",
+  "slug": "bill-algeo",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Don’t Mess With Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

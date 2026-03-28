@@ -1,7 +1,7 @@
 {
   "fighter": "Vitor Petrino",
   "slug": "vitor-petrino",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Bruno & Barretto",
@@ -40,6 +40,15 @@
       "date": "2026-03-14"
     },
     {
+      "song_title": "Abertura Oficial Victor Petrino",
+      "artist": "DJ Ruan Do Primerio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yok8vl4rNy4WPRy1uLu2V",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
       "song_title": "Os Baroes da Pisadinha",
       "artist": "Galera do Interior",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

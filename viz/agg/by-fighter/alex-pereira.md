@@ -1,6 +1,6 @@
 # Alex Pereira
 
-8 event(s) | 7 song(s) found | 2 unique
+9 event(s) | 8 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,3 +12,4 @@
 | 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Itsári | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
 | 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | Itsári | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
+| 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |

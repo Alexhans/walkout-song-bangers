@@ -1,7 +1,7 @@
 {
   "fighter": "Cory Sandhagen",
   "slug": "cory-sandhagen",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Electric Feel",
@@ -20,12 +20,21 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

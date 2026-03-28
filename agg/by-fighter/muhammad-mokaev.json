@@ -1,7 +1,7 @@
 {
   "fighter": "Muhammad Mokaev",
   "slug": "muhammad-mokaev",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,11 +29,20 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 1
   }

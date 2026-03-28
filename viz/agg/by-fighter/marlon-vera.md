@@ -1,6 +1,6 @@
 # Marlon Vera
 
-6 event(s) | 6 song(s) found | 6 unique
+7 event(s) | 7 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Where You Come From | DJ Khaled feat Buju Banton | [Listen](https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3) |
 | 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Smile (Living My Best Life) | Lil Duval ft. Snoop Dogg & Ball Greezy | [Listen](https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k) |
 | 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Tripolar | Canserbero | [Listen](https://open.spotify.com/track/02DIjDfe3wiaiNEzjtohJP) |
+| 2024-08-03 | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | A Bar Song (Tipsy) | Shaboozey | [Listen](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) |

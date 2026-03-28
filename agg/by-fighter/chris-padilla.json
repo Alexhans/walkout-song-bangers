@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Padilla",
   "slug": "chris-padilla",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Boogieman",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "From the Ugly",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIGYmXHM5kEV98M9F7Xij",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

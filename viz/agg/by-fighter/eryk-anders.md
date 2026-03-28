@@ -1,6 +1,6 @@
 # Eryk Anders
 
-4 event(s) | 3 song(s) found | 3 unique
+5 event(s) | 4 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,4 @@
 | 2021-12-11 | [UFC 269: Oliveira vs. Poirier](../../ufc-269.md) | Set it Off | Lil’ Boosie | [Listen](https://open.spotify.com/track/3qLgWZabS3bEZyKTjPbq5V) |
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | Ramen & OJ | Joyner Lucas |  |
 | 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | — | — | |
+| 2024-03-02 | [UFC Fight Night: Rozenstruik vs. Gaziev](../../ufc-fight-night-rozenstruik-vs-gaziev.md) | Ladders | Mac Miller | [Listen](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) |

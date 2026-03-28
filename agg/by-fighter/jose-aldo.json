@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Aldo",
   "slug": "jose-aldo",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Run This Town",
@@ -65,12 +65,21 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "We Are the Champions",
+      "artist": "Queen and “Run This Town” by Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

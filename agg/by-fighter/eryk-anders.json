@@ -1,7 +1,7 @@
 {
   "fighter": "Eryk Anders",
   "slug": "eryk-anders",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "ATLiens",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Ladders",
+      "artist": "Mac Miller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

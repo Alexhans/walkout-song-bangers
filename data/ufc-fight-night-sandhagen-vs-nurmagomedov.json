@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+  "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+  "date": "2024-08-03",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "source_urls": [
+    "https://uk.news.yahoo.com/fight-tracks-walkout-songs-ufc-120026381.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "notes": ""
+    },
+    {
+      "fighter": "Shara Magomedov",
+      "song_title": "Legendary 2",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1nUKYtye6OcItO5zsLuynJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Voando Pro Para",
+      "artist": "Joelma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1We7bGhumJU39MO8ZPFV22",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vengan a Calarse",
+      "artist": "Ariel Armado Macias Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "notes": ""
+    },
+    {
+      "fighter": "Joel Alvarez",
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "notes": ""
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "Levante e Ande",
+      "artist": "Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ggiwV8BiirsCeg2ORWac9",
+      "notes": ""
+    },
+    {
+      "fighter": "Azamat Murzakanov",
+      "song_title": "Heart of Circassian",
+      "artist": "Islam Itlyashev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "notes": ""
+    },
+    {
+      "fighter": "Kaue Fernandes",
+      "song_title": "So, Tell Me, Tell Me",
+      "artist": "Shavonne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IWv5SDrnbLuRQnV7ch9ZE",
+      "notes": ""
+    },
+    {
+      "fighter": "Mohammad Yahya",
+      "song_title": "Shook Ones, Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "My Great People",
+      "artist": "Zumrud Abdulaeva Salam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "notes": ""
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "Crazy",
+      "artist": "Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yI5oGYRtqR6ycf7UwehF4",
+      "notes": ""
+    },
+    {
+      "fighter": "Guram Kutateladze",
+      "song_title": "Makharia",
+      "artist": "Georgian International Children's Choir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qHgbFdVWP0ljIfAiqeueo",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Vucenic",
+      "song_title": "All Goes Wrong",
+      "artist": "Chase & Status feat. Tom Grennan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pfu1lEKJhRGTQf64cQPXd",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Hughes",
+      "song_title": "Texas",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
+      "notes": ""
+    },
+    {
+      "fighter": "Viktoriia Dudakova",
+      "song_title": "Ich Will",
+      "artist": "Rammstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
+      "notes": ""
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Morals & Principals",
+      "artist": "Rimzece",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Rolando Bedoya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Pressure",
+      "artist": "BossMan Dlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2uZbT1yE9LPWWBQ5amENvt",
+      "notes": ""
+    },
+    {
+      "fighter": "Denis Tiuliulin",
+      "song_title": "One Truth Per Year",
+      "artist": "Military Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MCdGEtsZsxMd8jkxn0WMR",
+      "notes": ""
+    }
+  ]
+}

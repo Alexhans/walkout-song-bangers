@@ -1,6 +1,6 @@
 # Julio Arce
 
-4 event(s) | 4 song(s) found | 2 unique
+5 event(s) | 5 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,4 @@
 | 2019-11-02 | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | Vivir Mi Vida (Pop Version) | Marc Anthony | [Listen](https://open.spotify.com/track/3JZM6t7gVvH5KNPNjj2Z94) |
 | 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | Vivir Mi Vida | Marc Anthony | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |
 | 2022-11-12 | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | Vivir Mi Vida | Marc Anthony | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |
+| 2024-03-30 | [UFC Fight Night: Blanchfield vs. Fiorot](../../ufc-fight-night-blanchfield-vs-fiorot.md) | Vivir Mi Vida | Marc Anthony | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |

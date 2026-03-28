@@ -1,0 +1,22 @@
+{
+  "fighter": "Jordan Vucenic",
+  "slug": "jordan-vucenic",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "All Goes Wrong",
+      "artist": "Chase & Status feat. Tom Grennan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pfu1lEKJhRGTQf64cQPXd",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

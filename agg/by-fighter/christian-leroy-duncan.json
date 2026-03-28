@@ -1,7 +1,7 @@
 {
   "fighter": "Christian Leroy Duncan",
   "slug": "christian-leroy-duncan",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Fly Team",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

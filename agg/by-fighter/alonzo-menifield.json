@@ -1,7 +1,7 @@
 {
   "fighter": "Alonzo Menifield",
   "slug": "alonzo-menifield",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

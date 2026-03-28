@@ -1,7 +1,7 @@
 {
   "fighter": "Victor Henry",
   "slug": "victor-henry",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "BARING TEETH FOR REVOLT",
@@ -35,14 +35,23 @@
       "artist": "Goatwhore",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 2
   }

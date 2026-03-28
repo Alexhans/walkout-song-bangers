@@ -1,7 +1,7 @@
 {
   "fighter": "Karine Silva",
   "slug": "karine-silva",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Pantera Negra",
@@ -20,12 +20,21 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
+    },
+    {
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

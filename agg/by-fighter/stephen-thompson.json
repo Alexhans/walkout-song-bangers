@@ -1,7 +1,7 @@
 {
   "fighter": "Stephen Thompson",
   "slug": "stephen-thompson",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Wonderboy",
@@ -56,12 +56,21 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Never Get Used to This",
+      "artist": "Forest Frank",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

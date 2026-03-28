@@ -1,7 +1,7 @@
 {
   "fighter": "Mario Bautista",
   "slug": "mario-bautista",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Kickstart My Heart",
@@ -20,6 +20,15 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "Robot Rock",
+      "artist": "Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "Immigrant Song",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

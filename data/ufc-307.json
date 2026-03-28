@@ -1,0 +1,204 @@
+{
+  "event": "UFC 307: Pereira vs. Rountree Jr.",
+  "event_slug": "ufc-307",
+  "date": "2024-10-05",
+  "location": "Salt Lake City, Utah, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/ufc-307-fight-tracks-wonderboy-didn-t-walk-to-tenacious-d-like-what-the-absolute-f"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "Can’t Hold Us",
+      "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Robot Rock",
+      "artist": "Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "We Are the Champions",
+      "artist": "Queen and “Run This Town” by Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "Vigsapa",
+      "artist": "Danheim & Skarphedins Son",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BVqVmQz2JewZamV3yE5eG",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Drink Don’t Need No Mix",
+      "artist": "Shaboozey and BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
+      "notes": ""
+    },
+    {
+      "fighter": "Kayla Harrison",
+      "song_title": "Unbreakable",
+      "artist": "Jay Kill & the Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dzGkZuSHw42eh9VLV1Mzd",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Feeling Good",
+      "artist": "Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Never Get Used to This",
+      "artist": "Forest Frank",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
+      "notes": ""
+    },
+    {
+      "fighter": "Iasmin Lucindo",
+      "song_title": "Rap Da Felicidade",
+      "artist": "Cidinho & Doca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
+      "notes": ""
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "The Mountain",
+      "artist": "Shafer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eY34dxONFrpQyacuIs30D",
+      "notes": ""
+    },
+    {
+      "fighter": "Cesar Almeida",
+      "song_title": "Negro Drama",
+      "artist": "Racionals Mcs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60AdoWoaapM8mnAnmL4EzP",
+      "notes": ""
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Stronger Than Ever",
+      "artist": "Alex Jean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5voW3yr7n2aFZpZb722b2g",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "Moment 4 Life",
+      "artist": "Nicki Minaj",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn",
+      "notes": ""
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Court McGee",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Paradise to Me",
+      "artist": "Niko Moon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Marina Rodriguez",
   "slug": "marina-rodriguez",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2024-04-13"
     },
     {
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
     "unique_songs": 2
   }

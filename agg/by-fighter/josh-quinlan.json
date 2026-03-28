@@ -1,7 +1,7 @@
 {
   "fighter": "Josh Quinlan",
   "slug": "josh-quinlan",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "At the Table",
@@ -11,11 +11,20 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "At the Table",
+      "artist": "Josh Garrels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIeDMhoeU9sNsh9lv9mig",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

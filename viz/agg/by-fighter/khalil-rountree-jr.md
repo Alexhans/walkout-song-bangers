@@ -1,6 +1,6 @@
 # Khalil Rountree Jr.
 
-4 event(s) | 1 song(s) found | 1 unique
+5 event(s) | 1 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,4 @@
 | 2018-07-07 | [UFC 226: Miocic vs. Cormier](../../ufc-226.md) | — | — | |
 | 2019-04-13 | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | 2021-01-23 | [UFC 257: Poirier vs. McGregor 2](../../ufc-257.md) | — | — | |
+| 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | — | — | |

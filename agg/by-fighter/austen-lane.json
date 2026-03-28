@@ -1,7 +1,7 @@
 {
   "fighter": "Austen Lane",
   "slug": "austen-lane",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Because I’m Me",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "Hexagram",
+      "artist": "The Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5w16bds4fklGhyIl9IFjay",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

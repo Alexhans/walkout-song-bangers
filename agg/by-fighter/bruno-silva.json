@@ -1,7 +1,7 @@
 {
   "fighter": "Bruno Silva",
   "slug": "bruno-silva",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Can’t Be Touched",
@@ -34,6 +34,15 @@
       "song_title": "Escola De Vida",
       "artist": "Black Style",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "song_title": "Escola De Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29",
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
     "unique_songs": 4
   }

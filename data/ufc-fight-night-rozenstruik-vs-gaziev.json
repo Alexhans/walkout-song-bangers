@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+  "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+  "date": "2024-03-02",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-fight-night-238-with-biggie-tupac-ac-dc-and-the-boss"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "Champion",
+      "artist": "Josylvio, Sevn Alias and Psycho feat. Jairzinho Rozenstruik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "My Great People",
+      "artist": "Zumrud Abdulaeva Salam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Abertura Oficial Victor Petrino",
+      "artist": "DJ Ruan Do Primerio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yok8vl4rNy4WPRy1uLu2V",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Let’s Go",
+      "artist": "Trick Daddy feat. Lil’ Jon & Twista",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Bekzat Almakhan",
+      "song_title": "Etno Folk",
+      "artist": "Turan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4WxX2J9qzVVKJvL2EssdKG",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Green River",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW",
+      "notes": ""
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "Ladders",
+      "artist": "Mac Miller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "Cerre Os Punhos",
+      "artist": "Lokdog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xRgyXApBjXjQZ41PqZOG5",
+      "notes": ""
+    },
+    {
+      "fighter": "Benardo Sopaj",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Thug Luv",
+      "artist": "Bone, Thugs & Harmony feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "notes": ""
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iyq2oI8ZFwb1YzSyt5HKv",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Leroy Duncan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Ribeiro",
+      "song_title": "Rimanaessencia Rap",
+      "artist": "Mais Nois Canta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oNxnxzjyS7VcclTg6WJzE",
+      "notes": ""
+    },
+    {
+      "fighter": "Ludovit Klein",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "AJ Cunningham",
+      "song_title": "Born in the USA",
+      "artist": "Bruce Springsteen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9",
+      "notes": ""
+    },
+    {
+      "fighter": "Loik Radzhabov",
+      "song_title": "M.One",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul-Kareem Al-Selwady",
+      "song_title": "Mohammed Dammi Flasti",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BDWlCmpj3Vrk2pS8i4rQU",
+      "notes": ""
+    }
+  ]
+}

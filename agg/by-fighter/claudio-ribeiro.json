@@ -1,7 +1,7 @@
 {
   "fighter": "Claudio Ribeiro",
   "slug": "claudio-ribeiro",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Audio Que Te Entrega",
@@ -20,12 +20,21 @@
       "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
+    },
+    {
+      "song_title": "Rimanaessencia Rap",
+      "artist": "Mais Nois Canta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oNxnxzjyS7VcclTg6WJzE",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

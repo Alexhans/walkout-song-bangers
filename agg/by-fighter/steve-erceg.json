@@ -1,7 +1,7 @@
 {
   "fighter": "Steve Erceg",
   "slug": "steve-erceg",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "You Don't Mess With Jim",
@@ -38,12 +38,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

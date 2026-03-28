@@ -1,7 +1,7 @@
 {
   "fighter": "Julianna Pena",
   "slug": "julianna-pena",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Seven Nation Army",
@@ -38,12 +38,21 @@
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

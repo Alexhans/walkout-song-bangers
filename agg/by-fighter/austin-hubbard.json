@@ -1,7 +1,7 @@
 {
   "fighter": "Austin Hubbard",
   "slug": "austin-hubbard",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "The Mountain",
+      "artist": "Shafer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eY34dxONFrpQyacuIs30D",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "song_title": "Good People",
+      "artist": "Mumford and Sons feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

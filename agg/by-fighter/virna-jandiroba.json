@@ -1,7 +1,7 @@
 {
   "fighter": "Virna Jandiroba",
   "slug": "virna-jandiroba",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "That’s Life",
+      "artist": "Frank Sinatra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Kaue Fernandes",
   "slug": "kaue-fernandes",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "So Tell Me, Tell Me",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "So, Tell Me, Tell Me",
+      "artist": "Shavonne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IWv5SDrnbLuRQnV7ch9ZE",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

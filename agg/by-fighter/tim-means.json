@@ -1,7 +1,7 @@
 {
   "fighter": "Tim Means",
   "slug": "tim-means",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Slippin'",
@@ -22,6 +22,15 @@
       "date": "2016-12-30"
     },
     {
+      "song_title": "Paradise to Me",
+      "artist": "Niko Moon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "Overload",
       "artist": "Novas Fade",
       "confidence": "bronze",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "Dirty Birds",
+      "artist": "1K Phew",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Dg5bPoWB8jcpkXK3TrZix",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

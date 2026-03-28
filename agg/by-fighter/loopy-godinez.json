@@ -1,7 +1,7 @@
 {
   "fighter": "Loopy Godinez",
   "slug": "loopy-godinez",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,30 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "Vengan A Calarse",
+      "artist": "Ariel Armado Macías Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "song_title": "Vengan a Calarse",
+      "artist": "Ariel Armado Macias Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Landwehr",
   "slug": "nate-landwehr",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "You And Me",
@@ -11,12 +11,21 @@
       "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
+    },
+    {
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

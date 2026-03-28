@@ -1,0 +1,22 @@
+{
+  "fighter": "Jai Herbert",
+  "slug": "jai-herbert",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Morals & Principals",
+      "artist": "Rimzece",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

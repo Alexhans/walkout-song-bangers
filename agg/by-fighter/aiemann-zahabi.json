@@ -1,7 +1,7 @@
 {
   "fighter": "Aiemann Zahabi",
   "slug": "aiemann-zahabi",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Still Crusin",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Thug Luv",
+      "artist": "Bone, Thugs & Harmony feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

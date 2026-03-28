@@ -1,7 +1,7 @@
 {
   "fighter": "Raquel Pennington",
   "slug": "raquel-pennington",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Can't Hold Us",
@@ -47,12 +47,21 @@
       "event": "UFC 297: Strickland vs. Du Plessis",
       "event_slug": "ufc-297",
       "date": "2024-01-20"
+    },
+    {
+      "song_title": "Can’t Hold Us",
+      "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

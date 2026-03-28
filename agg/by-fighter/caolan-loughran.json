@@ -1,7 +1,7 @@
 {
   "fighter": "Caolan Loughran",
   "slug": "caolan-loughran",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Dreams / Thank You (Not So Bad)",
@@ -11,12 +11,21 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "Dreams",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Pereira",
   "slug": "alex-pereira",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -74,11 +74,20 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
     "unique_songs": 2
   }

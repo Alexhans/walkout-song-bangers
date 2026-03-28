@@ -1,7 +1,7 @@
 {
   "fighter": "Tony Ferguson",
   "slug": "tony-ferguson",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "The Party Has Just Begun",
@@ -65,11 +65,20 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
     "unique_songs": 2
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Matheus Nicolau",
   "slug": "matheus-nicolau",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Back on the Path",
@@ -11,12 +11,21 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

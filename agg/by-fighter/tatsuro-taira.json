@@ -1,7 +1,7 @@
 {
   "fighter": "Tatsuro Taira",
   "slug": "tatsuro-taira",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Power to the People",
@@ -11,12 +11,21 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "Power to the People",
+      "artist": "John Lennon and Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

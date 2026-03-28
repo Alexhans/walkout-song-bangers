@@ -1,7 +1,7 @@
 {
   "fighter": "Deiveson Figueiredo",
   "slug": "deiveson-figueiredo",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC 324: Gaethje vs. Pimblett",
       "event_slug": "ufc-324",
       "date": "2026-01-24"
+    },
+    {
+      "song_title": "Voando Pro Para",
+      "artist": "Joelma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1We7bGhumJU39MO8ZPFV22",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

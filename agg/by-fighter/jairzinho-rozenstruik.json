@@ -1,7 +1,7 @@
 {
   "fighter": "Jairzinho Rozenstruik",
   "slug": "jairzinho-rozenstruik",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -56,12 +56,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Josylvio, Sevn Alias and Psycho feat. Jairzinho Rozenstruik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 2,
+    "events": 7,
+    "with_song": 3,
     "missing": 4,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

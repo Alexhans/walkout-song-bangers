@@ -1,7 +1,7 @@
 {
   "fighter": "Vicente Luque",
   "slug": "vicente-luque",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Baby Baby",
@@ -47,12 +47,21 @@
       "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
+    },
+    {
+      "song_title": "God Energy",
+      "artist": "Brenno, Kieran The Light, K. Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jUNL4gRZmv3gLJXo0G4ty",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

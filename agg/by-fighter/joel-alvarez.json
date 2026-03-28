@@ -1,7 +1,7 @@
 {
   "fighter": "Joel Alvarez",
   "slug": "joel-alvarez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Chidi Njokuani",
   "slug": "chidi-njokuani",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "No Evil",
+      "artist": "Sir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
     {
       "song_title": "Hot In Herre",
       "artist": "Nelly",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

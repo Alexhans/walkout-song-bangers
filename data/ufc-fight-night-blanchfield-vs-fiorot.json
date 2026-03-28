@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+  "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+  "date": "2024-03-30",
+  "location": "Atlantic City, New Jersey, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-on-espn-54-with-vintage-tom-petty-ac-dc-ol-blue-eyes"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Manon Fiorot",
+      "song_title": "Que Pour Les Vrais",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/38VaX3evmHUinzqnowe3h5",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "See Me Now!",
+      "artist": "Jeleel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
+      "notes": ""
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "God Energy",
+      "artist": "Brenno, Kieran The Light, K. Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jUNL4gRZmv3gLJXo0G4ty",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "I Won’t Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola De Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "notes": ""
+    },
+    {
+      "fighter": "Nursulton Ruziboev",
+      "song_title": "Bu Vatan",
+      "artist": "Uzmir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wm6mi9Rnq3hdXTE8z1HcL",
+      "notes": ""
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Still Stoned on Ocean",
+      "artist": "Curren$y",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45HpGbfmVR97wH6YSef29V",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Nelson",
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "notes": ""
+    },
+    {
+      "fighter": "Bill Algeo",
+      "song_title": "Don’t Mess With Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "notes": ""
+    },
+    {
+      "fighter": "Chidi Njokuani",
+      "song_title": "No Evil",
+      "artist": "Sir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe",
+      "notes": ""
+    },
+    {
+      "fighter": "Rhys McKee",
+      "song_title": "Spancil Hill",
+      "artist": "Dan McCabe and “Enter The Dragon” by blk.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mzS2DPwdHse5UxAsA6GBz",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Landwehr",
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "Nee-nah",
+      "artist": "21 Savage, Travis Scott, Metro Boomin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz",
+      "notes": ""
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "That’s Life",
+      "artist": "Frank Sinatra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vengan A Calarse",
+      "artist": "Ariel Armado Macías Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "notes": ""
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Glorious",
+      "artist": "Macklemore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE",
+      "notes": ""
+    },
+    {
+      "fighter": "Dennis Buzukja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Connor Matthews",
+      "song_title": "Kbs3",
+      "artist": "Topshakaz- Topic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc",
+      "notes": ""
+    },
+    {
+      "fighter": "Ibo Aslan",
+      "song_title": "Bir Ölür,bin Diriliriz!!!",
+      "artist": "Komando Mar$i",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vSmAPv4ifkfr7eklLH0I6",
+      "notes": ""
+    },
+    {
+      "fighter": "Anton Turkalj",
+      "song_title": "SexyBack",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "We Here Now",
+      "artist": "Th4 W3st",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Atlantic City",
+      "artist": "The Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Tr2dBREXYGAxkJUvlIWMZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Caolan Loughran",
+      "song_title": "Dreams",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV",
+      "notes": ""
+    },
+    {
+      "fighter": "Angel Pacheco",
+      "song_title": "Gallo De Pelea",
+      "artist": "Los Tigres Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
+      "notes": ""
+    }
+  ]
+}

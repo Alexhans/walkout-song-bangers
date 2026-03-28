@@ -1,6 +1,6 @@
 {
   "year": 2024,
-  "events": 16,
+  "events": 22,
   "tracks": [
     {
       "fighter": "Dricus Du Plessis",
@@ -2023,6 +2023,246 @@
       "date": "2024-08-17"
     },
     {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "Can’t Hold Us",
+      "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Robot Rock",
+      "artist": "Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "We Are the Champions",
+      "artist": "Queen and “Run This Town” by Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "Vigsapa",
+      "artist": "Danheim & Skarphedins Son",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BVqVmQz2JewZamV3yE5eG",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Drink Don’t Need No Mix",
+      "artist": "Shaboozey and BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Kayla Harrison",
+      "song_title": "Unbreakable",
+      "artist": "Jay Kill & the Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dzGkZuSHw42eh9VLV1Mzd",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Feeling Good",
+      "artist": "Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Never Get Used to This",
+      "artist": "Forest Frank",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Iasmin Lucindo",
+      "song_title": "Rap Da Felicidade",
+      "artist": "Cidinho & Doca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "The Mountain",
+      "artist": "Shafer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eY34dxONFrpQyacuIs30D",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Cesar Almeida",
+      "song_title": "Negro Drama",
+      "artist": "Racionals Mcs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60AdoWoaapM8mnAnmL4EzP",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Stronger Than Ever",
+      "artist": "Alex Jean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5voW3yr7n2aFZpZb722b2g",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "Moment 4 Life",
+      "artist": "Nicki Minaj",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Court McGee",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Paradise to Me",
+      "artist": "Niko Moon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "fighter": "Jon Jones",
       "song_title": "Many Men / Hot in Herre / The Champ Is Here",
       "artist": "50 Cent / Nelly / Jadakiss",
@@ -2721,6 +2961,266 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "fighter": "Manon Fiorot",
+      "song_title": "Que Pour Les Vrais",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/38VaX3evmHUinzqnowe3h5",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "See Me Now!",
+      "artist": "Jeleel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "God Energy",
+      "artist": "Brenno, Kieran The Light, K. Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jUNL4gRZmv3gLJXo0G4ty",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "I Won’t Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola De Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Nursulton Ruziboev",
+      "song_title": "Bu Vatan",
+      "artist": "Uzmir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wm6mi9Rnq3hdXTE8z1HcL",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Still Stoned on Ocean",
+      "artist": "Curren$y",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45HpGbfmVR97wH6YSef29V",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Kyle Nelson",
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Bill Algeo",
+      "song_title": "Don’t Mess With Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Chidi Njokuani",
+      "song_title": "No Evil",
+      "artist": "Sir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Rhys McKee",
+      "song_title": "Spancil Hill",
+      "artist": "Dan McCabe and “Enter The Dragon” by blk.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mzS2DPwdHse5UxAsA6GBz",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Nate Landwehr",
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "Nee-nah",
+      "artist": "21 Savage, Travis Scott, Metro Boomin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "That’s Life",
+      "artist": "Frank Sinatra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vengan A Calarse",
+      "artist": "Ariel Armado Macías Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Glorious",
+      "artist": "Macklemore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Dennis Buzukja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Connor Matthews",
+      "song_title": "Kbs3",
+      "artist": "Topshakaz- Topic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Ibo Aslan",
+      "song_title": "Bir Ölür,bin Diriliriz!!!",
+      "artist": "Komando Mar$i",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vSmAPv4ifkfr7eklLH0I6",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Anton Turkalj",
+      "song_title": "SexyBack",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "We Here Now",
+      "artist": "Th4 W3st",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Atlantic City",
+      "artist": "The Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Tr2dBREXYGAxkJUvlIWMZ",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Caolan Loughran",
+      "song_title": "Dreams",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "fighter": "Angel Pacheco",
+      "song_title": "Gallo De Pelea",
+      "artist": "Los Tigres Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "fighter": "Sean Brady",
@@ -4001,13 +4501,973 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Bogdan Guskov",
+      "song_title": "Spinnin'",
+      "artist": "Connor Price & Bens",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "1st of tha Month",
+      "artist": "Bone Thugs N Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Jhonata Diniz",
+      "song_title": "Aonde Nos Chegou",
+      "artist": "Mc Menor Mr E Mc Dede",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Austen Lane",
+      "song_title": "Hexagram",
+      "artist": "The Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5w16bds4fklGhyIl9IFjay",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Peace",
+      "artist": "Mohbad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Dirty Birds",
+      "artist": "1K Phew",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Dg5bPoWB8jcpkXK3TrZix",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Rani Yahya",
+      "song_title": "Sirius",
+      "artist": "the Alan Parsons Project",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hSs4vOZo1OkRiAOoLafrT",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "Good People",
+      "artist": "Mumford and Sons feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Michal Figlak",
+      "song_title": "Shook Ones Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Caio Machado",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Ketlen Souza",
+      "song_title": "Louco E Sonhador",
+      "artist": "Mc Neguinho Do Kaxeta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hdBsNsVESpjbnVClbUa3y",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Marnic Mann",
+      "song_title": "Wake Me Up",
+      "artist": "2CELLOS",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Chris Padilla",
+      "song_title": "From the Ugly",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIGYmXHM5kEV98M9F7Xij",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "James Llontop",
+      "song_title": "X",
+      "artist": "21 Savage & Metro Boomin feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Ivana Petrovic",
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Liang Na",
+      "song_title": "Break the Cocoon",
+      "artist": "Angela Zhang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bKxkGEyWDa9dYFLW1rCoS",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Maheshate",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir En Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Power to the People",
+      "artist": "John Lennon and Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "Heimdallr",
+      "artist": "Munknorr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2yK7wljHioWwd2Rz4vqEsO",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Conquistando O Impossivel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Lucas Almeida",
+      "song_title": "The a La Menthe Instrumental",
+      "artist": "La Caution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/126HWk9JuCt4PHZJAAsgOv",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Timmy Cuamba",
+      "song_title": "I’ll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Brady Hiestand",
+      "song_title": "Bambam",
+      "artist": "Sister Nancy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Garrett Armfield",
+      "song_title": "Congratulations",
+      "artist": "Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Asu Almabayev",
+      "song_title": "Jumry Kylysh",
+      "artist": "Ulytau",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Jose Johnson",
+      "song_title": "Pay for It",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3uya2Ph2zB84JMR28vqWK0",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Adam Fugitt",
+      "song_title": "Deliverance",
+      "artist": "Bubba Sparxxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Josh Quinlan",
+      "song_title": "At the Table",
+      "artist": "Josh Garrels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIeDMhoeU9sNsh9lv9mig",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Nate Maness",
+      "song_title": "Mayhem",
+      "artist": "YJ Donstatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Jimmy Flick",
+      "song_title": "Loving on Me",
+      "artist": "Jake Harlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Gabriella Fernandes",
+      "song_title": "Can’t C Me",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Carli Judice",
+      "song_title": "Champion",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Westin Wilson",
+      "song_title": "Pure Imagination",
+      "artist": "Andrew P. Oliver",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2U7SrhqZJ58Y5JixLly2oH",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Jeka Saragih",
+      "song_title": "Yeyen Marbun",
+      "artist": "Simalungun Sipukkah Huta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "Funk Do Patinho",
+      "artist": "Bento E Toto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vQgz7OFIrWFf7W0o2TccY",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Shayilan Nuerdanbieke",
+      "song_title": "Hassak",
+      "artist": "Zhekpe-zhek",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4WF5Xy4NQ0MfsvpXYXBAi4",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Josefine Knutsson",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Julia Polastri",
+      "song_title": "Misery Business",
+      "artist": "Paramore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m",
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
+    },
+    {
+      "fighter": "Jairzinho Rozenstruik",
+      "song_title": "Champion",
+      "artist": "Josylvio, Sevn Alias and Psycho feat. Jairzinho Rozenstruik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "My Great People",
+      "artist": "Zumrud Abdulaeva Salam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Abertura Oficial Victor Petrino",
+      "artist": "DJ Ruan Do Primerio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yok8vl4rNy4WPRy1uLu2V",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Let’s Go",
+      "artist": "Trick Daddy feat. Lil’ Jon & Twista",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Bekzat Almakhan",
+      "song_title": "Etno Folk",
+      "artist": "Turan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4WxX2J9qzVVKJvL2EssdKG",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Green River",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "Ladders",
+      "artist": "Mac Miller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Vinicius Oliveira",
+      "song_title": "Cerre Os Punhos",
+      "artist": "Lokdog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xRgyXApBjXjQZ41PqZOG5",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Benardo Sopaj",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Thug Luv",
+      "artist": "Bone, Thugs & Harmony feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iyq2oI8ZFwb1YzSyt5HKv",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Christian Leroy Duncan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Claudio Ribeiro",
+      "song_title": "Rimanaessencia Rap",
+      "artist": "Mais Nois Canta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oNxnxzjyS7VcclTg6WJzE",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Ludovit Klein",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "AJ Cunningham",
+      "song_title": "Born in the USA",
+      "artist": "Bruce Springsteen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Loik Radzhabov",
+      "song_title": "M.One",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Abdul-Kareem Al-Selwady",
+      "song_title": "Mohammed Dammi Flasti",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BDWlCmpj3Vrk2pS8i4rQU",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Shara Magomedov",
+      "song_title": "Legendary 2",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1nUKYtye6OcItO5zsLuynJ",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Voando Pro Para",
+      "artist": "Joelma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1We7bGhumJU39MO8ZPFV22",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Michael Chiesa",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vengan a Calarse",
+      "artist": "Ariel Armado Macias Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Joel Alvarez",
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "Levante e Ande",
+      "artist": "Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ggiwV8BiirsCeg2ORWac9",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Azamat Murzakanov",
+      "song_title": "Heart of Circassian",
+      "artist": "Islam Itlyashev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Kaue Fernandes",
+      "song_title": "So, Tell Me, Tell Me",
+      "artist": "Shavonne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IWv5SDrnbLuRQnV7ch9ZE",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Mohammad Yahya",
+      "song_title": "Shook Ones, Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "My Great People",
+      "artist": "Zumrud Abdulaeva Salam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "Crazy",
+      "artist": "Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yI5oGYRtqR6ycf7UwehF4",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Guram Kutateladze",
+      "song_title": "Makharia",
+      "artist": "Georgian International Children's Choir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qHgbFdVWP0ljIfAiqeueo",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Jordan Vucenic",
+      "song_title": "All Goes Wrong",
+      "artist": "Chase & Status feat. Tom Grennan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pfu1lEKJhRGTQf64cQPXd",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Sam Hughes",
+      "song_title": "Texas",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Viktoriia Dudakova",
+      "song_title": "Ich Will",
+      "artist": "Rammstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Morals & Principals",
+      "artist": "Rimzece",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Rolando Bedoya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Pressure",
+      "artist": "BossMan Dlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2uZbT1yE9LPWWBQ5amENvt",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "fighter": "Denis Tiuliulin",
+      "song_title": "One Truth Per Year",
+      "artist": "Military Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MCdGEtsZsxMd8jkxn0WMR",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "total_fighters": 400,
-    "with_song": 317,
-    "playable_tracks": 282,
-    "unique_playable_tracks": 254,
-    "missing": 83
+    "total_fighters": 546,
+    "with_song": 452,
+    "playable_tracks": 416,
+    "unique_playable_tracks": 357,
+    "missing": 94
   }
 }

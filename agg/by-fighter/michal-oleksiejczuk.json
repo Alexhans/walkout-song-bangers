@@ -1,7 +1,7 @@
 {
   "fighter": "Michal Oleksiejczuk",
   "slug": "michal-oleksiejczuk",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Husaria Ginie",
@@ -29,11 +29,20 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Husaria Ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 3
   }

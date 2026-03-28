@@ -1,6 +1,6 @@
 # Ovince Saint Preux
 
-5 event(s) | 3 song(s) found | 2 unique
+6 event(s) | 4 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Push It | Rick Ross | [Listen](https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK) |
 | 2019-04-13 | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | 2022-05-07 | [UFC 274: Oliveira vs. Gaethje](../../ufc-274.md) | — | — | |
+| 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Purple Lamborghini | Skrillex and Rick Ross | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |

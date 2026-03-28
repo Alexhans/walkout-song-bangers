@@ -96,14 +96,20 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC Fight Night: Hermansson vs. Pyfer](viz/ufc-fight-night-hermansson-vs-pyfer.md) | 28 | 0 | 0 | 21 | 7 |
 | [UFC 298: Volkanovski vs. Topuria](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Moreno vs. Royval 2](viz/ufc-fight-night-moreno-vs-royval-2.md) | 24 | 0 | 0 | 19 | 5 |
+| [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC Fight Night: Nicolau vs. Perez](viz/ufc-fight-night-nicolau-vs-perez.md) | 26 | 0 | 0 | 23 | 3 |
 | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
 | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC Fight Night: Perez vs. Taira](viz/ufc-fight-night-perez-vs-taira.md) | 22 | 0 | 0 | 22 | 0 |
 | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
+| [UFC Fight Night: Sandhagen vs. Nurmagomedov](viz/ufc-fight-night-sandhagen-vs-nurmagomedov.md) | 26 | 0 | 0 | 24 | 2 |
 | [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC Fight Night: Burns vs. Brady](viz/ufc-fight-night-burns-vs-brady.md) | 24 | 0 | 0 | 19 | 5 |
+| [UFC 307: Pereira vs. Rountree Jr.](viz/ufc-307.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC Fight Night: Moreno vs. Albazi](viz/ufc-fight-night-moreno-vs-albazi.md) | 26 | 0 | 0 | 21 | 5 |
 | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 6 | 18 |
 | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |

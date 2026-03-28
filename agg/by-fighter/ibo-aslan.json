@@ -1,0 +1,22 @@
+{
+  "fighter": "Ibo Aslan",
+  "slug": "ibo-aslan",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bir Ölür,bin Diriliriz!!!",
+      "artist": "Komando Mar$i",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vSmAPv4ifkfr7eklLH0I6",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

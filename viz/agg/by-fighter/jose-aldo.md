@@ -1,6 +1,6 @@
 # Jose Aldo
 
-7 event(s) | 7 song(s) found | 6 unique
+8 event(s) | 8 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2019-12-14 | [UFC 245: Usman vs. Covington](../../ufc-245.md) | Run This Town | Jay-Z feat. Rihanna | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
 | 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | Run This Town | Jay Z | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
 | 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | Run This Town | JAY-Z, Rihanna, Kanye West | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
+| 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | We Are the Champions | Queen and “Run This Town” by Jay-Z feat. Rihanna | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |

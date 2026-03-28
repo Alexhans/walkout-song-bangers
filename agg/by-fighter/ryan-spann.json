@@ -1,7 +1,7 @@
 {
   "fighter": "Ryan Spann",
   "slug": "ryan-spann",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Desperados",
@@ -31,6 +31,15 @@
       "date": "2022-11-12"
     },
     {
+      "song_title": "Stronger Than Ever",
+      "artist": "Alex Jean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5voW3yr7n2aFZpZb722b2g",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "I'm a Go Getta",
       "artist": "Lil Wayne",
       "confidence": "bronze",
@@ -38,6 +47,15 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "1st of tha Month",
+      "artist": "Bone Thugs N Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
       "song_title": "Ready or Not",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 7
   }
 }

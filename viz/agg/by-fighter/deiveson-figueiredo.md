@@ -1,6 +1,6 @@
 # Deiveson Figueiredo
 
-5 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2023-01-21 | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | — | — | |
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Baludão | Dkria, MC Tikão | [Listen](https://open.spotify.com/track/4pKgeh1VrZqw8nDpeQWv4Z) |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Voando Pro Pará | Joelma | [Listen](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) |
+| 2024-08-03 | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | Voando Pro Para | Joelma | [Listen](https://open.spotify.com/track/1We7bGhumJU39MO8ZPFV22) |

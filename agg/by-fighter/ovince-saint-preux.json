@@ -1,7 +1,7 @@
 {
   "fighter": "Ovince Saint Preux",
   "slug": "ovince-saint-preux",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Skrilla",
@@ -47,12 +47,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

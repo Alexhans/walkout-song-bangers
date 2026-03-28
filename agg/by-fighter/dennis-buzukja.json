@@ -1,7 +1,7 @@
 {
   "fighter": "Dennis Buzukja",
   "slug": "dennis-buzukja",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Whoopty",
@@ -11,12 +11,21 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

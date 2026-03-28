@@ -1,7 +1,7 @@
 {
   "fighter": "Ihor Potieria",
   "slug": "ihor-potieria",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Welcome to Ukraine",
@@ -31,6 +31,15 @@
       "date": "2024-05-04"
     },
     {
+      "song_title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "Another Love",
       "artist": "Tom Odell",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

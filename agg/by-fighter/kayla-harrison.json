@@ -1,7 +1,7 @@
 {
   "fighter": "Kayla Harrison",
   "slug": "kayla-harrison",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Unbreakable",
@@ -11,12 +11,21 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "Unbreakable",
+      "artist": "Jay Kill & the Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dzGkZuSHw42eh9VLV1Mzd",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Holland",
   "slug": "kevin-holland",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Tell Me",
@@ -31,6 +31,15 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "Drink Don’t Need No Mix",
+      "artist": "Shaboozey and BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "Ghost",
       "artist": "YoungBoy Never Broke Again",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

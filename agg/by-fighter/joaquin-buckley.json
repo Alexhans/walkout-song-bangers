@@ -1,7 +1,7 @@
 {
   "fighter": "Joaquin Buckley",
   "slug": "joaquin-buckley",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Feeling Good",
+      "artist": "Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "song_title": "See Me Now!",
+      "artist": "Jeleel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

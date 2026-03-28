@@ -1,7 +1,7 @@
 {
   "fighter": "Viktoriia Dudakova",
   "slug": "viktoriia-dudakova",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "I Am Russian",
@@ -11,12 +11,21 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "Ich Will",
+      "artist": "Rammstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

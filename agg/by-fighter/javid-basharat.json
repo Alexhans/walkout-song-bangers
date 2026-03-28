@@ -1,7 +1,7 @@
 {
   "fighter": "Javid Basharat",
   "slug": "javid-basharat",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "You Can’t Stop Me Now",
@@ -20,11 +20,20 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iyq2oI8ZFwb1YzSyt5HKv",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Kyle Nelson",
   "slug": "kyle-nelson",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Hard Man",
@@ -11,6 +11,15 @@
       "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
+    },
+    {
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "",
@@ -23,8 +32,8 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }

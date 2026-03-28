@@ -1,7 +1,7 @@
 {
   "fighter": "Sedriques Dumas",
   "slug": "sedriques-dumas",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Ready",
@@ -11,6 +11,24 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "Still Stoned on Ocean",
+      "artist": "Curren$y",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/45HpGbfmVR97wH6YSef29V",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
+      "song_title": "Pressure",
+      "artist": "BossMan Dlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2uZbT1yE9LPWWBQ5amENvt",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
       "song_title": "Tweak Out",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

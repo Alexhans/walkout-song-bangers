@@ -1,7 +1,7 @@
 {
   "fighter": "Alexander Hernandez",
   "slug": "alexander-hernandez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2022-12-10"
     },
     {
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 1,
     "missing": 3,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

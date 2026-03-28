@@ -1,0 +1,22 @@
+{
+  "fighter": "AJ Cunningham",
+  "slug": "aj-cunningham",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Born in the USA",
+      "artist": "Bruce Springsteen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

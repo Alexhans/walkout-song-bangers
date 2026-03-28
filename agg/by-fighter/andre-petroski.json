@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Petroski",
   "slug": "andre-petroski",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Polo & Shell Tops",
@@ -22,6 +22,15 @@
       "date": "2023-08-19"
     },
     {
+      "song_title": "Atlantic City",
+      "artist": "The Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Tr2dBREXYGAxkJUvlIWMZ",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
+    },
+    {
       "song_title": "Opposite of Adults",
       "artist": "Chiddy Bang",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }
