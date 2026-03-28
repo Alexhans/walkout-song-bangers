@@ -1,7 +1,7 @@
 {
   "fighter": "Yair Rodriguez",
   "slug": "yair-rodriguez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "El Corrido de Chuhuahua",
@@ -29,12 +29,21 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "El Corrido De Chihuahua",
+      "artist": "Los Reileros Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

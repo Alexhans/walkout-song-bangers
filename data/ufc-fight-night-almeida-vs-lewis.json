@@ -1,0 +1,172 @@
+{
+  "event": "UFC Fight Night: Almeida vs. Lewis",
+  "event_slug": "ufc-fight-night-almeida-vs-lewis",
+  "date": "2023-11-04",
+  "location": "Sao Paulo, Sao Paulo, Brazil",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130023140.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "Posturado e Calmo",
+      "artist": "Leo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Braender Byen Ned",
+      "artist": "Suspekt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0KWKVZeOypjAqXHVTGhphn",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Bonfim",
+      "song_title": "A Alegria do Senhor",
+      "artist": "Ferdandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3joKN6kIZ8Xie8Ofsen96L",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodrigo Nascimento",
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "notes": ""
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "Faneto",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77mIZsgQxWaU5SCWh9S7ev",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Borralho",
+      "song_title": "Ultimo Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "notes": ""
+    },
+    {
+      "fighter": "Abus Magomedov",
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "Levante e Ande",
+      "artist": "Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "notes": ""
+    },
+    {
+      "fighter": "Kaynan Kruschewsky",
+      "song_title": "Ja Posso Suportar",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fksdx1HllkoGuCo8lokIr",
+      "notes": ""
+    },
+    {
+      "fighter": "Rinat Fakhretdinov",
+      "song_title": "Ve Vigja",
+      "artist": "Eolya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tYxG91boV6a3ki2xkGgTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Elizeu Zaleski dos Santos",
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Abertura Oficial Vitor Petrino",
+      "artist": "DJ Ruan do Primerio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39wOrfz3Dcu2UnJAFPKJJe",
+      "notes": ""
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "Honor Him",
+      "artist": "Hans Zimmer and “Talkin’ Da Hardest” by Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65hCWnFxcEfZmUTsGySi7W",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "Nao Quer Chifre",
+      "artist": "MC Frog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC",
+      "notes": ""
+    },
+    {
+      "fighter": "Denise Gomes",
+      "song_title": "Prvt E Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Eduarda Moura",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "notes": ""
+    },
+    {
+      "fighter": "Montserrat Conejo Ruiz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "Ojuelegba",
+      "artist": "Wizkid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6",
+      "notes": ""
+    },
+    {
+      "fighter": "Kaue Fernandes",
+      "song_title": "So Tell Me, Tell Me",
+      "artist": "Shavonne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IWv5SDrnbLuRQnV7ch9ZE",
+      "notes": ""
+    }
+  ]
+}

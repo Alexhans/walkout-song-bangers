@@ -1,7 +1,7 @@
 {
   "fighter": "Israel Adesanya",
   "slug": "israel-adesanya",
-  "appearances": 6,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Smile",
@@ -11,6 +11,33 @@
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     },
     {
       "song_title": "",
@@ -29,6 +56,15 @@
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "",
@@ -59,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 10,
     "with_song": 3,
-    "missing": 3,
+    "missing": 7,
     "unique_songs": 3
   }
 }

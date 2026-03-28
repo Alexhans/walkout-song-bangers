@@ -1,0 +1,172 @@
+{
+  "event": "UFC Fight Night: Muniz vs. Allen",
+  "event_slug": "ufc-fight-night-muniz-vs-allen",
+  "date": "2023-02-25",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130038263.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "OMG",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1LbSYc9LielAYE9uBwjp7f",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Augusto Sakai",
+      "song_title": "A Vida e Desafio",
+      "artist": "Nada Como Um Dia Apos O Outro Dia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
+      "notes": ""
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "Riata Dada",
+      "artist": "EST Gee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e7VjMcOvEiF6no2bTxcGb",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatiana Suarez",
+      "song_title": "Heads Will Roll",
+      "artist": "Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs",
+      "notes": ""
+    },
+    {
+      "fighter": "Montana De La Rosa",
+      "song_title": "Sunshine",
+      "artist": "One Republic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Malott",
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "notes": ""
+    },
+    {
+      "fighter": "Yohan Lainesse",
+      "song_title": "Message for the Queen",
+      "artist": "300",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gBXKbzLisqAAaru1wUwqe",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Peek",
+      "song_title": "Brighter Than Gold",
+      "artist": "Louis II",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6IjOJrUHQJgSWxrNT0Ud9e",
+      "notes": ""
+    },
+    {
+      "fighter": "Erick Gonzalez",
+      "song_title": "Die a King",
+      "artist": "IamJakeHill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1s70cjkrdj9lpEeQQlmS9l",
+      "notes": ""
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "Sweat",
+      "artist": "Inner Circle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24Si0Kw3pu2RxX1jrbBg5A",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriella Fernandes",
+      "song_title": "Alright",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Leavitt",
+      "song_title": "Grind with Me",
+      "artist": "Pretty Ricky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Martinez",
+      "song_title": "Stomp",
+      "artist": "Young Buck, T.I., The Game and Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6uazMTZhIbUoTiODfsj8no",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "Level Up",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VNYBJB9n3ZWpuxNwxZpSx",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "It’s a Beautiful Day",
+      "artist": "The Kiffness x Rushawn and “Who Run It” by Three-Six Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Solecki",
+      "song_title": "Bury My Bones",
+      "artist": "Whiskey Meyers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yggZbtgrxPNwWOs06cS8L",
+      "notes": ""
+    },
+    {
+      "fighter": "Carl Deaton",
+      "song_title": "Electric Pow Wow Drum",
+      "artist": "A Tribe Called Red",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Nurullo Aliev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Alves",
+      "song_title": "Jesus is King",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR",
+      "notes": ""
+    }
+  ]
+}

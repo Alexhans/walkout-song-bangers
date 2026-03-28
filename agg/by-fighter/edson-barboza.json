@@ -1,7 +1,7 @@
 {
   "fighter": "Edson Barboza",
   "slug": "edson-barboza",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Meus Proprios Meios",
@@ -11,12 +11,21 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Vim, Vivi, Venci",
+      "artist": "MP Michael Puga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ywEuOUAaM0ANPJ0GzaMqF",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,9 +1,11 @@
 # Alexander Volkanovski
 
-8 event(s) | 4 song(s) found | 2 unique
+10 event(s) | 4 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2019-05-11 | [UFC 237: Namajunas vs. Andrade](../../ufc-237.md) | — | — | |
+| 2019-12-14 | [UFC 245: Usman vs. Covington](../../ufc-245.md) | — | — | |
 | 2021-09-25 | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | — | — | |
 | 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |

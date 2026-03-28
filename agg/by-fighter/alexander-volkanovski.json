@@ -1,8 +1,26 @@
 {
   "fighter": "Alexander Volkanovski",
   "slug": "alexander-volkanovski",
-  "appearances": 8,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -77,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 10,
     "with_song": 4,
-    "missing": 4,
+    "missing": 6,
     "unique_songs": 2
   }
 }

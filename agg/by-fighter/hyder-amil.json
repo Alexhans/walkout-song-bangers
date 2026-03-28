@@ -1,0 +1,22 @@
+{
+  "fighter": "Hyder Amil",
+  "slug": "hyder-amil",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Yay Area",
+      "artist": "E40",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JFdyoLzHdGibgutS7LrBb",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

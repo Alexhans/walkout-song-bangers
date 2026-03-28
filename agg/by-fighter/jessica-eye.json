@@ -1,7 +1,7 @@
 {
   "fighter": "Jessica Eye",
   "slug": "jessica-eye",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Goodtime",
@@ -11,6 +11,24 @@
       "event": "UFC 203: Miocic vs. Overeem",
       "event_slug": "ufc-203",
       "date": "2016-09-10"
+    },
+    {
+      "song_title": "Here I Go Again ‘87",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "You Should See Me in a Crown",
+      "artist": "Billie Eilish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     },
     {
       "song_title": "",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

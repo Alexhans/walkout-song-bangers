@@ -1,0 +1,22 @@
+{
+  "fighter": "Hannah Goldy",
+  "slug": "hannah-goldy",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Woman",
+      "artist": "Raheem DeVaughn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6cKNGWLSZMCF7fuCZsbtTZ",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

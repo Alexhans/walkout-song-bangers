@@ -1,7 +1,7 @@
 {
   "fighter": "Ricardo Lamas",
   "slug": "ricardo-lamas",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Cuba Isla Bella",
@@ -11,6 +11,15 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "Cuba Isla Bella",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

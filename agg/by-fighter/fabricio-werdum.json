@@ -1,7 +1,7 @@
 {
   "fighter": "Fabricio Werdum",
   "slug": "fabricio-werdum",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Fe Na Luta",
@@ -29,12 +29,21 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Neil Magny",
   "slug": "neil-magny",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "No Regrets",
@@ -29,6 +29,24 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
       "song_title": "No Regrets",
@@ -68,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
     "unique_songs": 2
   }

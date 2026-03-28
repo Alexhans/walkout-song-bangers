@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Yan vs. Dvalishvili",
+  "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+  "date": "2023-03-11",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120014098.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "Movidar",
+      "artist": "Midi Midi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V",
+      "notes": ""
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Mama Mi Vse Tiagelo Bolni",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YobMEz6i6p0QuT17Fk4dQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Ready or Not",
+      "artist": "The Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "El Papá De Los Pollitos",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
+      "notes": ""
+    },
+    {
+      "fighter": "Said Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Guido Cannetti",
+      "song_title": "Te Mentiria",
+      "artist": "La Kongo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Petrino",
+      "song_title": "Os Baroes da Pisadinha",
+      "artist": "Galera do Interior",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OKvzalkd5mleOvq9ri50V",
+      "notes": ""
+    },
+    {
+      "fighter": "Anton Turkalj",
+      "song_title": "Sexyback",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR",
+      "notes": ""
+    },
+    {
+      "fighter": "Karl Williams",
+      "song_title": "Big Jam",
+      "artist": "Kylo & Monea",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nA855l8HcKdZFhEX8FJ5p",
+      "notes": ""
+    },
+    {
+      "fighter": "Lukasz Brzeski",
+      "song_title": "Mój świat",
+      "artist": "Lukasyno & Kriso feat. Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "notes": ""
+    },
+    {
+      "fighter": "Davey Grant",
+      "song_title": "Concrete Angel",
+      "artist": "Gareth Emery feat. Christina Novelli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "Awesome God",
+      "artist": "R. Swift",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Tweak Out",
+      "artist": "Big Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62gcqCzCFEzWc3WM7gzJQ2",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "Wish I Had It",
+      "artist": "Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2x50fMpSjA2WWmptDUStS9",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "JJ Aldrich",
+      "song_title": "The Otherside",
+      "artist": "The Roots",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TdPHbWSEIgqrI04MjMENl",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Nam",
+      "song_title": "RITMO (Bad Boys for Life)",
+      "artist": "Black Eyed Peas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "Champion",
+      "artist": "Mobflames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gooden",
+      "song_title": "If I Can Dream",
+      "artist": "Elvis Presley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3C6pSIVeBKIbSpCFtaw1r8",
+      "notes": ""
+    }
+  ]
+}

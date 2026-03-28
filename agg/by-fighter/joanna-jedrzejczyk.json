@@ -1,7 +1,7 @@
 {
   "fighter": "Joanna Jedrzejczyk",
   "slug": "joanna-jedrzejczyk",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Przejmij ster w swoje dłonie",
@@ -35,15 +35,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

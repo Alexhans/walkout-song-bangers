@@ -1,7 +1,7 @@
 {
   "fighter": "Jack Shore",
   "slug": "jack-shore",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Seven Nation Army",
@@ -11,12 +11,21 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "Hells Bells",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

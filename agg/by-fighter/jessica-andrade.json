@@ -1,7 +1,7 @@
 {
   "fighter": "Jessica Andrade",
   "slug": "jessica-andrade",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Drag Me Down",
@@ -20,6 +20,15 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
       "song_title": "",
@@ -65,12 +74,21 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
-    "missing": 2,
-    "unique_songs": 5
+    "events": 9,
+    "with_song": 6,
+    "missing": 3,
+    "unique_songs": 6
   }
 }

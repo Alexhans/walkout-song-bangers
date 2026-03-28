@@ -1,7 +1,7 @@
 {
   "fighter": "Marcin Prachnio",
   "slug": "marcin-prachnio",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Isis",
@@ -38,12 +38,21 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

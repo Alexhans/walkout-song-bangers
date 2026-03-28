@@ -1,7 +1,7 @@
 {
   "fighter": "Yohan Lainesse",
   "slug": "yohan-lainesse",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Run This Town",
@@ -11,12 +11,21 @@
       "event": "UFC 297: Strickland vs. Du Plessis",
       "event_slug": "ufc-297",
       "date": "2024-01-20"
+    },
+    {
+      "song_title": "Message for the Queen",
+      "artist": "300",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gBXKbzLisqAAaru1wUwqe",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

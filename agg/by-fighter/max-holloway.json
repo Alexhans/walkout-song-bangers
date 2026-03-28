@@ -1,7 +1,7 @@
 {
   "fighter": "Max Holloway",
   "slug": "max-holloway",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Legend/Hawaiian Kickboxer",
@@ -29,6 +29,24 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Walk It, Talk It",
+      "artist": "Migos feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "B.O.M.B.S / Hawaiian Kickboxer",
+      "artist": "Fabolous/Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/B.O.M.B.S%20/%20Hawaiian%20Kickboxer%20Fabolous/Moke%20Boy",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     },
     {
       "song_title": "Running Up That Hill / Hawaiian Kickboxer",
@@ -68,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 8
   }
 }

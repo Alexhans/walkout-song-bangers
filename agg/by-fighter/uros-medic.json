@@ -1,7 +1,7 @@
 {
   "fighter": "Uros Medic",
   "slug": "uros-medic",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "ROOKIE OF THE YEAR",
@@ -26,14 +26,23 @@
       "artist": "Led Zeppelin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 2
   }

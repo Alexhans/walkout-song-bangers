@@ -1,0 +1,31 @@
+{
+  "fighter": "Maki Pitolo",
+  "slug": "maki-pitolo",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Loud",
+      "artist": "Mac Miller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RcCApDP3AP7bAm81iYsJ3",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
+      "song_title": "Wont Back Down",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7kNlRLC9PEH8nXMVawssMx",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

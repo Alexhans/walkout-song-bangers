@@ -1,7 +1,7 @@
 {
   "fighter": "Nicolas Dalby",
   "slug": "nicolas-dalby",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Braender Byen Ned",
+      "artist": "Suspekt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0KWKVZeOypjAqXHVTGhphn",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

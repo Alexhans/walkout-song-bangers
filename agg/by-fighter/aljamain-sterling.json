@@ -1,7 +1,7 @@
 {
   "fighter": "Aljamain Sterling",
   "slug": "aljamain-sterling",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Big Rich Town",
@@ -11,6 +11,24 @@
       "event": "UFC 214: Cormier vs. Jones 2",
       "event_slug": "ufc-214",
       "date": "2017-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
       "song_title": "",
@@ -59,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 8,
     "with_song": 4,
-    "missing": 2,
+    "missing": 4,
     "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Belal Muhammad",
   "slug": "belal-muhammad",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Ruff Ryders' Anthem",
@@ -20,6 +20,24 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
       "song_title": "",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 7,
     "with_song": 4,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 4
   }
 }

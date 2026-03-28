@@ -1,7 +1,7 @@
 {
   "fighter": "Christian Leroy Duncan",
   "slug": "christian-leroy-duncan",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Fly Team",
@@ -11,6 +11,15 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     },
     {
       "song_title": "Fly Team",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

@@ -1,8 +1,26 @@
 {
   "fighter": "Jordan Leavitt",
   "slug": "jordan-leavitt",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Bootylicious",
+      "artist": "Destiny’s Child",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/09mkdGhqb5ySKVsnkx9hy2",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
+      "song_title": "Grind with Me",
+      "artist": "Pretty Ricky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

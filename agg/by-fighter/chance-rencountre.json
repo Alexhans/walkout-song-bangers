@@ -1,7 +1,7 @@
 {
   "fighter": "Chance Rencountre",
   "slug": "chance-rencountre",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Built to Kill",
@@ -11,12 +11,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

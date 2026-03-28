@@ -1,6 +1,6 @@
 # Cody Brundage
 
-4 event(s) | 3 song(s) found | 2 unique
+5 event(s) | 3 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,4 @@
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Fantasy | Mariah Carey | [Listen](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) |
 | 2026-01-31 | [UFC 325: Volkanovski vs. Lopes 2](../../ufc-325.md) | Fantasy | Mariah Carey | [Listen](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) |
 | 2026-03-07 | [UFC 326: Holloway vs. Oliveira 2](../../ufc-326.md) | — | — | |
+| 2023-09-23 | [UFC Fight Night: Fiziev vs. Gamrot](../../ufc-fight-night-fiziev-vs-gamrot.md) | — | — | |

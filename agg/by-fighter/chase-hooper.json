@@ -1,0 +1,40 @@
+{
+  "fighter": "Chase Hooper",
+  "slug": "chase-hooper",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Visionz",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cuy0jpSxGAoTuJE0KORoR",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "Keep it Thoro",
+      "artist": "Prodigy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yX1VnMvtK1QNNHF3JQYMP",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "The Al Capone Suite",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

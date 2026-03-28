@@ -1,6 +1,6 @@
 # Marcin Prachnio
 
-4 event(s) | 4 song(s) found | 3 unique
+5 event(s) | 4 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,4 @@
 | 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | Can’t Stop | Red Hot Chili Peppers | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Can't Stop | Red Hot Chili Peppers | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | Can't Stop | Red Hot Chili Peppers | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
+| 2024-02-10 | [UFC Fight Night: Hermansson vs. Pyfer](../../ufc-fight-night-hermansson-vs-pyfer.md) | — | — | |

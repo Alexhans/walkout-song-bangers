@@ -1,0 +1,22 @@
+{
+  "fighter": "Nathan Fletcher",
+  "slug": "nathan-fletcher",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Luana Pinheiro",
   "slug": "luana-pinheiro",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
+    },
+    {
+      "song_title": "Norte Nordeste Me Veste",
+      "artist": "Rapadura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/018fyqtFoiY5AjTBLEKUYh",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

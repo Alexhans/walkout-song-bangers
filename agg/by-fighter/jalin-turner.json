@@ -1,7 +1,7 @@
 {
   "fighter": "Jalin Turner",
   "slug": "jalin-turner",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "New Patek",
@@ -11,6 +11,15 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "Ocean Views",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36uh6i91ttCPWBHQeHVONy",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     },
     {
       "song_title": "PUNCHIN THE CLOCK",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Michael Chandler",
   "slug": "michael-chandler",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Stranglehold",
@@ -31,6 +31,15 @@
       "date": "2022-05-07"
     },
     {
+      "song_title": "Paid My Dues” and “The Search",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ziQdexOHyC2gkZ1iNoi1w",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
       "song_title": "Unreleased",
       "artist": "NF",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

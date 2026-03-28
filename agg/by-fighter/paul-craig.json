@@ -1,7 +1,7 @@
 {
   "fighter": "Paul Craig",
   "slug": "paul-craig",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Alive",
@@ -38,11 +38,20 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
+    },
+    {
+      "song_title": "Victory Over the Sun",
+      "artist": "Biffy Clyro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/119zQmCUSi1aoE5Wo8fTMW",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 3
   }

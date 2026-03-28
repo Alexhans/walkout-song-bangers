@@ -1,0 +1,220 @@
+{
+  "event": "UFC 238: Cejudo vs. Moraes",
+  "event_slug": "ufc-238",
+  "date": "2019-06-08",
+  "location": "Chicago, Illinois, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-238-Walkout-Tracks-156249"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Moraes",
+      "song_title": "A Vida E Tipo Roda Gigante",
+      "artist": "Andrezinho Shock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1w0N2G78oSYTjh5cCUPI7K",
+      "notes": ""
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "Here I Go Again ‘87",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Corbel Trunk",
+      "artist": "Ноггано",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Uicyik36HMSB3T9iSWNJS",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmie Rivera",
+      "song_title": "Conteo",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
+      "notes": ""
+    },
+    {
+      "fighter": "Blagoy Ivanov",
+      "song_title": "Yaku",
+      "artist": "Kapitan Petko Voivoda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mPlZuKUjnHvBhxsprhqyw",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "(Everything I Do) I Do it for You",
+      "artist": "Bryan Adams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatiana Suarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nina Nunes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "",
+      "artist": "M.I.A.",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "Won’t Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yan Xiaonan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "Skulls",
+      "artist": "Misfits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Stewart",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Bevon Lewis",
+      "song_title": "Uptown Anthem",
+      "artist": "Naughty By Nature",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Kt62qyMR3uJ15Sb6XDAn3",
+      "notes": ""
+    },
+    {
+      "fighter": "Eddie Wineland",
+      "song_title": "Big Iron",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hkuQmFxGs85zE6dyofTPY",
+      "notes": ""
+    },
+    {
+      "fighter": "Grigory Popov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

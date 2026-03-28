@@ -1,0 +1,236 @@
+{
+  "event": "UFC 269: Oliveira vs. Poirier",
+  "event_slug": "ufc-269",
+  "date": "2021-12-11",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130008154.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "Escrito",
+      "artist": "Xande de Pilares",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6x5e5VKWm3nquEZPy1WMup",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "notes": ""
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "Psycho",
+      "artist": "Puddle of Mudd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "Troca de Calcada",
+      "artist": "Marilla Mendonca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe",
+      "notes": ""
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "notes": ""
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "La Copa",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Mapi",
+      "artist": "6ix9ine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5",
+      "notes": ""
+    },
+    {
+      "fighter": "Raulian Paiva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky is the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Dynamite",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40BM1C9FbxxDT5Dcip8jNc",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominick Cruz",
+      "song_title": "Still Tippin'",
+      "artist": "Mike Jones feat. Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Ambitionz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Barbie Girl",
+      "artist": "Aqua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr",
+      "notes": ""
+    },
+    {
+      "fighter": "Augusto Sakai",
+      "song_title": "Anjos (Pra quem tem fe)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Wright",
+      "song_title": "Good Death (Shogun 2)",
+      "artist": "Jeff Van Dyck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wZNgLYoFh0ReWH9VIqeaO",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "Set it Off",
+      "artist": "Lil’ Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qLgWZabS3bEZyKTjPbq5V",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "Only Jesus REMIX",
+      "artist": "Castin Crows",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cu8WtQZdxGe3lbetlzeNe",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Hall",
+      "song_title": "Pinball Wizard",
+      "artist": "The Who",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4",
+      "notes": ""
+    },
+    {
+      "fighter": "Darrick Minner",
+      "song_title": "Creature",
+      "artist": "Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Kelley",
+      "song_title": "Welcome to the Revolution",
+      "artist": "Hi-Rez & Jimmy Levy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vGE4cZs88FtAzJfvoazSU",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Costa",
+      "song_title": "Cold as You",
+      "artist": "Luke Combs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv",
+      "notes": ""
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "PIMP",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "Eu Nao Desisto",
+      "artist": "Jesse Aguiar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM",
+      "notes": ""
+    }
+  ]
+}

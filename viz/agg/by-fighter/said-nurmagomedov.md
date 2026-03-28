@@ -1,8 +1,9 @@
 # Said Nurmagomedov
 
-2 event(s) | 1 song(s) found | 1 unique
+3 event(s) | 1 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2022-01-22 | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | — | — | |
 | 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Dagestan | Suleymanov | [Listen](https://open.spotify.com/track/2hAIQ7SFFPBV5dpM6N8QRS) |
+| 2023-03-11 | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | — | — | |

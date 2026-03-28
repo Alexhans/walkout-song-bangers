@@ -1,7 +1,7 @@
 {
   "fighter": "Brian Kelleher",
   "slug": "brian-kelleher",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Blessed Up",
@@ -22,6 +22,15 @@
       "date": "2020-01-18"
     },
     {
+      "song_title": "Falling",
+      "artist": "Trevor Daniel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
       "song_title": "When the Music Stops",
       "artist": "Eminem",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

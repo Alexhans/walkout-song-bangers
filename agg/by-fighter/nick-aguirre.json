@@ -1,0 +1,22 @@
+{
+  "fighter": "Nick Aguirre",
+  "slug": "nick-aguirre",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Remember This",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5dMKsEQSlR2ITYpScl7UMd",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

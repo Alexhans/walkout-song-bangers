@@ -1,7 +1,7 @@
 {
   "fighter": "Valter Walker",
   "slug": "valter-walker",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Voluspa",
@@ -11,12 +11,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "Wardruna – Voluspa",
+      "artist": "Isaac Rosas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

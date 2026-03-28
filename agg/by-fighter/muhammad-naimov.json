@@ -1,7 +1,7 @@
 {
   "fighter": "Muhammad Naimov",
   "slug": "muhammad-naimov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Cristiano Ronaldo Cvrtoon Plevne Turkish",
@@ -11,12 +11,21 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

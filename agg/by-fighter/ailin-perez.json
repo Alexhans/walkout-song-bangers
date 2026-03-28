@@ -1,7 +1,7 @@
 {
   "fighter": "Ailin Perez",
   "slug": "ailin-perez",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Gasolina",
@@ -11,6 +11,15 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     },
     {
       "song_title": "El Sonidito",
@@ -23,8 +32,8 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

@@ -1,0 +1,204 @@
+{
+  "event": "UFC 237: Namajunas vs. Andrade",
+  "event_slug": "ufc-237",
+  "date": "2019-05-11",
+  "location": "Rio de Janeiro, Rio de Janeiro, Brazil",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-237-Walkout-Tracks-154333"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Anderson Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Laureano Staropoli",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Alves",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Irene Aldana",
+      "song_title": "Darkside (Guitar Remix)",
+      "artist": "Bishop Briggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FFrva3VXMwabDvuHkX4ZU",
+      "notes": ""
+    },
+    {
+      "fighter": "Bethe Correia",
+      "song_title": "What a Feeling",
+      "artist": "Irene Cara",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Desperados",
+      "artist": "Andy Mineo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JKEjFUqpaPkHrtCD0xEIo",
+      "notes": ""
+    },
+    {
+      "fighter": "Rogerio Nogueira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Moises",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kurt Holobaugh",
+      "song_title": "God’s Plan",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn",
+      "notes": ""
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergio Moraes",
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "notes": ""
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "My Hero",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN",
+      "notes": ""
+    },
+    {
+      "fighter": "BJ Penn",
+      "song_title": "Hawaii 78",
+      "artist": "Israel Kamakawiwo’ole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Fk6COKDCRgoFKQx9wzpVF",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "Me Solta",
+      "artist": "Nego do Borel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nqehpNGoRAz4wUFK3wT9k",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Huachin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Talita Bernardo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

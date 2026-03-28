@@ -1,0 +1,22 @@
+{
+  "fighter": "Court McGee",
+  "slug": "court-mcgee",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

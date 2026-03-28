@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Fiziev vs. Gamrot",
+  "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+  "date": "2023-09-23",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120058757.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "My Songs Know What You Did in the Dark (Light ‘Em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "Human",
+      "artist": "Rag’n’Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryce Mitchell",
+      "song_title": "Rich Men North of Richmond",
+      "artist": "Oliver Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Down",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5joOfvaQlHiwKk75rSgjgh",
+      "notes": ""
+    },
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michelle Waterson-Gomez",
+      "song_title": "Savage Daughter",
+      "artist": "Ekaterina Shelehova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jZq0zDujagh2kLVYVGsN8",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Battle",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "AJ Fletcher",
+      "song_title": "Bank of the River",
+      "artist": "Bishop Gunn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Toff8R5GgQfU008uwBV7o",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Blood Code",
+      "artist": "Le Castle Vania",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Argueta",
+      "song_title": "Como te Voy a Olvidar",
+      "artist": "Los Angeles Azules",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
+      "notes": ""
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Overload",
+      "artist": "Novas Fade",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PVoCoLcn7kCTAFS8j1ZD3",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "Amor a Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "Walk These Streets",
+      "artist": "Rakim, Maino and Tracy Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
+      "notes": ""
+    },
+    {
+      "fighter": "Mohammed Usman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Collier",
+      "song_title": "Are You Ready",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j",
+      "notes": ""
+    },
+    {
+      "fighter": "Mizuki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "Woman",
+      "artist": "Raheem DeVaughn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6cKNGWLSZMCF7fuCZsbtTZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Montse Rendon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tamires Vidal",
+      "song_title": "Renasci Das Cinzas",
+      "artist": "MC Daniel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Tamires Vidal",
+  "slug": "tamires-vidal",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Renasci Das Cinzas",
+      "artist": "MC Daniel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

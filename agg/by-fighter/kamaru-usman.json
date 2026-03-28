@@ -1,8 +1,17 @@
 {
   "fighter": "Kamaru Usman",
   "slug": "kamaru-usman",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Another Story & Anybody",
+      "artist": "Burna Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Another%20Story%20%26%20Anybody%20Burna%20Boy",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
     {
       "song_title": "YABA BULUKU",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

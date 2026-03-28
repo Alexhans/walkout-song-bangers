@@ -1,7 +1,7 @@
 {
   "fighter": "Brendan Allen",
   "slug": "brendan-allen",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "Fireman",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
+      "song_title": "Nipsey Freestyle",
+      "artist": "Dirty Sauce Dallas, “You Hate Me” by Fredo Bang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
+      "song_title": "OMG",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1LbSYc9LielAYE9uBwjp7f",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Victor Altamirano",
+  "slug": "victor-altamirano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Como Te Voy A Olvidar",
+      "artist": "Los Angeles Azules",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

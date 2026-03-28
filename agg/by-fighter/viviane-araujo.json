@@ -1,8 +1,26 @@
 {
   "fighter": "Viviane Araujo",
   "slug": "viviane-araujo",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
     {
       "song_title": "A Vida e Desafio",
       "artist": "Racionais MCs and Afro X",
@@ -20,12 +38,21 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
+    },
+    {
+      "song_title": "Eu Renasci Das Cinzas",
+      "artist": "Mc Daniel, Mc Paulin Da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 5,
+    "with_song": 2,
+    "missing": 3,
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Soukhamthath",
   "slug": "andre-soukhamthath",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Heaven or Hell",
@@ -11,12 +11,21 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

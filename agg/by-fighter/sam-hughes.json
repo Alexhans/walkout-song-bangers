@@ -1,7 +1,7 @@
 {
   "fighter": "Sam Hughes",
   "slug": "sam-hughes",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "The Next Episode",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Chambea",
+      "artist": "Bad Bunny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

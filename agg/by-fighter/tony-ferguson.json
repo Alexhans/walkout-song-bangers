@@ -1,7 +1,7 @@
 {
   "fighter": "Tony Ferguson",
   "slug": "tony-ferguson",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "The Party Has Just Begun",
@@ -20,6 +20,24 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     },
     {
       "song_title": "THE PARTY HAS JUST BEGUN",
@@ -50,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 2
   }

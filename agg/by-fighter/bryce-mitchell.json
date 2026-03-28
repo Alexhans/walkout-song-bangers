@@ -1,8 +1,17 @@
 {
   "fighter": "Bryce Mitchell",
   "slug": "bryce-mitchell",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -20,12 +29,21 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Rich Men North of Richmond",
+      "artist": "Oliver Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
+    "unique_songs": 2
   }
 }

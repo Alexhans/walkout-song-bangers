@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Ulberg",
   "slug": "carlos-ulberg",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "CAUGHT IN A DAZE",
@@ -11,6 +11,15 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "The Climb Back",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "Conquer",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

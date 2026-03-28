@@ -1,7 +1,7 @@
 {
   "fighter": "Davey Grant",
   "slug": "davey-grant",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Fire on the Beach",
@@ -11,12 +11,21 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Concrete Angel",
+      "artist": "Gareth Emery feat. Christina Novelli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

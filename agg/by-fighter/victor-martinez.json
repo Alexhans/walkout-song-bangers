@@ -1,0 +1,22 @@
+{
+  "fighter": "Victor Martinez",
+  "slug": "victor-martinez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Stomp",
+      "artist": "Young Buck, T.I., The Game and Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6uazMTZhIbUoTiODfsj8no",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

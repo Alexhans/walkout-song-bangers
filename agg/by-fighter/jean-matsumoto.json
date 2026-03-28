@@ -1,8 +1,17 @@
 {
   "fighter": "Jean Matsumoto",
   "slug": "jean-matsumoto",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Vida Blindada",
+      "artist": "Andrezhinho Shock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Qfec2Y8mXQvDB8UWe1WBx",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
     {
       "song_title": "O Hino",
       "artist": "Fernandinho",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

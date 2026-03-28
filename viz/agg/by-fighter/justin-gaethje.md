@@ -1,10 +1,11 @@
 # Justin Gaethje
 
-7 event(s) | 4 song(s) found | 4 unique
+8 event(s) | 4 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2017-12-02 | [UFC 218: Holloway vs. Aldo 2](../../ufc-218.md) | Champion | Keznamdi | [Listen](https://open.spotify.com/track/0zGzohqDQwrRxxAZfu5KG8) |
+| 2020-05-09 | [UFC 249: Ferguson vs. Gaethje](../../ufc-249.md) | — | — | |
 | 2020-10-24 | [UFC 254: Khabib vs. Gaethje](../../ufc-254.md) | Ain't No Rest for the Wicked | Cage the Elephant | [Listen](https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn) |
 | 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | — | — | |
 | 2022-05-07 | [UFC 274: Oliveira vs. Gaethje](../../ufc-274.md) | — | — | |

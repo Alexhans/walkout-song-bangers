@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -22,6 +22,15 @@
       "date": "2018-07-07"
     },
     {
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yFftsAO3CSxyeDkqSA4bV",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
       "song_title": "Son of the Dirty South",
       "artist": "Brantley Gilbert and Jelly Roll",
       "confidence": "bronze",
@@ -38,6 +47,15 @@
       "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
+    },
+    {
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "Son of the Dirty South",
@@ -68,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 7
   }
 }

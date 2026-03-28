@@ -1,6 +1,6 @@
 {
   "year": 2021,
-  "events": 5,
+  "events": 6,
   "tracks": [
     {
       "fighter": "Dustin Poirier",
@@ -1261,13 +1261,293 @@
       "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "Escrito",
+      "artist": "Xande de Pilares",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6x5e5VKWm3nquEZPy1WMup",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Julianna Pena",
+      "song_title": "Psycho",
+      "artist": "Puddle of Mudd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "Troca de Calcada",
+      "artist": "Marilla Mendonca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "La Copa",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Mapi",
+      "artist": "6ix9ine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Raulian Paiva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky is the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Dynamite",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40BM1C9FbxxDT5Dcip8jNc",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Dominick Cruz",
+      "song_title": "Still Tippin'",
+      "artist": "Mike Jones feat. Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Ambitionz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Barbie Girl",
+      "artist": "Aqua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Augusto Sakai",
+      "song_title": "Anjos (Pra quem tem fe)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Jordan Wright",
+      "song_title": "Good Death (Shogun 2)",
+      "artist": "Jeff Van Dyck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wZNgLYoFh0ReWH9VIqeaO",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "Set it Off",
+      "artist": "Lil’ Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qLgWZabS3bEZyKTjPbq5V",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "Only Jesus REMIX",
+      "artist": "Castin Crows",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cu8WtQZdxGe3lbetlzeNe",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Ryan Hall",
+      "song_title": "Pinball Wizard",
+      "artist": "The Who",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Darrick Minner",
+      "song_title": "Creature",
+      "artist": "Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Tony Kelley",
+      "song_title": "Welcome to the Revolution",
+      "artist": "Hi-Rez & Jimmy Levy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vGE4cZs88FtAzJfvoazSU",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Randy Costa",
+      "song_title": "Cold as You",
+      "artist": "Luke Combs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "PIMP",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "Eu Nao Desisto",
+      "artist": "Jesse Aguiar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     }
   ],
   "stats": {
-    "total_fighters": 126,
-    "with_song": 53,
-    "playable_tracks": 53,
-    "unique_playable_tracks": 51,
-    "missing": 73
+    "total_fighters": 154,
+    "with_song": 79,
+    "playable_tracks": 79,
+    "unique_playable_tracks": 76,
+    "missing": 75
   }
 }

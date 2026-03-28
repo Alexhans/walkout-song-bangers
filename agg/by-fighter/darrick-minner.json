@@ -1,0 +1,22 @@
+{
+  "fighter": "Darrick Minner",
+  "slug": "darrick-minner",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Creature",
+      "artist": "Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

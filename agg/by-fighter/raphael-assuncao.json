@@ -1,7 +1,7 @@
 {
   "fighter": "Raphael Assuncao",
   "slug": "raphael-assuncao",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Favela",
@@ -38,12 +38,30 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "Awesome God",
+      "artist": "R. Swift",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
-    "missing": 1,
-    "unique_songs": 3
+    "events": 6,
+    "with_song": 4,
+    "missing": 2,
+    "unique_songs": 4
   }
 }

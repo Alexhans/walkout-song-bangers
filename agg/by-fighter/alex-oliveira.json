@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Oliveira",
   "slug": "alex-oliveira",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Balada",
@@ -22,6 +22,15 @@
       "date": "2017-12-02"
     },
     {
+      "song_title": "Ta Escrito",
+      "artist": "Grupo Revelacao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

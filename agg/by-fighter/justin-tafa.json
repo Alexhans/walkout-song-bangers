@@ -1,8 +1,17 @@
 {
   "fighter": "Justin Tafa",
   "slug": "justin-tafa",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Engineers",
+      "artist": "Hp BOyz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PYGRrx8LWIKbG0woj3qGn",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
     {
       "song_title": "German",
       "artist": "No Money Enterprise",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

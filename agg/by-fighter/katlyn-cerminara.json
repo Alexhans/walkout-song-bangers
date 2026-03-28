@@ -1,7 +1,7 @@
 {
   "fighter": "Katlyn Cerminara",
   "slug": "katlyn-cerminara",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,24 @@
       "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     },
     {
       "song_title": "",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 5,
     "with_song": 0,
-    "missing": 3,
+    "missing": 5,
     "unique_songs": 0
   }
 }

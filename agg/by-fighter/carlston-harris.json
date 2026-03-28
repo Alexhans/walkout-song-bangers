@@ -1,0 +1,22 @@
+{
+  "fighter": "Carlston Harris",
+  "slug": "carlston-harris",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Champion",
+      "artist": "Mobflames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

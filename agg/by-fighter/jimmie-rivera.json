@@ -1,7 +1,7 @@
 {
   "fighter": "Jimmie Rivera",
   "slug": "jimmie-rivera",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Conteo",
@@ -11,11 +11,20 @@
       "event": "UFC 203: Miocic vs. Overeem",
       "event_slug": "ufc-203",
       "date": "2016-09-10"
+    },
+    {
+      "song_title": "Conteo",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

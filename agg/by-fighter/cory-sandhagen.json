@@ -1,7 +1,7 @@
 {
   "fighter": "Cory Sandhagen",
   "slug": "cory-sandhagen",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Electric Feel",
@@ -11,12 +11,21 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "Victory Lap",
+      "artist": "Macklemore X Ryan Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

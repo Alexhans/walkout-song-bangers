@@ -1,7 +1,7 @@
 {
   "fighter": "Tim Means",
   "slug": "tim-means",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Slippin'",
@@ -20,12 +20,21 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Overload",
+      "artist": "Novas Fade",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PVoCoLcn7kCTAFS8j1ZD3",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

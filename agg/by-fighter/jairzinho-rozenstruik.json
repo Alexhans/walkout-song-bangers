@@ -1,8 +1,26 @@
 {
   "fighter": "Jairzinho Rozenstruik",
   "slug": "jairzinho-rozenstruik",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
     {
       "song_title": "No Dat a No Alla",
       "artist": "Papa Touwtjie",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 6,
     "with_song": 2,
-    "missing": 2,
+    "missing": 4,
     "unique_songs": 2
   }
 }

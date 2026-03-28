@@ -1,8 +1,26 @@
 {
   "fighter": "Irene Aldana",
   "slug": "irene-aldana",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Darkside (Guitar Remix)",
+      "artist": "Bishop Briggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FFrva3VXMwabDvuHkX4ZU",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
+    {
+      "song_title": "Army of Me (Metal Remix)",
+      "artist": "Bjork",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
     {
       "song_title": "Antes de que nos olviden",
       "artist": "Caifanes",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

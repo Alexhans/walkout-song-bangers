@@ -1,8 +1,17 @@
 {
   "fighter": "Guido Cannetti",
   "slug": "guido-cannetti",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Dr. Panico",
+      "artist": "Clinch!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
     {
       "song_title": "No Te Creas Importante",
       "artist": "Damas Gratis",
@@ -11,12 +20,21 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Te Mentiria",
+      "artist": "La Kongo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

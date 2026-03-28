@@ -1,7 +1,7 @@
 {
   "fighter": "Jailton Almeida",
   "slug": "jailton-almeida",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "Posturado e Calmo",
+      "artist": "Leo Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
+    },
+    {
       "song_title": "Perseverança",
       "artist": "Xande de Pilares",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

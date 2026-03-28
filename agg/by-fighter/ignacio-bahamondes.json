@@ -1,7 +1,7 @@
 {
   "fighter": "Ignacio Bahamondes",
   "slug": "ignacio-bahamondes",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
+    },
+    {
+      "song_title": "Paz En La Tormenta",
+      "artist": "Marcos Yaroide",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XLRyQoA7URPXazTLuLUQM",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

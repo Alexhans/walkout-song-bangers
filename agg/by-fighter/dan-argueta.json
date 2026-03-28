@@ -1,0 +1,31 @@
+{
+  "fighter": "Dan Argueta",
+  "slug": "dan-argueta",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Psycho Killer",
+      "artist": "Talking Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
+      "song_title": "Como te Voy a Olvidar",
+      "artist": "Los Angeles Azules",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

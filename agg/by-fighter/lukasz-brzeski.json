@@ -1,7 +1,7 @@
 {
   "fighter": "Lukasz Brzeski",
   "slug": "lukasz-brzeski",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Mój Świat",
@@ -20,12 +20,30 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
+      "song_title": "Mój świat",
+      "artist": "Lukasyno & Kriso feat. Miss God",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

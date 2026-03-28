@@ -1,7 +1,7 @@
 {
   "fighter": "Matt Frevola",
   "slug": "matt-frevola",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Livin' on a Prayer",
@@ -11,6 +11,15 @@
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
+    },
+    {
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GXtjEpfXTFECdmGChpkUi",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     },
     {
       "song_title": "",
@@ -32,6 +41,15 @@
     },
     {
       "song_title": "Narco",
+      "artist": "Blasterjaxx & Timmy Trumpet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "Narco",
       "artist": "Blasterjaxx and Timmy Trumpet",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

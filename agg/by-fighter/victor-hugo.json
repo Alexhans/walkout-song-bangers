@@ -1,0 +1,22 @@
+{
+  "fighter": "Victor Hugo",
+  "slug": "victor-hugo",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Grey (Mixed)",
+      "artist": "Defected In The House Radio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GdltCisTMzR8uuJacCpND",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

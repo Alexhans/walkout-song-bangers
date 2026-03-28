@@ -1,8 +1,17 @@
 {
   "fighter": "Mark Madsen",
   "slug": "mark-madsen",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Man on a Mission",
+      "artist": "Oh the Larceny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
     {
       "song_title": "Olympic Fanfare / Thunderstruck",
       "artist": "John Willams",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

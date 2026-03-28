@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Dolidze vs. Imavov",
+  "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+  "date": "2024-02-03",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130036376.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "Tomorrow",
+      "artist": "Salif Keita",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "This Is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Lime Light",
+      "artist": "Masicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
+      "notes": ""
+    },
+    {
+      "fighter": "Muslim Salikhov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Natalia Silva",
+      "song_title": "Nothing Is Impossible – Planetshakers Live",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uj2wWw0gnNqkVqGNWbGrf",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "Eu Renasci Das Cinzas",
+      "artist": "Mc Daniel, Mc Paulin Da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "notes": ""
+    },
+    {
+      "fighter": "Aliaskhab Khizriev",
+      "song_title": "Lezginka 4",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/64KzrTr4pvqaUH8CjNKyOQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Makhmud Muradov",
+      "song_title": "O’zbekiston Farzandlarimiz",
+      "artist": "Saida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0IuX3um0X8aDRAMZiuKslL",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Radtke",
+      "song_title": "Firestarter",
+      "artist": "The Prodigy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Urbina",
+      "song_title": "Bzrp Music Sessions #55",
+      "artist": "Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV",
+      "notes": ""
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Diana Belbita",
+      "song_title": "Watch Me Shine",
+      "artist": "Bianca Belair entrance theme",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Azat Maksum",
+      "song_title": "Field Men",
+      "artist": "Nasr feat. Raim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O",
+      "notes": ""
+    },
+    {
+      "fighter": "Themba Gorimbo",
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "notes": ""
+    },
+    {
+      "fighter": "Pete Rodriguez",
+      "song_title": "Built for This",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7u9UAZ6QrFBvl5JkthMbWw",
+      "notes": ""
+    },
+    {
+      "fighter": "JeongYeong Lee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Blake Bilder",
+      "song_title": "Call Me Nobody",
+      "artist": "Clever feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Julija Stoliarenko",
+      "song_title": "In My Mind",
+      "artist": "Dynoro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33",
+      "notes": ""
+    },
+    {
+      "fighter": "MarQuel Mederos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Landon Quinones",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamal Pogues",
+      "song_title": "One of One",
+      "artist": "Tee Grizzly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CVA6p56ojH53pLM8uIqNs",
+      "notes": ""
+    },
+    {
+      "fighter": "Thomas Petersen",
+      "song_title": "Ain’t No Mountain High Enough",
+      "artist": "Marvin Gaye",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "notes": ""
+    }
+  ]
+}

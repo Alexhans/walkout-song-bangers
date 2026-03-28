@@ -1,7 +1,7 @@
 {
   "fighter": "Michael Morales",
   "slug": "michael-morales",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Bombas y Tarolas",
+      "artist": "Cartel de Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

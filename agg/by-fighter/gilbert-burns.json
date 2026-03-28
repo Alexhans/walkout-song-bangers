@@ -1,7 +1,7 @@
 {
   "fighter": "Gilbert Burns",
   "slug": "gilbert-burns",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -56,12 +56,21 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 2,
-    "missing": 4,
+    "missing": 5,
     "unique_songs": 2
   }
 }

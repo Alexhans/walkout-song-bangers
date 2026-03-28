@@ -1,0 +1,22 @@
+{
+  "fighter": "Melissa Mullins",
+  "slug": "melissa-mullins",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

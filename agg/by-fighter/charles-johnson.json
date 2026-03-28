@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Johnson",
   "slug": "charles-johnson",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "A Tale Of 2 Citiez",
@@ -13,6 +13,24 @@
       "date": "2026-01-24"
     },
     {
+      "song_title": "Whoomp! (There It Is)",
+      "artist": "Tag Team",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
+    },
+    {
       "song_title": "Fu-gee-la",
       "artist": "Fugees",
       "confidence": "bronze",
@@ -20,12 +38,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "It’s a Beautiful Day",
+      "artist": "The Kiffness x Rushawn and “Who Run It” by Three-Six Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

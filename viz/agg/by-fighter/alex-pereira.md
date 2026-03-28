@@ -1,11 +1,12 @@
 # Alex Pereira
 
-7 event(s) | 6 song(s) found | 2 unique
+8 event(s) | 7 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | — | — | |
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
+| 2022-11-12 | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
 | 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |
 | 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Itsari | Sepultura | [Listen](https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7) |

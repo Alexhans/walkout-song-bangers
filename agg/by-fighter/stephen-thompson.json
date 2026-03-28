@@ -1,7 +1,7 @@
 {
   "fighter": "Stephen Thompson",
   "slug": "stephen-thompson",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Wonderboy",
@@ -31,6 +31,15 @@
       "date": "2017-11-04"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
       "song_title": "Blinding Lights",
       "artist": "The Weeknd",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

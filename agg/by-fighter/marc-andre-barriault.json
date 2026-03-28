@@ -1,7 +1,7 @@
 {
   "fighter": "Marc-Andre Barriault",
   "slug": "marc-andre-barriault",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Monster",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Power",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2e3NkDnHlhhHTzj2MAyRX3",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

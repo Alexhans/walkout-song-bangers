@@ -1,7 +1,7 @@
 {
   "fighter": "Erik Silva",
   "slug": "erik-silva",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Valhalla Calling Me",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Moreno vs. Kavanagh",
       "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
       "date": "2026-02-28"
+    },
+    {
+      "song_title": "I Am Not Done",
+      "artist": "Rob Bailey & The Hustle Standard feat. Moxiie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3aVLHXxmo6fHFA7xTWlgR1",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

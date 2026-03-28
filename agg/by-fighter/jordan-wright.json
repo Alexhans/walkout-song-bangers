@@ -1,0 +1,22 @@
+{
+  "fighter": "Jordan Wright",
+  "slug": "jordan-wright",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Good Death (Shogun 2)",
+      "artist": "Jeff Van Dyck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wZNgLYoFh0ReWH9VIqeaO",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

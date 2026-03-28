@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Allen vs. Craig",
+  "event_slug": "ufc-fight-night-allen-vs-craig",
+  "date": "2023-11-18",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-135002693.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Fireman",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Victory Over the Sun",
+      "artist": "Biffy Clyro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/119zQmCUSi1aoE5Wo8fTMW",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "Bombas y Tarolas",
+      "artist": "Cartel de Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Too Late",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OwJVoHZveEFx41jQlAEgS",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "The Al Capone Suite",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Leavitt",
+      "song_title": "Bootylicious",
+      "artist": "Destiny’s Child",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/09mkdGhqb5ySKVsnkx9hy2",
+      "notes": ""
+    },
+    {
+      "fighter": "Payton Talbott",
+      "song_title": "Human",
+      "artist": "Clams Casino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fpkYuZVOQrGZah1wuU0tS",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Aguirre",
+      "song_title": "Remember This",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5dMKsEQSlR2ITYpScl7UMd",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Omnia",
+      "artist": "Fee Ra Huri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Ox6cVMhvW5nl3UForWFHa",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Pinheiro",
+      "song_title": "Norte Nordeste Me Veste",
+      "artist": "Rapadura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/018fyqtFoiY5AjTBLEKUYh",
+      "notes": ""
+    },
+    {
+      "fighter": "Myktybek Orolbai",
+      "song_title": "Pyx",
+      "artist": "7Gen & Ulukmanapo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Uros Medic",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanderson Brito",
+      "song_title": "Tubarao Te Amo",
+      "artist": "Ryan SP, MC Daniel, MC RF, MC Jhenny e Tchakabum (GR6 Explode) DJ LK da Escócia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Johnson",
+      "song_title": "Saved",
+      "artist": "Jac Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMys7Jba5LrNclvPO1fyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Anheliger",
+      "song_title": "Time 4 Sum Aksion",
+      "artist": "Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59SioKZL0CwXKzI2UiaPAF",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Leroy Duncan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Denis Tiuliulin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mick Parkin",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Machado",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Jeka Saragih",
+      "song_title": "Lomba Cover Lagu Patunggung Simalungun",
+      "artist": "Komet & Friends",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qtR6Bv3EJxtlivgSihgZa",
+      "notes": ""
+    },
+    {
+      "fighter": "Lucas Alexander",
+      "song_title": "So Brooklyn",
+      "artist": "Cassanova feat. Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/64C1hD6OiwDF150wOa4pGq",
+      "notes": ""
+    },
+    {
+      "fighter": "Ailin Perez",
+      "song_title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "notes": ""
+    },
+    {
+      "fighter": "Lucie Pudilova",
+      "song_title": "Rise of the Champion",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69jXvsj4MAqS8QIfR1HX1x",
+      "notes": ""
+    },
+    {
+      "fighter": "Trey Ogden",
+      "song_title": "Outro",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0P0JVdC2x8f82mPzhvAbXA",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolas Motta",
+      "song_title": "King",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p6u2A85mjpENdBs4cnWR4",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Estevam",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "Whoomp! (There It Is)",
+      "artist": "Tag Team",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN",
+      "notes": ""
+    }
+  ]
+}

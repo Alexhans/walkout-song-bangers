@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Diaz",
   "slug": "nate-diaz",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Ambitionz az a Ridah",
@@ -20,12 +20,21 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "Used To / Trained to Go / The Way I Am / Out on Bail",
+      "artist": "Drake/E40/Eminem/2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Used%20To%20/%20Trained%20to%20Go%20/%20The%20Way%20I%20Am%20/%20Out%20on%20Bail%20Drake/E40/Eminem/2Pac",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

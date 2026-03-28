@@ -1,0 +1,22 @@
+{
+  "fighter": "Lucas Alexander",
+  "slug": "lucas-alexander",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "So Brooklyn",
+      "artist": "Cassanova feat. Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/64C1hD6OiwDF150wOa4pGq",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

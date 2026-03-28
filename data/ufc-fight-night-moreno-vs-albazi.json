@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Moreno vs. Albazi",
+  "event_slug": "ufc-fight-night-moreno-vs-albazi",
+  "date": "2024-11-02",
+  "location": "Edmonton, Alberta, Canada",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-135014221.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "El Corrido Del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "notes": ""
+    },
+    {
+      "fighter": "Amir Albazi",
+      "song_title": "Takat Wala Mataket",
+      "artist": "Salah Al Bahar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tfZUCcMmQWeqFPUV4fkwg",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "Prolific Praise",
+      "artist": "Trey Mclaughlin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendson Ribeiro",
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Machado",
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "notes": ""
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Stoltzfus",
+      "song_title": "Du Hast",
+      "artist": "Rammstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Power",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2e3NkDnHlhhHTzj2MAyRX3",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Malott",
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "Maan!",
+      "artist": "Big Moe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZHaCiP7KYJ9Y6kYed60hU",
+      "notes": ""
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Thug Luv",
+      "artist": "Bone Thugs-N-Harmony feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "in the Face of Evil",
+      "artist": "Magic Sword",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Henry",
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "notes": ""
+    },
+    {
+      "fighter": "Youssef Zalal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Hells Bells",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodrigo Nascimento",
+      "song_title": "FE!N",
+      "artist": "Travis Scott feat. Playboi Carti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA",
+      "notes": ""
+    },
+    {
+      "fighter": "Serhiy Sidey",
+      "song_title": "Taurus",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
+      "notes": ""
+    },
+    {
+      "fighter": "Garrett Armfield",
+      "song_title": "Congratulations",
+      "artist": "Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Gibson",
+      "song_title": "Sleeping on the Blacktop",
+      "artist": "Colter Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Anheliger",
+      "song_title": "How You Remind Me",
+      "artist": "Nickelback",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamey-Lyn Horth",
+      "song_title": "Somethin' Bad",
+      "artist": "Miranda Lambert and Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "notes": ""
+    },
+    {
+      "fighter": "Ivana Petrovic",
+      "song_title": "Paint It Black",
+      "artist": "the Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "notes": ""
+    }
+  ]
+}

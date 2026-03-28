@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Curtis",
   "slug": "chris-curtis",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "THE ONLY THING I KNOW FOR REAL",
@@ -49,6 +49,15 @@
       "date": "2024-01-20"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
       "song_title": "Bad Boy For Life",
       "artist": "P. Diddy",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 6
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Brendon Marotte",
+  "slug": "brendon-marotte",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Just",
+      "artist": "Startisan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11oQLJg7aXHZ9VieRAB15O",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

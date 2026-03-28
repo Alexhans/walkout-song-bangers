@@ -1,7 +1,7 @@
 {
   "fighter": "Pete Rodriguez",
   "slug": "pete-rodriguez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "OUT HERE GRINDIN",
@@ -11,12 +11,21 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "Built for This",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7u9UAZ6QrFBvl5JkthMbWw",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

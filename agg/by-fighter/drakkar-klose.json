@@ -1,7 +1,7 @@
 {
   "fighter": "Drakkar Klose",
   "slug": "drakkar-klose",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Devastated",
@@ -35,6 +35,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 3,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 3
   }
 }

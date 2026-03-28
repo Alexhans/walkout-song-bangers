@@ -1,8 +1,17 @@
 {
   "fighter": "Shamil Abdurakhimov",
   "slug": "shamil-abdurakhimov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 0,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 0
   }
 }

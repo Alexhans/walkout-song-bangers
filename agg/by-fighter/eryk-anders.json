@@ -1,8 +1,26 @@
 {
   "fighter": "Eryk Anders",
   "slug": "eryk-anders",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "ATLiens",
+      "artist": "Outkast",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Set it Off",
+      "artist": "Lil’ Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qLgWZabS3bEZyKTjPbq5V",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
     {
       "song_title": "Ramen & OJ",
       "artist": "Joyner Lucas",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

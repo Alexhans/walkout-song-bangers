@@ -4,6 +4,9 @@
 Usage:
   python3 skill/scripts/run_fight_tracks_inkl.py 290 \
     'https://www.inkl.com/news/...'
+  python3 skill/scripts/run_fight_tracks_inkl.py \
+    'UFC Fight Night: Ankalaev vs. Walker 2' \
+    'https://sports.yahoo.com/...'
 """
 
 from __future__ import annotations
@@ -76,6 +79,18 @@ def _parse_event_number(arg: str) -> int:
     if not m:
         raise ValueError(f"Could not parse UFC event number from: {arg!r}")
     return int(m.group(1))
+
+
+def _looks_like_numbered_event_arg(arg: str) -> bool:
+    s = arg.strip()
+    return bool(re.fullmatch(r"(?i)(?:ufc[\s-]*)?\d{1,4}", s))
+
+
+def _slugify_event_name(name: str) -> str:
+    slug = html.unescape(name).lower()
+    slug = re.sub(r"['’`]", "", slug)
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    return slug.strip("-")
 
 
 def _find_ufcstats_event_url(event_label: str) -> tuple[str, str]:
@@ -161,18 +176,55 @@ def _parse_inkl_fight_tracks(inkl_url: str) -> dict[str, tuple[str, str]]:
     # Expected line format (curly quotes):
     # Fighter Name: “Song” by Artist
     out: dict[str, tuple[str, str]] = {}
+
+    def parse_song_line(line: str) -> tuple[str, str] | None:
+        m = re.match(r'^[“"](.+?)[”"]\s*by\s*(.+)$', line)
+        if m:
+            return (_collapse_ws(m.group(1)), _collapse_ws(m.group(2)))
+        m = re.match(r'^[“"](.+?)[”"](?:\s*\((.+)\))?$', line)
+        if m:
+            return (_collapse_ws(m.group(1)), _collapse_ws(m.group(2) or ""))
+        return None
+
     for line in lines:
-        if ":" not in line or " by " not in line or "“" not in line or "”" not in line:
+        if ":" not in line or " by " not in line:
             continue
-        m = re.match(r"^(.*?):\s*“(.*?)”\s*by\s*(.+)$", line)
+        m = re.match(r'^(.*?):\s*[“"](.+?)[”"]\s*by\s*(.+)$', line)
         if not m:
             continue
-        fighter = _collapse_ws(m.group(1))
+        fighter = re.sub(r"\[/?autotag\]", "", m.group(1), flags=re.I)
+        fighter = _collapse_ws(fighter)
         song = _collapse_ws(m.group(2))
         artist = _collapse_ws(m.group(3))
         if not fighter or not song:
             continue
         out[_norm_name(fighter)] = (song, artist)
+
+    # Newer Yahoo Sports / MMA Junkie mirrors often use:
+    # Fighter Name
+    # Fighter Name def. Opponent ... / Fighter Name vs. Opponent ...
+    # “Song Title” by Artist
+    for idx in range(len(lines) - 2):
+        fighter = re.sub(r"\[/?autotag\]", "", lines[idx], flags=re.I)
+        fighter = _collapse_ws(fighter)
+        result_line = lines[idx + 1]
+        song_line = lines[idx + 2]
+
+        if not fighter or len(fighter.split()) > 5:
+            continue
+        if fighter not in result_line:
+            continue
+        if " def. " not in result_line and " vs. " not in result_line:
+            continue
+
+        parsed_song = parse_song_line(song_line)
+        if not parsed_song:
+            continue
+
+        song, artist = parsed_song
+        if not song:
+            continue
+        out.setdefault(_norm_name(fighter), (song, artist))
 
     if not out:
         raise RuntimeError("Parsed 0 walkout entries from inkl page")
@@ -247,14 +299,18 @@ def main() -> int:
         print(__doc__.strip())
         return 2
 
-    n = _parse_event_number(sys.argv[1])
+    event_arg = sys.argv[1].strip()
     inkl_url = sys.argv[2]
 
-    slug = f"ufc-{n}"
-    event_label = f"UFC {n}"
+    n: int | None = None
+    event_label = event_arg
+    if _looks_like_numbered_event_arg(event_arg):
+        n = _parse_event_number(event_arg)
+        event_label = f"UFC {n}"
 
     ufcstats_url, event_name = _find_ufcstats_event_url(event_label)
     event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    slug = f"ufc-{n}" if n is not None else _slugify_event_name(event_name)
 
     walkouts = _parse_inkl_fight_tracks(inkl_url)
     spotify = SpotifyClient.from_env()

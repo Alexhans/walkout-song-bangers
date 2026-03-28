@@ -1,0 +1,22 @@
+{
+  "fighter": "Zac Pauga",
+  "slug": "zac-pauga",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Pitonuu Solosolo",
+      "artist": "Mr. Tee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3b8B0sXdLgjajUhdTniEy5",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

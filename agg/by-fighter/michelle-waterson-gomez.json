@@ -1,8 +1,17 @@
 {
   "fighter": "Michelle Waterson-Gomez",
   "slug": "michelle-waterson-gomez",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -20,12 +29,21 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Savage Daughter",
+      "artist": "Ekaterina Shelehova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jZq0zDujagh2kLVYVGsN8",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
-    "missing": 2,
-    "unique_songs": 0
+    "events": 4,
+    "with_song": 1,
+    "missing": 3,
+    "unique_songs": 1
   }
 }

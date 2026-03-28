@@ -1,0 +1,220 @@
+{
+  "event": "UFC 236: Holloway vs. Poirier 2",
+  "event_slug": "ufc-236",
+  "date": "2019-04-13",
+  "location": "Atlanta, Georgia, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-236-Walkout-Tracks-152725"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "Walk It, Talk It",
+      "artist": "Migos feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP",
+      "notes": ""
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "ATLiens",
+      "artist": "Outkast",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz",
+      "notes": ""
+    },
+    {
+      "fighter": "Dwight Grant",
+      "song_title": "Victory",
+      "artist": "Puff Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Jouban",
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GXtjEpfXTFECdmGChpkUi",
+      "notes": ""
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Ocean Views",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36uh6i91ttCPWBHQeHVONy",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Wilson Reis",
+      "song_title": "Audio",
+      "artist": "LSD feat. Sia, Diplo and Labrinth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "Bang",
+      "artist": "Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nV2xCBUBcs9Aj0ZI3eWlW",
+      "notes": ""
+    },
+    {
+      "fighter": "Zelim Imadaev",
+      "song_title": "Letsz Get It On",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalid Taha",
+      "song_title": "Xhelozia",
+      "artist": "Mozzik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5kMTREHJjCj6jr04UEzyf9",
+      "notes": ""
+    },
+    {
+      "fighter": "Boston Salmon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Millender",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Montel Jackson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Soukhamthath",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Poliana Botelho",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lauren Mueller",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Davis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Costa",
+      "song_title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
+      "notes": ""
+    }
+  ]
+}

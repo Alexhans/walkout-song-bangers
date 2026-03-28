@@ -1,7 +1,7 @@
 {
   "fighter": "Vanessa Demopoulos",
   "slug": "vanessa-demopoulos",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "No Problem",
+      "artist": "Chance The Rapper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Bevon Lewis",
+  "slug": "bevon-lewis",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Uptown Anthem",
+      "artist": "Naughty By Nature",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Kt62qyMR3uJ15Sb6XDAn3",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

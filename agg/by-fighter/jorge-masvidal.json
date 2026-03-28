@@ -1,7 +1,7 @@
 {
   "fighter": "Jorge Masvidal",
   "slug": "jorge-masvidal",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2019-07-06"
     },
     {
+      "song_title": "",
+      "artist": "Giorgio Moroder",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
       "song_title": "Scarface Theme Song",
       "artist": "Giorgio Moroder",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

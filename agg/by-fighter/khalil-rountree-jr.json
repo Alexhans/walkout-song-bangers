@@ -1,7 +1,7 @@
 {
   "fighter": "Khalil Rountree Jr.",
   "slug": "khalil-rountree-jr",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Let Me Fly",
@@ -26,15 +26,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 257: Poirier vs. McGregor 2",
       "event_slug": "ufc-257",
       "date": "2021-01-23"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

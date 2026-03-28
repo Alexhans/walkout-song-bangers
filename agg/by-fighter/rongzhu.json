@@ -1,0 +1,22 @@
+{
+  "fighter": "Rongzhu",
+  "slug": "rongzhu",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Know?",
+      "artist": "Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

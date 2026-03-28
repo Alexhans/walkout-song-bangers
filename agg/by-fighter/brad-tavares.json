@@ -1,7 +1,7 @@
 {
   "fighter": "Brad Tavares",
   "slug": "brad-tavares",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Tears",
@@ -20,6 +20,15 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "Tears",
+      "artist": "Alborosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4g0uvKVVh4Hf1X0eS8Uvqc",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     },
     {
       "song_title": "",
@@ -65,12 +74,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 4,
-    "missing": 3,
+    "events": 9,
+    "with_song": 5,
+    "missing": 4,
     "unique_songs": 2
   }
 }

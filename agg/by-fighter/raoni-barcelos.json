@@ -1,8 +1,17 @@
 {
   "fighter": "Raoni Barcelos",
   "slug": "raoni-barcelos",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Me Solta",
+      "artist": "Nego do Borel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nqehpNGoRAz4wUFK3wT9k",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
     {
       "song_title": "CACHAMBI OTEIRO",
       "artist": "Mirechal Bento Ribeiro",
@@ -11,12 +20,21 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "Brillo",
+      "artist": "Natanael Cano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

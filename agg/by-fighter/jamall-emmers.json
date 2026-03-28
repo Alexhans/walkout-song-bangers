@@ -1,8 +1,17 @@
 {
   "fighter": "Jamall Emmers",
   "slug": "jamall-emmers",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "In the Field",
+      "artist": "Pardison Fontaine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H9aTYVzqO4evUIW6A3VRH",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
     {
       "song_title": "Paid in Full",
       "artist": "Dame D.O.L.L.A., Tobe Nwigwe",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

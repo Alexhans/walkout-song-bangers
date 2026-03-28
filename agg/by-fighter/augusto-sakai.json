@@ -1,0 +1,31 @@
+{
+  "fighter": "Augusto Sakai",
+  "slug": "augusto-sakai",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Anjos (Pra quem tem fe)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "A Vida e Desafio",
+      "artist": "Nada Como Um Dia Apos O Outro Dia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

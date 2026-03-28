@@ -1,0 +1,22 @@
+{
+  "fighter": "Dhiego Lima",
+  "slug": "dhiego-lima",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "God’s Not Dead",
+      "artist": "Newsboys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Randy Brown",
   "slug": "randy-brown",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Broad Daylight",
@@ -38,11 +38,20 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "Lime Light",
+      "artist": "Masicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 4
   }

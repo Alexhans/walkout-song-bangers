@@ -1,7 +1,7 @@
 {
   "fighter": "Poliana Botelho",
   "slug": "poliana-botelho",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Wild Thoughts",
@@ -11,6 +11,15 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     },
     {
       "song_title": "Wild Thoughts",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

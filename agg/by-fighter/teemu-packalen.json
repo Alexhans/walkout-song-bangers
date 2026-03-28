@@ -1,0 +1,22 @@
+{
+  "fighter": "Teemu Packalen",
+  "slug": "teemu-packalen",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Kipinan Hetki",
+      "artist": "Robin feat. Elastinen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1f9Vc7z6Yj3DcttF9Svo33",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,17 @@
 {
   "fighter": "Andre Petroski",
   "slug": "andre-petroski",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Polo & Shell Tops",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Polo%20%26%20Shell%20Tops%20Meek%20Mill",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
     {
       "song_title": "Still Dre",
       "artist": "Dre feat. Snoop Dogg",
@@ -11,12 +20,21 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "Opposite of Adults",
+      "artist": "Chiddy Bang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,9 +1,10 @@
 # Islam Makhachev
 
-5 event(s) | 5 song(s) found | 1 unique
+6 event(s) | 5 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2019-09-07 | [UFC 242: Khabib vs. Poirier](../../ufc-242.md) | — | — | |
 | 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | Dreams | DJ Nariman | [Listen](https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc) |
 | 2023-02-11 | [UFC 284: Makhachev vs. Volkanovski](../../ufc-284.md) | Dreams | DJ Nariman | [Listen](https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc) |
 | 2023-10-21 | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Dreams | DJ Nariman | [Listen](https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc) |

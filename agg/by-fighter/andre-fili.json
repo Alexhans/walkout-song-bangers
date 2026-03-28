@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Fili",
   "slug": "andre-fili",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "I'm Feeling Myself",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 4,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 4
   }
 }

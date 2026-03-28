@@ -1,8 +1,26 @@
 {
   "fighter": "Tai Tuivasa",
   "slug": "tai-tuivasa",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "(Everything I Do) I Do it for You",
+      "artist": "Bryan Adams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "Spot the Difference",
+      "artist": "ONEFOUR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dsQoMtQ1eWbKGGnoQHI8n",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
     {
       "song_title": "Bam Bam",
       "artist": "Sister Nancy",
@@ -20,6 +38,15 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Barbie Girl",
+      "artist": "Aqua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "GIRLS JUST WANT TO HAVE FUN",
@@ -59,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 9
   }
 }

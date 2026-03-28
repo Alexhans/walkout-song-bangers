@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Morono",
   "slug": "alex-morono",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "Enemies",
+      "artist": "Eleine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
       "song_title": "Blue on Black",
       "artist": "Five Finger Death Punch",
       "confidence": "bronze",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
     "unique_songs": 4
   }

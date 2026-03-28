@@ -1,7 +1,7 @@
 {
   "fighter": "Donald Cerrone",
   "slug": "donald-cerrone",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Cowboy",
@@ -31,6 +31,15 @@
       "date": "2017-07-29"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
       "song_title": "Cowboy",
       "artist": "Kid Rock",
       "confidence": "bronze",
@@ -44,15 +53,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 7,
     "with_song": 4,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 1
   }
 }

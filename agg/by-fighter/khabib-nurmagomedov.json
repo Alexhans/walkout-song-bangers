@@ -1,7 +1,7 @@
 {
   "fighter": "Khabib Nurmagomedov",
   "slug": "khabib-nurmagomedov",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Dagestan",
@@ -31,6 +31,15 @@
       "date": "2018-10-06"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    },
+    {
       "song_title": "Dagestan",
       "artist": "Sabina Saidova",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

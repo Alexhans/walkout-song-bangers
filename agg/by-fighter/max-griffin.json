@@ -1,7 +1,7 @@
 {
   "fighter": "Max Griffin",
   "slug": "max-griffin",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "What's Up, What's Haapnin'",
@@ -22,6 +22,24 @@
       "date": "2018-07-07"
     },
     {
+      "song_title": "Bang",
+      "artist": "Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nV2xCBUBcs9Aj0ZI3eWlW",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "On God",
+      "artist": "Mustard feat. A$AP Ferg, YG, Tyga and A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3O7lxdQoe1aNWs93VSHsJg",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,12 +47,21 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "I Got 5 On It",
+      "artist": "Luniz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

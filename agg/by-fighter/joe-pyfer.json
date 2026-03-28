@@ -1,7 +1,7 @@
 {
   "fighter": "Joe Pyfer",
   "slug": "joe-pyfer",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "What You Gon’ Do",
+      "artist": "Lil Jon & The East Side Boyz feat. Lil Scrappy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 1,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

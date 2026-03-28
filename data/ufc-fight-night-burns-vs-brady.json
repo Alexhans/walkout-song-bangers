@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Burns vs. Brady",
+  "event_slug": "ufc-fight-night-burns-vs-brady",
+  "date": "2024-09-07",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-141540272.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Sean Brady",
+      "song_title": "They Don't Love You No More",
+      "artist": "Dj Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yxwAEwY9LD120AcB4nGJx",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Natalia Silva",
+      "song_title": "Nothing Is Impossible",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "Long Live The Champion",
+      "artist": "Kb, Gabriel Emc, Yariel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Nelson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Danger",
+      "artist": "Mystikal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg",
+      "notes": ""
+    },
+    {
+      "fighter": "Yanal Ashmouz",
+      "song_title": "Knight's Steed",
+      "artist": "Amir Labay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RWiQkXsPsRsK3FOvroC6M",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Peek",
+      "song_title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Padilla",
+      "song_title": "Boogieman",
+      "artist": "EBK Jaaybo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4oxDHyzQF7QgUBtm9AT3fH",
+      "notes": ""
+    },
+    {
+      "fighter": "Rongzhu",
+      "song_title": "I Know?",
+      "artist": "Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU",
+      "notes": ""
+    },
+    {
+      "fighter": "Isaac Dulgarian",
+      "song_title": "Gangsta Bop",
+      "artist": "Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendon Marotte",
+      "song_title": "Just",
+      "artist": "Startisan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11oQLJg7aXHZ9VieRAB15O",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Lima",
+      "song_title": "Galera Do Interior",
+      "artist": "Bareos Da Pisadinha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gtf3d3byB1LJB8APmlPvi",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe dos Santos",
+      "song_title": "Cancao Pra Deus",
+      "artist": "Debora Duarte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w7Xwcr7QRC9DqBcKfoFm1",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yizha",
+      "song_title": "Go Play",
+      "artist": "Debal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
+      "notes": ""
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "No Problem",
+      "artist": "Chance The Rapper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Opposite of Adults",
+      "artist": "Chiddy Bang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL",
+      "notes": ""
+    },
+    {
+      "fighter": "Dylan Budka",
+      "song_title": "Feeling Good",
+      "artist": "Michael Buble",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P",
+      "notes": ""
+    },
+    {
+      "fighter": "Nathan Fletcher",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Zygimantas Ramaska",
+      "song_title": "Rise Up",
+      "artist": "Yves Larock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/09m1TcymsKszj3ito4Hmp7",
+      "notes": ""
+    }
+  ]
+}

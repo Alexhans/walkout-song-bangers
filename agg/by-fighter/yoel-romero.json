@@ -1,7 +1,7 @@
 {
   "fighter": "Yoel Romero",
   "slug": "yoel-romero",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Solado",
@@ -29,11 +29,20 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "Solado",
+      "artist": "Juan Luis Guerra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 3
   }

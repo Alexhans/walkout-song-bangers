@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Lima",
   "slug": "andre-lima",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "Galera Do Interior",
+      "artist": "Bareos Da Pisadinha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gtf3d3byB1LJB8APmlPvi",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

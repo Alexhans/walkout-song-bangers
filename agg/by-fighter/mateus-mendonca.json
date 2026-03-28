@@ -1,0 +1,22 @@
+{
+  "fighter": "Mateus Mendonca",
+  "slug": "mateus-mendonca",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Never Safe",
+      "artist": "Frannk Whitte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

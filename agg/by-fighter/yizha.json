@@ -1,7 +1,7 @@
 {
   "fighter": "Yizha",
   "slug": "yizha",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Go Play",
@@ -11,11 +11,20 @@
       "event": "UFC 325: Volkanovski vs. Lopes 2",
       "event_slug": "ufc-325",
       "date": "2026-01-31"
+    },
+    {
+      "song_title": "Go Play",
+      "artist": "Debal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

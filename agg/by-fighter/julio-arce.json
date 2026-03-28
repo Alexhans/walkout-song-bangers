@@ -1,7 +1,7 @@
 {
   "fighter": "Julio Arce",
   "slug": "julio-arce",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Vivir Mi Vida",
@@ -13,6 +13,15 @@
       "date": "2018-11-03"
     },
     {
+      "song_title": "Vivir Mi Vida (Pop Version)",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JZM6t7gVvH5KNPNjj2Z94",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
       "song_title": "Vivir Mi Vida",
       "artist": "Marc Anthony",
       "confidence": "bronze",
@@ -20,12 +29,21 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

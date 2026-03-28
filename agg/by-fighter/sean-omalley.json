@@ -1,8 +1,26 @@
 {
   "fighter": "Sean O'Malley",
   "slug": "sean-omalley",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "Goat talk - Sugar Sean",
+      "artist": "J. Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
     {
       "song_title": "Goat Talk",
       "artist": "J Rob",
@@ -20,6 +38,15 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Mapi",
+      "artist": "6ix9ine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "Super Gremlin",
@@ -59,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 7
   }
 }

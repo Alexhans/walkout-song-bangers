@@ -1,8 +1,17 @@
 {
   "fighter": "Angela Hill",
   "slug": "angela-hill",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Skulls",
+      "artist": "Misfits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
     {
       "song_title": "We Ready",
       "artist": "Archie Eversole",
@@ -20,12 +29,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Nao Quer Chifre",
+      "artist": "MC Frog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

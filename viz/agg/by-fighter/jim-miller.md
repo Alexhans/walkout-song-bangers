@@ -1,6 +1,6 @@
 # Jim Miller
 
-7 event(s) | 7 song(s) found | 4 unique
+8 event(s) | 8 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2022-07-02 | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Iron Man | Black Sabbath | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
 | 2024-11-16 | [UFC 309: Jones vs. Miocic](../../ufc-309.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
+| 2024-01-13 | [UFC Fight Night: Ankalaev vs. Walker 2](../../ufc-fight-night-ankalaev-vs-walker-2.md) | Bad Moon Rising | Credence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |

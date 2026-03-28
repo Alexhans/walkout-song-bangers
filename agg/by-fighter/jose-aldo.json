@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Aldo",
   "slug": "jose-aldo",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Run This Town",
@@ -32,6 +32,24 @@
     },
     {
       "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "Run This Town",
       "artist": "Jay Z",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

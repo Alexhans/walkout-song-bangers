@@ -1,0 +1,22 @@
+{
+  "fighter": "Deron Winn",
+  "slug": "deron-winn",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "In Vein",
+      "artist": "Rick Ross feat The Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fUjGXOEVP5dRaMFUO1cqG",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

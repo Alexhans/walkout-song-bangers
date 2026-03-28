@@ -1,0 +1,22 @@
+{
+  "fighter": "Michael Trizano",
+  "slug": "michael-trizano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Wild Side",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zVpUAOuXY7pHHSm21jFEq",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

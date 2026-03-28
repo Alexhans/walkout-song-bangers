@@ -1,0 +1,22 @@
+{
+  "fighter": "Lucie Pudilova",
+  "slug": "lucie-pudilova",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Rise of the Champion",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69jXvsj4MAqS8QIfR1HX1x",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

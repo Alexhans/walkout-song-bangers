@@ -1,0 +1,220 @@
+{
+  "event": "UFC 242: Khabib vs. Poirier",
+  "event_slug": "ufc-242",
+  "date": "2019-09-07",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-242-Walkout-Tracks-161405"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Khabib Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "Motownphilly / Hey Look Ma, I Made It",
+      "artist": "Boyz II Men / Panic! At the Disco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Motownphilly%20/%20Hey%20Look%20Ma%2C%20I%20Made%20It%20Boyz%20II%20Men%20/%20Panic%21%20At%20the%20Disco",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Vim, Vivi, Venci",
+      "artist": "MP Michael Puga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ywEuOUAaM0ANPJ0GzaMqF",
+      "notes": ""
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Davi Ramos",
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Ferreira",
+      "song_title": "Sweet Dreams",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "notes": ""
+    },
+    {
+      "fighter": "Mairbek Taisumov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrea Lee",
+      "song_title": "One Bad Bitch",
+      "artist": "Carroll Baker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5zCZ0P1ASe4ucjPO8p54lv",
+      "notes": ""
+    },
+    {
+      "fighter": "Zubaira Tukhugov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lerone Murphy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sarah Moras",
+      "song_title": "Decisions",
+      "artist": "Borgore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23c6mzrnqEoKw0tWpTWe2H",
+      "notes": ""
+    },
+    {
+      "fighter": "Liana Jojua",
+      "song_title": "Daukarit Rom Dzvel Xanjals",
+      "artist": "Dato Kenchiashvili da Ansambli Taoba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2P8sDZ1YQPuuK1emEfN8fz",
+      "notes": ""
+    },
+    {
+      "fighter": "Ottman Azaitar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Teemu Packalen",
+      "song_title": "Kipinan Hetki",
+      "artist": "Robin feat. Elastinen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1f9Vc7z6Yj3DcttF9Svo33",
+      "notes": ""
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Takashi Sato",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Muslim Salikhov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nordine Taleb",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Zak Cummings",
+      "song_title": "Kick it in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "notes": ""
+    },
+    {
+      "fighter": "Don Madge",
+      "song_title": "Money Man",
+      "artist": "A$AP Mob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0foRpYmPs9PHIAMyXa5bTc",
+      "notes": ""
+    },
+    {
+      "fighter": "Fares Ziam",
+      "song_title": "Never Personal",
+      "artist": "Lacrim feat. Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3remNAnjEnr4QukFZJyMX6",
+      "notes": ""
+    }
+  ]
+}

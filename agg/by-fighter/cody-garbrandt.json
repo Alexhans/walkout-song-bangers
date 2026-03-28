@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Garbrandt",
   "slug": "cody-garbrandt",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "We Will Rock You",
@@ -29,6 +29,24 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "Thunderstruck",
@@ -68,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
     "unique_songs": 2
   }

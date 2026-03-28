@@ -1,10 +1,12 @@
 # Aljamain Sterling
 
-6 event(s) | 4 song(s) found | 4 unique
+8 event(s) | 4 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2017-07-29 | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | Big Rich Town | 50 Cent | [Listen](https://open.spotify.com/track/6J8sIQRDr96yMAj2OquEkj) |
+| 2019-06-08 | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |
+| 2020-06-06 | [UFC 250: Nunes vs. Spencer](../../ufc-250.md) | — | — | |
 | 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |
 | 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Empire State of Mind | Jay Z and Alica Keys, “It’s All About the Benjamins” by Puff Daddy, “Go Dumb” by Aljamain Sterling and “Just Wanna Rock” by Lil’ Uzi Vert | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |

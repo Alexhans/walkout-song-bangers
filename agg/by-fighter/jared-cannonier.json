@@ -1,7 +1,7 @@
 {
   "fighter": "Jared Cannonier",
   "slug": "jared-cannonier",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Fight",
@@ -11,6 +11,15 @@
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
       "song_title": "Nuthin' but a G Thang",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 2,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 2
   }
 }

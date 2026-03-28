@@ -1,7 +1,7 @@
 {
   "fighter": "Matt Schnell",
   "slug": "matt-schnell",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Dancing in the Moonlight",
@@ -20,12 +20,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "Danger",
+      "artist": "Mystikal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

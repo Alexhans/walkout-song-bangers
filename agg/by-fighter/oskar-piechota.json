@@ -1,0 +1,22 @@
+{
+  "fighter": "Oskar Piechota",
+  "slug": "oskar-piechota",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "J’y Suis Jamais Alle (Smoku Remix)",
+      "artist": "Yann Tierson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rTF5caaxlqLoBOj2GqE4f",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

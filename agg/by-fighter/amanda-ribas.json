@@ -1,7 +1,7 @@
 {
   "fighter": "Amanda Ribas",
   "slug": "amanda-ribas",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "Omnia",
+      "artist": "Fee Ra Huri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Ox6cVMhvW5nl3UForWFHa",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,0 +1,204 @@
+{
+  "event": "UFC 250: Nunes vs. Spencer",
+  "event_slug": "ufc-250",
+  "date": "2020-06-06",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-250-Walkout-Tracks-173285"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Felicia Spencer",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Raphael Assuncao",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Victory Lap",
+      "artist": "Macklemore X Ryan Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Rocco Martin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Goat talk - Sugar Sean",
+      "artist": "J. Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "notes": ""
+    },
+    {
+      "fighter": "Eddie Wineland",
+      "song_title": "Seven Bridges Road",
+      "artist": "The Eagles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rqcK2dzUrBQ7p4VUnQ4Jt",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Caceres",
+      "song_title": "This is America",
+      "artist": "Childish Gambino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "Keep it Thoro",
+      "artist": "Prodigy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yX1VnMvtK1QNNHF3JQYMP",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Hurricane",
+      "artist": "Bob Dylan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "Falling",
+      "artist": "Trevor Daniel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w",
+      "notes": ""
+    },
+    {
+      "fighter": "Maki Pitolo",
+      "song_title": "Wont Back Down",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7kNlRLC9PEH8nXMVawssMx",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Byrd",
+      "song_title": "Odze (Throwback GH)",
+      "artist": "Odo Addy & Kukrudu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Jussier Formiga",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun feat. Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Evan Dunham",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    }
+  ]
+}

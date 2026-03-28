@@ -1,7 +1,7 @@
 {
   "fighter": "Elizeu Zaleski dos Santos",
   "slug": "elizeu-zaleski-dos-santos",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "The Final Countdown",
@@ -11,11 +11,20 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

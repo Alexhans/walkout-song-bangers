@@ -1,0 +1,31 @@
+{
+  "fighter": "Eddie Wineland",
+  "slug": "eddie-wineland",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Big Iron",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hkuQmFxGs85zE6dyofTPY",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "Seven Bridges Road",
+      "artist": "The Eagles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rqcK2dzUrBQ7p4VUnQ4Jt",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

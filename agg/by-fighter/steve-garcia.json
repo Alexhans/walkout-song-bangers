@@ -1,7 +1,7 @@
 {
   "fighter": "Steve Garcia",
   "slug": "steve-garcia",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "God's Country",
@@ -20,12 +20,21 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
+    },
+    {
+      "song_title": "Long Live The Champion",
+      "artist": "Kb, Gabriel Emc, Yariel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

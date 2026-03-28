@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Allen vs. Curtis 2",
+  "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+  "date": "2024-04-06",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120031284.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Nipsey Freestyle",
+      "artist": "Dirty Sauce Dallas, “You Hate Me” by Fredo Bang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Damon Jackson",
+      "song_title": "Iron Man",
+      "artist": "Yookie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ePpfNl7gG0spWqhWucL6L",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chepe Mariscal",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "notes": ""
+    },
+    {
+      "fighter": "Morgan Charriere",
+      "song_title": "Dolce Camara",
+      "artist": "Booba feat. SDM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1N933dERlshNUoAZ9FxEW1",
+      "notes": ""
+    },
+    {
+      "fighter": "Ignacio Bahamondes",
+      "song_title": "Paz En La Tormenta",
+      "artist": "Marcos Yaroide",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XLRyQoA7URPXazTLuLUQM",
+      "notes": ""
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "Real American",
+      "artist": "Rick Derringer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Campbell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Peek",
+      "song_title": "Pretty Little Devil",
+      "artist": "Shaya Zamora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Enemies",
+      "artist": "Eleine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz",
+      "notes": ""
+    },
+    {
+      "fighter": "Court McGee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lukasz Brzeski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Valter Walker",
+      "song_title": "Wardruna – Voluspa",
+      "artist": "Isaac Rosas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
+      "notes": ""
+    },
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "Techno Boxe",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz",
+      "notes": ""
+    },
+    {
+      "fighter": "Germaine de Randamie",
+      "song_title": "Texas Hold ‘Em",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Hugo",
+      "song_title": "Grey (Mixed)",
+      "artist": "Defected In The House Radio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GdltCisTMzR8uuJacCpND",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Falcao",
+      "song_title": "Can’t Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Jean Matsumoto",
+      "song_title": "Vida Blindada",
+      "artist": "Andrezhinho Shock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Qfec2Y8mXQvDB8UWe1WBx",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Argueta",
+      "song_title": "Psycho Killer",
+      "artist": "Talking Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+      "notes": ""
+    },
+    {
+      "fighter": "Cesar Almeida",
+      "song_title": "DNA",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "notes": ""
+    },
+    {
+      "fighter": "Dylan Budka",
+      "song_title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE",
+      "notes": ""
+    },
+    {
+      "fighter": "Nora Cornolle",
+      "song_title": "L’intro Du General",
+      "artist": "Mac Tyer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4F88X0uDha8nF6ZnmAsZtV",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Mullins",
+      "song_title": "Dancing in the Moonlight",
+      "artist": "Toploader",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od",
+      "notes": ""
+    }
+  ]
+}

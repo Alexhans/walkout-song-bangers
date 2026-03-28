@@ -1,0 +1,31 @@
+{
+  "fighter": "Montel Jackson",
+  "slug": "montel-jackson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "We Ball",
+      "artist": "Meek Mill feat. Young Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mlkO7fkD1tJrxoqOMGzqF",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,26 @@
 {
   "fighter": "Blagoy Ivanov",
   "slug": "blagoy-ivanov",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Yaku",
+      "artist": "Kapitan Petko Voivoda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mPlZuKUjnHvBhxsprhqyw",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
     {
       "song_title": "MIKE TYSON SONG",
       "artist": "DMX",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

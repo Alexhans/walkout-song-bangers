@@ -1,7 +1,7 @@
 {
   "fighter": "Felipe dos Santos",
   "slug": "felipe-dos-santos",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Priordade",
@@ -11,12 +11,30 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "Cancao Pra Deus",
+      "artist": "Debora Duarte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w7Xwcr7QRC9DqBcKfoFm1",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    },
+    {
+      "song_title": "Linda Momento",
+      "artist": "Julliany Souza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OODfCr6sj6bd9m5Vi0NJW",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

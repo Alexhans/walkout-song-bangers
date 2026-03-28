@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Ige",
   "slug": "dan-ige",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Digging for Windows",
@@ -11,6 +11,15 @@
       "event": "UFC 247: Jones vs. Reyes",
       "event_slug": "ufc-247",
       "date": "2020-02-08"
+    },
+    {
+      "song_title": "Dynamite",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40BM1C9FbxxDT5Dcip8jNc",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "Voodoo Child",
@@ -40,6 +49,24 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "Down",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5joOfvaQlHiwKk75rSgjgh",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    },
+    {
+      "song_title": "Bring Your Whole Crew",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
+    },
+    {
       "song_title": "Bring Your Whole Crew",
       "artist": "DMX",
       "confidence": "bronze",
@@ -50,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

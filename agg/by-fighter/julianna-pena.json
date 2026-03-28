@@ -1,7 +1,7 @@
 {
   "fighter": "Julianna Pena",
   "slug": "julianna-pena",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Seven Nation Army",
@@ -22,6 +22,15 @@
       "date": "2021-01-23"
     },
     {
+      "song_title": "Psycho",
+      "artist": "Puddle of Mudd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

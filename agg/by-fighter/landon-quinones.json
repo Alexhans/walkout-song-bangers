@@ -1,7 +1,7 @@
 {
   "fighter": "Landon Quinones",
   "slug": "landon-quinones",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Twinz (Deep Cover 98)",
@@ -11,12 +11,21 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

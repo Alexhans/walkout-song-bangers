@@ -1,7 +1,7 @@
 {
   "fighter": "Kelvin Gastelum",
   "slug": "kelvin-gastelum",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Jesus Walks",
@@ -26,15 +26,33 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 5,
     "with_song": 2,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 2
   }
 }

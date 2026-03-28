@@ -1,7 +1,7 @@
 {
   "fighter": "Anthony Pettis",
   "slug": "anthony-pettis",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Showtime",
@@ -56,12 +56,21 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

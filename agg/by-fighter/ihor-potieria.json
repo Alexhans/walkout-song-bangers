@@ -1,7 +1,7 @@
 {
   "fighter": "Ihor Potieria",
   "slug": "ihor-potieria",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Welcome to Ukraine",
@@ -29,12 +29,21 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "Another Love",
+      "artist": "Tom Odell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

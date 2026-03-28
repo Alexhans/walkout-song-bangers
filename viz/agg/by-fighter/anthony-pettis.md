@@ -1,6 +1,6 @@
 # Anthony Pettis
 
-6 event(s) | 5 song(s) found | 5 unique
+7 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2018-10-06 | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | All Eyez on Me | 2Pac | [Listen](https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo) |
 | 2019-08-17 | [UFC 241: Cormier vs. Miocic 2](../../ufc-241.md) | Hate Me Now | Nas | [Listen](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) |
 | 2020-01-18 | [UFC 246: McGregor vs. Cowboy](../../ufc-246.md) | Showtime | Tum Tum feat. Jim Jones | [Listen](https://open.spotify.com/track/4fhtqfdH6kVfNcnM0NkECz) |
+| 2020-05-09 | [UFC 249: Ferguson vs. Gaethje](../../ufc-249.md) | — | — | |

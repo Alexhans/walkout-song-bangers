@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+  "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+  "date": "2024-01-13",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130058377.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "The Rev3nge",
+      "artist": "Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Simon",
+      "song_title": "Ricky",
+      "artist": "Denzel Curry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2QbGvQssb0VLLS4x5NOmyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "Deus e Por Nos",
+      "artist": "MC Marks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jcGoHrqfRW6fI2I6xtwBQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Waldo Cortes Acosta",
+      "song_title": "Buscandole a la Suerte",
+      "artist": "Julion Alvarez y su Norteno Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "God’s Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "Preston Parsons",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Matthew Semelsberger",
+      "song_title": "Deep Purple",
+      "artist": "Sixdust",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2sxP95dtSLmwx6EC3nNF8Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcus McGhee",
+      "song_title": "Wartime",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GxowGnhuLNVnBCnUEZA8Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Gaston Bolanos",
+      "song_title": "Soy el Diablo",
+      "artist": "Natanael Cano and Bad Bunny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz",
+      "notes": ""
+    },
+    {
+      "fighter": "Farid Basharat",
+      "song_title": "Blue Parrot (No Mercy)",
+      "artist": "Alan Silvestri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01VjVryFnQ9CpSyCqoq5YZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Taylor Lapilus",
+      "song_title": "Some Nights",
+      "artist": "fun.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jean Silva",
+      "song_title": "Earth Melodies",
+      "artist": "Ekaterina Shelehova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XN3MLpVCSgyeei69MY7r2",
+      "notes": ""
+    },
+    {
+      "fighter": "Westin Wilson",
+      "song_title": "Pure Imagination",
+      "artist": "Andrew P. Oliver",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2U7SrhqZJ58Y5JixLly2oH",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolas Motta",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Tom Nolan",
+      "song_title": "El Diablo",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jRmKc69qzGKzGU9SdH5u7",
+      "notes": ""
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "Joshua the Fearless Van",
+      "artist": "Sui Ceu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Bunes",
+      "song_title": "We Gotta Power",
+      "artist": "Completo Portugues BR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/47dPnCWVGyRjtH04nZmxUv",
+      "notes": ""
+    }
+  ]
+}

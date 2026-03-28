@@ -1,7 +1,7 @@
 {
   "fighter": "Vitor Petrino",
   "slug": "vitor-petrino",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Bruno & Barretto",
@@ -22,6 +22,15 @@
       "date": "2024-05-04"
     },
     {
+      "song_title": "Abertura Oficial Vitor Petrino",
+      "artist": "DJ Ruan do Primerio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39wOrfz3Dcu2UnJAFPKJJe",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Os Baroes da Pisadinha",
+      "artist": "Galera do Interior",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OKvzalkd5mleOvq9ri50V",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

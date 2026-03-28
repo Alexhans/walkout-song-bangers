@@ -1,7 +1,7 @@
 {
   "fighter": "Renato Moicano",
   "slug": "renato-moicano",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Bad Man",
@@ -26,14 +26,32 @@
       "artist": "Edson Gomes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 2
   }

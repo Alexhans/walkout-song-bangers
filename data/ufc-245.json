@@ -1,0 +1,220 @@
+{
+  "event": "UFC 245: Usman vs. Covington",
+  "event_slug": "ufc-245",
+  "date": "2019-12-14",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-245-Walkout-Tracks-167481"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "Another Story & Anybody",
+      "artist": "Burna Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Another%20Story%20%26%20Anybody%20Burna%20Boy",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Colby Covington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Holloway",
+      "song_title": "B.O.M.B.S / Hawaiian Kickboxer",
+      "artist": "Fabolous/Moke Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/B.O.M.B.S%20/%20Hawaiian%20Kickboxer%20Fabolous/Moke%20Boy",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Germaine de Randamie",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Moraes",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "notes": ""
+    },
+    {
+      "fighter": "Urijah Faber",
+      "song_title": "California Love",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "Don’t Push Me",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Perry",
+      "song_title": "Forever",
+      "artist": "Tory Lanez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DOLdtTQJniutauEddHCoT",
+      "notes": ""
+    },
+    {
+      "fighter": "Irene Aldana",
+      "song_title": "Army of Me (Metal Remix)",
+      "artist": "Bjork",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UFQBhIOgANiBG44USIgsf",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Hurricane",
+      "artist": "Bob Dylan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I Am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Saunders",
+      "song_title": "Grew Up a Screw Up",
+      "artist": "Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BH06Z1ffWB6ug5tpju6JD",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "Visionz",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cuy0jpSxGAoTuJE0KORoR",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Teymur",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "The Greatest",
+      "artist": "Six60",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Eye",
+      "song_title": "You Should See Me in a Crown",
+      "artist": "Billie Eilish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Oskar Piechota",
+      "song_title": "J’y Suis Jamais Alle (Smoku Remix)",
+      "artist": "Yann Tierson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rTF5caaxlqLoBOj2GqE4f",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Gibson",
   "slug": "cody-gibson",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "A Beautiful Day",
@@ -11,12 +11,21 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "Sleeping on the Blacktop",
+      "artist": "Colter Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Sean Brady",
   "slug": "sean-brady",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "They Don't Love You No More",
@@ -20,12 +20,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "They Don't Love You No More",
+      "artist": "Dj Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yxwAEwY9LD120AcB4nGJx",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

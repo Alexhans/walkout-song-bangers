@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Moreno vs. Royval 2",
+  "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+  "date": "2024-02-24",
+  "location": "Mexico City, Distrito Federal, Mexico",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130032838.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "El Corrido Del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Ortega",
+      "song_title": "El Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8",
+      "notes": ""
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Corrido De Chihuahua",
+      "artist": "Los Reileros Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "Golden Boy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yazmin Jauregui",
+      "song_title": "Nueva Vida",
+      "artist": "Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Hughes",
+      "song_title": "Chambea",
+      "artist": "Bad Bunny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy",
+      "notes": ""
+    },
+    {
+      "fighter": "Manuel Torres",
+      "song_title": "Gente Del Oriente",
+      "artist": "Greeg Mora feat. Joaquin Medina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GFL6sSPwZP1QyOqygxzz9",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Duncan",
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "notes": ""
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "Brillo",
+      "artist": "Natanael Cano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristian Quinonez",
+      "song_title": "Siempre Listos Para Pelear",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Rbe0ugtln9f1XSS5cvLTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesus Aguilar",
+      "song_title": "Nada Es Coincidencia",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7maoQr1s4iFoMlfJVy3uD4",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateus Mendonca",
+      "song_title": "Never Safe",
+      "artist": "Frannk Whitte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29",
+      "notes": ""
+    },
+    {
+      "fighter": "Edgar Chairez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Lacerda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Fares Ziam",
+      "song_title": "Toda La Noche",
+      "artist": "Jul feat. Naps & Morad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Puelles",
+      "song_title": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Ronaldo Rodriguez",
+      "song_title": "Por Mi Mexico",
+      "artist": "Lefty Sm feat. Santa Fe Klan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79",
+      "notes": ""
+    },
+    {
+      "fighter": "Denys Bondar",
+      "song_title": "My Face",
+      "artist": "Biga Ranx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hN16Iy4yxIj4gIzhzeQ6K",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe dos Santos",
+      "song_title": "Linda Momento",
+      "artist": "Julliany Souza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OODfCr6sj6bd9m5Vi0NJW",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Altamirano",
+      "song_title": "Como Te Voy A Olvidar",
+      "artist": "Los Angeles Azules",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Naimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Erik Silva",
+      "song_title": "I Am Not Done",
+      "artist": "Rob Bailey & The Hustle Standard feat. Moxiie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3aVLHXxmo6fHFA7xTWlgR1",
+      "notes": ""
+    }
+  ]
+}

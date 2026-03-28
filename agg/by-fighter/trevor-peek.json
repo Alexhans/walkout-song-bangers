@@ -1,7 +1,7 @@
 {
   "fighter": "Trevor Peek",
   "slug": "trevor-peek",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Don’t Tread On Me",
@@ -11,12 +11,39 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "Pretty Little Devil",
+      "artist": "Shaya Zamora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
+    },
+    {
+      "song_title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    },
+    {
+      "song_title": "Brighter Than Gold",
+      "artist": "Louis II",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6IjOJrUHQJgSWxrNT0Ud9e",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Oliveira",
   "slug": "charles-oliveira",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "O Hino",
@@ -11,6 +11,15 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Escrito",
+      "artist": "Xande de Pilares",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6x5e5VKWm3nquEZPy1WMup",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 5,
     "missing": 3,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

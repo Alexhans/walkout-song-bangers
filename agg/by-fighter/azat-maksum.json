@@ -1,0 +1,22 @@
+{
+  "fighter": "Azat Maksum",
+  "slug": "azat-maksum",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Field Men",
+      "artist": "Nasr feat. Raim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

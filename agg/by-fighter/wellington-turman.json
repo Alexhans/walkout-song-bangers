@@ -1,0 +1,22 @@
+{
+  "fighter": "Wellington Turman",
+  "slug": "wellington-turman",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

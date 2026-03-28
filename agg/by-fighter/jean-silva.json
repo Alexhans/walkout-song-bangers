@@ -1,7 +1,7 @@
 {
   "fighter": "Jean Silva",
   "slug": "jean-silva",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Earth Melodies",
@@ -20,11 +20,20 @@
       "event": "UFC 324: Gaethje vs. Pimblett",
       "event_slug": "ufc-324",
       "date": "2026-01-24"
+    },
+    {
+      "song_title": "Earth Melodies",
+      "artist": "Ekaterina Shelehova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XN3MLpVCSgyeei69MY7r2",
+      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+      "date": "2024-01-13"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

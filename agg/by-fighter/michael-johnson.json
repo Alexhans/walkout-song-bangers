@@ -1,7 +1,7 @@
 {
   "fighter": "Michael Johnson",
   "slug": "michael-johnson",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Welcome to New York City",
@@ -29,12 +29,21 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "I Can",
+      "artist": "Chronixx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Su97fVLPkoNUafpnbB0yK",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

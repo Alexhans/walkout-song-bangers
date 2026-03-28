@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Prates",
   "slug": "carlos-prates",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Purple Lamborghini",
@@ -20,11 +20,20 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Marolento",
+      "artist": "Puterrier feat. Borges",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7twIB4sebMEzPjHCoZiOVo",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

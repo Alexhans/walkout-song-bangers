@@ -1,0 +1,22 @@
+{
+  "fighter": "Luke Jumeau",
+  "slug": "luke-jumeau",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Dreaming",
+      "artist": "Scribe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2DRHvVOlWg7Z3pkzn58Jrh",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

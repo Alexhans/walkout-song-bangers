@@ -1,0 +1,236 @@
+{
+  "event": "UFC 281: Adesanya vs. Pereira",
+  "event_slug": "ufc-281",
+  "date": "2022-11-12",
+  "location": "New York City, New York, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130027652.html"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Alex Pereira",
+      "song_title": "Itsari",
+      "artist": "Sepultura",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+      "notes": ""
+    },
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "Swordsman & Sea of Laughter",
+      "artist": "Huangshan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Swordsman%20%26%20Sea%20of%20Laughter%20Huangshan",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "I’m Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Chandler",
+      "song_title": "Paid My Dues” and “The Search",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ziQdexOHyC2gkZ1iNoi1w",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gutierrez",
+      "song_title": "Bandoleros",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "Kick in the Door",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24CA5I411NVDYodjjmKPx3",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Puelles",
+      "song_title": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Riddell",
+      "song_title": "Last Last",
+      "artist": "Burna Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "I’m a Go Getta",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Polo & Shell Tops",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Polo%20%26%20Shell%20Tops%20Meek%20Mill",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Wellington Turman",
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alicia Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Frevola",
+      "song_title": "Narco",
+      "artist": "Blasterjaxx & Timmy Trumpet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
+      "notes": ""
+    },
+    {
+      "fighter": "Ottman Azaitar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "La Bestia Pop",
+      "artist": "Patricio Rey y Sus Redonditos de Ricota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Trizano",
+      "song_title": "Wild Side",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zVpUAOuXY7pHHSm21jFEq",
+      "notes": ""
+    },
+    {
+      "fighter": "SeungWoo Choi",
+      "song_title": "Rag ‘N’ Bone Man",
+      "artist": "Human",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "notes": ""
+    },
+    {
+      "fighter": "Montel Jackson",
+      "song_title": "We Ball",
+      "artist": "Meek Mill feat. Young Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mlkO7fkD1tJrxoqOMGzqF",
+      "notes": ""
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "The Climb Back",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolae Negumereanu",
+      "song_title": "Pe Cai",
+      "artist": "Trap Romanesc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75",
+      "notes": ""
+    }
+  ]
+}

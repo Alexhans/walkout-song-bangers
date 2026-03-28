@@ -1,0 +1,22 @@
+{
+  "fighter": "BJ Penn",
+  "slug": "bj-penn",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Hawaii 78",
+      "artist": "Israel Kamakawiwo’ole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Fk6COKDCRgoFKQx9wzpVF",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

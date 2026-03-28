@@ -1,7 +1,7 @@
 {
   "fighter": "Urijah Faber",
   "slug": "urijah-faber",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "California Love",
@@ -11,12 +11,21 @@
       "event": "UFC 203: Miocic vs. Overeem",
       "event_slug": "ufc-203",
       "date": "2016-09-10"
+    },
+    {
+      "song_title": "California Love",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

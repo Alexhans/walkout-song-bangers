@@ -1,0 +1,22 @@
+{
+  "fighter": "Chris Padilla",
+  "slug": "chris-padilla",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Boogieman",
+      "artist": "EBK Jaaybo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4oxDHyzQF7QgUBtm9AT3fH",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

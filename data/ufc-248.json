@@ -1,0 +1,188 @@
+{
+  "event": "UFC 248: Adesanya vs. Romero",
+  "event_slug": "ufc-248",
+  "date": "2020-03-07",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.sherdog.com/news/articles/The-Walkmen-All-UFC-248-Walkout-Tracks-171225"
+  ],
+  "generated_at": "2026-03-28",
+  "songs": [
+    {
+      "fighter": "Israel Adesanya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yoel Romero",
+      "song_title": "Solado",
+      "artist": "Juan Luis Guerra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhang Weili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Li Jingliang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Ta Escrito",
+      "artist": "Grupo Revelacao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "On God",
+      "artist": "Mustard feat. A$AP Ferg, YG, Tyga and A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3O7lxdQoe1aNWs93VSHsJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean O'Malley",
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Quinonez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Man on a Mission",
+      "artist": "Oh the Larceny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodolfo Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Saparbeg Safarov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Deron Winn",
+      "song_title": "In Vein",
+      "artist": "Rick Ross feat The Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fUjGXOEVP5dRaMFUO1cqG",
+      "notes": ""
+    },
+    {
+      "fighter": "Giga Chikadze",
+      "song_title": "Samani",
+      "artist": "Chabuka Amiranashvili",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46DNp5QTdfghwXQRZiNoWA",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "In the Field",
+      "artist": "Pardison Fontaine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H9aTYVzqO4evUIW6A3VRH",
+      "notes": ""
+    },
+    {
+      "fighter": "Batgerel Danaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Guido Cannetti",
+      "song_title": "Dr. Panico",
+      "artist": "Clinch!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM",
+      "notes": ""
+    }
+  ]
+}

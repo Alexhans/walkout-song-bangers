@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Jourdain",
   "slug": "charles-jourdain",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "John Wick Mode",
@@ -29,12 +29,30 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Blood Code",
+      "artist": "Le Castle Vania",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    },
+    {
+      "song_title": "in the Face of Evil",
+      "artist": "Magic Sword",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }
