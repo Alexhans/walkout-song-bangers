@@ -68,10 +68,12 @@ class RunLogger:
             self.data["timings_ms"][name] = elapsed_ms
             self.append("stage_end", stage=name, elapsed_ms=elapsed_ms)
 
-    def finalize(self) -> Path:
+    def finalize(self, error: dict | None = None) -> Path:
         total_ms = round((time.perf_counter() - self._started_perf) * 1000, 1)
         self.data["finished_at"] = _utc_now()
         self.data["total_ms"] = total_ms
+        if error is not None:
+            self.data["error"] = error
         LOG_ROOT.mkdir(parents=True, exist_ok=True)
         stamp = self.started_at.replace(":", "-")
         path = LOG_ROOT / f"{stamp}-{_safe_name(self.script)}-{_safe_name(self.subject)}.json"
