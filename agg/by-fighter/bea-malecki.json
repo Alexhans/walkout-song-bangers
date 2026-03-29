@@ -1,0 +1,22 @@
+{
+  "fighter": "Bea Malecki",
+  "slug": "bea-malecki",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Let's Do It Again",
+      "artist": "J Boog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

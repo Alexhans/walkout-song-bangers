@@ -1,7 +1,7 @@
 {
   "fighter": "Clay Guida",
   "slug": "clay-guida",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "My Hero",
@@ -11,6 +11,15 @@
       "event": "UFC 237: Namajunas vs. Andrade",
       "event_slug": "ufc-237",
       "date": "2019-05-11"
+    },
+    {
+      "song_title": "Youth Gone Wild",
+      "artist": "Skid Row",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "Walk",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

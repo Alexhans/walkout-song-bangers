@@ -1,7 +1,7 @@
 {
   "fighter": "Randy Costa",
   "slug": "randy-costa",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Round Here",
@@ -20,11 +20,20 @@
       "event": "UFC 269: Oliveira vs. Poirier",
       "event_slug": "ufc-269",
       "date": "2021-12-11"
+    },
+    {
+      "song_title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

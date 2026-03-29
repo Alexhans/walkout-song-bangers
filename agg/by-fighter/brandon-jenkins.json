@@ -1,7 +1,7 @@
 {
   "fighter": "Brandon Jenkins",
   "slug": "brandon-jenkins",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Let's Groove",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
+    },
+    {
+      "song_title": "Right Back At It Again",
+      "artist": "A Day To Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YfF0cZEBtCju02dhXfifE",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

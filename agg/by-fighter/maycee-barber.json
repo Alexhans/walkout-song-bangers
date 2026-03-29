@@ -1,7 +1,7 @@
 {
   "fighter": "Maycee Barber",
   "slug": "maycee-barber",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Bad Guy",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Lemos vs. Andrade",
       "event_slug": "ufc-fight-night-lemos-vs-andrade",
       "date": "2022-04-23"
+    },
+    {
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

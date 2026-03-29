@@ -1,7 +1,7 @@
 {
   "fighter": "Jack Shore",
   "slug": "jack-shore",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Seven Nation Army",
@@ -20,6 +20,15 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     },
     {
       "song_title": "Hells Bells",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

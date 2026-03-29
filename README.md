@@ -58,8 +58,13 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
 | [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
 | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
+| [UFC Fight Night: Sandhagen vs. Dillashaw](viz/ufc-fight-night-sandhagen-vs-dillashaw.md) | 22 | 0 | 0 | 21 | 1 |
 | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC Fight Night: Cannonier vs. Gastelum](viz/ufc-fight-night-cannonier-vs-gastelum.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC Fight Night: Brunson vs. Till](viz/ufc-fight-night-brunson-vs-till.md) | 18 | 0 | 0 | 16 | 2 |
+| [UFC Fight Night: Smith vs. Spann](viz/ufc-fight-night-smith-vs-spann.md) | 28 | 0 | 0 | 25 | 3 |
 | [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC Fight Night: Santos vs. Walker](viz/ufc-fight-night-santos-vs-walker.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC Fight Night: Dern vs. Rodriguez](viz/ufc-fight-night-dern-vs-rodriguez.md) | 18 | 0 | 0 | 17 | 1 |
 | [UFC Fight Night: Ladd vs. Dumont](viz/ufc-fight-night-ladd-vs-dumont.md) | 20 | 0 | 0 | 19 | 1 |
 | [UFC Fight Night: Costa vs. Vettori](viz/ufc-fight-night-costa-vs-vettori.md) | 28 | 0 | 0 | 25 | 3 |

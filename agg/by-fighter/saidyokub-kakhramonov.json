@@ -1,8 +1,17 @@
 {
   "fighter": "Saidyokub Kakhramonov",
   "slug": "saidyokub-kakhramonov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Mortals",
+      "artist": "Warriyo feat. Laura Brehm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03T4jRQyNJcvZU0Md1SRDY",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
     {
       "song_title": "Run This Town",
       "artist": "Jay Z & Rihanna",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

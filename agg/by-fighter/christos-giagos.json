@@ -1,7 +1,7 @@
 {
   "fighter": "Christos Giagos",
   "slug": "christos-giagos",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -35,14 +35,23 @@
       "artist": "Imagine Dragons",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "Natural",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 2
   }

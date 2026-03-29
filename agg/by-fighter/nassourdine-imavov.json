@@ -1,7 +1,7 @@
 {
   "fighter": "Nassourdine Imavov",
   "slug": "nassourdine-imavov",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2022-09-03"
     },
     {
+      "song_title": "We Are Now Free",
+      "artist": "Dave Pearce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RSAQw13BZJBeZiXpBKjz0",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
       "song_title": "Tomorrow",
       "artist": "Sadio",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

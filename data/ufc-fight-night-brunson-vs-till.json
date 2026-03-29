@@ -1,0 +1,156 @@
+{
+  "event": "UFC Fight Night: Brunson vs. Till",
+  "event_slug": "ufc-fight-night-brunson-vs-till",
+  "date": "2021-09-04",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/09/05/ufc-fight-night-191-las-vegas-walkout-songs-music-wu-tang-clan/81482921007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Till",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tom Aspinall",
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "notes": ""
+    },
+    {
+      "fighter": "Serghei Spivac",
+      "song_title": "Shiroka Reka",
+      "artist": "Nadezhda Kadysheva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Zombies Ate My Pirate Ship",
+      "artist": "Alestorm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89",
+      "notes": ""
+    },
+    {
+      "fighter": "David Zawada",
+      "song_title": "Bloodsport – Finals",
+      "artist": "Paul Hertzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g1hzwYqp5kmWkzMcowmUP",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Protect Ya Neck",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "Fighting",
+      "artist": "A.J. Tracey feat. Maniac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2CSKWDE8h8SgC8X7XyYbw6",
+      "notes": ""
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry",
+      "artist": "Sunnary James and Ryan Maraciano, \"Heads Will Roll\" by Yeah Yeah Yeahs feat. A Trak",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Luigi Vendramini",
+      "song_title": "Deus E Nosso Pai",
+      "artist": "Guind Art 121",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lzhLPUbL7VFTNKFuTVMBs",
+      "notes": ""
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "notes": ""
+    },
+    {
+      "fighter": "Ji Yeon Kim",
+      "song_title": "What Type of X",
+      "artist": "Jessi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "notes": ""
+    },
+    {
+      "fighter": "Liudvik Sholinian",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Julian Erosa",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Glaive",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Grateful",
+      "artist": "Neffex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "notes": ""
+    },
+    {
+      "fighter": "Dalcha Lungiambula",
+      "song_title": "Champion",
+      "artist": "Fireboy DML and D Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "notes": ""
+    }
+  ]
+}

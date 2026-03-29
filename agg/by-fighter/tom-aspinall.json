@@ -1,7 +1,7 @@
 {
   "fighter": "Tom Aspinall",
   "slug": "tom-aspinall",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Englishman in New York",
@@ -35,14 +35,23 @@
       "artist": "Curtis Mayfield",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

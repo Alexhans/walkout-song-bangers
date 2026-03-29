@@ -1,7 +1,7 @@
 {
   "fighter": "Punahele Soriano",
   "slug": "punahele-soriano",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -44,6 +44,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 4,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 4
   }
 }

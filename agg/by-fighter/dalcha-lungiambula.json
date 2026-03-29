@@ -1,7 +1,7 @@
 {
   "fighter": "Dalcha Lungiambula",
   "slug": "dalcha-lungiambula",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Fireboy DML and D Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     },
     {
       "song_title": "Buffalo Soldier",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

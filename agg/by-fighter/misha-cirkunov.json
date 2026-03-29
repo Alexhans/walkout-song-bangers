@@ -1,7 +1,7 @@
 {
   "fighter": "Misha Cirkunov",
   "slug": "misha-cirkunov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Started from the Bottom",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Makhachev vs. Green",
       "event_slug": "ufc-fight-night-makhachev-vs-green",
       "date": "2022-02-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 1,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Raquel Pennington",
   "slug": "raquel-pennington",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Can't Hold Us",
@@ -58,6 +58,15 @@
       "date": "2024-10-05"
     },
     {
+      "song_title": "Ramen & OJ",
+      "artist": "Joyner Lucas & Lil Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ramen%20%26%20OJ%20Joyner%20Lucas%20%26%20Lil%20Baby",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "song_title": "The Bravest",
       "artist": "Sir Roosevelt",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Kyle Daukaus",
   "slug": "kyle-daukaus",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "The Man",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Kattar vs. Emmett",
       "event_slug": "ufc-fight-night-kattar-vs-emmett",
       "date": "2022-06-18"
+    },
+    {
+      "song_title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     },
     {
       "song_title": "The Rain",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Pannie Kianzad",
   "slug": "pannie-kianzad",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Be My Lover",
@@ -22,6 +22,15 @@
       "date": "2022-04-16"
     },
     {
+      "song_title": "Paradise",
+      "artist": "Da Buzz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p5FUOjdogoQ4tLsHZQci8",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "song_title": "Bakhtiari",
       "artist": "Behrooz Sektor",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

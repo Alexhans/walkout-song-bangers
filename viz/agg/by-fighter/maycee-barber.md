@@ -1,6 +1,6 @@
 # Maycee Barber
 
-6 event(s) | 4 song(s) found | 4 unique
+7 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2026-03-28 | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | — | — | |
 | 2023-06-24 | [UFC Fight Night: Emmett vs. Topuria](../../ufc-fight-night-emmett-vs-topuria.md) | Somethin’ Bad | Miranda Lambert feat. Carrie Underwood | [Listen](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) |
 | 2022-04-23 | [UFC Fight Night: Lemos vs. Andrade](../../ufc-fight-night-lemos-vs-andrade.md) | The Champion | Carrie Underwood | [Listen](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) |
+| 2021-07-24 | [UFC Fight Night: Sandhagen vs. Dillashaw](../../ufc-fight-night-sandhagen-vs-dillashaw.md) | The Champion | Carrie Underwood feat. Ludacris | [Listen](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) |

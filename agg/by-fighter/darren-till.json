@@ -1,7 +1,7 @@
 {
   "fighter": "Darren Till",
   "slug": "darren-till",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Sweet Caroline",
@@ -20,12 +20,21 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

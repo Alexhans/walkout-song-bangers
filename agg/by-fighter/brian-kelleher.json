@@ -1,7 +1,7 @@
 {
   "fighter": "Brian Kelleher",
   "slug": "brian-kelleher",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Blessed Up",
@@ -40,6 +40,15 @@
       "date": "2023-12-16"
     },
     {
+      "song_title": "The Business",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
       "song_title": "Rumble Young Man Rumble",
       "artist": "Juelz Santana",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

@@ -1,6 +1,6 @@
 # Kevin Holland
 
-9 event(s) | 9 song(s) found | 7 unique
+10 event(s) | 10 song(s) found | 8 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,4 +12,5 @@
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | Ghost | YoungBoy Never Broke Again | [Listen](https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY) |
 | 2023-09-16 | [UFC Fight Night: Grasso vs. Shevchenko 2](../../ufc-fight-night-grasso-vs-shevchenko-2.md) | Tell Me | MGF Bandit | [Listen](https://open.spotify.com/track/6Bekb2NCcVFVe7EKuMiogH) |
 | 2022-06-18 | [UFC Fight Night: Kattar vs. Emmett](../../ufc-fight-night-kattar-vs-emmett.md) | Goals | NBA Youngboy | [Listen](https://open.spotify.com/track/1KpuNcuR0KBVgHdO1IRwYA) |
+| 2021-10-02 | [UFC Fight Night: Santos vs. Walker](../../ufc-fight-night-santos-vs-walker.md) | All In | Lil' Baby | [Listen](https://open.spotify.com/track/0zlru783fmr588D5RY9ERU) |
 | 2022-12-03 | [UFC Fight Night: Thompson vs. Holland](../../ufc-fight-night-thompson-vs-holland.md) | Ghost | NBA Youngboy | [Listen](https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY) |

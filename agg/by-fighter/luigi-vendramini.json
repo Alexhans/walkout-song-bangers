@@ -1,0 +1,22 @@
+{
+  "fighter": "Luigi Vendramini",
+  "slug": "luigi-vendramini",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Deus E Nosso Pai",
+      "artist": "Guind Art 121",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lzhLPUbL7VFTNKFuTVMBs",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

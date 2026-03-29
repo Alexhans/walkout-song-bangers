@@ -1,7 +1,7 @@
 {
   "fighter": "Tafon Nchukwi",
   "slug": "tafon-nchukwi",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "the vibe – A COLORS SHOW",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Luque vs. Dos Anjos",
       "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
       "date": "2023-08-12"
+    },
+    {
+      "song_title": "Is You Ready",
+      "artist": "Migos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     },
     {
       "song_title": "Mr. Morale",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

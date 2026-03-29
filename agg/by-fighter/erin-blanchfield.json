@@ -1,7 +1,7 @@
 {
   "fighter": "Erin Blanchfield",
   "slug": "erin-blanchfield",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Remember the Name",
@@ -56,11 +56,20 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 2
   }

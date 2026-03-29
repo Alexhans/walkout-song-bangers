@@ -1,7 +1,7 @@
 {
   "fighter": "Austin Hubbard",
   "slug": "austin-hubbard",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2024-10-05"
     },
     {
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
       "song_title": "Good People",
       "artist": "Mumford and Sons feat. Pharrell Williams",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Fabio Cherant",
   "slug": "fabio-cherant",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "SUPER GREMLINS",
@@ -11,12 +11,21 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "Top",
+      "artist": "Fredo Bang feat. Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

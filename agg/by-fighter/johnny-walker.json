@@ -1,7 +1,7 @@
 {
   "fighter": "Johnny Walker",
   "slug": "johnny-walker",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -49,6 +49,15 @@
       "date": "2024-01-13"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
       "song_title": "The Business",
       "artist": "Tiesto",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 4,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 4
   }
 }

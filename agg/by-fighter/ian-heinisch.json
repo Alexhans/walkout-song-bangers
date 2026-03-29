@@ -1,7 +1,7 @@
 {
   "fighter": "Ian Heinisch",
   "slug": "ian-heinisch",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "All I Do Is Win",
@@ -38,11 +38,20 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Hurricane",
+      "artist": "Bob Dylan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

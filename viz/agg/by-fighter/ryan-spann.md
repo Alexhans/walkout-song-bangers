@@ -1,6 +1,6 @@
 # Ryan Spann
 
-8 event(s) | 8 song(s) found | 8 unique
+9 event(s) | 9 song(s) found | 9 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,5 @@
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | I'm a Go Getta | Lil Wayne |  |
 | 2022-05-14 | [UFC Fight Night: Blachowicz vs. Rakic](../../ufc-fight-night-blachowicz-vs-rakic.md) | It's Time for War | LL Cool J | [Listen](https://open.spotify.com/track/1dgJL7ysEGYgFXndee5sSa) |
 | 2024-04-27 | [UFC Fight Night: Nicolau vs. Perez](../../ufc-fight-night-nicolau-vs-perez.md) | 1st of tha Month | Bone Thugs N Harmony | [Listen](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) |
+| 2021-09-18 | [UFC Fight Night: Smith vs. Spann](../../ufc-fight-night-smith-vs-spann.md) | Go Off | Zauntee | [Listen](https://open.spotify.com/track/1RdoNyK4xUFUACBLkulejS) |
 | 2023-03-11 | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | Ready or Not | The Fugees | [Listen](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) |

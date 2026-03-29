@@ -1,7 +1,7 @@
 {
   "fighter": "Kelvin Gastelum",
   "slug": "kelvin-gastelum",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Jesus Walks",
@@ -53,14 +53,23 @@
       "artist": "Vicente Fernandez",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
       "event": "UFC Fight Night: Dariush vs. Tsarukyan",
       "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
       "date": "2023-12-02"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
     "unique_songs": 3
   }

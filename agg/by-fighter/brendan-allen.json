@@ -1,7 +1,7 @@
 {
   "fighter": "Brendan Allen",
   "slug": "brendan-allen",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -74,12 +74,21 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Ball if I Want To",
+      "artist": "DaBaby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

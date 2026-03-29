@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Maness",
   "slug": "nate-maness",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Mayhem",
@@ -26,14 +26,23 @@
       "artist": "YJ DonStatus",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 2
   }

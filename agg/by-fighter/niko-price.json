@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -67,6 +67,15 @@
       "date": "2026-02-07"
     },
     {
+      "song_title": "Glory",
+      "artist": "KJ 52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25SbOOleTxHDSSPZb7oSh4",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
       "song_title": "Glory to God",
       "artist": "KJ-52",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

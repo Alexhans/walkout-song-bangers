@@ -1,7 +1,7 @@
 {
   "fighter": "Elise Reed",
   "slug": "elise-reed",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Homecoming",
@@ -35,14 +35,23 @@
       "artist": "AJR",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "song_title": "Bang",
+      "artist": "AJR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 2
   }

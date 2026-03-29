@@ -1,7 +1,7 @@
 {
   "fighter": "Ramiz Brahimaj",
   "slug": "ramiz-brahimaj",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
+    },
+    {
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "Ghetto Prisoners",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

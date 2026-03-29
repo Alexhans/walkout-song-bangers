@@ -1,7 +1,7 @@
 {
   "fighter": "Julio Arce",
   "slug": "julio-arce",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Vivir Mi Vida",
@@ -56,11 +56,20 @@
       "event": "UFC Fight Night: Holloway vs. Rodriguez",
       "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
       "date": "2021-11-13"
+    },
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 3
   }

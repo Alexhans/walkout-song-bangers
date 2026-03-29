@@ -1,12 +1,13 @@
 # Charles Jourdain
 
-8 event(s) | 6 song(s) found | 6 unique
+9 event(s) | 7 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | John Wick Mode | Le Castle Vania | [Listen](https://open.spotify.com/track/2zwcnaxahJOnYwG0H6tXTz) |
 | 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | Led Spirals | Le Castle Vania | [Listen](https://open.spotify.com/track/3RxNoBUmsatoQ86dAhV92v) |
 | 2024-06-29 | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |
+| 2021-09-04 | [UFC Fight Night: Brunson vs. Till](../../ufc-fight-night-brunson-vs-till.md) | Glaive | Booba | [Listen](https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr) |
 | 2023-09-23 | [UFC Fight Night: Fiziev vs. Gamrot](../../ufc-fight-night-fiziev-vs-gamrot.md) | Blood Code | Le Castle Vania | [Listen](https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy) |
 | 2022-09-03 | [UFC Fight Night: Gane vs. Tuivasa](../../ufc-fight-night-gane-vs-tuivasa.md) | Glaive | Booba | [Listen](https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr) |
 | 2022-04-23 | [UFC Fight Night: Lemos vs. Andrade](../../ufc-fight-night-lemos-vs-andrade.md) | — | — | |

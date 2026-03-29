@@ -1,7 +1,7 @@
 {
   "fighter": "Domingo Pilarte",
   "slug": "domingo-pilarte",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Forever Flame",
@@ -11,12 +11,21 @@
       "event": "UFC 247: Jones vs. Reyes",
       "event_slug": "ufc-247",
       "date": "2020-02-08"
+    },
+    {
+      "song_title": "Wash Us in the Blood",
+      "artist": "Kanye West feat. Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mEUjhl6aTztdHCrxoTgBG",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

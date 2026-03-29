@@ -1,7 +1,7 @@
 {
   "fighter": "Kyler Phillips",
   "slug": "kyler-phillips",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -35,14 +35,23 @@
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
       "event": "UFC Fight Night: Sandhagen vs. Font",
       "event_slug": "ufc-fight-night-sandhagen-vs-font",
       "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
     "unique_songs": 1
   }

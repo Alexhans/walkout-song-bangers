@@ -1,6 +1,6 @@
 # Niko Price
 
-8 event(s) | 7 song(s) found | 5 unique
+9 event(s) | 8 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,5 @@
 | 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Glory to God | KJ-52, JONAH | [Listen](https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB) |
 | 2026-03-28 | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | — | — | |
 | 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Praise | Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore | [Listen](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) |
+| 2021-10-02 | [UFC Fight Night: Santos vs. Walker](../../ufc-fight-night-santos-vs-walker.md) | Glory | KJ 52 | [Listen](https://open.spotify.com/track/25SbOOleTxHDSSPZb7oSh4) |
 | 2022-12-03 | [UFC Fight Night: Thompson vs. Holland](../../ufc-fight-night-thompson-vs-holland.md) | Glory to God | KJ-52 | [Listen](https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB) |

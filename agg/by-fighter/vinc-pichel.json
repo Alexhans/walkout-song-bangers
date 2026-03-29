@@ -1,7 +1,7 @@
 {
   "fighter": "Vinc Pichel",
   "slug": "vinc-pichel",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Highway to Hell",
@@ -29,11 +29,20 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 2
   }

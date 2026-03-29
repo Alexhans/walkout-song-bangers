@@ -1,6 +1,6 @@
 # Raquel Pennington
 
-7 event(s) | 6 song(s) found | 4 unique
+8 event(s) | 7 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,4 +10,5 @@
 | 2022-04-09 | [UFC 273: Volkanovski vs. The Korean Zombie](../../ufc-273.md) | — | — | |
 | 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | The Bravest | Sir Roosevelt |  |
 | 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Can’t Hold Us | Macklemore & Ryan Lewis, feat. Ray Dalton | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
+| 2021-09-18 | [UFC Fight Night: Smith vs. Spann](../../ufc-fight-night-smith-vs-spann.md) | Ramen & OJ | Joyner Lucas & Lil Baby |  |
 | 2023-01-14 | [UFC Fight Night: Strickland vs. Imavov](../../ufc-fight-night-strickland-vs-imavov.md) | The Bravest | Sir Roosevelt | [Listen](https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3) |

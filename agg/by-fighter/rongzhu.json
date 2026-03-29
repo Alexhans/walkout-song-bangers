@@ -1,7 +1,7 @@
 {
   "fighter": "Rongzhu",
   "slug": "rongzhu",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "I Know?",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Makhachev vs. Green",
       "event_slug": "ufc-fight-night-makhachev-vs-green",
       "date": "2022-02-26"
+    },
+    {
+      "song_title": "Official MV",
+      "artist": "George Lam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

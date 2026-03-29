@@ -1,7 +1,7 @@
 {
   "fighter": "JP Buys",
   "slug": "jp-buys",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Made for This",
@@ -17,14 +17,23 @@
       "artist": "Satsang",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "I Am",
+      "artist": "Satsang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

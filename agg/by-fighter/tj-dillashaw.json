@@ -1,7 +1,7 @@
 {
   "fighter": "TJ Dillashaw",
   "slug": "tj-dillashaw",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Can't Be Touched",
@@ -29,11 +29,20 @@
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 3
   }

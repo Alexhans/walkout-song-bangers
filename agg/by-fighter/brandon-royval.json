@@ -1,7 +1,7 @@
 {
   "fighter": "Brandon Royval",
   "slug": "brandon-royval",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Hustler's Ambition",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "Shimmy Shimmy Ya",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

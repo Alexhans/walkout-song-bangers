@@ -1,6 +1,6 @@
 {
   "year": 2021,
-  "events": 13,
+  "events": 18,
   "tracks": [
     {
       "fighter": "Dustin Poirier",
@@ -1823,6 +1823,426 @@
       "date": "2021-12-11"
     },
     {
+      "fighter": "Derek Brunson",
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Darren Till",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Tom Aspinall",
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Serghei Spivac",
+      "song_title": "Shiroka Reka",
+      "artist": "Nadezhda Kadysheva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Zombies Ate My Pirate Ship",
+      "artist": "Alestorm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "David Zawada",
+      "song_title": "Bloodsport – Finals",
+      "artist": "Paul Hertzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g1hzwYqp5kmWkzMcowmUP",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Protect Ya Neck",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "Fighting",
+      "artist": "A.J. Tracey feat. Maniac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2CSKWDE8h8SgC8X7XyYbw6",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry",
+      "artist": "Sunnary James and Ryan Maraciano, \"Heads Will Roll\" by Yeah Yeah Yeahs feat. A Trak",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Luigi Vendramini",
+      "song_title": "Deus E Nosso Pai",
+      "artist": "Guind Art 121",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lzhLPUbL7VFTNKFuTVMBs",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Ji Yeon Kim",
+      "song_title": "What Type of X",
+      "artist": "Jessi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Liudvik Sholinian",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Julian Erosa",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Glaive",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Grateful",
+      "artist": "Neffex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Dalcha Lungiambula",
+      "song_title": "Champion",
+      "artist": "Fireboy DML and D Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Olympic Fanfare",
+      "artist": "John Williams, \"Thunderstruck\" by AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6eTT9kUejqj5z8ln8hAXqr",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "Youth Gone Wild",
+      "artist": "Skid Row",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Chase Sherman",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Saidyokub Kakhramonov",
+      "song_title": "Mortals",
+      "artist": "Warriyo feat. Laura Brehm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03T4jRQyNJcvZU0Md1SRDY",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Trevin Jones",
+      "song_title": "Hats Off",
+      "artist": "Lil Baby & Lil Durk feat. Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "Hustler's Ambition",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Austin Lingo",
+      "song_title": "Amazing",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01UniWABhnIka7GgvzOC02",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Luis Saldana",
+      "song_title": "Paranoid",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3hwuHzRicnu6Ji9i1JLzor",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "The Business",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Domingo Pilarte",
+      "song_title": "Wash Us in the Blood",
+      "artist": "Kanye West feat. Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mEUjhl6aTztdHCrxoTgBG",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Josiane Nunes",
+      "song_title": "Grandes Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Bea Malecki",
+      "song_title": "Let's Do It Again",
+      "artist": "J Boog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "Nuh Fraid A Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Fabio Cherant",
+      "song_title": "Top",
+      "artist": "Fredo Bang feat. Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Ignacio Bahamondes",
+      "song_title": "Es Por Amor",
+      "artist": "Estacion Paraiso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tKDIyw2JmBG67irTHZ2Ou",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Roosevelt Roberts",
+      "song_title": "Beverly Hills",
+      "artist": "Yung Bleu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UpEQXeaJrF89n9cL2sqAI",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Ramiz Brahimaj",
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "fighter": "Sasha Palatnikov",
+      "song_title": "El Chapo",
+      "artist": "The Game and Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
       "fighter": "Marvin Vettori",
       "song_title": "The Italian Dream",
       "artist": "Greg Willen",
@@ -2963,6 +3383,746 @@
       "date": "2021-10-16"
     },
     {
+      "fighter": "TJ Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Gimme the Loot",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Raulian Paiva",
+      "song_title": "Muleque de Vila",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Darrick Minner",
+      "song_title": "God We Need You Now",
+      "artist": "Struggle Jennings and Caitlynne Curtis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24j0o1B7eiiwSdtbUm7OnN",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "Only Jesus",
+      "artist": "Casting Crowns",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "Chunk Up the Deuce",
+      "artist": "Lil Keke feat. UKG and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ezFCIptrLOajaNmk9RSbb",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Randy Costa",
+      "song_title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Ball if I Want To",
+      "artist": "DaBaby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "We Are Now Free",
+      "artist": "Dave Pearce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RSAQw13BZJBeZiXpBKjz0",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Hurricane",
+      "artist": "Bob Dylan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil, \"Woke Up This Morning\" by Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kKzQXuX1VxFFgzLovC8wx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Jordan Williams",
+      "song_title": "All I Do",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1IY46WkIINigH71KTv7Uv2",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Andre Ewell",
+      "song_title": "Da Rockwilder",
+      "artist": "Method Man and Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Sijara Eubanks",
+      "song_title": "My Power",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Bang",
+      "artist": "AJR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Diana Belbita",
+      "song_title": "Legend",
+      "artist": "Adrian Von Ziegler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qk2F0nXPO7TuwBV6DQiY6",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "Hall of Fame",
+      "artist": "The Script feat. will.i.am",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "Marreta da cdd para o mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "All In",
+      "artist": "Lil' Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0zlru783fmr588D5RY9ERU",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory",
+      "artist": "KJ 52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25SbOOleTxHDSSPZb7oSh4",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Ta Escrito",
+      "artist": "Grupo Revelacao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Krzysztof Jotko",
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Misha Cirkunov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "Knife Talk",
+      "artist": "Drake feat. 21 Savage & Project Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Mike Breeden",
+      "song_title": "I Get Money",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FKFCvi0i46qEJLZSEBH8p",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "Ænema",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Joe Solecki",
+      "song_title": "South On Ya",
+      "artist": "Luke Combs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "Ambitonz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Antonina Shevchenko",
+      "song_title": "Tachanka",
+      "artist": "Renat Ibragimov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt e hora de vencer",
+      "artist": "Faccao 228",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Bethe Correia",
+      "song_title": "Titanium",
+      "artist": "David Guetta feat. Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Devonte Smith",
+      "song_title": "Beautiful Struggle",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6o5BldzaxCCqXZO0yMuxa4",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Anunciacao",
+      "artist": "Alceu Valenca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Gaetano Pirrello",
+      "song_title": "Gelosi",
+      "artist": "Sefra Ebbasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gBTT0x8FYQ8nfxYGUqQoy",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Stephanie Egger",
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Shanna Young",
+      "song_title": "Roll On",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02QPENpZVWiSrrLRXsXNqE",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Johnny Eduardo",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Go Off",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RdoNyK4xUFUACBLkulejS",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Ion Cutelaba",
+      "song_title": "Doina Haiducului",
+      "artist": "Zdob si Zdub",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun & Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6opQAZ6KxhG3zTeOre29zf",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Mandy Bohm",
+      "song_title": "Deine Mutter",
+      "artist": "Kool Savas feat. Nessi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zSiFmABySpbBbHZ3IgNdI",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "Natural",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Nate Maness",
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Money (That's What I Want)",
+      "artist": "Barrett Strong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1HyrGvsCzBuWPEEGKT9QSD",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Antonio Arroyo",
+      "song_title": "Man On a Mission",
+      "artist": "Oh the Larceny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Tafon Nchukwi",
+      "song_title": "Is You Ready",
+      "artist": "Migos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Mike Rodriguez",
+      "song_title": "Gods Don't Bleed",
+      "artist": "Westside Gunn feat. Benny the Butcher and Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ygqTrc7mykDvfyzRZQ8sk",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "Ramen & OJ",
+      "artist": "Joyner Lucas & Lil Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ramen%20%26%20OJ%20Joyner%20Lucas%20%26%20Lil%20Baby",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Paradise",
+      "artist": "Da Buzz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p5FUOjdogoQ4tLsHZQci8",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Rongzhu",
+      "song_title": "Official MV",
+      "artist": "George Lam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Brandon Jenkins",
+      "song_title": "Right Back At It Again",
+      "artist": "A Day To Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YfF0cZEBtCju02dhXfifE",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Montel Jackson",
+      "song_title": "We Ball",
+      "artist": "Meek Mill feat. Young Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mlkO7fkD1tJrxoqOMGzqF",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "JP Buys",
+      "song_title": "I Am",
+      "artist": "Satsang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Sarah Alpar",
+      "song_title": "Sunflower Seeds",
+      "artist": "Bryce Vine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4MJfCOcc2PpWOrUqOpvy1S",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Impa Kasanganay",
+      "song_title": "Muela Manyi",
+      "artist": "Mike Kalambay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cafMmXLXI1GQ40S6T1X64",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Gustavo Lopez",
+      "song_title": "Machine Gun Funk",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Alatengheili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "fighter": "Emily Whitmire",
+      "song_title": "Dancing in the Dark",
+      "artist": "Bruce Springsteen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "fighter": "Ketlen Vieira",
       "song_title": "Efésios 6",
       "artist": "Anderson Freire",
@@ -3184,10 +4344,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 318,
-    "with_song": 234,
-    "playable_tracks": 233,
-    "unique_playable_tracks": 215,
-    "missing": 84
+    "total_fighters": 434,
+    "with_song": 342,
+    "playable_tracks": 340,
+    "unique_playable_tracks": 309,
+    "missing": 92
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Douglas Silva de Andrade",
   "slug": "douglas-silva-de-andrade",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Conquistando o Impossavel",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Perez vs. Taira",
       "event_slug": "ufc-fight-night-perez-vs-taira",
       "date": "2024-06-15"
+    },
+    {
+      "song_title": "Anunciacao",
+      "artist": "Alceu Valenca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

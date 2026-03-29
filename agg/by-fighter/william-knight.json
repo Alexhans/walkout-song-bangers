@@ -1,7 +1,7 @@
 {
   "fighter": "William Knight",
   "slug": "william-knight",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -26,6 +26,15 @@
       "artist": "Vybz Kartel",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "song_title": "Nuh Fraid A Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 3
   }

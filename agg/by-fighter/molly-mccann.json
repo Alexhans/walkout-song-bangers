@@ -1,7 +1,7 @@
 {
   "fighter": "Molly McCann",
   "slug": "molly-mccann",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "This Place",
@@ -31,6 +31,15 @@
       "date": "2022-07-23"
     },
     {
+      "song_title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
       "song_title": "Run This Town",
       "artist": "Jay-Z feat. Rihanna",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

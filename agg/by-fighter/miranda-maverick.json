@@ -1,7 +1,7 @@
 {
   "fighter": "Miranda Maverick",
   "slug": "miranda-maverick",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "Only Jesus",
+      "artist": "Casting Crowns",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

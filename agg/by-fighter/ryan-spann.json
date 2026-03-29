@@ -1,7 +1,7 @@
 {
   "fighter": "Ryan Spann",
   "slug": "ryan-spann",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Desperados",
@@ -67,6 +67,15 @@
       "date": "2024-04-27"
     },
     {
+      "song_title": "Go Off",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RdoNyK4xUFUACBLkulejS",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "song_title": "Ready or Not",
       "artist": "The Fugees",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 8
+    "unique_songs": 9
   }
 }

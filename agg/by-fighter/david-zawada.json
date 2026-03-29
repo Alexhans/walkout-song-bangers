@@ -1,0 +1,22 @@
+{
+  "fighter": "David Zawada",
+  "slug": "david-zawada",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bloodsport – Finals",
+      "artist": "Paul Hertzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g1hzwYqp5kmWkzMcowmUP",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

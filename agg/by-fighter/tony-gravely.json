@@ -1,7 +1,7 @@
 {
   "fighter": "Tony Gravely",
   "slug": "tony-gravely",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "CAN'T C ME",
@@ -22,6 +22,15 @@
       "date": "2022-09-17"
     },
     {
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "song_title": "Wish I Had It",
       "artist": "Kevin Gates",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

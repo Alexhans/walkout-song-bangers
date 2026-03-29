@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Smith vs. Spann",
+  "event_slug": "ufc-fight-night-smith-vs-spann",
+  "date": "2021-09-18",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/09/19/ufc-fight-night-192-walkout-songs-music-las-vegas-bruce-springsteen-tupac-notorious-big/81469686007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "Go Off",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RdoNyK4xUFUACBLkulejS",
+      "notes": ""
+    },
+    {
+      "fighter": "Ion Cutelaba",
+      "song_title": "Doina Haiducului",
+      "artist": "Zdob si Zdub",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun & Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6opQAZ6KxhG3zTeOre29zf",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mandy Bohm",
+      "song_title": "Deine Mutter",
+      "artist": "Kool Savas feat. Nessi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zSiFmABySpbBbHZ3IgNdI",
+      "notes": ""
+    },
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "Natural",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Maness",
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "When We Ride on Our Enemies",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Money (That's What I Want)",
+      "artist": "Barrett Strong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1HyrGvsCzBuWPEEGKT9QSD",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonio Arroyo",
+      "song_title": "Man On a Mission",
+      "artist": "Oh the Larceny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
+      "notes": ""
+    },
+    {
+      "fighter": "Tafon Nchukwi",
+      "song_title": "Is You Ready",
+      "artist": "Migos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Rodriguez",
+      "song_title": "Gods Don't Bleed",
+      "artist": "Westside Gunn feat. Benny the Butcher and Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ygqTrc7mykDvfyzRZQ8sk",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "Ramen & OJ",
+      "artist": "Joyner Lucas & Lil Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Ramen%20%26%20OJ%20Joyner%20Lucas%20%26%20Lil%20Baby",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Paradise",
+      "artist": "Da Buzz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p5FUOjdogoQ4tLsHZQci8",
+      "notes": ""
+    },
+    {
+      "fighter": "Rongzhu",
+      "song_title": "Official MV",
+      "artist": "George Lam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Jenkins",
+      "song_title": "Right Back At It Again",
+      "artist": "A Day To Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YfF0cZEBtCju02dhXfifE",
+      "notes": ""
+    },
+    {
+      "fighter": "Montel Jackson",
+      "song_title": "We Ball",
+      "artist": "Meek Mill feat. Young Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mlkO7fkD1tJrxoqOMGzqF",
+      "notes": ""
+    },
+    {
+      "fighter": "JP Buys",
+      "song_title": "I Am",
+      "artist": "Satsang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
+      "notes": ""
+    },
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Sarah Alpar",
+      "song_title": "Sunflower Seeds",
+      "artist": "Bryce Vine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4MJfCOcc2PpWOrUqOpvy1S",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "notes": ""
+    },
+    {
+      "fighter": "Impa Kasanganay",
+      "song_title": "Muela Manyi",
+      "artist": "Mike Kalambay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cafMmXLXI1GQ40S6T1X64",
+      "notes": ""
+    },
+    {
+      "fighter": "Gustavo Lopez",
+      "song_title": "Machine Gun Funk",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb",
+      "notes": ""
+    },
+    {
+      "fighter": "Alatengheili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "notes": ""
+    },
+    {
+      "fighter": "Emily Whitmire",
+      "song_title": "Dancing in the Dark",
+      "artist": "Bruce Springsteen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE",
+      "notes": ""
+    }
+  ]
+}

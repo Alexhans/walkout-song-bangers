@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Jourdain",
   "slug": "charles-jourdain",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "John Wick Mode",
@@ -29,6 +29,15 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Glaive",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     },
     {
       "song_title": "Blood Code",
@@ -77,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
     "unique_songs": 6
   }

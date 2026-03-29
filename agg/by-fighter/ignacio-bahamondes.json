@@ -1,7 +1,7 @@
 {
   "fighter": "Ignacio Bahamondes",
   "slug": "ignacio-bahamondes",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Es Por Amor",
+      "artist": "Estacion Paraiso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tKDIyw2JmBG67irTHZ2Ou",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
       "song_title": "El Taller del Maestro",
       "artist": "Alex Campos",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Adrian Yanez",
   "slug": "adrian-yanez",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Oh La La",
@@ -40,6 +40,15 @@
       "date": "2022-06-18"
     },
     {
+      "song_title": "Chunk Up the Deuce",
+      "artist": "Lil Keke feat. UKG and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ezFCIptrLOajaNmk9RSbb",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
+    },
+    {
       "song_title": "Twinz",
       "artist": "Big Pun feat. Fat Joe",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

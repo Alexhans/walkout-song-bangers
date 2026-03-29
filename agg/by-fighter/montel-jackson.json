@@ -1,7 +1,7 @@
 {
   "fighter": "Montel Jackson",
   "slug": "montel-jackson",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,11 +20,20 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "We Ball",
+      "artist": "Meek Mill feat. Young Thug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mlkO7fkD1tJrxoqOMGzqF",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }

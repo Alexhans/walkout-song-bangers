@@ -1,7 +1,7 @@
 {
   "fighter": "Arman Tsarukyan",
   "slug": "arman-tsarukyan",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -44,15 +44,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 1,
-    "missing": 4,
+    "missing": 5,
     "unique_songs": 1
   }
 }

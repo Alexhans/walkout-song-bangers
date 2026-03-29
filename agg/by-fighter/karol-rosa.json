@@ -1,7 +1,7 @@
 {
   "fighter": "Karol Rosa",
   "slug": "karol-rosa",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Prvt E Hora Vencer",
@@ -31,6 +31,15 @@
       "date": "2022-03-26"
     },
     {
+      "song_title": "Prvt e hora de vencer",
+      "artist": "Faccao 228",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
       "song_title": "Prvt e Hora Vencer",
       "artist": "Faccao 288",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Jamie Mullarkey",
   "slug": "jamie-mullarkey",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -67,6 +67,15 @@
       "date": "2023-06-03"
     },
     {
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
       "song_title": "My Brother's Keeper",
       "artist": "Kid Mac",
       "confidence": "bronze",
@@ -77,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
     "unique_songs": 3
   }

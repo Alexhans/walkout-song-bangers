@@ -1,7 +1,7 @@
 {
   "fighter": "Joaquin Buckley",
   "slug": "joaquin-buckley",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -67,6 +67,15 @@
       "date": "2024-05-11"
     },
     {
+      "song_title": "Money (That's What I Want)",
+      "artist": "Barrett Strong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1HyrGvsCzBuWPEEGKT9QSD",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
       "song_title": "I Don't Give a F",
       "artist": "Lil' Jon & The East Side Boyz",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

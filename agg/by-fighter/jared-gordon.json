@@ -1,7 +1,7 @@
 {
   "fighter": "Jared Gordon",
   "slug": "jared-gordon",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Edge of Seventeen",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Font vs. Vera",
       "event_slug": "ufc-fight-night-font-vs-vera",
       "date": "2022-04-30"
+    },
+    {
+      "song_title": "Ænema",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

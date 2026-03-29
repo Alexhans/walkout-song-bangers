@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+  "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+  "date": "2021-07-24",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/07/25/ufc-espn-27-walkout-songs-music-las-vegas-bob-dylan-chili-peppers-ac-dc/81527221007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "TJ Dillashaw",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Gimme the Loot",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "notes": ""
+    },
+    {
+      "fighter": "Raulian Paiva",
+      "song_title": "Muleque de Vila",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyler Phillips",
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Darrick Minner",
+      "song_title": "God We Need You Now",
+      "artist": "Struggle Jennings and Caitlynne Curtis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24j0o1B7eiiwSdtbUm7OnN",
+      "notes": ""
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood feat. Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Miranda Maverick",
+      "song_title": "Only Jesus",
+      "artist": "Casting Crowns",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8",
+      "notes": ""
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "Chunk Up the Deuce",
+      "artist": "Lil Keke feat. UKG and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ezFCIptrLOajaNmk9RSbb",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Costa",
+      "song_title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Ball if I Want To",
+      "artist": "DaBaby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "We Are Now Free",
+      "artist": "Dave Pearce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RSAQw13BZJBeZiXpBKjz0",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Heinisch",
+      "song_title": "Hurricane",
+      "artist": "Bob Dylan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil, \"Woke Up This Morning\" by Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kKzQXuX1VxFFgzLovC8wx",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Williams",
+      "song_title": "All I Do",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1IY46WkIINigH71KTv7Uv2",
+      "notes": ""
+    },
+    {
+      "fighter": "Julio Arce",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Ewell",
+      "song_title": "Da Rockwilder",
+      "artist": "Method Man and Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
+      "notes": ""
+    },
+    {
+      "fighter": "Sijara Eubanks",
+      "song_title": "My Power",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg",
+      "notes": ""
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Bang",
+      "artist": "AJR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
+      "notes": ""
+    },
+    {
+      "fighter": "Diana Belbita",
+      "song_title": "Legend",
+      "artist": "Adrian Von Ziegler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qk2F0nXPO7TuwBV6DQiY6",
+      "notes": ""
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "Hall of Fame",
+      "artist": "The Script feat. will.i.am",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX",
+      "notes": ""
+    }
+  ]
+}

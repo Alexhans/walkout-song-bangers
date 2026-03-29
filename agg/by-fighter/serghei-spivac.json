@@ -1,7 +1,7 @@
 {
   "fighter": "Serghei Spivac",
   "slug": "serghei-spivac",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 243: Whittaker vs. Adesanya",
       "event_slug": "ufc-243",
       "date": "2019-10-05"
+    },
+    {
+      "song_title": "Shiroka Reka",
+      "artist": "Nadezhda Kadysheva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     },
     {
       "song_title": "Shiroka Reka",
@@ -32,8 +41,8 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 2
   }

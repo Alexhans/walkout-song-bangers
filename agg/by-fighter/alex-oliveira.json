@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Oliveira",
   "slug": "alex-oliveira",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Balada",
@@ -38,11 +38,20 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Ta Escrito",
+      "artist": "Grupo Revelacao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 2
   }

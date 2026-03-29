@@ -1,7 +1,7 @@
 {
   "fighter": "Chase Sherman",
   "slug": "chase-sherman",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Guerrilla Radio",
@@ -11,6 +11,15 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "Voodoo Child",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

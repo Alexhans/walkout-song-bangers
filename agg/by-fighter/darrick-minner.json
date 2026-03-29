@@ -1,7 +1,7 @@
 {
   "fighter": "Darrick Minner",
   "slug": "darrick-minner",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Creature",
@@ -11,12 +11,21 @@
       "event": "UFC 269: Oliveira vs. Poirier",
       "event_slug": "ufc-269",
       "date": "2021-12-11"
+    },
+    {
+      "song_title": "God We Need You Now",
+      "artist": "Struggle Jennings and Caitlynne Curtis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24j0o1B7eiiwSdtbUm7OnN",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

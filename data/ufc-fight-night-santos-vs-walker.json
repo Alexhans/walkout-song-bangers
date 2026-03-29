@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Santos vs. Walker",
+  "event_slug": "ufc-fight-night-santos-vs-walker",
+  "date": "2021-10-02",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/03/ufc-fight-night-193-fight-tracks-the-walkout-songs-with-drake-ll-cool-j-and-thin-lizzy/81451628007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "Marreta da cdd para o mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "All In",
+      "artist": "Lil' Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0zlru783fmr588D5RY9ERU",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory",
+      "artist": "KJ 52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25SbOOleTxHDSSPZb7oSh4",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Ta Escrito",
+      "artist": "Grupo Revelacao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Krzysztof Jotko",
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "notes": ""
+    },
+    {
+      "fighter": "Misha Cirkunov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "Knife Talk",
+      "artist": "Drake feat. 21 Savage & Project Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Breeden",
+      "song_title": "I Get Money",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FKFCvi0i46qEJLZSEBH8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "Ænema",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Solecki",
+      "song_title": "South On Ya",
+      "artist": "Luke Combs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "Ambitonz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonina Shevchenko",
+      "song_title": "Tachanka",
+      "artist": "Renat Ibragimov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "notes": ""
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt e hora de vencer",
+      "artist": "Faccao 228",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Bethe Correia",
+      "song_title": "Titanium",
+      "artist": "David Guetta feat. Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "notes": ""
+    },
+    {
+      "fighter": "Devonte Smith",
+      "song_title": "Beautiful Struggle",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6o5BldzaxCCqXZO0yMuxa4",
+      "notes": ""
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Anunciacao",
+      "artist": "Alceu Valenca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7",
+      "notes": ""
+    },
+    {
+      "fighter": "Gaetano Pirrello",
+      "song_title": "Gelosi",
+      "artist": "Sefra Ebbasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gBTT0x8FYQ8nfxYGUqQoy",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephanie Egger",
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "notes": ""
+    },
+    {
+      "fighter": "Shanna Young",
+      "song_title": "Roll On",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02QPENpZVWiSrrLRXsXNqE",
+      "notes": ""
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Eduardo",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Mark Madsen",
   "slug": "mark-madsen",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Man on a Mission",
@@ -29,12 +29,21 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "Olympic Fanfare",
+      "artist": "John Williams, \"Thunderstruck\" by AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6eTT9kUejqj5z8ln8hAXqr",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

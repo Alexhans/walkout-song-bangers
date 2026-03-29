@@ -1,0 +1,22 @@
+{
+  "fighter": "Mike Rodriguez",
+  "slug": "mike-rodriguez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Gods Don't Bleed",
+      "artist": "Westside Gunn feat. Benny the Butcher and Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ygqTrc7mykDvfyzRZQ8sk",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

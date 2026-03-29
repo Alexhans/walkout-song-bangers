@@ -1,7 +1,7 @@
 {
   "fighter": "Ariane da Silva",
   "slug": "ariane-da-silva",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -35,6 +35,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Strickland vs. Magomedov",
       "event_slug": "ufc-fight-night-strickland-vs-magomedov",
       "date": "2023-07-01"
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 0,
-    "missing": 6,
+    "missing": 7,
     "unique_songs": 0
   }
 }

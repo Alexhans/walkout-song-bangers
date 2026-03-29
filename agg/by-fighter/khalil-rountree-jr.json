@@ -1,7 +1,7 @@
 {
   "fighter": "Khalil Rountree Jr.",
   "slug": "khalil-rountree-jr",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Let Me Fly",
@@ -49,6 +49,15 @@
       "date": "2024-10-05"
     },
     {
+      "song_title": "Protect Ya Neck",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
       "song_title": "Da Rockwilder",
       "artist": "Method Man and Redman",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 4,
+    "events": 9,
+    "with_song": 5,
     "missing": 4,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

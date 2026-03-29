@@ -1,0 +1,22 @@
+{
+  "fighter": "Impa Kasanganay",
+  "slug": "impa-kasanganay",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Muela Manyi",
+      "artist": "Mike Kalambay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cafMmXLXI1GQ40S6T1X64",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

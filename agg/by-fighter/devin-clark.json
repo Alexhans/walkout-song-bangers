@@ -1,7 +1,7 @@
 {
   "fighter": "Devin Clark",
   "slug": "devin-clark",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Die Tonight",
@@ -41,6 +41,15 @@
     },
     {
       "song_title": "Die Tonight",
+      "artist": "Adam Calhoun & Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6opQAZ6KxhG3zTeOre29zf",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    },
+    {
+      "song_title": "Die Tonight",
       "artist": "Adam Calhoun",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

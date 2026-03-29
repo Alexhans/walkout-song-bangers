@@ -1,7 +1,7 @@
 {
   "fighter": "Paddy Pimblett",
   "slug": "paddy-pimblett",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Lethal Industry / Heads Will Roll",
@@ -50,6 +50,15 @@
     },
     {
       "song_title": "Lethal Industry",
+      "artist": "Sunnary James and Ryan Maraciano, \"Heads Will Roll\" by Yeah Yeah Yeahs feat. A Trak",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "song_title": "Lethal Industry",
       "artist": "Sunnary James and Ryan Maraciano and \"Heads Will Roll\" by Yeah Yeah Yeahs (A Trak remix)",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

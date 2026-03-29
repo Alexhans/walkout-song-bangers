@@ -1,7 +1,7 @@
 {
   "fighter": "Antonina Shevchenko",
   "slug": "antonina-shevchenko",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Wellerman (Sea Shanty)",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
       "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
       "date": "2022-07-09"
+    },
+    {
+      "song_title": "Tachanka",
+      "artist": "Renat Ibragimov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

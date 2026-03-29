@@ -1,7 +1,7 @@
 {
   "fighter": "Casey O'Neill",
   "slug": "casey-oneill",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "AMBITIONZ AZ A RIDAH",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
+    },
+    {
+      "song_title": "Ambitonz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Sasha Palatnikov",
+  "slug": "sasha-palatnikov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "El Chapo",
+      "artist": "The Game and Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Sarah Alpar",
+  "slug": "sarah-alpar",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Sunflower Seeds",
+      "artist": "Bryce Vine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4MJfCOcc2PpWOrUqOpvy1S",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

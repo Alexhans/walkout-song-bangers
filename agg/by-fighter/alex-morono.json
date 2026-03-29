@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Morono",
   "slug": "alex-morono",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -58,6 +58,15 @@
       "date": "2026-02-07"
     },
     {
+      "song_title": "Zombies Ate My Pirate Ship",
+      "artist": "Alestorm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
       "song_title": "Snap Your Finger, Snap Your Neck",
       "artist": "Prong",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

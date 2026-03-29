@@ -1,7 +1,7 @@
 {
   "fighter": "Derek Brunson",
   "slug": "derek-brunson",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Uproar",
@@ -38,11 +38,20 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "10K",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

@@ -1,6 +1,6 @@
 # Miranda Maverick
 
-5 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | — | — | |
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | — | — | |
 | 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Top Gun theme | Harold Faltermyer |  |
+| 2021-07-24 | [UFC Fight Night: Sandhagen vs. Dillashaw](../../ufc-fight-night-sandhagen-vs-dillashaw.md) | Only Jesus | Casting Crowns | [Listen](https://open.spotify.com/track/5SVARIypUactzhS79rk6x8) |

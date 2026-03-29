@@ -1,6 +1,6 @@
 # Joaquin Buckley
 
-8 event(s) | 6 song(s) found | 6 unique
+9 event(s) | 7 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,5 @@
 | 2022-09-03 | [UFC Fight Night: Gane vs. Tuivasa](../../ufc-fight-night-gane-vs-tuivasa.md) | N****s in Paris | Jay Z and Kanye West | [Listen](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) |
 | 2022-06-18 | [UFC Fight Night: Kattar vs. Emmett](../../ufc-fight-night-kattar-vs-emmett.md) | Bad Man | Kevin Gates | [Listen](https://open.spotify.com/track/2cDq2RpbcpnPxZ5kGOIys1) |
 | 2024-05-11 | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | — | — | |
+| 2021-09-18 | [UFC Fight Night: Smith vs. Spann](../../ufc-fight-night-smith-vs-spann.md) | Money (That's What I Want) | Barrett Strong | [Listen](https://open.spotify.com/track/1HyrGvsCzBuWPEEGKT9QSD) |
 | 2022-02-19 | [UFC Fight Night: Walker vs. Hill](../../ufc-fight-night-walker-vs-hill.md) | I Don't Give a F | Lil' Jon & The East Side Boyz | [Listen](https://open.spotify.com/track/1X0EjhOpkLqGrU9pSJVaYl) |

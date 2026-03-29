@@ -1,7 +1,7 @@
 {
   "fighter": "Stephanie Egger",
   "slug": "stephanie-egger",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Captain",
@@ -26,6 +26,15 @@
       "artist": "Danitsa",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 1
   }

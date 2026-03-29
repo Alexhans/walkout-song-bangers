@@ -1,7 +1,7 @@
 {
   "fighter": "Mickey Gall",
   "slug": "mickey-gall",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Hey Mickey",
@@ -56,11 +56,20 @@
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil, \"Woke Up This Morning\" by Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kKzQXuX1VxFFgzLovC8wx",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 4
   }

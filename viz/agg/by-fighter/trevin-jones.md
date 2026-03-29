@@ -1,7 +1,8 @@
 # Trevin Jones
 
-1 event(s) | 1 song(s) found | 1 unique
+2 event(s) | 2 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2023-03-04 | [UFC 285: Jones vs. Gane](../../ufc-285.md) | Spit Your Game | Notorious B.I.G. | [Listen](https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt) |
+| 2021-08-21 | [UFC Fight Night: Cannonier vs. Gastelum](../../ufc-fight-night-cannonier-vs-gastelum.md) | Hats Off | Lil Baby & Lil Durk feat. Travis Scott | [Listen](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) |

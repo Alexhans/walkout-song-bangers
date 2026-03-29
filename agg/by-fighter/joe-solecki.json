@@ -1,7 +1,7 @@
 {
   "fighter": "Joe Solecki",
   "slug": "joe-solecki",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Bury My Bones",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "South On Ya",
+      "artist": "Luke Combs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

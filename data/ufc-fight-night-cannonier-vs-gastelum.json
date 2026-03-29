@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Cannonier vs. Gastelum",
+  "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+  "date": "2021-08-21",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/08/22/ufc-on-espn-27-walkout-songs-music-las-vegas-50-cent-johnny-cash-kanye-west/81500762007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Madsen",
+      "song_title": "Olympic Fanfare",
+      "artist": "John Williams, \"Thunderstruck\" by AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6eTT9kUejqj5z8ln8hAXqr",
+      "notes": ""
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "Youth Gone Wild",
+      "artist": "Skid Row",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b",
+      "notes": ""
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Sherman",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "notes": ""
+    },
+    {
+      "fighter": "Saidyokub Kakhramonov",
+      "song_title": "Mortals",
+      "artist": "Warriyo feat. Laura Brehm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03T4jRQyNJcvZU0Md1SRDY",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Jones",
+      "song_title": "Hats Off",
+      "artist": "Lil Baby & Lil Durk feat. Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y",
+      "notes": ""
+    },
+    {
+      "fighter": "Vinc Pichel",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Hubbard",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "Hustler's Ambition",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Lingo",
+      "song_title": "Amazing",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01UniWABhnIka7GgvzOC02",
+      "notes": ""
+    },
+    {
+      "fighter": "Luis Saldana",
+      "song_title": "Paranoid",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3hwuHzRicnu6Ji9i1JLzor",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "The Business",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "notes": ""
+    },
+    {
+      "fighter": "Domingo Pilarte",
+      "song_title": "Wash Us in the Blood",
+      "artist": "Kanye West feat. Travis Scott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mEUjhl6aTztdHCrxoTgBG",
+      "notes": ""
+    },
+    {
+      "fighter": "Josiane Nunes",
+      "song_title": "Grandes Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "notes": ""
+    },
+    {
+      "fighter": "Bea Malecki",
+      "song_title": "Let's Do It Again",
+      "artist": "J Boog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD",
+      "notes": ""
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "Nuh Fraid A Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
+      "notes": ""
+    },
+    {
+      "fighter": "Fabio Cherant",
+      "song_title": "Top",
+      "artist": "Fredo Bang feat. Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb",
+      "notes": ""
+    },
+    {
+      "fighter": "Ignacio Bahamondes",
+      "song_title": "Es Por Amor",
+      "artist": "Estacion Paraiso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tKDIyw2JmBG67irTHZ2Ou",
+      "notes": ""
+    },
+    {
+      "fighter": "Roosevelt Roberts",
+      "song_title": "Beverly Hills",
+      "artist": "Yung Bleu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UpEQXeaJrF89n9cL2sqAI",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramiz Brahimaj",
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
+      "notes": ""
+    },
+    {
+      "fighter": "Sasha Palatnikov",
+      "song_title": "El Chapo",
+      "artist": "The Game and Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "notes": ""
+    }
+  ]
+}
