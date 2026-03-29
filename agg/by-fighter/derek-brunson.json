@@ -1,7 +1,7 @@
 {
   "fighter": "Derek Brunson",
   "slug": "derek-brunson",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Uproar",
@@ -47,12 +47,39 @@
       "event": "UFC Fight Night: Brunson vs. Till",
       "event_slug": "ufc-fight-night-brunson-vs-till",
       "date": "2021-09-04"
+    },
+    {
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

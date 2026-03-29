@@ -1,7 +1,7 @@
 {
   "fighter": "Artem Lobov",
   "slug": "artem-lobov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Juicy",
@@ -11,12 +11,21 @@
       "event": "UFC 202: Diaz vs. McGregor 2",
       "event_slug": "ufc-202",
       "date": "2016-08-20"
+    },
+    {
+      "song_title": "Freedom\" (\"Django Unchained\")",
+      "artist": "Anthony Hamilton & Elayna Boynton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PgsrLmWjOmm58vGDhoV27",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

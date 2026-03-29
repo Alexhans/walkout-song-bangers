@@ -1,7 +1,7 @@
 {
   "fighter": "Alistair Overeem",
   "slug": "alistair-overeem",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Pride Fighting Championships Official Theme",
@@ -38,12 +38,21 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Alistair",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fZB2nXpKbd1MxrRo3oax3",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

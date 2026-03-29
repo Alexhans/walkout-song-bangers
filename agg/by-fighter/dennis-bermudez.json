@@ -1,0 +1,31 @@
+{
+  "fighter": "Dennis Bermudez",
+  "slug": "dennis-bermudez",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Top Shotter (Here Comes the Boom)",
+      "artist": "DMX, Sean Paul & Mr. V",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56DwpOwvJdqe7F0wa2ncJ8",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
+      "song_title": "Top Shotter",
+      "artist": "DMX feat. Sean Paul & Mr. Vegas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

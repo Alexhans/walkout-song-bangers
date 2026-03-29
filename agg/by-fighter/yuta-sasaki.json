@@ -1,0 +1,31 @@
+{
+  "fighter": "Yuta Sasaki",
+  "slug": "yuta-sasaki",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 0,
+    "missing": 2,
+    "unique_songs": 0
+  }
+}

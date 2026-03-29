@@ -1,9 +1,10 @@
 # Andre Fili
 
-8 event(s) | 6 song(s) found | 5 unique
+9 event(s) | 7 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-04-23 | [UFC 197: Jones vs Saint Preux](../../ufc-197-jones-vs-saint-preux.md) | Feelin' Myself | Mac Dre | [Listen](https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG) |
 | 2017-07-29 | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | I'm Feeling Myself | Mac Dre | [Listen](https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW) |
 | 2020-01-18 | [UFC 246: McGregor vs. Cowboy](../../ufc-246.md) | Feeling Myself | Mac Dre | [Listen](https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf) |
 | 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Open the Gate | Zach Bryan | [Listen](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) |

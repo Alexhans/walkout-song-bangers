@@ -1,7 +1,7 @@
 {
   "fighter": "Alessio Di Chirico",
   "slug": "alessio-di-chirico",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Re-Education Through Labor",
@@ -11,12 +11,30 @@
       "event": "UFC Fight Night: Gane vs. Tuivasa",
       "event_slug": "ufc-fight-night-gane-vs-tuivasa",
       "date": "2022-09-03"
+    },
+    {
+      "song_title": "Re-Education (Through Labor)",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "song_title": "Re-Education Through Labor",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

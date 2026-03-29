@@ -1,0 +1,22 @@
+{
+  "fighter": "Yao Zhikui",
+  "slug": "yao-zhikui",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

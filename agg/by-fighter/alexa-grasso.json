@@ -1,7 +1,7 @@
 {
   "fighter": "Alexa Grasso",
   "slug": "alexa-grasso",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2026-03-28"
     },
     {
+      "song_title": "Paper Planes",
+      "artist": "MIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Paper Plane",
       "artist": "M.I.A.",
       "confidence": "bronze",
@@ -38,6 +47,15 @@
       "event": "UFC Fight Night: Blaydes vs. Daukaus",
       "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
       "date": "2022-03-26"
+    },
+    {
+      "song_title": "Paper Planes",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     },
     {
       "song_title": "El Son de la Negra",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

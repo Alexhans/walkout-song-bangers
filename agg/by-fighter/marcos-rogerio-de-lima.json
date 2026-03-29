@@ -1,8 +1,17 @@
 {
   "fighter": "Marcos Rogerio de Lima",
   "slug": "marcos-rogerio-de-lima",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Derrubando Muralhas",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

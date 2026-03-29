@@ -1,0 +1,22 @@
+{
+  "fighter": "Joe Soto",
+  "slug": "joe-soto",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "All the Above",
+      "artist": "Maino feat. T-Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

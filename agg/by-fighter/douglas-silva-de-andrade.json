@@ -1,7 +1,7 @@
 {
   "fighter": "Douglas Silva de Andrade",
   "slug": "douglas-silva-de-andrade",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Conquistando o Impossavel",
@@ -20,6 +20,15 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "Conquistando o Impossavel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     },
     {
       "song_title": "Track 1 (Super Nintendo)",
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 5
   }

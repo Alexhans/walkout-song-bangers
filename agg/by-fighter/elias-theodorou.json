@@ -1,0 +1,22 @@
+{
+  "fighter": "Elias Theodorou",
+  "slug": "elias-theodorou",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Oh ... Canada",
+      "artist": "Classified",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wjTgKnltcEBfDpWcPN1J4",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

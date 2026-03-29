@@ -1,7 +1,7 @@
 {
   "fighter": "Cynthia Calvillo",
   "slug": "cynthia-calvillo",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Jump Around",
@@ -11,6 +11,15 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
     },
     {
       "song_title": "Jump Around",
@@ -58,6 +67,15 @@
       "date": "2021-11-13"
     },
     {
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    },
+    {
       "song_title": "Feeling Myself",
       "artist": "Mac Dre",
       "confidence": "bronze",
@@ -68,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
     "unique_songs": 3
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Travis Browne",
   "slug": "travis-browne",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Something from Nothing",
@@ -29,12 +29,21 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "Till It's Gone",
+      "artist": "Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

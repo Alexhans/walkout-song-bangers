@@ -1,8 +1,17 @@
 {
   "fighter": "Shane Burgos",
   "slug": "shane-burgos",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

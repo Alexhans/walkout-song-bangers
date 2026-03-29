@@ -1,0 +1,220 @@
+{
+  "event": "UFC 210: Cormier vs. Johnson 2",
+  "event_slug": "ufc-210-cormier-vs-johnson-2",
+  "date": "2017-04-08",
+  "location": "Buffalo, New York, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2017/04/09/fight-tracks-the-walkout-songs-of-ufc-210-with-classics-from-petty-and-ll-cool-j/82290184007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Daniel Cormier",
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J/\"Right Above It\" by Lil' Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Johnson",
+      "song_title": "Moment",
+      "artist": "Young Money feat. Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5",
+      "notes": ""
+    },
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "Artsakh",
+      "artist": "Ara Gevorgian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Weidman",
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty & The Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Pearl Gonzalez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Alves",
+      "song_title": "Big Things Poppin' (Do It)",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
+      "notes": ""
+    },
+    {
+      "fighter": "Patrick Cote",
+      "song_title": "Cinderella Man",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino (Ao Vivo)",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Will Brooks",
+      "song_title": "I'm Ill",
+      "artist": "Evil Empire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A",
+      "notes": ""
+    },
+    {
+      "fighter": "Myles Jury",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike de la Torre",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Rosa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Patrick Cummins",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregor Gillespie",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrew Holbrook",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Desmond Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Irene Aldana",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Bibulatov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jenel Lausa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

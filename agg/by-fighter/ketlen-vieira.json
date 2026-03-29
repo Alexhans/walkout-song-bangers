@@ -1,7 +1,7 @@
 {
   "fighter": "Ketlen Vieira",
   "slug": "ketlen-vieira",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

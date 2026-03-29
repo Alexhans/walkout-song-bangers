@@ -1,0 +1,22 @@
+{
+  "fighter": "Patrick Williams",
+  "slug": "patrick-williams",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Pain is Temporary",
+      "artist": "Etthehiphoppreacher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PvwfSw9MTu16ezRkH8ut1",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

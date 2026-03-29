@@ -1,8 +1,17 @@
 {
   "fighter": "Renato Moicano",
   "slug": "renato-moicano",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Cry To Me",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Bad Man",
       "artist": "Steel Pulse",
@@ -47,12 +56,21 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 2
+    "events": 7,
+    "with_song": 5,
+    "missing": 2,
+    "unique_songs": 3
   }
 }

@@ -1,6 +1,6 @@
 # Marlon Vera
 
-10 event(s) | 10 song(s) found | 10 unique
+11 event(s) | 11 song(s) found | 11 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -14,3 +14,4 @@
 | 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Tripolar | Canserbero | [Listen](https://open.spotify.com/track/02DIjDfe3wiaiNEzjtohJP) |
 | 2024-08-03 | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | A Bar Song (Tipsy) | Shaboozey | [Listen](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) |
 | 2022-08-13 | [UFC Fight Night: Vera vs. Cruz](../../ufc-fight-night-vera-vs-cruz.md) | Spanish Town Rockin' | Chronixx | [Listen](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) |
+| 2016-11-26 | [UFC Fight Night: Whittaker vs. Brunson](../../ufc-fight-night-whittaker-vs-brunson.md) | Break on Through (To the Other Side) | The Doors | [Listen](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) |

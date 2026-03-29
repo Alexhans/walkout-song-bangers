@@ -1,0 +1,31 @@
+{
+  "fighter": "Marcin Held",
+  "slug": "marcin-held",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Oczy Wpatrzone w Cel",
+      "artist": "Eastwest Rockers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PrNDTC15Trj72YHPJlH6G",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "song_title": "Can't Stop The Feeling",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

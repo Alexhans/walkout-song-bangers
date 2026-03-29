@@ -1,8 +1,17 @@
 {
   "fighter": "Jason Knight",
   "slug": "jason-knight",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Sleeping Dog",
+      "artist": "Blackberry Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3tJ9FsjhspfsrhtYvMWCKp",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Sleeping Dog",
       "artist": "Blackberry Smoke",
@@ -29,12 +38,21 @@
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
+    },
+    {
+      "song_title": "Made in America",
+      "artist": "Toby Keith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

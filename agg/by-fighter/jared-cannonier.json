@@ -1,7 +1,7 @@
 {
   "fighter": "Jared Cannonier",
   "slug": "jared-cannonier",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Fight",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Cannonier vs. Gastelum",
       "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
       "date": "2021-08-21"
+    },
+    {
+      "song_title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

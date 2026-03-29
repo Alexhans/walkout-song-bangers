@@ -1,6 +1,6 @@
 # Islam Makhachev
 
-8 event(s) | 6 song(s) found | 2 unique
+9 event(s) | 7 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,3 +12,4 @@
 | 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Dreams | DJ Nariman | [Listen](https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc) |
 | 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | Dreams | DJ Nariman | [Listen](https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc) |
 | 2022-02-26 | [UFC Fight Night: Makhachev vs. Green](../../ufc-fight-night-makhachev-vs-green.md) | — | — | |
+| 2016-09-17 | [UFC Fight Night: Poirier vs. Johnson](../../ufc-fight-night-poirier-vs-johnson.md) | Intro | DMX | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |

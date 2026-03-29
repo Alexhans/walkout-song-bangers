@@ -1,0 +1,31 @@
+{
+  "fighter": "Chris Wade",
+  "slug": "chris-wade",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Drop The World",
+      "artist": "Lil' Wayne feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "song_title": "Say What You Say",
+      "artist": "Eminem feat. Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4EQkcrSLF3QdlwNca7sMXY",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

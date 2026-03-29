@@ -1,7 +1,7 @@
 {
   "fighter": "Justin Willis",
   "slug": "justin-willis",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "DNA/Till I Collapse",
@@ -11,11 +11,20 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "DNA/Till I Collapse",
+      "artist": "Kendrick Lamar/Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

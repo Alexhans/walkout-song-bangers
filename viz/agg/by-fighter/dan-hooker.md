@@ -1,6 +1,6 @@
 # Dan Hooker
 
-11 event(s) | 10 song(s) found | 8 unique
+12 event(s) | 11 song(s) found | 9 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -15,3 +15,4 @@
 | 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Who I Smoke | Fastmoney Goon, Spinabenz & Yungeen Ace | [Listen](https://open.spotify.com/track/2fujhLR4zhDRPbYDhI0xRr) |
 | 2026-01-31 | [UFC 325: Volkanovski vs. Lopes 2](../../ufc-325.md) | Hold Ya Head | The Notorious B.I.G., Bob Marley & The Wailers | [Listen](https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif) |
 | 2022-03-19 | [UFC Fight Night: Volkov vs. Aspinall](../../ufc-fight-night-volkov-vs-aspinall.md) | Working Class Man | Jimmy Barnes | [Listen](https://open.spotify.com/track/2ncehUpJBvzVY5eXOKbSJv) |
+| 2016-11-26 | [UFC Fight Night: Whittaker vs. Brunson](../../ufc-fight-night-whittaker-vs-brunson.md) | Not Many | Scribe | [Listen](https://open.spotify.com/track/7hlwEYdoK7d0Hz7h4pGqDe) |

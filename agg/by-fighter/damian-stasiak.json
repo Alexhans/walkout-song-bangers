@@ -1,7 +1,7 @@
 {
   "fighter": "Damian Stasiak",
   "slug": "damian-stasiak",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Wild Boys",
@@ -11,11 +11,29 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    },
+    {
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 1
   }

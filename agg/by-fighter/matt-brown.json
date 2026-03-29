@@ -1,8 +1,26 @@
 {
   "fighter": "Matt Brown",
   "slug": "matt-brown",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "I Am The Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "song_title": "I am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

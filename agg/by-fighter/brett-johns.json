@@ -1,0 +1,31 @@
+{
+  "fighter": "Brett Johns",
+  "slug": "brett-johns",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "I'm Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "song_title": "Not Giving In",
+      "artist": "Rudimental feat. John Newman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7eBIV7xripa8OJFuZKVKvk",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

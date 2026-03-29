@@ -1,8 +1,17 @@
 {
   "fighter": "Cristiane Justino",
   "slug": "cristiane-justino",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Santos Espirito (Holy Spirit)",
+      "artist": "Gezi Monteiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Santo Esperito",
       "artist": "Gezi Monteiro",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

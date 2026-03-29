@@ -1,0 +1,31 @@
+{
+  "fighter": "Timothy Johnson",
+  "slug": "timothy-johnson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

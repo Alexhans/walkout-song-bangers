@@ -1,7 +1,7 @@
 {
   "fighter": "Marcin Tybura",
   "slug": "marcin-tybura",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Get Me the G.I. Joes",
@@ -53,15 +53,33 @@
       "artist": "Red Hot Chili Peppers",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
+      "song_title": "Avenue of Stars",
+      "artist": "Zdzislawa Sosnicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 6,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

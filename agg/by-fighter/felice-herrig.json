@@ -1,7 +1,7 @@
 {
   "fighter": "Felice Herrig",
   "slug": "felice-herrig",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Blinded by the Light",
@@ -29,12 +29,21 @@
       "event": "UFC 252: Miocic vs. Cormier 3",
       "event_slug": "ufc-252",
       "date": "2020-08-15"
+    },
+    {
+      "song_title": "All Fired Up",
+      "artist": "Pat Benatar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

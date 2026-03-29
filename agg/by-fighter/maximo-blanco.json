@@ -1,0 +1,22 @@
+{
+  "fighter": "Maximo Blanco",
+  "slug": "maximo-blanco",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

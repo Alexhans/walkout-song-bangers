@@ -1,7 +1,7 @@
 {
   "fighter": "Oluwale Bamgbose",
   "slug": "oluwale-bamgbose",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Endless Light",
@@ -11,12 +11,21 @@
       "event": "UFC 212: Aldo vs. Holloway",
       "event_slug": "ufc-212",
       "date": "2017-06-03"
+    },
+    {
+      "song_title": "To Be Like You (Live)",
+      "artist": "Hillsong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0OKfqckOvPoMbT4afgvWJZ",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

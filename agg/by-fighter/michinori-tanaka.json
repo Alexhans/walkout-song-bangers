@@ -1,0 +1,22 @@
+{
+  "fighter": "Michinori Tanaka",
+  "slug": "michinori-tanaka",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Memories of the Wind",
+      "artist": "Yoshida Brothers (Daishi Dance Remix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7o5vJPnyA74cuM60JQ8NQS",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

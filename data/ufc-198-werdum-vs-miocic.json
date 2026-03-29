@@ -1,0 +1,204 @@
+{
+  "event": "UFC 198: Werdum vs Miocic",
+  "event_slug": "ufc-198-werdum-vs-miocic",
+  "date": "2016-05-14",
+  "location": "Curitiba, Parana, Brazil",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/05/15/fight-tracks-the-walkout-songs-of-ufc-198-from-machine-gun-kelly-to-a-couple-a/82350993007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Fabricio Werdum",
+      "song_title": "Tema da Vitoria",
+      "artist": "Aryton Senna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Yyut53Bx79nxJnXZkVZQq",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacare Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vitor Belfort",
+      "song_title": "300 Violins (Prayer Version)",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristiane Justino",
+      "song_title": "Santos Espirito (Holy Spirit)",
+      "artist": "Gezi Monteiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
+      "notes": ""
+    },
+    {
+      "fighter": "Leslie Smith",
+      "song_title": "Break On Through (To The Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "notes": ""
+    },
+    {
+      "fighter": "Mauricio Rua",
+      "song_title": "Sail",
+      "artist": "Armin Van Buuren",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03FSRhO4BvSeZ9P2Ec5qzg",
+      "notes": ""
+    },
+    {
+      "fighter": "Corey Anderson",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "The Outsiders",
+      "artist": "Eric Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
+      "notes": ""
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "Quanto Major O Gigante",
+      "artist": "Major A Testa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji",
+      "notes": ""
+    },
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I Am The Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Marquardt",
+      "song_title": "Oh Lord",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Trinaldo",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Yancy Medeiros",
+      "song_title": "Make It Bun Dem",
+      "artist": "Damien Marley & Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
+      "notes": ""
+    },
+    {
+      "fighter": "John Lineker",
+      "song_title": "Aondie Esta O Amor",
+      "artist": "Tiago Rodrigues",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Lorde Pretty Blaco Jodye 2",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
+      "notes": ""
+    },
+    {
+      "fighter": "Rogerio Nogueira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Patrick Cummins",
+      "song_title": "Oblivion",
+      "artist": "Grimes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergio Moraes",
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "notes": ""
+    },
+    {
+      "fighter": "Luan Chagas",
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "notes": ""
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Cry To Me",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
+      "notes": ""
+    },
+    {
+      "fighter": "Zubaira Tukhugov",
+      "song_title": "Terrible",
+      "artist": "Solzh G 1ala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7AcUCmtDNAto1wWcB0KxeV",
+      "notes": ""
+    }
+  ]
+}

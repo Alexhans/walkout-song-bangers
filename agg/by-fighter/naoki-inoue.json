@@ -1,0 +1,22 @@
+{
+  "fighter": "Naoki Inoue",
+  "slug": "naoki-inoue",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Age Age Every Knight",
+      "artist": "DJ Ozma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cUguiEtdRMG73jFdubZnG",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

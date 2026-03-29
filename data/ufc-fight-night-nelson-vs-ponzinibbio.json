@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+  "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+  "date": "2017-07-16",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2017/07/17/fight-tracks-walkout-songs-ufc-fight-night-113/82272446007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "Hablando de la Libertad",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
+      "notes": ""
+    },
+    {
+      "fighter": "Gunnar Nelson",
+      "song_title": "Way Down We Go",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "Shipping Up to Boston (Merc Dudes in Brooklyn Remix)",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Stevie Ray",
+      "song_title": "Amazing Grace",
+      "artist": "The Royal Scots Dragoon Guard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6I3NxBRBsqbJEJ3JmMYqvE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Tick Tock",
+      "artist": "Giggs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Janes",
+      "song_title": "The Islander",
+      "artist": "Navigators",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Alive",
+      "artist": "Chase & Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Willis",
+      "song_title": "DNA/Till I Collapse",
+      "artist": "Kendrick Lamar/Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
+      "notes": ""
+    },
+    {
+      "fighter": "James Mulheron",
+      "song_title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "Rise & Fall",
+      "artist": "Michael Molley & Alex Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Rise%20%26%20Fall%20Michael%20Molley%20%26%20Alex%20Evans",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Bobby Nash",
+      "song_title": "Come with Me Now",
+      "artist": "KONGOS",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Seery",
+      "song_title": "Charlie Brown",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
+      "notes": ""
+    },
+    {
+      "fighter": "Galore Bofando",
+      "song_title": "I Am a Champion",
+      "artist": "Best Football Motivation Ever",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Ward",
+      "song_title": "Litty",
+      "artist": "Meek Mill feat. Tory Lanez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Henry",
+      "song_title": "Underdog",
+      "artist": "Kasabian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Teymur",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brett Johns",
+      "song_title": "Not Giving In",
+      "artist": "Rudimental feat. John Newman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7eBIV7xripa8OJFuZKVKvk",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Morales",
+      "song_title": "Belizean Warrior",
+      "artist": "Fuego",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5L0liauh094q77ypjSVVnO",
+      "notes": ""
+    },
+    {
+      "fighter": "Leslie Smith",
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Lemos",
+      "song_title": "Scarlet Begonias",
+      "artist": "Sublime",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1NpLCZNSYEegtDYCRA5PNN",
+      "notes": ""
+    }
+  ]
+}

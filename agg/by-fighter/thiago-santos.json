@@ -1,8 +1,17 @@
 {
   "fighter": "Thiago Santos",
   "slug": "thiago-santos",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Marreta Da CCD Para O Mundo",
       "artist": "MC Isaac Saradinho",
@@ -20,6 +29,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     },
     {
       "song_title": "Marreta da CCB Para o Mundo",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 6,
     "with_song": 4,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 3
   }
 }

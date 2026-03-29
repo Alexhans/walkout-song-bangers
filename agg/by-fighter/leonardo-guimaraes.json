@@ -1,0 +1,31 @@
+{
+  "fighter": "Leonardo Guimaraes",
+  "slug": "leonardo-guimaraes",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 0,
+    "missing": 2,
+    "unique_songs": 0
+  }
+}

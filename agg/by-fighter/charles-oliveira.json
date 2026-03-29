@@ -1,8 +1,17 @@
 {
   "fighter": "Charles Oliveira",
   "slug": "charles-oliveira",
-  "appearances": 8,
+  "appearances": 11,
   "walkouts": [
+    {
+      "song_title": "O Hino (Ao Vivo)",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    },
     {
       "song_title": "O Hino",
       "artist": "Fernandinho",
@@ -74,12 +83,30 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 5,
+    "events": 11,
+    "with_song": 8,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

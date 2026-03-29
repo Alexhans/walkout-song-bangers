@@ -1,8 +1,17 @@
 {
   "fighter": "Amanda Nunes",
   "slug": "amanda-nunes",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "O Farol",
+      "artist": "Ivete Sangalo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4u9YXYbf1uCkXSxZ4uGiDp",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "Run This Town",
       "artist": "Jay-Z",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

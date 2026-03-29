@@ -1,7 +1,7 @@
 {
   "fighter": "Beneil Dariush",
   "slug": "beneil-dariush",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Broken Vessels (Amazing Grace)",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Dariush vs. Tsarukyan",
       "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
       "date": "2023-12-02"
+    },
+    {
+      "song_title": "Rock With You",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

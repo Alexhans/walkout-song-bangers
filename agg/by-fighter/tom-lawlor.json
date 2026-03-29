@@ -1,0 +1,22 @@
+{
+  "fighter": "Tom Lawlor",
+  "slug": "tom-lawlor",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Like a Prayer",
+      "artist": "Madonna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

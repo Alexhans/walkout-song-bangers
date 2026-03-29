@@ -1,6 +1,6 @@
 # Derrick Lewis
 
-12 event(s) | 7 song(s) found | 4 unique
+15 event(s) | 10 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -15,4 +15,7 @@
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | — | — | |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |
 | 2023-11-04 | [UFC Fight Night: Almeida vs. Lewis](../../ufc-fight-night-almeida-vs-lewis.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |
+| 2016-07-07 | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Umm Hmm | ABN feat. Trae Tha Truth | [Listen](https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn) |
+| 2017-02-19 | [UFC Fight Night: Lewis vs. Browne](../../ufc-fight-night-lewis-vs-browne.md) | Umm Hmm | A.B.N. | [Listen](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) |
 | 2024-05-11 | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |
+| 2016-04-10 | [UFC Fight Night: Rothwell vs Dos Santos](../../ufc-fight-night-rothwell-vs-dos-santos.md) | Umm Hmm | ABN Trae Tha Truth | [Listen](https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn) |

@@ -1,0 +1,22 @@
+{
+  "fighter": "Lucas Martins",
+  "slug": "lucas-martins",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Tarde De Outubro",
+      "artist": "CPM 22",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1d9FVl17Uq9LWHAFyrmIgO",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

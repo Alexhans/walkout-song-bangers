@@ -1,8 +1,17 @@
 {
   "fighter": "Tyron Woodley",
   "slug": "tyron-woodley",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "King Without a Crown",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "I Ain't Turning Back",
       "artist": "Thi'sl feat. Flame",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

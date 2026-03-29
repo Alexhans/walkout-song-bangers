@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -67,6 +67,15 @@
       "date": "2026-02-07"
     },
     {
+      "song_title": "Coming Home",
+      "artist": "Diddy Dirty Money feat. Skylar Grey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Glory",
       "artist": "KJ 52",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 8,
+    "events": 10,
+    "with_song": 9,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

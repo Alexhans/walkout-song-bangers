@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 11,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -101,12 +101,21 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Not Many",
+      "artist": "Scribe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hlwEYdoK7d0Hz7h4pGqDe",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 11,
-    "with_song": 10,
+    "events": 12,
+    "with_song": 11,
     "missing": 1,
-    "unique_songs": 8
+    "unique_songs": 9
   }
 }

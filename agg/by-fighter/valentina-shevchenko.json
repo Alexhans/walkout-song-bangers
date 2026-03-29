@@ -1,8 +1,17 @@
 {
   "fighter": "Valentina Shevchenko",
   "slug": "valentina-shevchenko",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "Traditional Earn European Folk Dance",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 3,
+    "events": 8,
+    "with_song": 4,
     "missing": 4,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Matheus Nicolau",
   "slug": "matheus-nicolau",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "Convoque Seu Buda",
+      "artist": "Criolo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
     {
       "song_title": "Back on the Path",
       "artist": "Marcin Przbylowicz & Percival Schuttenbach",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

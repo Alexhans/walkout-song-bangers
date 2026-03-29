@@ -1,7 +1,7 @@
 {
   "fighter": "Uriah Hall",
   "slug": "uriah-hall",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "King's Dead",
@@ -20,12 +20,30 @@
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
+    },
+    {
+      "song_title": "Jammin'",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "song_title": "Unchained (The Payback/Untouchable)",
+      "artist": "James Brown & Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

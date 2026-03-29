@@ -1,0 +1,31 @@
+{
+  "fighter": "Erick Montano",
+  "slug": "erick-montano",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Descontrol",
+      "artist": "Descontrol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rJiqNZRQxlMNF9c6qPg6U",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "song_title": "Meaning Corrupted 3 Destruction",
+      "artist": "G.I.S.M.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Qm0F3Kaf043hkK43klaWU",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

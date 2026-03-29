@@ -1,8 +1,17 @@
 {
   "fighter": "Karolina Kowalkiewicz",
   "slug": "karolina-kowalkiewicz",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "The Passenger",
       "artist": "Iggy Pop",
@@ -65,11 +74,20 @@
       "event": "UFC Fight Night: Dawson vs. Green",
       "event_slug": "ufc-fight-night-dawson-vs-green",
       "date": "2023-10-07"
+    },
+    {
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
     "unique_songs": 2
   }

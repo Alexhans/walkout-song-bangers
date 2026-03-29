@@ -1,7 +1,7 @@
 {
   "fighter": "Tecia Pennington",
   "slug": "tecia-pennington",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -35,15 +35,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 1,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }

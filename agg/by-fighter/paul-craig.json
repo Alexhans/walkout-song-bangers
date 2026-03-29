@@ -1,7 +1,7 @@
 {
   "fighter": "Paul Craig",
   "slug": "paul-craig",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Alive",
@@ -58,6 +58,15 @@
       "date": "2022-07-23"
     },
     {
+      "song_title": "Alive",
+      "artist": "Chase & Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    },
+    {
       "song_title": "Quiet Little Voices",
       "artist": "We Were Promised Jetpacks",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

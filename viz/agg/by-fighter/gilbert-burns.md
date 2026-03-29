@@ -1,6 +1,6 @@
 # Gilbert Burns
 
-8 event(s) | 2 song(s) found | 2 unique
+9 event(s) | 3 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,3 +12,4 @@
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Medley | Buchecha | [Listen](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |
 | 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | 2024-09-07 | [UFC Fight Night: Burns vs. Brady](../../ufc-fight-night-burns-vs-brady.md) | — | — | |
+| 2016-07-07 | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Medley | Buchecha | [Listen](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |

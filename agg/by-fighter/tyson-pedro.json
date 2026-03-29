@@ -1,7 +1,7 @@
 {
   "fighter": "Tyson Pedro",
   "slug": "tyson-pedro",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Sexual",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
       "date": "2024-03-02"
+    },
+    {
+      "song_title": "Sexual",
+      "artist": "NEIKED feat. Dyo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Josh Emmett",
   "slug": "josh-emmett",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    },
     {
       "song_title": "Sky is the Limit",
       "artist": "Rebelution",
@@ -56,12 +65,21 @@
       "event": "UFC Fight Night: Kattar vs. Emmett",
       "event_slug": "ufc-fight-night-kattar-vs-emmett",
       "date": "2022-06-18"
+    },
+    {
+      "song_title": "Hate Me Now",
+      "artist": "Nas feat. P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
-    "missing": 0,
-    "unique_songs": 5
+    "events": 8,
+    "with_song": 7,
+    "missing": 1,
+    "unique_songs": 6
   }
 }

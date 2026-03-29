@@ -1,8 +1,17 @@
 {
   "fighter": "Fabricio Werdum",
   "slug": "fabricio-werdum",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Tema da Vitoria",
+      "artist": "Aryton Senna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Yyut53Bx79nxJnXZkVZQq",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Fe Na Luta",
       "artist": "Gabriel O Pensador",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

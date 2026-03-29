@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Rothwell vs Dos Santos",
+  "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+  "date": "2016-04-10",
+  "location": "Zagreb, Croatia",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/04/11/fight-tracks-the-well-rounded-walkout-songs-of-ufc-fight-night-86-with-acdc-dire-straits/82354596007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Junior Dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Rothwell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Umm Hmm",
+      "artist": "ABN Trae Tha Truth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Gonzaga",
+      "song_title": "Mother",
+      "artist": "Danzig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp",
+      "notes": ""
+    },
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "Ma Petite",
+      "artist": "Fababy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vFM1LBzMCOIybF7wfUDIa",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Timothy Johnson",
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Avenue of Stars",
+      "artist": "Zdzislawa Sosnicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Lazare",
+      "artist": "Percival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xGN48DyadvhEpM2RhJQ1X",
+      "notes": ""
+    },
+    {
+      "fighter": "Igor Pokrajac",
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "notes": ""
+    },
+    {
+      "fighter": "Maryna Moroz",
+      "song_title": "BomBom",
+      "artist": "Macklemore & Ryan Lewis feat. The Teaching",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2r7JnMf6lNNcjKyCv1r6ot",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristina Stanciu",
+      "song_title": "The Cage",
+      "artist": "Goodbye To Gravity",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RKDgKUayV3x2bOlWun91n",
+      "notes": ""
+    },
+    {
+      "fighter": "Zak Cummings",
+      "song_title": "Kick it in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Black Betty",
+      "artist": "Spiderbait",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+      "notes": ""
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "La Feria de San Marcos",
+      "artist": "La Original Band el Limon de Salvador Lizzaraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jVz7o47YsKT5ur9RlG6ck",
+      "notes": ""
+    },
+    {
+      "fighter": "Ian Entwistle",
+      "song_title": "Wake Me Up",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "notes": ""
+    },
+    {
+      "fighter": "Mairbek Taisumov",
+      "song_title": "Kuntu Maytan",
+      "artist": "Nasheed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L",
+      "notes": ""
+    },
+    {
+      "fighter": "Damir Hadzovic",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "notes": ""
+    },
+    {
+      "fighter": "Damian Stasiak",
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "notes": ""
+    },
+    {
+      "fighter": "Filip Pejic",
+      "song_title": "The Rain",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
+      "notes": ""
+    },
+    {
+      "fighter": "Lucas Martins",
+      "song_title": "Tarde De Outubro",
+      "artist": "CPM 22",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1d9FVl17Uq9LWHAFyrmIgO",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Whiteford",
+      "song_title": "Flowers of Scotland",
+      "artist": "The Royal Scots Dragoon Guards",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46TO0SYd47xJRRgWkzRIG7",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Cyril Asker",
+      "song_title": "Light It Up",
+      "artist": "Major Lazer feat. Nyla & Fuse ODG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY",
+      "notes": ""
+    },
+    {
+      "fighter": "Bojan Velickovic",
+      "song_title": "Under Pressure",
+      "artist": "Queen and David Bowie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessio Di Chirico",
+      "song_title": "Re-Education (Through Labor)",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "notes": ""
+    }
+  ]
+}

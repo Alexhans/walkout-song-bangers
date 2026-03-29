@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Whittaker vs. Brunson",
+  "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+  "date": "2016-11-26",
+  "location": "Melbourne, Victoria, Australia",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/11/27/fight-tracks-the-walkout-songs-of-ufc-fight-night-101-including-legendary-aussies-silverchair/82304601007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Body Head Bangerz feat. Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrew Holbrook",
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Right Side of the Bed",
+      "artist": "Atreyu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Noke",
+      "song_title": "Isreal's Son",
+      "artist": "Silverchair",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yusuke Kasuya",
+      "song_title": "Double Monsters",
+      "artist": "Marco Polo feat. Torae & Skyzoo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zEsEydHPk82ciyG8OqeEc",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Sexual",
+      "artist": "NEIKED feat. Dyo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
+      "notes": ""
+    },
+    {
+      "fighter": "Danielle Taylor",
+      "song_title": "Beast",
+      "artist": "Rob Bailey & The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0WKY4nRJgz3GUG7IqkTgUH",
+      "notes": ""
+    },
+    {
+      "fighter": "Seo Hee Ham",
+      "song_title": "Tipsy",
+      "artist": "J-Kwon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Kelly",
+      "song_title": "Run to Paradise",
+      "artist": "The Choirboys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Camozzi",
+      "song_title": "Jungle",
+      "artist": "X Ambassadors & Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "notes": ""
+    },
+    {
+      "fighter": "Damien Brown",
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "notes": ""
+    },
+    {
+      "fighter": "Jon Tuck",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Meunier",
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "notes": ""
+    },
+    {
+      "fighter": "Richard Walsh",
+      "song_title": "I Still Haven't Found What I'm Looking For",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Nguyen",
+      "song_title": "Inner Light",
+      "artist": "Shocking Lemon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hsBXVwHFUyK6bmWTCggFo",
+      "notes": ""
+    },
+    {
+      "fighter": "Geane Herrera",
+      "song_title": "La Tierra",
+      "artist": "Ekhymosis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dw53BtsidgW4ZmTN4zoeP",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Made in America",
+      "artist": "Toby Keith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Not Many",
+      "artist": "Scribe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hlwEYdoK7d0Hz7h4pGqDe",
+      "notes": ""
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Break on Through (To the Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "notes": ""
+    },
+    {
+      "fighter": "Guangyou Ning",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jenel Lausa",
+      "song_title": "Bebot",
+      "artist": "Black Eyed Peas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nZwaKTdxczLpUHfLVAozA",
+      "notes": ""
+    },
+    {
+      "fighter": "Yao Zhikui",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

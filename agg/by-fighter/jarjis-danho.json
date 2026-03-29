@@ -1,0 +1,22 @@
+{
+  "fighter": "Jarjis Danho",
+  "slug": "jarjis-danho",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "O Fortuna\" from \"Carmina Burana",
+      "artist": "Carl Orff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2d7139N7CJ9eJmGVE42Y44",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

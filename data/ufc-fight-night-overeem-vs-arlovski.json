@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Overeem vs Arlovski",
+  "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+  "date": "2016-05-08",
+  "location": "Rotterdam, Zuid-Holland, Netherlands",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/05/09/fight-tracks-the-walkout-songs-of-ufc-fight-night-87-eminem-diddy-iggy-prince-and-whitney/82351596007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Alistair",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fZB2nXpKbd1MxrRo3oax3",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Solidier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "notes": ""
+    },
+    {
+      "fighter": "Stefan Struve",
+      "song_title": "He's A Pirate",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonio Silva",
+      "song_title": "Lado B Lado A",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn",
+      "notes": ""
+    },
+    {
+      "fighter": "Gunnar Nelson",
+      "song_title": "Way Down We Go",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Tumenov",
+      "song_title": "The Heroes Of Yore",
+      "artist": "Officers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI",
+      "notes": ""
+    },
+    {
+      "fighter": "Germaine de Randamie",
+      "song_title": "Het Land Van",
+      "artist": "Deetox & Lange Frans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wMAsL98TGuI6eWUEocd1O",
+      "notes": ""
+    },
+    {
+      "fighter": "Anna Elmose",
+      "song_title": "I Wanna Dance With Somebody",
+      "artist": "Whitney Houston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Expand The Shoulder",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "notes": ""
+    },
+    {
+      "fighter": "Francimar Barroso",
+      "song_title": "Go To Sleep",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "notes": ""
+    },
+    {
+      "fighter": "Heather Clark",
+      "song_title": "Eye Of The Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Rustam Khabilov",
+      "song_title": "Rock",
+      "artist": "Filapine feat. Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gpqjfcVjZrgKJyaVUKUJR",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Wade",
+      "song_title": "Drop The World",
+      "artist": "Lil' Wayne feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
+      "notes": ""
+    },
+    {
+      "fighter": "Magnus Cedenblad",
+      "song_title": "Highway Man",
+      "artist": "Hoffmaestro & Chraa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56nYbGRkOwhDoBC7quMDTT",
+      "notes": ""
+    },
+    {
+      "fighter": "Garreth McLellan",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Hate Me Now",
+      "artist": "Nas feat. P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "notes": ""
+    },
+    {
+      "fighter": "Jon Tuck",
+      "song_title": "Jump Around",
+      "artist": "House Of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Reza Madadi",
+      "song_title": "Leila",
+      "artist": "Soroush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bvKZyE7WqnqDnXAatxHWz",
+      "notes": ""
+    },
+    {
+      "fighter": "Yan Cabral",
+      "song_title": "O Simptico",
+      "artist": "Mr. Catra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GfLH7d0nu3N4uHuIzV4Z4",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyoji Horiguchi",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Seery",
+      "song_title": "Charlie Brown",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
+      "notes": ""
+    },
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Mo Money Mo Problems",
+      "artist": "Notorious BIG feat. P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominic Waters",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Yuta Sasaki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Willie Gates",
+      "song_title": "Purple Rain",
+      "artist": "Prince",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "notes": ""
+    }
+  ]
+}

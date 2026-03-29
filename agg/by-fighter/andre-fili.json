@@ -1,8 +1,17 @@
 {
   "fighter": "Andre Fili",
   "slug": "andre-fili",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "Feelin' Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "I'm Feeling Myself",
       "artist": "Mac Dre",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

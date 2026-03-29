@@ -1,8 +1,17 @@
 {
   "fighter": "Jon Jones",
   "slug": "jon-jones",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent/\"I'm Coming Home\" by P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "God Gave Me Style/The Champ Is Here",
       "artist": "50 Cent/Jadakiss",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

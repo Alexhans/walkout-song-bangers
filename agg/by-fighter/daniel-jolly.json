@@ -1,0 +1,22 @@
+{
+  "fighter": "Daniel Jolly",
+  "slug": "daniel-jolly",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Scream",
+      "artist": "Maxo Kream feat. Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BNFEzvZDmIeC3Vdu2xMkb",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

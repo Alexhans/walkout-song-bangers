@@ -1,0 +1,22 @@
+{
+  "fighter": "Augusto Montano",
+  "slug": "augusto-montano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "La Cumbia de la Paz",
+      "artist": "Chico Cervantes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TbXWuFKwmZs0zv7PivZBW",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Kenny Robertson",
+  "slug": "kenny-robertson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Just Don't Quit",
+      "artist": "Jake Maurer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TUbS0WDcIV20XJkQsby0a",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Galore Bofando",
+  "slug": "galore-bofando",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Am a Champion",
+      "artist": "Best Football Motivation Ever",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

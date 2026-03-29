@@ -1,7 +1,967 @@
 {
   "year": 2016,
-  "events": 7,
+  "events": 22,
   "tracks": [
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "Przejmij Ster W Swoje Dlonie",
+      "artist": "Rena Gosc Gutek",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4u1L4bQA6CwqFhzPuwRxMh",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Claudia Gadelha",
+      "song_title": "Welcome To The Jungle",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Andrew Sanchez",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Listen Through Me",
+      "artist": "Thrice",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05Bn9Giqos0GZjjTAmgcNO",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Tatiana Suarez",
+      "song_title": "Sunshine",
+      "artist": "Matisyahu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56ZDcszhe1eCeghso93fXP",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Amanda Cooper",
+      "song_title": "Shoot To Thrill",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GzCkTddOn1vSln1gbSr8y",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Will Brooks",
+      "song_title": "I'm Ill",
+      "artist": "Red Café feat. Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13fUmy3Leqer7nSxFC0pdw",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Ross Pearson",
+      "song_title": "Stole The Show",
+      "artist": "Kygo feat. Parson James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Dooho Choi",
+      "song_title": "Superman Theme",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Thiago Tavares",
+      "song_title": "O Cubo",
+      "artist": "Dazaranha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nhijl68CDtHObByp0Cymf",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Joaquim Silva",
+      "song_title": "Last Breath",
+      "artist": "Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Andrew Holbrook",
+      "song_title": "Til I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Gray Maynard",
+      "song_title": "Sprits",
+      "artist": "The Strumbellas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Fernando Bruno",
+      "song_title": "Pipo S Montagem Deixa Os Garotos Brincar",
+      "artist": "Milton Carvalho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lINnnniAHYX6qJOHn4e6a",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "Convoque Seu Buda",
+      "artist": "Criolo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "John Moraga",
+      "song_title": "Thuggish Ruggish Bone",
+      "artist": "Bone Thugs-N-Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Josh Stansbury",
+      "song_title": "Many Men",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Cory Hendricks",
+      "song_title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Cezar Ferreira",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Anything Goes",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "D Boy Party",
+      "artist": "IceWear Vezzo feat. Trick Trick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cjiSjDVUysQgJeFWiUepD",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Face Everything And Rise",
+      "artist": "Papa Roach",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Li Jingliang",
+      "song_title": "We Are Rising",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Anton Zafir",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "fighter": "Nate Diaz",
+      "song_title": "Don't Make Enemies With Me (Part 2)",
+      "artist": "Tupac feat. Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Conor McGregor",
+      "song_title": "Foggy Dew/El Chapo",
+      "artist": "Sinead O'Connor/The Game & Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xHNN3ClB7BX4D7twWwX7x",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Miesha Tate",
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Holly Holm",
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Ilir Latifi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Gian Villante",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Corey Anderson",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Tom Lawlor",
+      "song_title": "Like a Prayer",
+      "artist": "Madonna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Amanda Nunes",
+      "song_title": "O Farol",
+      "artist": "Ivete Sangalo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4u9YXYbf1uCkXSxZ4uGiDp",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "Traditional Earn European Folk Dance",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Siyar Bahadurzada",
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Brandon Thatch",
+      "song_title": "Slam",
+      "artist": "Pendulum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Nordine Taleb",
+      "song_title": "Go Hard or Go Home",
+      "artist": "Iggy Azalea & Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IXiFMhtXEbSEG8UoAeTwD",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Erick Silva",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Vitor Miranda",
+      "song_title": "Save Me",
+      "artist": "Remy Zero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Marcelo Guimaraes",
+      "song_title": "Bate Pesadao",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GYzNZRlQjjtWPd4qFyD56",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Chas Skelly",
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Untouchable",
+      "artist": "James Brown feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Sweet Emotion",
+      "artist": "Aerosmith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Jason Saggo",
+      "song_title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Justin Salas",
+      "song_title": "Hooked On An Eight Second Ride",
+      "artist": "Chris LeDoux",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Teruto Ishihara",
+      "song_title": "Lion No KO",
+      "artist": "Spinna B-ill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Julian Erosa",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "fighter": "Jon Jones",
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent/\"I'm Coming Home\" by P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "No Games",
+      "artist": "Rick Ross feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Demetrious Johnson",
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Kanye West and Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Summer, Sixteen",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Rafael Natal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "Los Rieledros del Notre",
+      "artist": "El Corrido De Chihuahua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Feelin' Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Sergio Pettis",
+      "song_title": "6 Man",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Chris Kelades",
+      "song_title": "Last Man Standing",
+      "artist": "People In Planes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "Me and the Devil",
+      "artist": "Gil Scott-Heron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Dominique Steele",
+      "song_title": "Track Two",
+      "artist": "Ab-Soul",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XNMyE4GB8v5gdujvucjoc",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "Harvester of Sorrow",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Juliana Lima",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "James Vick",
+      "song_title": "Payback",
+      "artist": "Juicy J and Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Glaico Franca Moreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Walt Harris",
+      "song_title": "Intentional",
+      "artist": "Travis Greene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Cody East",
+      "song_title": "Down with the Sickness",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "Derrubando Muralhas",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Clint Hester",
+      "song_title": "I Bang",
+      "artist": "HB feat. Tektite Afrika",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XoRURhco1RorkcKjnd5NP",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "Welcome 2 Detroit",
+      "artist": "Trick Trick feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Efrain Escudero",
+      "song_title": "Viva Mexico",
+      "artist": "Antonio Aguilar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Fabricio Werdum",
+      "song_title": "Tema da Vitoria",
+      "artist": "Aryton Senna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Yyut53Bx79nxJnXZkVZQq",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Jacare Souza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Vitor Belfort",
+      "song_title": "300 Violins (Prayer Version)",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Cristiane Justino",
+      "song_title": "Santos Espirito (Holy Spirit)",
+      "artist": "Gezi Monteiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Leslie Smith",
+      "song_title": "Break On Through (To The Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Mauricio Rua",
+      "song_title": "Sail",
+      "artist": "Armin Van Buuren",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03FSRhO4BvSeZ9P2Ec5qzg",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Corey Anderson",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "The Outsiders",
+      "artist": "Eric Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "Quanto Major O Gigante",
+      "artist": "Major A Testa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I Am The Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Nate Marquardt",
+      "song_title": "Oh Lord",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Francisco Trinaldo",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Yancy Medeiros",
+      "song_title": "Make It Bun Dem",
+      "artist": "Damien Marley & Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "John Lineker",
+      "song_title": "Aondie Esta O Amor",
+      "artist": "Tiago Rodrigues",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Lorde Pretty Blaco Jodye 2",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Rogerio Nogueira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Patrick Cummins",
+      "song_title": "Oblivion",
+      "artist": "Grimes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Sergio Moraes",
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Luan Chagas",
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "Cry To Me",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
+    {
+      "fighter": "Zubaira Tukhugov",
+      "song_title": "Terrible",
+      "artist": "Solzh G 1ala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7AcUCmtDNAto1wWcB0KxeV",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "fighter": "Amanda Nunes",
       "song_title": "Run This Town",
@@ -241,6 +1201,226 @@
       "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
+    },
+    {
+      "fighter": "Tyron Woodley",
+      "song_title": "King Without a Crown",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Hold On, I'm Coming",
+      "artist": "Sam & Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "Get It",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rOHWE77alc9Txyn4i0QY3",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Jake Ellenberger",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Erik Perez",
+      "song_title": "Cancion Del Mariachi",
+      "artist": "Los Lobos & Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Francisco Rivera",
+      "song_title": "2 of Amerikaz Most Wanted",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Ryan Benoit",
+      "song_title": "Panda",
+      "artist": "Desiigner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Fredy Serrano",
+      "song_title": "Bomba Colombiana de la Orquesta",
+      "artist": "LA 33",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Expand the Shoulders",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Ed Herman",
+      "song_title": "Life by the Drop",
+      "artist": "Stevie Ray Vaughan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Ross Pearson",
+      "song_title": "Stole the Show",
+      "artist": "Kygo feat. Parson James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Anthony Hamilton",
+      "song_title": "Only Fear of Death",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Damian Grabowski",
+      "song_title": "40:1",
+      "artist": "Sabaton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oxTzgRZTVgss1cKrEd0tN",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Wilson Reis",
+      "song_title": "Notorious Thugs",
+      "artist": "The Notorious B.I.G. feat. Bone Thugz-N-Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ozdRCYFVt8Ui0dba1520D",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Hector Sandoval",
+      "song_title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Michael Graves",
+      "song_title": "Ratfinks, Suicide Tanks, Cannibal Girls",
+      "artist": "White Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PDBcqHNIg5cOojcCkhxYM",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Bojan Velickovic",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Damien Brown",
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "fighter": "Cesar Arzamendia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     },
     {
       "fighter": "Conor McGregor",
@@ -1561,13 +2741,2473 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "fighter": "Josh Barnett",
+      "song_title": "The IVth Crusade",
+      "artist": "Bolt Thrower",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Alexander Gustafsson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Lazare",
+      "artist": "Percival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xGN48DyadvhEpM2RhJQ1X",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Ryan Bader",
+      "song_title": "Paint it Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Ilir Latifi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Nick Hein",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Tae Hyun Bang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Jessin Ayari",
+      "song_title": "Journey",
+      "artist": "Jah Cure",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Jim Wallhead",
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake feat. Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Peter Sobotta",
+      "song_title": "Bad Boys",
+      "artist": "Inner Circle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Suspekt",
+      "artist": "S.U.S.P.E.K.T",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hXnkp4SKivcHV555G72yz",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Ashlee Evans-Smith",
+      "song_title": "Don't Mess with Me",
+      "artist": "Brody Dalle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Taylor Lapilus",
+      "song_title": "Oh Yeah",
+      "artist": "Foxy Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Leandro Issa",
+      "song_title": "Negro Drama",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Jarjis Danho",
+      "song_title": "O Fortuna\" from \"Carmina Burana",
+      "artist": "Carl Orff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2d7139N7CJ9eJmGVE42Y44",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Christian Colombo",
+      "song_title": "Godzilla",
+      "artist": "Blue Oyster Cult",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Scott Askham",
+      "song_title": "I Got 5 on It (Instrumental)",
+      "artist": "Luniz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MVrgmGduLW44h3ixjSTLM",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Rustam Khabilov",
+      "song_title": "I Against I",
+      "artist": "Massive Attack feat. Mos Def",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NxTDkes19DzkFCo3ZHTGU",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Leandro Silva",
+      "song_title": "Love Sets You Free",
+      "artist": "Kelly Price feat. Aaron Hall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50BI825pqe9QBumiBtBKg5",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Balada Boa (Tche Tcherere)",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WBGz1dDhZ45Qf1d8t97jR",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Roan Carneiro",
+      "song_title": "Capitulo 4 Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Augusto Mendes",
+      "song_title": "Minha Alma (A Paz Que Eu Nao Quero)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0lPWEt7kSY37pSUIH68ME0",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Dennis Bermudez",
+      "song_title": "Top Shotter",
+      "artist": "DMX feat. Sean Paul & Mr. Vegas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Tatsuya Kawajiri",
+      "song_title": "Water Pow",
+      "artist": "D-Dash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50anz5nwXH7hDYCFvaFfvp",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Chris Camozzi",
+      "song_title": "Jungle",
+      "artist": "X Ambassadors feat. Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Joe Riggs",
+      "song_title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "James Krause",
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Shane Campbell",
+      "song_title": "Stiff Upper Lip",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "Oh Death",
+      "artist": "Jen Titus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Alex Garcia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Oluwale Bamgbose",
+      "song_title": "To Be Like You (Live)",
+      "artist": "Hillsong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0OKfqckOvPoMbT4afgvWJZ",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Daniel Sarafian",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Unsinkable",
+      "artist": "Lucy Spraggen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/468fnkKmmG6YDz5qToPIHi",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Leonardo Guimaraes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Nathan Coy",
+      "song_title": "Soul Power",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Go3WPIsPzbcCyVMAwWuWE",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Jonavin Webb",
+      "song_title": "Oh My",
+      "artist": "The Partysquad & Boaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZJ9wxMqAhIOekYLmukc2L",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Ashlee Evans-Smith",
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Marion Reneau",
+      "song_title": "Bitch",
+      "artist": "Meredith Brooks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "Memories",
+      "artist": "David Guetta feat. Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Kelly Faszholz",
+      "song_title": "I Won't Back Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6b0AtCzgnYrb7T84o18V4l",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "Alugho",
+      "artist": "Youth of Dagestan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Anthony Hamilton",
+      "song_title": "Only Fear of Death",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "fighter": "Eddie Alvarez",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Umm Hmm",
+      "artist": "ABN feat. Trae Tha Truth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Roy Nelson",
+      "song_title": "Fat",
+      "artist": "Weird Al Yankovic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4is3oF4FlWmedh3TK6Ke7z",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Alan Jouban",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Joe Duffy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Mitch Clarke",
+      "song_title": "Ace of Spades",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Alberto Mina",
+      "song_title": "Candeeiro Encantado",
+      "artist": "Lenine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2CGB0FgfbvmRNw96EBJh24",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Mike Pyle",
+      "song_title": "Going Down To The River",
+      "artist": "Doug Seegers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bI8JuY4ss4FXu6TejoqFO",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "John Makdessi",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Mehdi Baghdad",
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ezwtgfw7khBrpvaNPtMoT",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Anthony Birchak",
+      "song_title": "Seven Nation Army (Remix)",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Dileno Lopes",
+      "song_title": "Vida Loucha (Part 2)",
+      "artist": "Racionales",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Set You Free",
+      "artist": "Planet Soul",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Russell Doane",
+      "song_title": "Invincible",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Felipe Arantes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Jerrod Sanders",
+      "song_title": "Champion",
+      "artist": "Pastor Troy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WLRjkVv4oaQkGWNZOtclt",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Lukasz Sajewski",
+      "song_title": "Ona Tanczy Dla Mnie",
+      "artist": "Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Wq2R59KXY8mW7sYGccrKA",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "El Camotal",
+      "artist": "Los Cojolites",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Reginaldo Vieira",
+      "song_title": "No Easy Way Out",
+      "artist": "Robert Tepper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Alvaro Herrera Mendoza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "O Grito de um Guerreiro",
+      "artist": "MC Sapao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Adagio for Strings",
+      "artist": "DJ Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Marcin Held",
+      "song_title": "Oczy Wpatrzone w Cel",
+      "artist": "Eastwest Rockers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PrNDTC15Trj72YHPJlH6G",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Martin Bravo",
+      "song_title": "Jefe de Jefes",
+      "artist": "Los Tigres del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Claudio Puelles",
+      "song_title": "Ambition",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Rock With You",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Rashid Magomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "Paper Planes",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Heather Clark",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Erik Perez",
+      "song_title": "Con Sangre del Norte",
+      "artist": "El Gran Silencio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sG6YezOe97sFpqvymZ66u",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Felipe Arantes",
+      "song_title": "Bailando",
+      "artist": "Enrique Igesias feat. Luan Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PSKhwo0mVcOdjUOhVJd5p",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Joe Soto",
+      "song_title": "All the Above",
+      "artist": "Maino feat. T-Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "Los Caminos de la Vida",
+      "artist": "Tropa Valenta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "Sucker for Pain",
+      "artist": "Lil' Wayne and Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Erick Montano",
+      "song_title": "Descontrol",
+      "artist": "Descontrol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rJiqNZRQxlMNF9c6qPg6U",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Conquistando o Impossavel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Henry Briones",
+      "song_title": "Bailar",
+      "artist": "Elvis Crespo feat. Deorro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Sam Alvey",
+      "song_title": "Hey Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Alex Nicholson",
+      "song_title": "Hate Me Now",
+      "artist": "Nas and Puff Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Marco Polo Reyes",
+      "song_title": "El Corrido de Nayarit",
+      "artist": "Banda Kora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Jason Novelli",
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake feat. Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Enrique Barzola",
+      "song_title": "Contigo Peru",
+      "artist": "Zambo Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7C0Wd6yq3kC8XXZB4V5Xa4",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Chris Avila",
+      "song_title": "California Love",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "Ara Gevorgyan",
+      "artist": "Artsakh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Jammin'",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Stevie Ray",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Ross Pearson",
+      "song_title": "My Way",
+      "artist": "Calvin Harris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Mother Winter",
+      "artist": "2517",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Timothy Johnson",
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Artem Lobov",
+      "song_title": "Freedom\" (\"Django Unchained\")",
+      "artist": "Anthony Hamilton & Elayna Boynton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PgsrLmWjOmm58vGDhoV27",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Teruto Ishihara",
+      "song_title": "Lion No KO (Yashabo Version)",
+      "artist": "Spinna B-ill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hBjKyHEl9fAv4EHIUa2Dc",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Magnus Cedenblad",
+      "song_title": "Highway Man",
+      "artist": "Hoffmaestro & Chraa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56nYbGRkOwhDoBC7quMDTT",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Kyoji Horiguchi",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Ali Bagautinov",
+      "song_title": "Fight Nights",
+      "artist": "Salvador",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "Welcome to Detroit",
+      "artist": "Eminem feat. Trick Trick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Magomed Mustafaev",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Amanda Cooper",
+      "song_title": "Gasoline",
+      "artist": "Halsey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Anna Elmose",
+      "song_title": "I Wanna Dance With Somebody",
+      "artist": "Whitney Houston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Justin Ledet",
+      "song_title": "Too Far to Turn Around",
+      "artist": "Travis Tritt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TdTmzyovtqMTHwQB0GXEg",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Mark Godbeer",
+      "song_title": "Come With Me Now",
+      "artist": "Kongos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Zak Cummings",
+      "song_title": "Starboy",
+      "artist": "The Weeknd feat. Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76yLBykniz0SSNv0jj17M2",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Alexander Yakovlev",
+      "song_title": "Music The Best 3",
+      "artist": "Justin Seven Music",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Marion Reneau",
+      "song_title": "Rise",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Milana Dudieva",
+      "song_title": "Bring on the Thunder",
+      "artist": "Freeze & Noodles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5J8zBspeWfSLVJQMmkx4Je",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Brett Johns",
+      "song_title": "I'm Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Kwan Ho Kwak",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "I'm On the Rock",
+      "artist": "Mavado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Charlie Ward",
+      "song_title": "The Lonesome Boatman",
+      "artist": "The Fureys & David Arthur",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2aLNcakASO2rKKUEzh8w33",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "fighter": "Alistair Overeem",
+      "song_title": "Alistair",
+      "artist": "Unknown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fZB2nXpKbd1MxrRo3oax3",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Solidier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Stefan Struve",
+      "song_title": "He's A Pirate",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Antonio Silva",
+      "song_title": "Lado B Lado A",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Gunnar Nelson",
+      "song_title": "Way Down We Go",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Albert Tumenov",
+      "song_title": "The Heroes Of Yore",
+      "artist": "Officers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Germaine de Randamie",
+      "song_title": "Het Land Van",
+      "artist": "Deetox & Lange Frans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wMAsL98TGuI6eWUEocd1O",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Anna Elmose",
+      "song_title": "I Wanna Dance With Somebody",
+      "artist": "Whitney Houston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Expand The Shoulder",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Francimar Barroso",
+      "song_title": "Go To Sleep",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Heather Clark",
+      "song_title": "Eye Of The Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Rustam Khabilov",
+      "song_title": "Rock",
+      "artist": "Filapine feat. Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gpqjfcVjZrgKJyaVUKUJR",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Chris Wade",
+      "song_title": "Drop The World",
+      "artist": "Lil' Wayne feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Magnus Cedenblad",
+      "song_title": "Highway Man",
+      "artist": "Hoffmaestro & Chraa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56nYbGRkOwhDoBC7quMDTT",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Garreth McLellan",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Hate Me Now",
+      "artist": "Nas feat. P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Jon Tuck",
+      "song_title": "Jump Around",
+      "artist": "House Of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Reza Madadi",
+      "song_title": "Leila",
+      "artist": "Soroush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bvKZyE7WqnqDnXAatxHWz",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Yan Cabral",
+      "song_title": "O Simptico",
+      "artist": "Mr. Catra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GfLH7d0nu3N4uHuIzV4Z4",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Kyoji Horiguchi",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Neil Seery",
+      "song_title": "Charlie Brown",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Mo Money Mo Problems",
+      "artist": "Notorious BIG feat. P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Dominic Waters",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Yuta Sasaki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Willie Gates",
+      "song_title": "Purple Rain",
+      "artist": "Prince",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "Misunderstood",
+      "artist": "Kendrick Lamar feat. Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IgfVOx1K24TLFWWY1t4mk",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "I Don't Get Tired",
+      "artist": "Kevin Gates feat. August Alsina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Unchained (The Payback/Untouchable)",
+      "artist": "James Brown & Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Evan Dunham",
+      "song_title": "Dead Wrong",
+      "artist": "Notorious B.I.G. feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s4kWgzQwsueo3mfllY1s6",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "The Stroke",
+      "artist": "Billy Squier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Roan Carneiro",
+      "song_title": "Marginal Menestral",
+      "artist": "MV Bill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Kenny Robertson",
+      "song_title": "Just Don't Quit",
+      "artist": "Jake Maurer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TUbS0WDcIV20XJkQsby0a",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Chris Wade",
+      "song_title": "Say What You Say",
+      "artist": "Eminem feat. Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4EQkcrSLF3QdlwNca7sMXY",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Chas Skelly",
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea feat. Charli XCX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Maximo Blanco",
+      "song_title": "Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Mejor Morir en Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Sam Sicilia",
+      "song_title": "Sleep Now in the Fire",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Augusto Montano",
+      "song_title": "La Cumbia de la Paz",
+      "artist": "Chico Cervantes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TbXWuFKwmZs0zv7PivZBW",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Antonio Carlos Junior",
+      "song_title": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Leonardo Guimaraes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Jose Quinonez",
+      "song_title": "Ojalá! Que Llueva Café",
+      "artist": "Café Tacuba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Joey Gomez",
+      "song_title": "Don't You Evah",
+      "artist": "Spoon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63VdDgvlj3rhpxuHoPmY8D",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Slow Singing",
+      "artist": "Movado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Erick Montano",
+      "song_title": "Meaning Corrupted 3 Destruction",
+      "artist": "G.I.S.M.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Qm0F3Kaf043hkK43klaWU",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "La Feria de San Marcos",
+      "artist": "Original Banda el Limon de Salvador Lizarraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Albert Morales",
+      "song_title": "Really Really",
+      "artist": "Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "fighter": "Junior Dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Ben Rothwell",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Umm Hmm",
+      "artist": "ABN Trae Tha Truth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Gabriel Gonzaga",
+      "song_title": "Mother",
+      "artist": "Danzig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Francis Ngannou",
+      "song_title": "Ma Petite",
+      "artist": "Fababy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vFM1LBzMCOIybF7wfUDIa",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Timothy Johnson",
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Avenue of Stars",
+      "artist": "Zdzislawa Sosnicka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Lazare",
+      "artist": "Percival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xGN48DyadvhEpM2RhJQ1X",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Igor Pokrajac",
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Maryna Moroz",
+      "song_title": "BomBom",
+      "artist": "Macklemore & Ryan Lewis feat. The Teaching",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2r7JnMf6lNNcjKyCv1r6ot",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Cristina Stanciu",
+      "song_title": "The Cage",
+      "artist": "Goodbye To Gravity",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1RKDgKUayV3x2bOlWun91n",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Zak Cummings",
+      "song_title": "Kick it in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Black Betty",
+      "artist": "Spiderbait",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "La Feria de San Marcos",
+      "artist": "La Original Band el Limon de Salvador Lizzaraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jVz7o47YsKT5ur9RlG6ck",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Ian Entwistle",
+      "song_title": "Wake Me Up",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Mairbek Taisumov",
+      "song_title": "Kuntu Maytan",
+      "artist": "Nasheed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Damir Hadzovic",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Damian Stasiak",
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Filip Pejic",
+      "song_title": "The Rain",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Lucas Martins",
+      "song_title": "Tarde De Outubro",
+      "artist": "CPM 22",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1d9FVl17Uq9LWHAFyrmIgO",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Robert Whiteford",
+      "song_title": "Flowers of Scotland",
+      "artist": "The Royal Scots Dragoon Guards",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46TO0SYd47xJRRgWkzRIG7",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Cyril Asker",
+      "song_title": "Light It Up",
+      "artist": "Major Lazer feat. Nyla & Fuse ODG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Bojan Velickovic",
+      "song_title": "Under Pressure",
+      "artist": "Queen and David Bowie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Alessio Di Chirico",
+      "song_title": "Re-Education (Through Labor)",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Body Head Bangerz feat. Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Andrew Holbrook",
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "Right Side of the Bed",
+      "artist": "Atreyu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Kyle Noke",
+      "song_title": "Isreal's Son",
+      "artist": "Silverchair",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Alexander Volkanovski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Yusuke Kasuya",
+      "song_title": "Double Monsters",
+      "artist": "Marco Polo feat. Torae & Skyzoo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zEsEydHPk82ciyG8OqeEc",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Tyson Pedro",
+      "song_title": "Sexual",
+      "artist": "NEIKED feat. Dyo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Danielle Taylor",
+      "song_title": "Beast",
+      "artist": "Rob Bailey & The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0WKY4nRJgz3GUG7IqkTgUH",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Seo Hee Ham",
+      "song_title": "Tipsy",
+      "artist": "J-Kwon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Daniel Kelly",
+      "song_title": "Run to Paradise",
+      "artist": "The Choirboys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Chris Camozzi",
+      "song_title": "Jungle",
+      "artist": "X Ambassadors & Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Damien Brown",
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Jon Tuck",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Jonathan Meunier",
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Richard Walsh",
+      "song_title": "I Still Haven't Found What I'm Looking For",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Ben Nguyen",
+      "song_title": "Inner Light",
+      "artist": "Shocking Lemon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hsBXVwHFUyK6bmWTCggFo",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Geane Herrera",
+      "song_title": "La Tierra",
+      "artist": "Ekhymosis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dw53BtsidgW4ZmTN4zoeP",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Made in America",
+      "artist": "Toby Keith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Not Many",
+      "artist": "Scribe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hlwEYdoK7d0Hz7h4pGqDe",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Break on Through (To the Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Guangyou Ning",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Jenel Lausa",
+      "song_title": "Bebot",
+      "artist": "Black Eyed Peas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nZwaKTdxczLpUHfLVAozA",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Yao Zhikui",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Carlos Condit",
+      "song_title": "Triad",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Summer Sixteen",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Paige VanZant",
+      "song_title": "Zanza Kuduro",
+      "artist": "Lucenzo with Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Bec Rawlings",
+      "song_title": "Hail Mary",
+      "artist": "Tupac feat. The Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Joe Lauzon",
+      "song_title": "Move",
+      "artist": "Thousand Foot Krutch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Sam Alvey",
+      "song_title": "Hey Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Kevin Casey",
+      "song_title": "Never",
+      "artist": "King Casey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Kf7dwNBp8pUNE8iOpg5oT",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Kyle Bochniak",
+      "song_title": "For Those About to Rock",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Enrique Barzola",
+      "song_title": "Contigo Peru",
+      "artist": "Arturo Zambo Cavero feat. Oscar Avil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Alessio Di Chirico",
+      "song_title": "Re-Education Through Labor",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Garreth McLellan",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Felipe Silva",
+      "song_title": "Sail",
+      "artist": "AWOLNATION",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Shane Campbell",
+      "song_title": "Ni**as in Paris",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Chad Laprise",
+      "song_title": "God's Song",
+      "artist": "Mikey Rukus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Thibault Gouti",
+      "song_title": "Nothin' but a G Thang",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Jeremy Kennedy",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    },
+    {
+      "fighter": "Alex Ricci",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "total_fighters": 156,
-    "with_song": 146,
-    "playable_tracks": 146,
-    "unique_playable_tracks": 138,
-    "missing": 10
+    "total_fighters": 520,
+    "with_song": 479,
+    "playable_tracks": 479,
+    "unique_playable_tracks": 391,
+    "missing": 41
   }
 }

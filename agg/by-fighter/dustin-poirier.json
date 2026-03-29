@@ -1,8 +1,17 @@
 {
   "fighter": "Dustin Poirier",
   "slug": "dustin-poirier",
-  "appearances": 11,
+  "appearances": 13,
   "walkouts": [
+    {
+      "song_title": "Ain't No Stopping' Us Now",
+      "artist": "McFadden & Whitehead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Ain't No Stopping' Us Now",
       "artist": "McFadden & Whitehead",
@@ -101,12 +110,21 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "I Don't Get Tired",
+      "artist": "Kevin Gates feat. August Alsina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {
-    "events": 11,
-    "with_song": 8,
+    "events": 13,
+    "with_song": 10,
     "missing": 3,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

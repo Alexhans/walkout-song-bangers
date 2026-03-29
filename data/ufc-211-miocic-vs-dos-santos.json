@@ -1,0 +1,204 @@
+{
+  "event": "UFC 211: Miocic vs. Dos Santos",
+  "event_slug": "ufc-211-miocic-vs-dos-santos",
+  "date": "2017-05-13",
+  "location": "Dallas, Texas, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2017/05/14/fight-tracks-the-walkout-songs-of-ufc-211-including-rage-rob-zombie-kickboxer-and-scarface/82284891007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Stipe Miocic",
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "notes": ""
+    },
+    {
+      "fighter": "Junior Dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanna Jedrzejczyk",
+      "song_title": "Przejmij Ster W Swoje Dlonie",
+      "artist": "Rena Gosc Gutek",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4u1L4bQA6CwqFhzPuwRxMh",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Chegui",
+      "artist": "Ludmilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Bht3AhEqb8jmiWiJBigFw",
+      "notes": ""
+    },
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "notes": ""
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Frankie Edgar",
+      "song_title": "Kick in the Door",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU",
+      "notes": ""
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Corrido de Chuhuahua",
+      "artist": "Los Rieleros Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "notes": ""
+    },
+    {
+      "fighter": "David Branch",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Krzysztof Jotko",
+      "song_title": "Streets of Siam",
+      "artist": "Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "notes": ""
+    },
+    {
+      "fighter": "Eddie Alvarez",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. The Notorious B.I.G. & Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "Ain't No Stopping' Us Now",
+      "artist": "McFadden & Whitehead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Knight",
+      "song_title": "Sleeping Dog",
+      "artist": "Blackberry Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3tJ9FsjhspfsrhtYvMWCKp",
+      "notes": ""
+    },
+    {
+      "fighter": "Chas Skelly",
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Sherman",
+      "song_title": "Guerrilla Radio",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8",
+      "notes": ""
+    },
+    {
+      "fighter": "Rashad Coulter",
+      "song_title": "Spirit Break Out",
+      "artist": "William McDowell feat. Trinity Anderson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05kHI4RsThI6ez9oKnWLHO",
+      "notes": ""
+    },
+    {
+      "fighter": "James Vick",
+      "song_title": "Bring 'Em Out",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Polo Reyes",
+      "song_title": "El Corrido de Nayarit",
+      "artist": "Banda Kora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
+      "notes": ""
+    },
+    {
+      "fighter": "Cortney Casey",
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Aguilar",
+      "song_title": "El Gallo De Oro",
+      "artist": "Ana Gabriel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bPxASg7VSeQWWeK9q8CzL",
+      "notes": ""
+    },
+    {
+      "fighter": "Enrique Barzola",
+      "song_title": "Le Llaman Guerrero",
+      "artist": "Juan Carlos Alvarado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Mejor Morir En Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "notes": ""
+    },
+    {
+      "fighter": "Gadzhimurad Antigulov",
+      "song_title": "Because I am a Highlander",
+      "artist": "Marat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
+      "notes": ""
+    },
+    {
+      "fighter": "Joachim Christensen",
+      "song_title": "Store Far",
+      "artist": "Denz feat. T.A.P. Malledrengen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xNwo9zhbKW2CfpRMcp0it",
+      "notes": ""
+    }
+  ]
+}

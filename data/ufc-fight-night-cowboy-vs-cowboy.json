@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Cowboy vs Cowboy",
+  "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+  "date": "2016-02-21",
+  "location": "Pittsburgh, Pennsylvania, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/02/22/fight-tracks-the-walkout-songs-of-ufc-fight-night-83-with-kid-rock-queen-dmx/82359041007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Donald Cerrone",
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Oliveira",
+      "song_title": "Balada Boa (Tche Tcherere)",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WBGz1dDhZ45Qf1d8t97jR",
+      "notes": ""
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "notes": ""
+    },
+    {
+      "fighter": "Roan Carneiro",
+      "song_title": "Capitulo 4 Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Garbrandt",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Augusto Mendes",
+      "song_title": "Minha Alma (A Paz Que Eu Nao Quero)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0lPWEt7kSY37pSUIH68ME0",
+      "notes": ""
+    },
+    {
+      "fighter": "Dennis Bermudez",
+      "song_title": "Top Shotter",
+      "artist": "DMX feat. Sean Paul & Mr. Vegas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatsuya Kawajiri",
+      "song_title": "Water Pow",
+      "artist": "D-Dash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50anz5nwXH7hDYCFvaFfvp",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Camozzi",
+      "song_title": "Jungle",
+      "artist": "X Ambassadors feat. Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Riggs",
+      "song_title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "notes": ""
+    },
+    {
+      "fighter": "James Krause",
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Campbell",
+      "song_title": "Stiff Upper Lip",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "Oh Death",
+      "artist": "Jen Titus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Garcia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Oluwale Bamgbose",
+      "song_title": "To Be Like You (Live)",
+      "artist": "Hillsong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0OKfqckOvPoMbT4afgvWJZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Sarafian",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Unsinkable",
+      "artist": "Lucy Spraggen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/468fnkKmmG6YDz5qToPIHi",
+      "notes": ""
+    },
+    {
+      "fighter": "Leonardo Guimaraes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nathan Coy",
+      "song_title": "Soul Power",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Go3WPIsPzbcCyVMAwWuWE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonavin Webb",
+      "song_title": "Oh My",
+      "artist": "The Partysquad & Boaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZJ9wxMqAhIOekYLmukc2L",
+      "notes": ""
+    },
+    {
+      "fighter": "Ashlee Evans-Smith",
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Marion Reneau",
+      "song_title": "Bitch",
+      "artist": "Meredith Brooks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM",
+      "notes": ""
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "Memories",
+      "artist": "David Guetta feat. Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelly Faszholz",
+      "song_title": "I Won't Back Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6b0AtCzgnYrb7T84o18V4l",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "Alugho",
+      "artist": "Youth of Dagestan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hamilton",
+      "song_title": "Only Fear of Death",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz",
+      "notes": ""
+    }
+  ]
+}

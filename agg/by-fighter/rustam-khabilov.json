@@ -1,7 +1,7 @@
 {
   "fighter": "Rustam Khabilov",
   "slug": "rustam-khabilov",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "New Day",
@@ -11,12 +11,30 @@
       "event": "UFC 206: Holloway vs. Pettis",
       "event_slug": "ufc-206",
       "date": "2016-12-10"
+    },
+    {
+      "song_title": "I Against I",
+      "artist": "Massive Attack feat. Mos Def",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NxTDkes19DzkFCo3ZHTGU",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "song_title": "Rock",
+      "artist": "Filapine feat. Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gpqjfcVjZrgKJyaVUKUJR",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

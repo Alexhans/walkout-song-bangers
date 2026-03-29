@@ -1,0 +1,22 @@
+{
+  "fighter": "Gabriel Gonzaga",
+  "slug": "gabriel-gonzaga",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Mother",
+      "artist": "Danzig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

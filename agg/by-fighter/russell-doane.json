@@ -1,7 +1,7 @@
 {
   "fighter": "Russell Doane",
   "slug": "russell-doane",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Sail",
@@ -11,12 +11,30 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Invincible",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "song_title": "Worldwide Choppers",
+      "artist": "Tech N9ne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

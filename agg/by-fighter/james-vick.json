@@ -1,8 +1,26 @@
 {
   "fighter": "James Vick",
   "slug": "james-vick",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Payback",
+      "artist": "Juicy J and Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "song_title": "Bring 'Em Out",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Bring 'Em Out",
       "artist": "T.I.",
@@ -20,12 +38,21 @@
       "event": "UFC 217: Bisping vs. St-Pierre",
       "event_slug": "ufc-217",
       "date": "2017-11-04"
+    },
+    {
+      "song_title": "Bring 'Em Out",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

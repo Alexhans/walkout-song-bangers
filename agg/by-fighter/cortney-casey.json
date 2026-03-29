@@ -1,7 +1,7 @@
 {
   "fighter": "Cortney Casey",
   "slug": "cortney-casey",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Living Dead Girl",
@@ -11,6 +11,15 @@
       "event": "UFC 202: Diaz vs. McGregor 2",
       "event_slug": "ufc-202",
       "date": "2016-08-20"
+    },
+    {
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
     },
     {
       "song_title": "Living Dead Girl",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 1
   }

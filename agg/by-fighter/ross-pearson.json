@@ -1,0 +1,40 @@
+{
+  "fighter": "Ross Pearson",
+  "slug": "ross-pearson",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Stole The Show",
+      "artist": "Kygo feat. Parson James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "song_title": "Stole the Show",
+      "artist": "Kygo feat. Parson James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "song_title": "My Way",
+      "artist": "Calvin Harris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

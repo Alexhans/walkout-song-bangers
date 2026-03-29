@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Lewis vs. Browne",
+  "event_slug": "ufc-fight-night-lewis-vs-browne",
+  "date": "2017-02-19",
+  "location": "Halifax, Nova Scotia, Canada",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2017/02/fight-tracks-the-walkout-songs-of-ufc-fight-night-105-including-vintage-michael-jackson-and-bob-marley"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Umm Hmm",
+      "artist": "A.B.N.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b",
+      "notes": ""
+    },
+    {
+      "fighter": "Travis Browne",
+      "song_title": "Till It's Gone",
+      "artist": "Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6",
+      "notes": ""
+    },
+    {
+      "fighter": "Johny Hendricks",
+      "song_title": "My Texas",
+      "artist": "Josh Abbott Band feat. Pat Green",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0K2R5ECfzYqSyBLHXywRo5",
+      "notes": ""
+    },
+    {
+      "fighter": "Hector Lombard",
+      "song_title": "Adagio for Strings",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "notes": ""
+    },
+    {
+      "fighter": "Gavin Tucker",
+      "song_title": "Johnny I Hardly Knew Ya",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5I9bmpCFS6oxCz3GkA2t9j",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Sicilia",
+      "song_title": "Murderers",
+      "artist": "John Frusciante",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Lt6XpDCo3xETDwWgvZJIY",
+      "notes": ""
+    },
+    {
+      "fighter": "Elias Theodorou",
+      "song_title": "Oh ... Canada",
+      "artist": "Classified",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wjTgKnltcEBfDpWcPN1J4",
+      "notes": ""
+    },
+    {
+      "fighter": "Cezar Ferreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Sara McMann",
+      "song_title": "Indestructible",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf",
+      "notes": ""
+    },
+    {
+      "fighter": "Gina Mazany",
+      "song_title": "Misirlou",
+      "artist": "Dick Dale & His Del-Tones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yuhWcddu8hgwlMIAyFamR",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Felder",
+      "song_title": "Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Ricci",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Santiago Ponzinibbio",
+      "song_title": "Hablando de la Libertad",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
+      "notes": ""
+    },
+    {
+      "fighter": "Nordine Taleb",
+      "song_title": "Bad Boys de Marseille",
+      "artist": "Akhenaton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78ujFEl6ZHZF8wRy7dYo0T",
+      "notes": ""
+    },
+    {
+      "fighter": "Randa Markos",
+      "song_title": "You're Going Down",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct",
+      "notes": ""
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "notes": ""
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Switchez",
+      "artist": "Eazy-E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz",
+      "notes": ""
+    },
+    {
+      "fighter": "Reginaldo Vieira",
+      "song_title": "No Easy Way Out",
+      "artist": "Robert Tepper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Three Little Birds",
+      "artist": "Bob Marley & The Wailers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "Rubber Band Man",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GwJBXIQOJ6ARh3sFt9dBZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Janes",
+      "song_title": "The Islander",
+      "artist": "The Navigators",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
+      "notes": ""
+    }
+  ]
+}

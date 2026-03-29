@@ -1,7 +1,7 @@
 {
   "fighter": "Darren Till",
   "slug": "darren-till",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Sweet Caroline",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Brunson vs. Till",
       "event_slug": "ufc-fight-night-brunson-vs-till",
       "date": "2021-09-04"
+    },
+    {
+      "song_title": "In The Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

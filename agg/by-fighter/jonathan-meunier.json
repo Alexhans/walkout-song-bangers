@@ -1,0 +1,22 @@
+{
+  "fighter": "Jonathan Meunier",
+  "slug": "jonathan-meunier",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

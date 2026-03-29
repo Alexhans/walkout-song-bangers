@@ -1,0 +1,22 @@
+{
+  "fighter": "Vitor Miranda",
+  "slug": "vitor-miranda",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Save Me",
+      "artist": "Remy Zero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

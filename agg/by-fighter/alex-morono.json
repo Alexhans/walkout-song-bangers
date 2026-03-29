@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Morono",
   "slug": "alex-morono",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -58,6 +58,15 @@
       "date": "2026-02-07"
     },
     {
+      "song_title": "My Head's in Mississippi",
+      "artist": "ZZ Top",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Zombies Ate My Pirate Ship",
       "artist": "Alestorm",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 8,
+    "events": 10,
+    "with_song": 9,
     "missing": 1,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

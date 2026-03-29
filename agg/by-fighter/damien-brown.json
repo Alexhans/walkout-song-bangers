@@ -1,0 +1,31 @@
+{
+  "fighter": "Damien Brown",
+  "slug": "damien-brown",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

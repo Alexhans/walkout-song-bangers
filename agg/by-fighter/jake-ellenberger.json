@@ -1,0 +1,22 @@
+{
+  "fighter": "Jake Ellenberger",
+  "slug": "jake-ellenberger",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

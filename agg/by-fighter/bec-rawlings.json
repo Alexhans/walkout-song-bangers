@@ -1,0 +1,31 @@
+{
+  "fighter": "Bec Rawlings",
+  "slug": "bec-rawlings",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Can't C Me",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac feat. The Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

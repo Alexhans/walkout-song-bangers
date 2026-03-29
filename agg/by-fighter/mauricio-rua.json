@@ -1,8 +1,17 @@
 {
   "fighter": "Mauricio Rua",
   "slug": "mauricio-rua",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Sail",
+      "artist": "Armin Van Buuren",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03FSRhO4BvSeZ9P2Ec5qzg",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "SAIL",
       "artist": "Awolnation",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

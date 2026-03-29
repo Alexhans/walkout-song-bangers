@@ -1,8 +1,17 @@
 {
   "fighter": "Diego Sanchez",
   "slug": "diego-sanchez",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Untouchable",
+      "artist": "James Brown feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "Sandstorm",
       "artist": "Darude",
@@ -20,12 +29,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Adagio for Strings",
+      "artist": "DJ Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

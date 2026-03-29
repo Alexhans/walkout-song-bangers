@@ -1,7 +1,7 @@
 {
   "fighter": "Marlon Vera",
   "slug": "marlon-vera",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "That's All I Need",
@@ -92,12 +92,21 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Break on Through (To the Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 10,
-    "with_song": 10,
+    "events": 11,
+    "with_song": 11,
     "missing": 0,
-    "unique_songs": 10
+    "unique_songs": 11
   }
 }

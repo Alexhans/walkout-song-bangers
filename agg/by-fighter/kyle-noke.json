@@ -1,0 +1,22 @@
+{
+  "fighter": "Kyle Noke",
+  "slug": "kyle-noke",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Isreal's Son",
+      "artist": "Silverchair",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

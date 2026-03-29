@@ -1,8 +1,17 @@
 {
   "fighter": "Zubaira Tukhugov",
   "slug": "zubaira-tukhugov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Terrible",
+      "artist": "Solzh G 1ala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7AcUCmtDNAto1wWcB0KxeV",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

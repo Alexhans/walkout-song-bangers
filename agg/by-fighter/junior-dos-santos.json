@@ -1,8 +1,17 @@
 {
   "fighter": "Junior Dos Santos",
   "slug": "junior-dos-santos",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Gonna Fly Now",
       "artist": "(Theme from \"Rocky\") by Bill Conti",
@@ -20,12 +29,21 @@
       "event": "UFC 252: Miocic vs. Cormier 3",
       "event_slug": "ufc-252",
       "date": "2020-08-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 4,
     "with_song": 2,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 2
   }
 }

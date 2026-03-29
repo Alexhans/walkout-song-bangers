@@ -1,7 +1,7 @@
 {
   "fighter": "Colby Covington",
   "slug": "colby-covington",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Me, Myself and I",
@@ -38,12 +38,21 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Cinderella Man",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

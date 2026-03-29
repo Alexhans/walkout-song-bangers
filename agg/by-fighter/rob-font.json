@@ -1,8 +1,17 @@
 {
   "fighter": "Rob Font",
   "slug": "rob-font",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "Lorde Pretty Blaco Jodye 2",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Welcome to Jamrock",
       "artist": "Damian Marley",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Marco Polo Reyes",
   "slug": "marco-polo-reyes",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "El Corrido de Nayarit",
+      "artist": "Banda Kora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "El Corrido de Nayarit",
       "artist": "Banda Kora",
@@ -11,11 +20,20 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "El Corrido de Nayarit",
+      "artist": "Banda Kora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 1
   }

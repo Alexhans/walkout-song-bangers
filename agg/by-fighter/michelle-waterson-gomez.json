@@ -1,7 +1,7 @@
 {
   "fighter": "Michelle Waterson-Gomez",
   "slug": "michelle-waterson-gomez",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Ortega vs. Rodriguez",
       "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
       "date": "2022-07-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 1,
-    "missing": 4,
+    "missing": 5,
     "unique_songs": 1
   }
 }

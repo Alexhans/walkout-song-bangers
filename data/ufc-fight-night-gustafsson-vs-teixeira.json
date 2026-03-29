@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+  "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+  "date": "2017-05-28",
+  "location": "Stockholm, Sweden",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2017/05/29/fight-tracks-the-walkout-songs-of-ufc-fight-night-109-with-gnr-ludacris-duran-duran/82282667007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Alexander Gustafsson",
+      "song_title": "Training Montage",
+      "artist": "Vince Dicola",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PKtqiUwkjveVYzmj4gMnz",
+      "notes": ""
+    },
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "Sweet Child O Mine",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "notes": ""
+    },
+    {
+      "fighter": "Volkan Oezdemir",
+      "song_title": "Beat It",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj",
+      "notes": ""
+    },
+    {
+      "fighter": "Misha Cirkunov",
+      "song_title": "Vechno Molodoi (Forever Young)",
+      "artist": "Smyslovye Galljustsinatsii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uur39wYNLvayRF11cypG4",
+      "notes": ""
+    },
+    {
+      "fighter": "Peter Sobotta",
+      "song_title": "Bad Boys",
+      "artist": "Inner Circle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Saunders",
+      "song_title": "Grew Up a Screw Up",
+      "artist": "Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BH06Z1ffWB6ug5tpju6JD",
+      "notes": ""
+    },
+    {
+      "fighter": "Omari Akhmedov",
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "I'm on the Rock",
+      "artist": "Mavado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+      "notes": ""
+    },
+    {
+      "fighter": "Nordine Taleb",
+      "song_title": "Bad Boys de Marseille",
+      "artist": "am",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78ujFEl6ZHZF8wRy7dYo0T",
+      "notes": ""
+    },
+    {
+      "fighter": "Oliver Enkamp",
+      "song_title": "Intro (Long Version)",
+      "artist": "The XX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Nicholson",
+      "song_title": "Better Believe It",
+      "artist": "Lil' Boosie feat. Young Jeeezy & Webbie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YKHIIVQuz1lUKIhe5GMlX",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Jump Around",
+      "artist": "House of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "notes": ""
+    },
+    {
+      "fighter": "Damian Stasiak",
+      "song_title": "Wild Boys",
+      "artist": "Duran Duran",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Smith",
+      "song_title": "Lake of Fire",
+      "artist": "Nirvana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UJmPSJsBsIR1U0N79BU1g",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Camozzi",
+      "song_title": "Born Ready",
+      "artist": "Zayde Wolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Y8BMJXyRWVpxzQt3WDEmb",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquim Silva",
+      "song_title": "Last Breath",
+      "artist": "Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+      "notes": ""
+    },
+    {
+      "fighter": "Reza Madadi",
+      "song_title": "Lila",
+      "artist": "Soroush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6bvKZyE7WqnqDnXAatxHWz",
+      "notes": ""
+    },
+    {
+      "fighter": "Bojan Velickovic",
+      "song_title": "Viva La Vida",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicholas Musoke",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Till",
+      "song_title": "In The Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessin Ayari",
+      "song_title": "Journey",
+      "artist": "Jah Cure",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+      "notes": ""
+    },
+    {
+      "fighter": "Damir Hadzovic",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Held",
+      "song_title": "Can't Stop The Feeling",
+      "artist": "Justin Timberlake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Rafael Dos Anjos",
   "slug": "rafael-dos-anjos",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Boladão (Grito de Um Guerreiro)",
@@ -13,6 +13,24 @@
       "date": "2024-03-09"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "song_title": "O Grito de um Guerreiro",
+      "artist": "MC Sapao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
       "song_title": "O Grito De Um Guerreiro",
       "artist": "Mc Sapão",
       "confidence": "bronze",
@@ -20,6 +38,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
       "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
       "date": "2022-07-09"
+    },
+    {
+      "song_title": "Fight to Survive",
+      "artist": "Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     },
     {
       "song_title": "Hope in Front of Me",
@@ -41,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
-    "missing": 0,
-    "unique_songs": 3
+    "events": 7,
+    "with_song": 6,
+    "missing": 1,
+    "unique_songs": 5
   }
 }

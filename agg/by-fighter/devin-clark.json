@@ -1,7 +1,7 @@
 {
   "fighter": "Devin Clark",
   "slug": "devin-clark",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Die Tonight",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Amazing",
+      "artist": "Prof",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26zeCOQOl5p1innA6fYWLh",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

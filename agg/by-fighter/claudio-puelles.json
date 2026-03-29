@@ -1,7 +1,7 @@
 {
   "fighter": "Claudio Puelles",
   "slug": "claudio-puelles",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Fear of the Dark",
@@ -11,6 +11,15 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "Ambition",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     },
     {
       "song_title": "Fear of the Dark",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,0 +1,204 @@
+{
+  "event": "UFC 197: Jones vs Saint Preux",
+  "event_slug": "ufc-197-jones-vs-saint-preux",
+  "date": "2016-04-23",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/04/24/fight-tracks-the-walkout-songs-of-ufc-197-acdc-and-metallica-but-why-no-prince/82352724007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Jon Jones",
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent/\"I'm Coming Home\" by P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "No Games",
+      "artist": "Rick Ross feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
+      "notes": ""
+    },
+    {
+      "fighter": "Demetrious Johnson",
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Kanye West and Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Summer, Sixteen",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Natal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "Los Rieledros del Notre",
+      "artist": "El Corrido De Chihuahua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Feelin' Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergio Pettis",
+      "song_title": "6 Man",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Kelades",
+      "song_title": "Last Man Standing",
+      "artist": "People In Planes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "Me and the Devil",
+      "artist": "Gil Scott-Heron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominique Steele",
+      "song_title": "Track Two",
+      "artist": "Ab-Soul",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XNMyE4GB8v5gdujvucjoc",
+      "notes": ""
+    },
+    {
+      "fighter": "Carla Esparza",
+      "song_title": "Harvester of Sorrow",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
+      "notes": ""
+    },
+    {
+      "fighter": "Juliana Lima",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "James Vick",
+      "song_title": "Payback",
+      "artist": "Juicy J and Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "notes": ""
+    },
+    {
+      "fighter": "Glaico Franca Moreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Walt Harris",
+      "song_title": "Intentional",
+      "artist": "Travis Greene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody East",
+      "song_title": "Down with the Sickness",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "Derrubando Muralhas",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
+      "notes": ""
+    },
+    {
+      "fighter": "Clint Hester",
+      "song_title": "I Bang",
+      "artist": "HB feat. Tektite Afrika",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XoRURhco1RorkcKjnd5NP",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "Welcome 2 Detroit",
+      "artist": "Trick Trick feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "notes": ""
+    },
+    {
+      "fighter": "Efrain Escudero",
+      "song_title": "Viva Mexico",
+      "artist": "Antonio Aguilar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi",
+      "notes": ""
+    }
+  ]
+}

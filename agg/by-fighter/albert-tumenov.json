@@ -1,7 +1,7 @@
 {
   "fighter": "Albert Tumenov",
   "slug": "albert-tumenov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "The Heroes of Yore",
@@ -11,12 +11,21 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "The Heroes Of Yore",
+      "artist": "Officers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

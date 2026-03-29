@@ -1,0 +1,22 @@
+{
+  "fighter": "Christian Colombo",
+  "slug": "christian-colombo",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Godzilla",
+      "artist": "Blue Oyster Cult",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

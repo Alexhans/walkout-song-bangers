@@ -1,7 +1,7 @@
 {
   "fighter": "Zak Cummings",
   "slug": "zak-cummings",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Kick it in the Sticks",
@@ -11,12 +11,39 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Starboy",
+      "artist": "The Weeknd feat. Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76yLBykniz0SSNv0jj17M2",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
+      "song_title": "Kick it in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
+      "song_title": "Kick It in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

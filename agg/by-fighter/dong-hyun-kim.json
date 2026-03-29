@@ -1,7 +1,7 @@
 {
   "fighter": "Dong Hyun Kim",
   "slug": "dong-hyun-kim",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Danza Kuduro",
@@ -11,12 +11,21 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Danza Kuduro",
+      "artist": "Don Omar feat. Lucenzo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

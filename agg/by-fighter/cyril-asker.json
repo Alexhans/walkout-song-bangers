@@ -1,0 +1,31 @@
+{
+  "fighter": "Cyril Asker",
+  "slug": "cyril-asker",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Hurt",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
+      "song_title": "Light It Up",
+      "artist": "Major Lazer feat. Nyla & Fuse ODG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

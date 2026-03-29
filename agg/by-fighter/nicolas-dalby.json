@@ -1,7 +1,7 @@
 {
   "fighter": "Nicolas Dalby",
   "slug": "nicolas-dalby",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2023-11-04"
     },
     {
+      "song_title": "Suspekt",
+      "artist": "S.U.S.P.E.K.T",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hXnkp4SKivcHV555G72yz",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
       "song_title": "Get Up Offa That Thing",
       "artist": "James Brown",
       "confidence": "bronze",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Blaydes vs. Aspinall",
       "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
       "date": "2022-07-23"
+    },
+    {
+      "song_title": "Black Betty",
+      "artist": "Spiderbait",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

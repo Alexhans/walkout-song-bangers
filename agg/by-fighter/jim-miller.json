@@ -1,8 +1,17 @@
 {
   "fighter": "Jim Miller",
   "slug": "jim-miller",
-  "appearances": 12,
+  "appearances": 14,
   "walkouts": [
+    {
+      "song_title": "Sweet Emotion",
+      "artist": "Aerosmith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "Remember the Name",
       "artist": "Fort Minor",
@@ -110,12 +119,21 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "Bad Moon Rising",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 12,
-    "with_song": 12,
+    "events": 14,
+    "with_song": 14,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

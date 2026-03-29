@@ -1,7 +1,7 @@
 {
   "fighter": "Mike Pyle",
   "slug": "mike-pyle",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Going Down to the Floor",
@@ -11,12 +11,21 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Going Down To The River",
+      "artist": "Doug Seegers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bI8JuY4ss4FXu6TejoqFO",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

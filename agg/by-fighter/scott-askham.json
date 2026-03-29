@@ -1,0 +1,22 @@
+{
+  "fighter": "Scott Askham",
+  "slug": "scott-askham",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Got 5 on It (Instrumental)",
+      "artist": "Luniz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MVrgmGduLW44h3ixjSTLM",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,17 @@
 {
   "fighter": "Stipe Miocic",
   "slug": "stipe-miocic",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "Till I Die",
       "artist": "Machine Gun Kelly",
@@ -11,6 +20,15 @@
       "event": "UFC 203: Miocic vs. Overeem",
       "event_slug": "ufc-203",
       "date": "2016-09-10"
+    },
+    {
+      "song_title": "Till I Die",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
     },
     {
       "song_title": "Till I Die",
@@ -59,8 +77,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
     "unique_songs": 1
   }

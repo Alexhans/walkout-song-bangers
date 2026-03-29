@@ -1,7 +1,7 @@
 {
   "fighter": "Glover Teixeira",
   "slug": "glover-teixeira",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "All the Way Up",
@@ -38,12 +38,21 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Sweet Child O Mine",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

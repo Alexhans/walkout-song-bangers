@@ -1,8 +1,26 @@
 {
   "fighter": "Chas Skelly",
   "slug": "chas-skelly",
-  "appearances": 2,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Walk",
       "artist": "Pantera",
@@ -11,6 +29,24 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "How to Be the Man",
+      "artist": "Riff Raff feat. Slim Thug (Paul Wall Houston Remix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6XE2vZO8ROQmxElzRQvheR",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea feat. Charli XCX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     },
     {
       "song_title": "Loud and Heavy",
@@ -23,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

@@ -1,6 +1,6 @@
 # Randy Brown
 
-7 event(s) | 7 song(s) found | 6 unique
+8 event(s) | 8 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2021-10-09 | [UFC Fight Night: Dern vs. Rodriguez](../../ufc-fight-night-dern-vs-rodriguez.md) | No Suburban Pt. 2 | Sheff G | [Listen](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) |
 | 2024-02-03 | [UFC Fight Night: Dolidze vs. Imavov](../../ufc-fight-night-dolidze-vs-imavov.md) | Lime Light | Masicka | [Listen](https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5) |
 | 2023-06-24 | [UFC Fight Night: Emmett vs. Topuria](../../ufc-fight-night-emmett-vs-topuria.md) | Energy | Tommy Lee Sparta | [Listen](https://open.spotify.com/track/1BxiaQIDjAr2ltsUEMB9r8) |
+| 2016-09-17 | [UFC Fight Night: Poirier vs. Johnson](../../ufc-fight-night-poirier-vs-johnson.md) | Slow Singing | Movado | [Listen](https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ) |

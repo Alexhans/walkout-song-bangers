@@ -1,0 +1,22 @@
+{
+  "fighter": "Marcelo Guimaraes",
+  "slug": "marcelo-guimaraes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bate Pesadao",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GYzNZRlQjjtWPd4qFyD56",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

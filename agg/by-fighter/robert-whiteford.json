@@ -1,0 +1,22 @@
+{
+  "fighter": "Robert Whiteford",
+  "slug": "robert-whiteford",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Flowers of Scotland",
+      "artist": "The Royal Scots Dragoon Guards",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46TO0SYd47xJRRgWkzRIG7",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

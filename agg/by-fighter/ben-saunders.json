@@ -1,7 +1,7 @@
 {
   "fighter": "Ben Saunders",
   "slug": "ben-saunders",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Wu Tang Clan Ain't Nuttin' Ta F Wit",
@@ -20,11 +20,20 @@
       "event": "UFC 245: Usman vs. Covington",
       "event_slug": "ufc-245",
       "date": "2019-12-14"
+    },
+    {
+      "song_title": "Grew Up a Screw Up",
+      "artist": "Ludacris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BH06Z1ffWB6ug5tpju6JD",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

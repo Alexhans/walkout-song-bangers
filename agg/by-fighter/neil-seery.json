@@ -1,0 +1,31 @@
+{
+  "fighter": "Neil Seery",
+  "slug": "neil-seery",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Charlie Brown",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    },
+    {
+      "song_title": "Charlie Brown",
+      "artist": "Coldplay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

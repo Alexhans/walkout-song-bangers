@@ -1,0 +1,22 @@
+{
+  "fighter": "Ali Bagautinov",
+  "slug": "ali-bagautinov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Fight Nights",
+      "artist": "Salvador",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,17 @@
 {
   "fighter": "Nate Diaz",
   "slug": "nate-diaz",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Don't Make Enemies With Me (Part 2)",
+      "artist": "Tupac feat. Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "Ambitionz az a Ridah",
       "artist": "Tupac",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

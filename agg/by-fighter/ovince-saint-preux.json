@@ -1,8 +1,17 @@
 {
   "fighter": "Ovince Saint Preux",
   "slug": "ovince-saint-preux",
-  "appearances": 8,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "No Games",
+      "artist": "Rick Ross feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "Skrilla",
       "artist": "Kodiak Black",
@@ -67,6 +76,15 @@
       "date": "2023-02-18"
     },
     {
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex & Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Push It",
       "artist": "Rick Ross",
       "confidence": "bronze",
@@ -77,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 10,
+    "with_song": 8,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

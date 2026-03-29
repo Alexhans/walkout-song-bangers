@@ -1,7 +1,7 @@
 {
   "fighter": "Antonio Carlos Junior",
   "slug": "antonio-carlos-junior",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Let’s Twist Again",
@@ -29,11 +29,20 @@
       "event": "UFC 257: Poirier vs. McGregor 2",
       "event_slug": "ufc-257",
       "date": "2021-01-23"
+    },
+    {
+      "song_title": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 2
   }

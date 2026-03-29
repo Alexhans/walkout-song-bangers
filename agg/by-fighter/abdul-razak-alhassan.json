@@ -1,7 +1,7 @@
 {
   "fighter": "Abdul Razak Alhassan",
   "slug": "abdul-razak-alhassan",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Kakai",
@@ -20,6 +20,24 @@
       "event": "UFC Fight Night: Dawson vs. Green",
       "event_slug": "ufc-fight-night-dawson-vs-green",
       "date": "2023-10-07"
+    },
+    {
+      "song_title": "I'm on the Rock",
+      "artist": "Mavado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    },
+    {
+      "song_title": "I'm On the Rock",
+      "artist": "Mavado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
     },
     {
       "song_title": "Kwaku the Traveler",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

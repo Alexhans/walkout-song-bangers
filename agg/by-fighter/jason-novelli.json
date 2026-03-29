@@ -1,0 +1,22 @@
+{
+  "fighter": "Jason Novelli",
+  "slug": "jason-novelli",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake feat. Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

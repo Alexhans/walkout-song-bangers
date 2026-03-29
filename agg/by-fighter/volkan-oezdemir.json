@@ -1,7 +1,7 @@
 {
   "fighter": "Volkan Oezdemir",
   "slug": "volkan-oezdemir",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Pinocchio",
@@ -31,6 +31,15 @@
       "date": "2022-10-22"
     },
     {
+      "song_title": "4G",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jcoBHze3yMVWviB27Rzq4",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Don't Waste My Time",
       "artist": "Krept & Konan",
       "confidence": "bronze",
@@ -38,12 +47,21 @@
       "event": "UFC Fight Night: Blaydes vs. Aspinall",
       "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
       "date": "2022-07-23"
+    },
+    {
+      "song_title": "Beat It",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

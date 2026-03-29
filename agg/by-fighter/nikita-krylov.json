@@ -1,8 +1,17 @@
 {
   "fighter": "Nikita Krylov",
   "slug": "nikita-krylov",
-  "appearances": 7,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "Expand the Shoulders",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "Muzhitskaya Silushka",
       "artist": "Neuromonakh Feofan",
@@ -49,6 +58,15 @@
       "date": "2022-07-23"
     },
     {
+      "song_title": "Expand The Shoulder",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    },
+    {
       "song_title": "April",
       "artist": "Kino",
       "confidence": "bronze",
@@ -68,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 3,
+    "events": 9,
+    "with_song": 5,
     "missing": 4,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

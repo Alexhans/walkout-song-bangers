@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Hermansson",
   "slug": "jack-hermansson",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
     {
       "song_title": "The Joker",
       "artist": "Damien",
@@ -11,6 +20,15 @@
       "event": "UFC Fight Night: Blaydes vs. Aspinall",
       "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
       "date": "2022-07-23"
+    },
+    {
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     },
     {
       "song_title": "The Joker",
@@ -41,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
     "unique_songs": 1
   }

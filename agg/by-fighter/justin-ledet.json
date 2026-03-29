@@ -1,7 +1,7 @@
 {
   "fighter": "Justin Ledet",
   "slug": "justin-ledet",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "Too Far to Turn Around",
+      "artist": "Travis Tritt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TdTmzyovtqMTHwQB0GXEg",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

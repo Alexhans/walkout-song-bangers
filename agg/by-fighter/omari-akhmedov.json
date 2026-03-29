@@ -1,7 +1,7 @@
 {
   "fighter": "Omari Akhmedov",
   "slug": "omari-akhmedov",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Mosaique",
@@ -38,11 +38,29 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    },
+    {
+      "song_title": "Mosaique",
+      "artist": "Ash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
     "unique_songs": 1
   }

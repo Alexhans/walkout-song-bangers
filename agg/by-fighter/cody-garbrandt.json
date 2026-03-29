@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Garbrandt",
   "slug": "cody-garbrandt",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "We Will Rock You",
@@ -83,11 +83,20 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 8,
+    "events": 10,
+    "with_song": 9,
     "missing": 1,
     "unique_songs": 2
   }

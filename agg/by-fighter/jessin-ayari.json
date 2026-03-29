@@ -1,0 +1,31 @@
+{
+  "fighter": "Jessin Ayari",
+  "slug": "jessin-ayari",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Journey",
+      "artist": "Jah Cure",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "song_title": "Journey",
+      "artist": "Jah Cure",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

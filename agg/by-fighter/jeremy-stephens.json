@@ -1,7 +1,7 @@
 {
   "fighter": "Jeremy Stephens",
   "slug": "jeremy-stephens",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Ambitionz Az a Ridah",
@@ -20,12 +20,21 @@
       "event": "UFC 249: Ferguson vs. Gaethje",
       "event_slug": "ufc-249",
       "date": "2020-05-09"
+    },
+    {
+      "song_title": "Work",
+      "artist": "Gang Starr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

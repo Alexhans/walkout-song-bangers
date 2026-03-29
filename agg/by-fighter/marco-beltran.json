@@ -1,7 +1,7 @@
 {
   "fighter": "Marco Beltran",
   "slug": "marco-beltran",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Tequila Sunrise",
@@ -20,12 +20,30 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "El Camotal",
+      "artist": "Los Cojolites",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
+      "song_title": "Los Caminos de la Vida",
+      "artist": "Tropa Valenta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

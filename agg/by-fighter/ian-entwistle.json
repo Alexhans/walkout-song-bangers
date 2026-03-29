@@ -1,0 +1,22 @@
+{
+  "fighter": "Ian Entwistle",
+  "slug": "ian-entwistle",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Wake Me Up",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Albert Morales",
   "slug": "albert-morales",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Bounce Back",
@@ -11,12 +11,30 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "Belizean Warrior",
+      "artist": "Fuego",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5L0liauh094q77ypjSVVnO",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    },
+    {
+      "song_title": "Really Really",
+      "artist": "Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

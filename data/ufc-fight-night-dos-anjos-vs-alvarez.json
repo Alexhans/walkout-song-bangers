@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+  "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+  "date": "2016-07-07",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/07/08/fight-tracks-the-walkout-songs-of-ufc-fight-night-90-from-coolio-to-weird-al-to-motorhead/82343437007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Eddie Alvarez",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Umm Hmm",
+      "artist": "ABN feat. Trae Tha Truth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn",
+      "notes": ""
+    },
+    {
+      "fighter": "Roy Nelson",
+      "song_title": "Fat",
+      "artist": "Weird Al Yankovic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4is3oF4FlWmedh3TK6Ke7z",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Jouban",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Duffy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Mitch Clarke",
+      "song_title": "Ace of Spades",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+      "notes": ""
+    },
+    {
+      "fighter": "Alberto Mina",
+      "song_title": "Candeeiro Encantado",
+      "artist": "Lenine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2CGB0FgfbvmRNw96EBJh24",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Pyle",
+      "song_title": "Going Down To The River",
+      "artist": "Doug Seegers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bI8JuY4ss4FXu6TejoqFO",
+      "notes": ""
+    },
+    {
+      "fighter": "John Makdessi",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Mehdi Baghdad",
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ezwtgfw7khBrpvaNPtMoT",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Birchak",
+      "song_title": "Seven Nation Army (Remix)",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
+      "notes": ""
+    },
+    {
+      "fighter": "Dileno Lopes",
+      "song_title": "Vida Loucha (Part 2)",
+      "artist": "Racionales",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc",
+      "notes": ""
+    },
+    {
+      "fighter": "Pedro Munhoz",
+      "song_title": "Set You Free",
+      "artist": "Planet Soul",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo",
+      "notes": ""
+    },
+    {
+      "fighter": "Russell Doane",
+      "song_title": "Invincible",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Arantes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jerrod Sanders",
+      "song_title": "Champion",
+      "artist": "Pastor Troy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WLRjkVv4oaQkGWNZOtclt",
+      "notes": ""
+    },
+    {
+      "fighter": "Gilbert Burns",
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+      "notes": ""
+    },
+    {
+      "fighter": "Lukasz Sajewski",
+      "song_title": "Ona Tanczy Dla Mnie",
+      "artist": "Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Wq2R59KXY8mW7sYGccrKA",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "El Camotal",
+      "artist": "Los Cojolites",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+      "notes": ""
+    },
+    {
+      "fighter": "Reginaldo Vieira",
+      "song_title": "No Easy Way Out",
+      "artist": "Robert Tepper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV",
+      "notes": ""
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "notes": ""
+    },
+    {
+      "fighter": "Alvaro Herrera Mendoza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

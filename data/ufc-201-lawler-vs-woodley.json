@@ -1,0 +1,188 @@
+{
+  "event": "UFC 201: Lawler vs. Woodley",
+  "event_slug": "ufc-201-lawler-vs-woodley",
+  "date": "2016-07-30",
+  "location": "Atlanta, Georgia, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/07/31/fight-tracks-the-walkout-songs-of-ufc-201-including-a-rare-dueling-notorious-b-i-g-rip/82338900007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Tyron Woodley",
+      "song_title": "King Without a Crown",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
+      "notes": ""
+    },
+    {
+      "fighter": "Robbie Lawler",
+      "song_title": "Hold On, I'm Coming",
+      "artist": "Sam & Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "notes": ""
+    },
+    {
+      "fighter": "Rose Namajunas",
+      "song_title": "Get It",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rOHWE77alc9Txyn4i0QY3",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Ellenberger",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "notes": ""
+    },
+    {
+      "fighter": "Erik Perez",
+      "song_title": "Cancion Del Mariachi",
+      "artist": "Los Lobos & Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Rivera",
+      "song_title": "2 of Amerikaz Most Wanted",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Benoit",
+      "song_title": "Panda",
+      "artist": "Desiigner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+      "notes": ""
+    },
+    {
+      "fighter": "Fredy Serrano",
+      "song_title": "Bomba Colombiana de la Orquesta",
+      "artist": "LA 33",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "Expand the Shoulders",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "notes": ""
+    },
+    {
+      "fighter": "Ed Herman",
+      "song_title": "Life by the Drop",
+      "artist": "Stevie Ray Vaughan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
+      "notes": ""
+    },
+    {
+      "fighter": "Jorge Masvidal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ross Pearson",
+      "song_title": "Stole the Show",
+      "artist": "Kygo feat. Parson James",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hamilton",
+      "song_title": "Only Fear of Death",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz",
+      "notes": ""
+    },
+    {
+      "fighter": "Damian Grabowski",
+      "song_title": "40:1",
+      "artist": "Sabaton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oxTzgRZTVgss1cKrEd0tN",
+      "notes": ""
+    },
+    {
+      "fighter": "Wilson Reis",
+      "song_title": "Notorious Thugs",
+      "artist": "The Notorious B.I.G. feat. Bone Thugz-N-Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ozdRCYFVt8Ui0dba1520D",
+      "notes": ""
+    },
+    {
+      "fighter": "Hector Sandoval",
+      "song_title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Graves",
+      "song_title": "Ratfinks, Suicide Tanks, Cannibal Girls",
+      "artist": "White Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PDBcqHNIg5cOojcCkhxYM",
+      "notes": ""
+    },
+    {
+      "fighter": "Bojan Velickovic",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Damien Brown",
+      "song_title": "Bad Company",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
+      "notes": ""
+    },
+    {
+      "fighter": "Cesar Arzamendia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

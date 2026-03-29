@@ -1,8 +1,17 @@
 {
   "fighter": "Ed Herman",
   "slug": "ed-herman",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Life by the Drop",
+      "artist": "Stevie Ray Vaughan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "Streets of Siam",
       "artist": "Paul Hertzog & Stan Bush",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Angela Hill",
   "slug": "angela-hill",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Skulls",
@@ -49,6 +49,15 @@
       "date": "2024-05-18"
     },
     {
+      "song_title": "Skulls",
+      "artist": "The Misfits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "I Look Real Good Today",
       "artist": "OT Genasis",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

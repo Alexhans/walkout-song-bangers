@@ -1,7 +1,7 @@
 {
   "fighter": "Michael Johnson",
   "slug": "michael-johnson",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Welcome to New York City",
@@ -58,6 +58,15 @@
       "date": "2024-02-10"
     },
     {
+      "song_title": "Misunderstood",
+      "artist": "Kendrick Lamar feat. Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IgfVOx1K24TLFWWY1t4mk",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
       "song_title": "Blunt Blowing",
       "artist": "Lil’ Wayne",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

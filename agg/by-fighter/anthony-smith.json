@@ -1,8 +1,17 @@
 {
   "fighter": "Anthony Smith",
   "slug": "anthony-smith",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "Anything Goes",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -31,6 +40,15 @@
       "date": "2024-06-29"
     },
     {
+      "song_title": "Unsinkable",
+      "artist": "Lucy Spraggen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/468fnkKmmG6YDz5qToPIHi",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
       "song_title": "Return of the Mack",
       "artist": "Mark Morrison",
       "confidence": "bronze",
@@ -47,12 +65,21 @@
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
+    },
+    {
+      "song_title": "Beautiful",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

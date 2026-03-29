@@ -1,0 +1,22 @@
+{
+  "fighter": "Geane Herrera",
+  "slug": "geane-herrera",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "La Tierra",
+      "artist": "Ekhymosis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dw53BtsidgW4ZmTN4zoeP",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

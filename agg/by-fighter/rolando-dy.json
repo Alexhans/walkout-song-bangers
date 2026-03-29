@@ -1,0 +1,22 @@
+{
+  "fighter": "Rolando Dy",
+  "slug": "rolando-dy",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Fight Song",
+      "artist": "Rachel Platten",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,17 @@
 {
   "fighter": "Demetrious Johnson",
   "slug": "demetrious-johnson",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Kanye West and Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "Who Gon' Stop Me",
       "artist": "Kanye West & Jay-Z",
@@ -11,12 +20,21 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Jay-Z and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

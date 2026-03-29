@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Weidman",
   "slug": "chris-weidman",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "New York State of Mind",
@@ -11,6 +11,15 @@
       "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
+    },
+    {
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty & The Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
     },
     {
       "song_title": "I Won't Back Down",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

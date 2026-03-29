@@ -1,9 +1,10 @@
 # Jim Miller
 
-12 event(s) | 12 song(s) found | 6 unique
+14 event(s) | 14 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-03-05 | [UFC 196: McGregor vs Diaz](../../ufc-196-mcgregor-vs-diaz.md) | Sweet Emotion | Aerosmith | [Listen](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) |
 | 2016-07-09 | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Remember the Name | Fort Minor | [Listen](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) |
 | 2016-11-12 | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
 | 2017-07-08 | [UFC 213: Romero vs. Whittaker](../../ufc-213.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
@@ -16,3 +17,4 @@
 | 2023-06-03 | [UFC Fight Night: Kara-France vs. Albazi](../../ufc-fight-night-kara-france-vs-albazi.md) | Bad Moon Rising | Credence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
 | 2021-10-16 | [UFC Fight Night: Ladd vs. Dumont](../../ufc-fight-night-ladd-vs-dumont.md) | Iron Man | Black Sabbath | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |
 | 2022-02-19 | [UFC Fight Night: Walker vs. Hill](../../ufc-fight-night-walker-vs-hill.md) | Iron Man | Black Sabbaath | [Listen](https://open.spotify.com/track/04DDJLQA0293yVpOf81xoS) |
+| 2016-08-27 | [UFC on FOX: Maia vs. Condit](../../ufc-on-fox-maia-vs-condit.md) | Bad Moon Rising | Credence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |

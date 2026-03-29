@@ -1,7 +1,8 @@
 # Sergio Moraes
 
-1 event(s) | 1 song(s) found | 1 unique
+2 event(s) | 2 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-05-14 | [UFC 198: Werdum vs Miocic](../../ufc-198-werdum-vs-miocic.md) | Happy | Pharrell Williams | [Listen](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) |
 | 2019-05-11 | [UFC 237: Namajunas vs. Andrade](../../ufc-237.md) | Happy | Pharrell Williams | [Listen](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) |

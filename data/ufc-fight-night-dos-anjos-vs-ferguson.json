@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+  "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+  "date": "2016-11-05",
+  "location": "Mexico City, Distrito Federal, Mexico",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/11/06/fight-tracks-the-walkout-songs-of-ufc-fight-night-98-including-vintage-michael-jackson-and-survivor/82308676007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestyle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "O Grito de um Guerreiro",
+      "artist": "MC Sapao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+      "notes": ""
+    },
+    {
+      "fighter": "Diego Sanchez",
+      "song_title": "Adagio for Strings",
+      "artist": "DJ Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Held",
+      "song_title": "Oczy Wpatrzone w Cel",
+      "artist": "Eastwest Rockers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PrNDTC15Trj72YHPJlH6G",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Lamas",
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Martin Bravo",
+      "song_title": "Jefe de Jefes",
+      "artist": "Los Tigres del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Puelles",
+      "song_title": "Ambition",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Rock With You",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
+      "notes": ""
+    },
+    {
+      "fighter": "Rashid Magomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "Paper Planes",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "notes": ""
+    },
+    {
+      "fighter": "Heather Clark",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Erik Perez",
+      "song_title": "Con Sangre del Norte",
+      "artist": "El Gran Silencio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sG6YezOe97sFpqvymZ66u",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Arantes",
+      "song_title": "Bailando",
+      "artist": "Enrique Igesias feat. Luan Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PSKhwo0mVcOdjUOhVJd5p",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Soto",
+      "song_title": "All the Above",
+      "artist": "Maino feat. T-Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Beltran",
+      "song_title": "Los Caminos de la Vida",
+      "artist": "Tropa Valenta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "Sucker for Pain",
+      "artist": "Lil' Wayne and Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "notes": ""
+    },
+    {
+      "fighter": "Erick Montano",
+      "song_title": "Descontrol",
+      "artist": "Descontrol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rJiqNZRQxlMNF9c6qPg6U",
+      "notes": ""
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Conquistando o Impossavel",
+      "artist": "Jamily",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+      "notes": ""
+    },
+    {
+      "fighter": "Henry Briones",
+      "song_title": "Bailar",
+      "artist": "Elvis Crespo feat. Deorro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Alvey",
+      "song_title": "Hey Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Nicholson",
+      "song_title": "Hate Me Now",
+      "artist": "Nas and Puff Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "notes": ""
+    },
+    {
+      "fighter": "Marco Polo Reyes",
+      "song_title": "El Corrido de Nayarit",
+      "artist": "Banda Kora",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Novelli",
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake feat. Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "notes": ""
+    },
+    {
+      "fighter": "Enrique Barzola",
+      "song_title": "Contigo Peru",
+      "artist": "Zambo Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7C0Wd6yq3kC8XXZB4V5Xa4",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Avila",
+      "song_title": "California Love",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    }
+  ]
+}

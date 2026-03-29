@@ -1,8 +1,17 @@
 {
   "fighter": "Enrique Barzola",
   "slug": "enrique-barzola",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Le Llaman Guerrero",
+      "artist": "Juan Carlos Alvarado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "Le Llaman Guerrero",
       "artist": "Juan Carlos Alvarado",
@@ -11,12 +20,30 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "Contigo Peru",
+      "artist": "Zambo Cavero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7C0Wd6yq3kC8XXZB4V5Xa4",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "song_title": "Contigo Peru",
+      "artist": "Arturo Zambo Cavero feat. Oscar Avil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

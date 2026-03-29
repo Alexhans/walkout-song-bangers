@@ -1,8 +1,17 @@
 {
   "fighter": "Tatiana Suarez",
   "slug": "tatiana-suarez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Sunshine",
+      "artist": "Matisyahu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56ZDcszhe1eCeghso93fXP",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

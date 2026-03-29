@@ -1,7 +1,7 @@
 {
   "fighter": "Chad Laprise",
   "slug": "chad-laprise",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "God's Song",
@@ -11,11 +11,20 @@
       "event": "UFC 213: Romero vs. Whittaker",
       "event_slug": "ufc-213",
       "date": "2017-07-08"
+    },
+    {
+      "song_title": "God's Song",
+      "artist": "Mikey Rukus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

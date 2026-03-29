@@ -1,0 +1,22 @@
+{
+  "fighter": "Kevin Casey",
+  "slug": "kevin-casey",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Never",
+      "artist": "King Casey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Kf7dwNBp8pUNE8iOpg5oT",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

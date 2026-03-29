@@ -1,0 +1,22 @@
+{
+  "fighter": "Antonio Silva",
+  "slug": "antonio-silva",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Lado B Lado A",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

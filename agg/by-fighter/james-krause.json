@@ -1,7 +1,7 @@
 {
   "fighter": "James Krause",
   "slug": "james-krause",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Rambo",
@@ -11,12 +11,21 @@
       "event": "UFC 247: Jones vs. Reyes",
       "event_slug": "ufc-247",
       "date": "2020-02-08"
+    },
+    {
+      "song_title": "Fire Squad",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

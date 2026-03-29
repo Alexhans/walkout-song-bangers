@@ -1,8 +1,26 @@
 {
   "fighter": "Kevin Lee",
   "slug": "kevin-lee",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "D Boy Party",
+      "artist": "IceWear Vezzo feat. Trick Trick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cjiSjDVUysQgJeFWiUepD",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "song_title": "Welcome 2 Detroit",
+      "artist": "Trick Trick feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "First Day Out",
       "artist": "Tee Grizzley",
@@ -22,6 +40,15 @@
       "date": "2019-11-02"
     },
     {
+      "song_title": "Welcome to Detroit",
+      "artist": "Eminem feat. Trick Trick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
       "song_title": "Y’all Must’ve Forgot II",
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
@@ -32,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

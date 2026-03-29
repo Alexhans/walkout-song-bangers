@@ -1,8 +1,17 @@
 {
   "fighter": "Khalil Rountree Jr.",
   "slug": "khalil-rountree-jr",
-  "appearances": 9,
+  "appearances": 13,
   "walkouts": [
+    {
+      "song_title": "Listen Through Me",
+      "artist": "Thrice",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05Bn9Giqos0GZjjTAmgcNO",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
     {
       "song_title": "Let Me Fly",
       "artist": "DMX",
@@ -49,6 +58,15 @@
       "date": "2024-10-05"
     },
     {
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
       "song_title": "Protect Ya Neck",
       "artist": "Wu Tang Clan",
       "confidence": "bronze",
@@ -76,6 +94,15 @@
       "date": "2023-08-12"
     },
     {
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    },
+    {
       "song_title": "Staying Alive",
       "artist": "Bee Gees",
       "confidence": "bronze",
@@ -83,12 +110,21 @@
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
+    },
+    {
+      "song_title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 5,
+    "events": 13,
+    "with_song": 9,
     "missing": 4,
-    "unique_songs": 5
+    "unique_songs": 7
   }
 }

@@ -1,6 +1,6 @@
 # Leon Edwards
 
-6 event(s) | 6 song(s) found | 3 unique
+7 event(s) | 7 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Shabba Madda Pot | Dexta Daps | [Listen](https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK) |
 | 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Shabba Madda Pot | Dexta Daps, Daseca | [Listen](https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK) |
 | 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | Shabba Madda Pot | Dexta Daps | [Listen](https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK) |
+| 2016-05-08 | [UFC Fight Night: Overeem vs Arlovski](../../ufc-fight-night-overeem-vs-arlovski.md) | Mo Money Mo Problems | Notorious BIG feat. P. Diddy | [Listen](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) |

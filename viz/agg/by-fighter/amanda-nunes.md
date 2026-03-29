@@ -1,9 +1,10 @@
 # Amanda Nunes
 
-8 event(s) | 8 song(s) found | 5 unique
+9 event(s) | 9 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-03-05 | [UFC 196: McGregor vs Diaz](../../ufc-196-mcgregor-vs-diaz.md) | O Farol | Ivete Sangalo | [Listen](https://open.spotify.com/track/4u9YXYbf1uCkXSxZ4uGiDp) |
 | 2016-07-09 | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Run This Town | Jay-Z | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
 | 2016-12-30 | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | American Oxygen | Rihanna | [Listen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) |
 | 2019-07-06 | [UFC 239: Jones vs. Santos](../../ufc-239.md) | The Champion | Carrie Underwood feat. Ludacris |  |

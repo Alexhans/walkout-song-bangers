@@ -1,6 +1,6 @@
 # Pedro Munhoz
 
-7 event(s) | 6 song(s) found | 6 unique
+9 event(s) | 8 song(s) found | 8 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,6 @@
 | 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | CAPITULO 4 Versiculo 3/Vida Lokat PT "/HOMEM NA
 ESTRADA | Racion |  |
 | 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | Rifles Rusos | Anuel AA | [Listen](https://open.spotify.com/track/2WzUy86kPLYRLRwLtinZ1x) |
+| 2016-07-07 | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Set You Free | Planet Soul | [Listen](https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo) |
+| 2017-05-28 | [UFC Fight Night: Gustafsson vs. Teixeira](../../ufc-fight-night-gustafsson-vs-teixeira.md) | Jump Around | House of Pain | [Listen](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) |
 | 2024-11-02 | [UFC Fight Night: Moreno vs. Albazi](../../ufc-fight-night-moreno-vs-albazi.md) | — | — | |

@@ -1,0 +1,22 @@
+{
+  "fighter": "Dileno Lopes",
+  "slug": "dileno-lopes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Vida Loucha (Part 2)",
+      "artist": "Racionales",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

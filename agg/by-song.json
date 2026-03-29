@@ -3,8 +3,15 @@
     "artist": "AC/DC",
     "song_title": "Thunderstruck",
     "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-    "count": 21,
-    "unique_fighters": 14
+    "count": 25,
+    "unique_fighters": 17
+  },
+  {
+    "artist": "Jay-Z and Kanye West",
+    "song_title": "Who Gon' Stop Me",
+    "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+    "count": 18,
+    "unique_fighters": 8
   },
   {
     "artist": "Tupac",
@@ -17,6 +24,13 @@
     "artist": "Red Hot Chili Peppers",
     "song_title": "Can't Stop",
     "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+    "count": 16,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Dropkick Murphys",
+    "song_title": "Shipping Up to Boston (Merc Dudes in Brooklyn Remix)",
+    "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
     "count": 15,
     "unique_fighters": 7
   },
@@ -24,7 +38,35 @@
     "artist": "Fernandinho",
     "song_title": "O Hino",
     "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
-    "count": 11,
+    "count": 14,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Ted Nugent",
+    "song_title": "Stranglehold",
+    "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+    "count": 13,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Coolio",
+    "song_title": "Gangsta’s Paradise",
+    "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+    "count": 9,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Eminem",
+    "song_title": "Till I Collapse",
+    "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+    "count": 8,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Survivor",
+    "song_title": "Eye of the Tiger",
+    "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+    "count": 8,
     "unique_fighters": 7
   },
   {
@@ -35,31 +77,38 @@
     "unique_fighters": 7
   },
   {
-    "artist": "Jay Z and Rihanna",
-    "song_title": "Run This Town",
-    "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-    "count": 15,
-    "unique_fighters": 6
+    "artist": "Lucenzo with Don Omar",
+    "song_title": "Zanza Kuduro",
+    "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+    "count": 7,
+    "unique_fighters": 7
   },
   {
-    "artist": "Ted Nugent",
-    "song_title": "Stranglehold",
-    "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-    "count": 11,
-    "unique_fighters": 6
+    "artist": "Silverchair",
+    "song_title": "Isreal's Son",
+    "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+    "count": 7,
+    "unique_fighters": 7
   },
   {
     "artist": "Puff Daddy feat. Notorious B.I.G.",
     "song_title": "Victory",
     "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
-    "count": 9,
+    "count": 11,
     "unique_fighters": 6
   },
   {
-    "artist": "Coolio",
-    "song_title": "Gangsta’s Paradise",
-    "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
-    "count": 7,
+    "artist": "Bill Conti",
+    "song_title": "Gonna Fly Now",
+    "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+    "count": 8,
+    "unique_fighters": 6
+  },
+  {
+    "artist": "Johnny Cash",
+    "song_title": "God’s Gonna Cut You Down",
+    "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+    "count": 8,
     "unique_fighters": 6
   },
   {
@@ -70,17 +119,24 @@
     "unique_fighters": 6
   },
   {
-    "artist": "Eminem",
-    "song_title": "Till I Collapse",
-    "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-    "count": 6,
-    "unique_fighters": 6
+    "artist": "Body Head Bangerz",
+    "song_title": "Can't Be Touched",
+    "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+    "count": 13,
+    "unique_fighters": 5
   },
   {
-    "artist": "Dropkick Murphys",
-    "song_title": "I'm Shipping Up to Boston",
-    "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+    "artist": "AC/DC",
+    "song_title": "TNT",
+    "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
     "count": 12,
+    "unique_fighters": 5
+  },
+  {
+    "artist": "50 Cent",
+    "song_title": "Many Men (Wish Death)",
+    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+    "count": 11,
     "unique_fighters": 5
   },
   {
@@ -98,16 +154,16 @@
     "unique_fighters": 5
   },
   {
-    "artist": "Bill Conti",
-    "song_title": "Gonna Fly Now",
-    "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
-    "count": 7,
+    "artist": "Tupac",
+    "song_title": "California Love",
+    "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+    "count": 6,
     "unique_fighters": 5
   },
   {
-    "artist": "Joni Dhol",
-    "song_title": "Master Klass 2020 Hzor Katarum",
-    "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+    "artist": "DMX",
+    "song_title": "Intro",
+    "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
     "count": 5,
     "unique_fighters": 5
   },
@@ -119,24 +175,10 @@
     "unique_fighters": 4
   },
   {
-    "artist": "AC/DC",
-    "song_title": "TNT",
-    "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
-    "count": 11,
-    "unique_fighters": 4
-  },
-  {
-    "artist": "50 Cent",
-    "song_title": "Many Men (Wish Death)",
-    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+    "artist": "Notorious B.I.G.",
+    "song_title": "Juicy",
+    "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
     "count": 9,
-    "unique_fighters": 4
-  },
-  {
-    "artist": "Roy Jones Jr.",
-    "song_title": "Can't Be Touched",
-    "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-    "count": 8,
     "unique_fighters": 4
   },
   {
@@ -147,6 +189,13 @@
     "unique_fighters": 4
   },
   {
+    "artist": "AWOLNATION",
+    "song_title": "Sail",
+    "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+    "count": 6,
+    "unique_fighters": 4
+  },
+  {
     "artist": "Anderson Freire",
     "song_title": "Efésios 6",
     "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
@@ -154,23 +203,44 @@
     "unique_fighters": 4
   },
   {
-    "artist": "Johnny Cash",
-    "song_title": "God’s Gonna Cut You Down",
-    "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+    "artist": "Fabolous feat. Jeremih",
+    "song_title": "My Time",
+    "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
     "count": 6,
-    "unique_fighters": 4
-  },
-  {
-    "artist": "Tupac",
-    "song_title": "California Love",
-    "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-    "count": 5,
     "unique_fighters": 4
   },
   {
     "artist": "Youth of Dagestan",
     "song_title": "Alugho",
     "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+    "count": 6,
+    "unique_fighters": 4
+  },
+  {
+    "artist": "J Cole",
+    "song_title": "Fire Squad",
+    "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+    "count": 5,
+    "unique_fighters": 4
+  },
+  {
+    "artist": "Pantera",
+    "song_title": "Walk",
+    "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+    "count": 5,
+    "unique_fighters": 4
+  },
+  {
+    "artist": "Phil Collins",
+    "song_title": "In The Air Tonight",
+    "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+    "count": 5,
+    "unique_fighters": 4
+  },
+  {
+    "artist": "Tupac",
+    "song_title": "Can't C Me",
+    "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
     "count": 5,
     "unique_fighters": 4
   },
@@ -178,20 +248,6 @@
     "artist": "Drake",
     "song_title": "Started from the Bottom",
     "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
-    "count": 4,
-    "unique_fighters": 4
-  },
-  {
-    "artist": "Fabolous, Jeremih",
-    "song_title": "My Time",
-    "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
-    "count": 4,
-    "unique_fighters": 4
-  },
-  {
-    "artist": "Georgian International Children’s Choir",
-    "song_title": "Makharia",
-    "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
     "count": 4,
     "unique_fighters": 4
   },
@@ -217,9 +273,23 @@
     "unique_fighters": 4
   },
   {
+    "artist": "Lil' Wayne and Wiz Khalifa",
+    "song_title": "Sucker for Pain",
+    "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+    "count": 4,
+    "unique_fighters": 4
+  },
+  {
     "artist": "Lil' Wayne feat. Drake",
     "song_title": "Right Above It",
     "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+    "count": 4,
+    "unique_fighters": 4
+  },
+  {
+    "artist": "Nas feat. P. Diddy",
+    "song_title": "Hate Me Now",
+    "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
     "count": 4,
     "unique_fighters": 4
   },
@@ -238,6 +308,20 @@
     "unique_fighters": 3
   },
   {
+    "artist": "House of Pain",
+    "song_title": "Jump Around",
+    "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+    "count": 9,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Tupac feat. The Outlawz",
+    "song_title": "Hail Mary",
+    "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+    "count": 9,
+    "unique_fighters": 3
+  },
+  {
     "artist": "Black Sabbath",
     "song_title": "Iron Man",
     "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
@@ -245,16 +329,23 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Notorious B.I.G.",
-    "song_title": "Juicy",
-    "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+    "artist": "Tom Petty and the Heartbreakers",
+    "song_title": "I Won't Back Down",
+    "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
     "count": 8,
     "unique_fighters": 3
   },
   {
-    "artist": "Tom Petty and the Heartbreakers",
-    "song_title": "I Won't Back Down",
-    "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+    "artist": "A$AP Ferg feat. Future",
+    "song_title": "New Level",
+    "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+    "count": 7,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "song_title": "Simple Man",
+    "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
     "count": 7,
     "unique_fighters": 3
   },
@@ -266,9 +357,16 @@
     "unique_fighters": 3
   },
   {
-    "artist": "AWOLNation",
-    "song_title": "Sail",
-    "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+    "artist": "The Cranberries",
+    "song_title": "Zombie",
+    "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+    "count": 6,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Antonio Banderas",
+    "song_title": "Cancion del Mariachi",
+    "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
     "count": 5,
     "unique_fighters": 3
   },
@@ -280,6 +378,13 @@
     "unique_fighters": 3
   },
   {
+    "artist": "Pharrell Williams",
+    "song_title": "Happy",
+    "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+    "count": 5,
+    "unique_fighters": 3
+  },
+  {
     "artist": "Post Malone",
     "song_title": "Congratulations",
     "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
@@ -287,10 +392,10 @@
     "unique_fighters": 3
   },
   {
-    "artist": "The Cranberries",
-    "song_title": "Zombie",
-    "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
-    "count": 5,
+    "artist": "50 Cent",
+    "song_title": "God Gave Me Style",
+    "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+    "count": 4,
     "unique_fighters": 3
   },
   {
@@ -301,9 +406,30 @@
     "unique_fighters": 3
   },
   {
-    "artist": "J Cole",
-    "song_title": "Fire Squad",
-    "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+    "artist": "Darude",
+    "song_title": "Sandstorm",
+    "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+    "count": 4,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Diddy Dirty Money feat. Skylar Grey",
+    "song_title": "Coming Home",
+    "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+    "count": 4,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Guns N' Roses",
+    "song_title": "Sweet Child O Mine",
+    "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+    "count": 4,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Jorge Quintero",
+    "song_title": "300 Violin Orchestra",
+    "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
     "count": 4,
     "unique_fighters": 3
   },
@@ -311,6 +437,20 @@
     "artist": "Kendrick Lamar",
     "song_title": "DNA",
     "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+    "count": 4,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Los Tigres del Norte",
+    "song_title": "Jefes de Jefes",
+    "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+    "count": 4,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Mob Flames",
+    "song_title": "Champion",
+    "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
     "count": 4,
     "unique_fighters": 3
   },
@@ -329,20 +469,6 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Pharrell Williams",
-    "song_title": "Happy",
-    "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
-    "count": 4,
-    "unique_fighters": 3
-  },
-  {
-    "artist": "Phil Collins",
-    "song_title": "In the Air Tonight",
-    "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
-    "count": 4,
-    "unique_fighters": 3
-  },
-  {
     "artist": "Renat Ibragimov",
     "song_title": "Tachanka",
     "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
@@ -350,9 +476,9 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Tupac",
-    "song_title": "Can't C Me",
-    "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+    "artist": "Survivor",
+    "song_title": "Burning Heart",
+    "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
     "count": 4,
     "unique_fighters": 3
   },
@@ -364,13 +490,6 @@
     "unique_fighters": 3
   },
   {
-    "artist": "50 Cent",
-    "song_title": "God Gave Me Style",
-    "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
-    "count": 3,
-    "unique_fighters": 3
-  },
-  {
     "artist": "Archie Eversole",
     "song_title": "We Ready",
     "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
@@ -378,16 +497,16 @@
     "unique_fighters": 3
   },
   {
-    "artist": "DMX",
-    "song_title": "Intro",
-    "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+    "artist": "Charlie Brown Jr.",
+    "song_title": "O Preco",
+    "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
     "count": 3,
     "unique_fighters": 3
   },
   {
-    "artist": "Diddy feat. Skylar Grey, Dirty Money",
-    "song_title": "Coming Home",
-    "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+    "artist": "DJ Snake feat. Lil' Jon",
+    "song_title": "Turn Down for What",
+    "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
     "count": 3,
     "unique_fighters": 3
   },
@@ -413,9 +532,30 @@
     "unique_fighters": 3
   },
   {
+    "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
+    "song_title": "All The Way Up",
+    "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+    "count": 3,
+    "unique_fighters": 3
+  },
+  {
     "artist": "Fort Minor",
     "song_title": "Remember the Name",
     "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+    "count": 3,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "Guns N’ Roses",
+    "song_title": "Welcome to the Jungle",
+    "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+    "count": 3,
+    "unique_fighters": 3
+  },
+  {
+    "artist": "James Brown",
+    "song_title": "The Payback",
+    "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
     "count": 3,
     "unique_fighters": 3
   },
@@ -448,13 +588,6 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Lil Wayne",
-    "song_title": "Go DJ",
-    "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-    "count": 3,
-    "unique_fighters": 3
-  },
-  {
     "artist": "MC Daniel, MC Paulin da Capital",
     "song_title": "Renasci Das Cinzas",
     "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
@@ -462,9 +595,9 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Pantera",
-    "song_title": "Walk",
-    "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+    "artist": "Simalungun Sipukkah Huta",
+    "song_title": "Yeyen Marbun",
+    "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
     "count": 3,
     "unique_fighters": 3
   },
@@ -472,13 +605,6 @@
     "artist": "Sister Nancy",
     "song_title": "Bambam",
     "spotify_url": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX",
-    "count": 3,
-    "unique_fighters": 3
-  },
-  {
-    "artist": "Survivor",
-    "song_title": "Eye of the Tiger",
-    "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
     "count": 3,
     "unique_fighters": 3
   },
@@ -511,6 +637,13 @@
     "unique_fighters": 3
   },
   {
+    "artist": "Whitesnake",
+    "song_title": "Here I Go Again",
+    "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+    "count": 3,
+    "unique_fighters": 3
+  },
+  {
     "artist": "Marc Anthony",
     "song_title": "Vivir Mi Vida",
     "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
@@ -521,14 +654,7 @@
     "artist": "Queen",
     "song_title": "We Will Rock You",
     "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-    "count": 9,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Tupac",
-    "song_title": "Hail Mary",
-    "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
-    "count": 8,
+    "count": 10,
     "unique_fighters": 2
   },
   {
@@ -553,13 +679,6 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Lynyrd Skynyrd",
-    "song_title": "Simple Man",
-    "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
-    "count": 6,
-    "unique_fighters": 2
-  },
-  {
     "artist": "Montell Jordan",
     "song_title": "This Is How We Do It",
     "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
@@ -567,9 +686,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "A$AP Ferg feat. Future",
-    "song_title": "New Level",
-    "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+    "artist": "Amatory",
+    "song_title": "Stop the Time",
+    "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
     "count": 5,
     "unique_fighters": 2
   },
@@ -609,9 +728,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Antonio Banderas",
-    "song_title": "Cancion del Mariachi",
-    "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+    "artist": "Andre Nickatina",
+    "song_title": "Jungle",
+    "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
     "count": 4,
     "unique_fighters": 2
   },
@@ -651,6 +770,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Damian Marley",
+    "song_title": "Welcome to Jamrock",
+    "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Dolly Parton",
     "song_title": "9 to 5",
     "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
@@ -658,9 +784,30 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Future",
+    "song_title": "Last Breath",
+    "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "KRS-One",
+    "song_title": "All Day",
+    "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Lupe Fiasco",
     "song_title": "Superstar",
     "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Macklemore & Ryan Lewis",
+    "song_title": "Can't Hold Us",
+    "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
     "count": 4,
     "unique_fighters": 2
   },
@@ -679,9 +826,30 @@
     "unique_fighters": 2
   },
   {
+    "artist": "the Rolling Stones",
+    "song_title": "Paint It, Black",
+    "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
     "artist": "50 Cent",
     "song_title": "Don't Push Me",
     "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Artsakh",
+    "song_title": "Ara Gevorgyan",
+    "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Billy Squier",
+    "song_title": "The Stroke",
+    "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
     "count": 3,
     "unique_fighters": 2
   },
@@ -696,6 +864,13 @@
     "artist": "Cardi B",
     "song_title": "Bodak Yellow",
     "spotify_url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Carl Douglas",
+    "song_title": "Kung Fu Fighting",
+    "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
     "count": 3,
     "unique_fighters": 2
   },
@@ -749,16 +924,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Guns N' Roses",
-    "song_title": "Sweet Child O' Mine",
-    "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+    "artist": "Jacob Banks feat. Boogie",
+    "song_title": "Monster 2.0",
+    "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
     "count": 3,
     "unique_fighters": 2
   },
   {
-    "artist": "Jacob Banks feat. Boogie",
-    "song_title": "Monster 2.0",
-    "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+    "artist": "Kaleo",
+    "song_title": "Way Down We Go",
+    "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
     "count": 3,
     "unique_fighters": 2
   },
@@ -777,6 +952,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "LL Cool J",
+    "song_title": "Mama Said Knock You Out",
+    "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Lil Durk",
     "song_title": "All My Life",
     "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
@@ -791,9 +973,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Los Tigres del Norte",
-    "song_title": "Jefes de Jefes",
-    "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+    "artist": "Marat",
+    "song_title": "Because I am a Highlander",
+    "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
     "count": 3,
     "unique_fighters": 2
   },
@@ -801,13 +983,6 @@
     "artist": "Meek Mill",
     "song_title": "Dreams and Nightmares",
     "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
-    "count": 3,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Mob Flames",
-    "song_title": "Champion",
-    "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
     "count": 3,
     "unique_fighters": 2
   },
@@ -833,16 +1008,30 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Stevie Nicks",
-    "song_title": "Edge of Seventeen",
-    "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+    "artist": "Paul Herzog",
+    "song_title": "Streets of Siam",
+    "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
     "count": 3,
     "unique_fighters": 2
   },
   {
-    "artist": "Survivor",
-    "song_title": "Burning Heart",
-    "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+    "artist": "Racionais MCs",
+    "song_title": "Capitulo 4, Versiculo 3",
+    "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Skrillex & Rick Ross",
+    "song_title": "Purple Lamborghini",
+    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Stevie Nicks",
+    "song_title": "Edge of Seventeen",
+    "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
     "count": 3,
     "unique_fighters": 2
   },
@@ -868,10 +1057,31 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Ulytau",
+    "song_title": "Jumry Kylysh",
+    "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+    "count": 3,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Welshly Arms",
     "song_title": "Legendary",
     "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
     "count": 3,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "2Pac feat Snoop Doggy",
+    "song_title": "2 OF AMERIKAZ MOST WANTED",
+    "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "AC/DC",
+    "song_title": "Back in Black",
+    "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+    "count": 2,
     "unique_fighters": 2
   },
   {
@@ -885,6 +1095,20 @@
     "artist": "Alash Urany",
     "song_title": "Bekbolat Tleuhan",
     "spotify_url": "https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Arturo Zambo Cavero feat. Oscar Avil",
+    "song_title": "Contigo Peru",
+    "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Avicii",
+    "song_title": "Wake Me Up",
+    "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
     "count": 2,
     "unique_fighters": 2
   },
@@ -917,6 +1141,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Big Sean",
+    "song_title": "Bounce Back",
+    "spotify_url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
     "artist": "BigXthaPlug",
     "song_title": "Texas",
     "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
@@ -931,13 +1162,6 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Billy Squier",
-    "song_title": "The Stroke",
-    "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
-    "count": 2,
-    "unique_fighters": 2
-  },
-  {
     "artist": "Black Sherif",
     "song_title": "Kwaku the Traveler",
     "spotify_url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD",
@@ -945,16 +1169,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Carl Douglas",
-    "song_title": "Kung Fu Fighting",
-    "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
+    "artist": "Bob Marley & The Wailers",
+    "song_title": "Three Little Birds",
+    "spotify_url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM",
     "count": 2,
     "unique_fighters": 2
   },
   {
-    "artist": "Charlie Brown Jr.",
-    "song_title": "O Preco",
-    "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+    "artist": "Brothers Marvin Estrada",
+    "song_title": "Luha ng Kagalakan",
+    "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
     "count": 2,
     "unique_fighters": 2
   },
@@ -976,6 +1200,41 @@
     "artist": "Curtis Mayfield",
     "song_title": "Pusherman",
     "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "DMX",
+    "song_title": "The Rain",
+    "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "David Guetta feat. Kid Cudi",
+    "song_title": "Memories",
+    "spotify_url": "https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Desiigner",
+    "song_title": "Panda",
+    "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Disturbed",
+    "song_title": "Down With the Sickness",
+    "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Dr. Dre feat. Snoop Dogg",
+    "song_title": "Nothin' but a G Thang",
+    "spotify_url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1030,6 +1289,13 @@
   },
   {
     "artist": "Eminem",
+    "song_title": "Cinderella Man",
+    "spotify_url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Eminem",
     "song_title": "Without Me",
     "spotify_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
     "count": 2,
@@ -1057,16 +1323,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Future",
-    "song_title": "Last Breath",
-    "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+    "artist": "Gang Starr",
+    "song_title": "Work",
+    "spotify_url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi",
     "count": 2,
     "unique_fighters": 2
   },
   {
-    "artist": "Guns N’ Roses",
-    "song_title": "Welcome to the Jungle",
-    "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+    "artist": "Halsey",
+    "song_title": "Gasoline",
+    "spotify_url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1099,13 +1365,6 @@
     "unique_fighters": 2
   },
   {
-    "artist": "James Brown",
-    "song_title": "The Payback",
-    "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
-    "count": 2,
-    "unique_fighters": 2
-  },
-  {
     "artist": "Jay Rock",
     "song_title": "Win",
     "spotify_url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J",
@@ -1116,6 +1375,13 @@
     "artist": "Joey Badass",
     "song_title": "The Rev3nge",
     "spotify_url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "John Williams",
+    "song_title": "Superman Theme",
+    "spotify_url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1134,9 +1400,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "KRS-One",
-    "song_title": "All Day",
-    "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+    "artist": "Justin Seven Music",
+    "song_title": "Music The Best 3",
+    "spotify_url": "https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "KONGOS",
+    "song_title": "Come with Me Now",
+    "spotify_url": "https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1155,9 +1428,23 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Kanye West",
+    "song_title": "Ni**as in Paris",
+    "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Kendrick Lamar",
     "song_title": "Element",
     "spotify_url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Kendrick Lamar/Eminem",
+    "song_title": "DNA/Till I Collapse",
+    "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1179,6 +1466,13 @@
     "artist": "Lil Wayne",
     "song_title": "Uproar",
     "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Lil' Wayne feat. Eminem",
+    "song_title": "Drop The World",
+    "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1239,9 +1533,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Marat",
-    "song_title": "Because I am a Highlander",
-    "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
+    "artist": "Machine Gun Kelly",
+    "song_title": "Invincible",
+    "spotify_url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Machine Gun Kelly",
+    "song_title": "Taurus",
+    "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1289,6 +1590,13 @@
   },
   {
     "artist": "Motorhead",
+    "song_title": "Ace of Spades",
+    "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Motorhead",
     "song_title": "The Game",
     "spotify_url": "https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH",
     "count": 2,
@@ -1319,13 +1627,6 @@
     "artist": "Nada Como Um Dia Apos O Outro Dia",
     "song_title": "A Vida e Desafio",
     "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
-    "count": 2,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Nas",
-    "song_title": "Hate Me Now",
-    "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1365,16 +1666,16 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Oh the Larceny",
-    "song_title": "Man On a Mission",
-    "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
+    "artist": "O Rappa",
+    "song_title": "Lado B Lado A",
+    "spotify_url": "https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn",
     "count": 2,
     "unique_fighters": 2
   },
   {
-    "artist": "Paul Herzog",
-    "song_title": "Streets of Siam",
-    "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+    "artist": "Oh the Larceny",
+    "song_title": "Man On a Mission",
+    "spotify_url": "https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1393,9 +1694,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Run the Jewels",
-    "song_title": "Oh La La",
-    "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+    "artist": "Racionais MCs",
+    "song_title": "Negro Drama",
+    "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1421,9 +1722,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Simalungun Sipukkah Huta",
-    "song_title": "Yeyen Marbun",
-    "spotify_url": "https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q",
+    "artist": "Sick Puppies",
+    "song_title": "You're Going Down",
+    "spotify_url": "https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1431,13 +1732,6 @@
     "artist": "Skillet",
     "song_title": "Monster",
     "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
-    "count": 2,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Skrillex and Rick Ross",
-    "song_title": "Purple Lamborghini",
-    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1456,6 +1750,20 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Spiderbait",
+    "song_title": "Black Betty",
+    "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "T.I.",
+    "song_title": "Big Things Poppin' (Do It)",
+    "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
     "artist": "T.I.",
     "song_title": "Go Get It",
     "spotify_url": "https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt",
@@ -1466,6 +1774,13 @@
     "artist": "Tag Team",
     "song_title": "Whoomp! (There It Is)",
     "spotify_url": "https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "The Doors",
+    "song_title": "Break on Through (To the Other Side)",
+    "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1498,16 +1813,37 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Trick Daddy feat. Lil’ Jon & Twista",
-    "song_title": "Let’s Go",
-    "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
+    "artist": "The White Stripes",
+    "song_title": "Seven Nation Army (Glitch Mob Remix)",
+    "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
     "count": 2,
     "unique_fighters": 2
   },
   {
-    "artist": "Ulytau",
-    "song_title": "Jumry Kylysh",
-    "spotify_url": "https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW",
+    "artist": "Tiago Brasil",
+    "song_title": "Podo Vir",
+    "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Tiesto",
+    "song_title": "Adagio for Strings",
+    "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Toby Keith",
+    "song_title": "Made in America",
+    "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Trick Daddy feat. Lil’ Jon & Twista",
+    "song_title": "Let’s Go",
+    "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1519,9 +1855,9 @@
     "unique_fighters": 2
   },
   {
-    "artist": "Whitesnake",
-    "song_title": "Here I Go Again",
-    "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+    "artist": "Yelawolf",
+    "song_title": "Till It's Gone",
+    "spotify_url": "https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6",
     "count": 2,
     "unique_fighters": 2
   },
@@ -1536,6 +1872,13 @@
     "artist": "Freestyle",
     "song_title": "The Party Has Just Begun",
     "spotify_url": "https://open.spotify.com/track/5t5akE3nYrd0ExeKQYv85A",
+    "count": 9,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Machine Gun Kelly",
+    "song_title": "Till I Die",
+    "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
     "count": 8,
     "unique_fighters": 1
   },
@@ -1547,17 +1890,17 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Megaraptor",
-    "song_title": "When Johnny Comes Marching Home",
-    "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+    "artist": "Credence Clearwater Revival",
+    "song_title": "Bad Moon Rising",
+    "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
     "count": 7,
     "unique_fighters": 1
   },
   {
-    "artist": "Credence Clearwater Revival",
-    "song_title": "Bad Moon Rising",
-    "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-    "count": 6,
+    "artist": "Megaraptor",
+    "song_title": "When Johnny Comes Marching Home",
+    "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+    "count": 7,
     "unique_fighters": 1
   },
   {
@@ -1568,9 +1911,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Machine Gun Kelly",
-    "song_title": "Till I Die",
-    "spotify_url": "https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC",
+    "artist": "Mejor Morir en Pie",
+    "song_title": "Tierra Santa",
+    "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
     "count": 6,
     "unique_fighters": 1
   },
@@ -1582,6 +1925,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Rob Zombie",
+    "song_title": "Living Dead Girl",
+    "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+    "count": 6,
+    "unique_fighters": 1
+  },
+  {
     "artist": "50 Cent",
     "song_title": "P.I.M.P.",
     "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
@@ -1589,9 +1939,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Ash",
+    "song_title": "Mosaique",
+    "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
     "artist": "DJ Nariman",
     "song_title": "Dreams",
     "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Damien",
+    "song_title": "The Joker",
+    "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
     "count": 5,
     "unique_fighters": 1
   },
@@ -1652,16 +2016,30 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Omnia",
-    "song_title": "Fee Ra Huri",
-    "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+    "artist": "Kid Rock",
+    "song_title": "Cowboy",
+    "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
     "count": 5,
     "unique_fighters": 1
   },
   {
-    "artist": "Rob Zombie",
-    "song_title": "Living Dead Girl",
-    "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+    "artist": "Linkin Park",
+    "song_title": "Numb",
+    "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Los Reileros Del Norte",
+    "song_title": "El Corrido De Chihuahua",
+    "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Omnia",
+    "song_title": "Fee Ra Huri",
+    "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
     "count": 5,
     "unique_fighters": 1
   },
@@ -1687,16 +2065,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Amatory",
-    "song_title": "Stop the Time",
-    "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+    "artist": "Black Strobe",
+    "song_title": "I'm a Man",
+    "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
     "count": 4,
     "unique_fighters": 1
   },
   {
-    "artist": "Black Strobe",
-    "song_title": "I'm a Man",
-    "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+    "artist": "Blair Douglas",
+    "song_title": "The Landlord's Walk",
+    "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
     "count": 4,
     "unique_fighters": 1
   },
@@ -1750,6 +2128,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Iggy Pop",
+    "song_title": "The Passenger",
+    "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Iron Maiden",
     "song_title": "Fear of the Dark",
     "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
@@ -1785,9 +2170,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Kid Rock",
-    "song_title": "Cowboy",
-    "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+    "artist": "Katy Perry",
+    "song_title": "Roar",
+    "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
     "count": 4,
     "unique_fighters": 1
   },
@@ -1809,13 +2194,6 @@
     "artist": "Lukasyno & Kriso feat. Miss God",
     "song_title": "Mój świat",
     "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
-    "count": 4,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Mejor Morir en Pie",
-    "song_title": "Tierra Santa",
-    "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
     "count": 4,
     "unique_fighters": 1
   },
@@ -1855,6 +2233,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "T.I.",
+    "song_title": "Bring 'Em Out",
+    "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "The Marvelettes",
     "song_title": "Don't Mess with Bill",
     "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
@@ -1865,6 +2250,13 @@
     "artist": "Tom Petty and the Heartbreakers",
     "song_title": "Runnin’ Down a Dream",
     "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Train",
+    "song_title": "Hey Soul Sister",
+    "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
     "count": 4,
     "unique_fighters": 1
   },
@@ -1904,9 +2296,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Ash",
-    "song_title": "Mosaique",
-    "spotify_url": "https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t",
+    "artist": "Banda Kora",
+    "song_title": "El Corrido de Nayarit",
+    "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
     "count": 3,
     "unique_fighters": 1
   },
@@ -1932,13 +2324,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Blair Douglas",
-    "song_title": "The Landlord's Walk",
-    "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Blasterjaxx and Timmy Trumpet",
     "song_title": "Narco",
     "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
@@ -1960,6 +2345,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Brantley Gilbert",
+    "song_title": "Kick It in the Sticks",
+    "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Carroll Baker",
     "song_title": "One Bad Bitch",
     "spotify_url": "https://open.spotify.com/track/5zCZ0P1ASe4ucjPO8p54lv",
@@ -1970,6 +2362,13 @@
     "artist": "Christina Grimmie & Mike Tompkins",
     "song_title": "Fall Out Boy & Alicia Keys",
     "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Chubby Checker",
+    "song_title": "Let's Twist Again",
+    "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
     "count": 3,
     "unique_fighters": 1
   },
@@ -1989,22 +2388,29 @@
   },
   {
     "artist": "DMX",
+    "song_title": "Let Me Fly",
+    "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "DMX",
+    "song_title": "Ruff Ryders' Anthem",
+    "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "DMX",
     "song_title": "Slippin'",
     "spotify_url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv",
     "count": 3,
     "unique_fighters": 1
   },
   {
-    "artist": "Damian Marley",
-    "song_title": "Welcome to Jamrock",
-    "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Damien",
-    "song_title": "The Joker",
-    "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+    "artist": "David Guetta feat. Sia",
+    "song_title": "Titanium",
+    "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2016,9 +2422,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Duran Duran",
+    "song_title": "Wild Boys",
+    "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Edson Gomes",
     "song_title": "Isaac",
     "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eminem",
+    "song_title": "Solidier",
+    "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2040,13 +2460,6 @@
     "artist": "Greta Van Fleet",
     "song_title": "Safari Song",
     "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "House of Pain",
-    "song_title": "Jump Around",
-    "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2100,23 +2513,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Katy Perry",
-    "song_title": "Roar",
-    "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Logic",
     "song_title": "Everybody",
     "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Los Reileros Del Norte",
-    "song_title": "El Corrido De Chihuahua",
-    "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2128,16 +2527,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
-    "song_title": "Can’t Hold Us",
-    "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+    "artist": "Mozzik",
+    "song_title": "Xhelozia",
+    "spotify_url": "https://open.spotify.com/track/5kMTREHJjCj6jr04UEzyf9",
     "count": 3,
     "unique_fighters": 1
   },
   {
-    "artist": "Mozzik",
-    "song_title": "Xhelozia",
-    "spotify_url": "https://open.spotify.com/track/5kMTREHJjCj6jr04UEzyf9",
+    "artist": "NEIKED feat. Dyo",
+    "song_title": "Sexual",
+    "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2170,6 +2569,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Orishas",
+    "song_title": "Cuba Isla Bella",
+    "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Papa Wemba",
     "song_title": "Show Me the Way",
     "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
@@ -2184,9 +2590,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+    "song_title": "Finna Get Loose",
+    "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Reba McEntire",
     "song_title": "Fancy",
     "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Rise Against",
+    "song_title": "Re-Education Through Labor",
+    "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2240,6 +2660,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Tupac",
+    "song_title": "Only Fear of Death",
+    "spotify_url": "https://open.spotify.com/track/2O7IOXYAOhbc8lkMLhKNTz",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Unknown",
     "song_title": "My Motherland Siberia",
     "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
@@ -2268,10 +2695,10 @@
     "unique_fighters": 1
   },
   {
-    "artist": "the Rolling Stones",
-    "song_title": "Paint It, Black",
-    "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
-    "count": 3,
+    "artist": "25/17",
+    "song_title": "Zima-mama",
+    "spotify_url": "https://open.spotify.com/track/5wUUnAZXcgCNA4vM91paUg",
+    "count": 2,
     "unique_fighters": 1
   },
   {
@@ -2292,6 +2719,13 @@
     "artist": "A Tribe Called Red",
     "song_title": "Electric Pow Wow Drum",
     "spotify_url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "ABN Trae Tha Truth",
+    "song_title": "Umm Hmm",
+    "spotify_url": "https://open.spotify.com/track/6yWzV6ktnM0B1S4z8t0Ehn",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2324,6 +2758,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Akhenaton",
+    "song_title": "Bad Boys de Marseille",
+    "spotify_url": "https://open.spotify.com/track/78ujFEl6ZHZF8wRy7dYo0T",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Akon",
     "song_title": "Gangsta Bop",
     "spotify_url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE",
@@ -2345,9 +2786,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Andre Nickatina",
-    "song_title": "Jungle",
-    "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+    "artist": "Ana Gabriel",
+    "song_title": "El Gallo De Oro",
+    "spotify_url": "https://open.spotify.com/track/2bPxASg7VSeQWWeK9q8CzL",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2394,6 +2835,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Bikini Kill",
+    "song_title": "Rebel Girl",
+    "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Bishop Gunn",
     "song_title": "Bank of the River",
     "spotify_url": "https://open.spotify.com/track/2Toff8R5GgQfU008uwBV7o",
@@ -2401,9 +2849,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Blackberry Smoke",
+    "song_title": "Sleeping Dog",
+    "spotify_url": "https://open.spotify.com/track/3tJ9FsjhspfsrhtYvMWCKp",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Blur",
     "song_title": "Song 2",
     "spotify_url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Bone Thugs-N-Harmony",
+    "song_title": "Thuggish Ruggish Bone",
+    "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2422,9 +2884,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Chubby Checker",
-    "song_title": "Let's Twist Again",
-    "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+    "artist": "Buchecha",
+    "song_title": "Medley",
+    "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Chase & Status",
+    "song_title": "Alive",
+    "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2439,6 +2908,13 @@
     "artist": "Clever feat. Lil Wayne",
     "song_title": "Call Me Nobody",
     "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Coldplay",
+    "song_title": "Charlie Brown",
+    "spotify_url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2464,16 +2940,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Danny Gokey",
-    "song_title": "Hope in Front of Me",
-    "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
+    "artist": "Damien Marley and Skrillex",
+    "song_title": "Make It Bun Dem",
+    "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
     "count": 2,
     "unique_fighters": 1
   },
   {
-    "artist": "David Guetta feat. Sia",
-    "song_title": "Titanium",
-    "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
+    "artist": "Danny Gokey",
+    "song_title": "Hope in Front of Me",
+    "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2492,6 +2968,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Dire Straits",
+    "song_title": "Money for Nothing",
+    "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Disturbed",
+    "song_title": "Indestructible",
+    "spotify_url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Djigitovka",
     "song_title": "Lezginka",
     "spotify_url": "https://open.spotify.com/track/5JY0nguP0JUq5wV5WtfEXP",
@@ -2502,6 +2992,20 @@
     "artist": "Don Omar",
     "song_title": "Conteo",
     "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Don Omar feat. Lucenzo",
+    "song_title": "Danza Kuduro",
+    "spotify_url": "https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Drake",
+    "song_title": "Summer Sixteen",
+    "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2527,6 +3031,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Eminem feat. Trick Trick",
+    "song_title": "Welcome to Detroit",
+    "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Eric B. & Rakim",
     "song_title": "Juice (Know The Ledge)",
     "spotify_url": "https://open.spotify.com/track/4LXsPdBcHAuttD9mKyhA8a",
@@ -2537,6 +3048,13 @@
     "artist": "Faccao 288",
     "song_title": "Prvt e Hora Vencer",
     "spotify_url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Five Finger Death Punch",
+    "song_title": "Bad Company",
+    "spotify_url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2583,6 +3101,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Giggs",
+    "song_title": "Tick Tock",
+    "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Giorgio Moroder",
     "song_title": "Scarface Theme Song",
     "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
@@ -2611,9 +3136,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Iggy Pop",
-    "song_title": "The Passenger",
-    "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+    "artist": "Hoffmaestro & Chraa",
+    "song_title": "Highway Man",
+    "spotify_url": "https://open.spotify.com/track/56nYbGRkOwhDoBC7quMDTT",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Iggy Azalea feat. Charli XCX",
+    "song_title": "Fancy",
+    "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2621,6 +3153,13 @@
     "artist": "Imagine Dragons",
     "song_title": "Natural",
     "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Inner Circle",
+    "song_title": "Bad Boys",
+    "spotify_url": "https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2639,6 +3178,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Jah Cure",
+    "song_title": "Journey",
+    "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Jasta",
+    "song_title": "I am the Immortal",
+    "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Jay Kill & the Hustle Standard",
     "song_title": "Unbreakable",
     "spotify_url": "https://open.spotify.com/track/0dzGkZuSHw42eh9VLV1Mzd",
@@ -2653,9 +3206,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Jorge Quintero",
+    "song_title": "300 Violins Orchestra",
+    "spotify_url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Journey",
     "song_title": "Don't Stop Believin'",
     "spotify_url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Juan Carlos Alvarado",
+    "song_title": "Le Llaman Guerrero",
+    "spotify_url": "https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2688,9 +3255,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "LL Cool J",
-    "song_title": "Mama Said Knock You Out",
-    "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+    "artist": "Kygo feat. Parson James",
+    "song_title": "Stole the Show",
+    "spotify_url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "La Renga",
+    "song_title": "Hablando de la Libertad",
+    "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2709,6 +3283,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Led Zeppelin",
+    "song_title": "Black Dog",
+    "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Lil Tjay featuring Fivio Foreign & Pop Smoke",
     "song_title": "Zoo York",
     "spotify_url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp",
@@ -2716,16 +3297,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Linkin Park",
-    "song_title": "Numb",
-    "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+    "artist": "Living Colour",
+    "song_title": "Cult of Personality",
+    "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
     "count": 2,
     "unique_fighters": 1
   },
   {
-    "artist": "Living Colour",
-    "song_title": "Cult of Personality",
-    "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
+    "artist": "Los Cojolites",
+    "song_title": "El Camotal",
+    "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2740,6 +3321,20 @@
     "artist": "Los Tigres Del Norte",
     "song_title": "Gallo De Pelea",
     "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Ludacris",
+    "song_title": "Grew Up a Screw Up",
+    "spotify_url": "https://open.spotify.com/track/4BH06Z1ffWB6ug5tpju6JD",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Ludmilla",
+    "song_title": "Chegui",
+    "spotify_url": "https://open.spotify.com/track/2Bht3AhEqb8jmiWiJBigFw",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2807,9 +3402,30 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Mavado",
+    "song_title": "I'm On the Rock",
+    "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "May Day",
     "song_title": "Stubborn",
     "spotify_url": "https://open.spotify.com/track/3jVX6VjKXwDDkesVXzjReY",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Mc Sapão",
+    "song_title": "O Grito De Um Guerreiro",
+    "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "McFadden & Whitehead",
+    "song_title": "Ain't No Stopping' Us Now",
+    "spotify_url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2884,6 +3500,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Navigators",
+    "song_title": "The Islander",
+    "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Neffex",
     "song_title": "Grateful",
     "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
@@ -2891,9 +3514,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Neikid feat. Dyo",
-    "song_title": "Sexual",
-    "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+    "artist": "Nikolai Emelin",
+    "song_title": "Expand The Shoulder",
+    "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2933,6 +3556,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Notorious BIG feat. P. Diddy",
+    "song_title": "Mo Money Mo Problems",
+    "spotify_url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Oficina G3",
+    "song_title": "Meus Proprios Meios",
+    "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Olzhas Albay",
     "song_title": "Tam Tau Adam",
     "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
@@ -2940,16 +3577,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "One Republic",
-    "song_title": "Sunshine",
-    "spotify_url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B",
+    "artist": "One Direction",
+    "song_title": "Drag Me Down",
+    "spotify_url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G",
     "count": 2,
     "unique_fighters": 1
   },
   {
-    "artist": "Orishas",
-    "song_title": "Cuba Isla Bella",
-    "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+    "artist": "One Republic",
+    "song_title": "Sunshine",
+    "spotify_url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2964,6 +3601,20 @@
     "artist": "Pedro Fernandez",
     "song_title": "El Mariachi Loco",
     "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Pendulum",
+    "song_title": "Slam",
+    "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Percival",
+    "song_title": "Lazare",
+    "spotify_url": "https://open.spotify.com/track/7xGN48DyadvhEpM2RhJQ1X",
     "count": 2,
     "unique_fighters": 1
   },
@@ -2989,9 +3640,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Racionais MCs",
-    "song_title": "Capitulo 4, Versiculo 3",
-    "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+    "artist": "Rage Against the Machine",
+    "song_title": "Guerrilla Radio",
+    "spotify_url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3017,6 +3668,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Rena Gosc Gutek",
+    "song_title": "Przejmij Ster W Swoje Dlonie",
+    "spotify_url": "https://open.spotify.com/track/4u1L4bQA6CwqFhzPuwRxMh",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Residente",
     "song_title": "Dagombas en Tamale",
     "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
@@ -3034,6 +3692,13 @@
     "artist": "Rob Dougan",
     "song_title": "Clubbed to Death",
     "spotify_url": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Robert Tepper",
+    "song_title": "No Easy Way Out",
+    "spotify_url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3080,6 +3745,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Soroush",
+    "song_title": "Leila",
+    "spotify_url": "https://open.spotify.com/track/6bvKZyE7WqnqDnXAatxHWz",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Sulambek Mamilov",
     "song_title": "Melodies of the Mountains",
     "spotify_url": "https://open.spotify.com/track/3roZ8GYNvxgGrslNhuFSHc",
@@ -3104,13 +3776,6 @@
     "artist": "Sweet",
     "song_title": "Fox On The Run",
     "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
-    "count": 2,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "T.I.",
-    "song_title": "Bring Em Out",
-    "spotify_url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3157,9 +3822,30 @@
     "unique_fighters": 1
   },
   {
+    "artist": "The Choirboys",
+    "song_title": "Run to Paradise",
+    "spotify_url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "The Cranberries",
     "song_title": "Dreams",
     "spotify_url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Misfits",
+    "song_title": "Skulls",
+    "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "song_title": "Kick in the Door",
+    "spotify_url": "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3178,6 +3864,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Tiesto",
+    "song_title": "He's A Pirate",
+    "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Tom Odell",
     "song_title": "Another Love",
     "spotify_url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
@@ -3192,13 +3885,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Train",
-    "song_title": "Hey Soul Sister",
-    "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
-    "count": 2,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Trap Romanesc",
     "song_title": "Pe Cai",
     "spotify_url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75",
@@ -3206,9 +3892,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Tropkillaz",
+    "song_title": "Baby Baby",
+    "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Tupac",
     "song_title": "Rise of the Champion",
     "spotify_url": "https://open.spotify.com/track/69jXvsj4MAqS8QIfR1HX1x",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Unknown",
+    "song_title": "We Are Rising",
+    "spotify_url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3241,9 +3941,44 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Weird Al Yankovic",
+    "song_title": "I'm Fat",
+    "spotify_url": "https://open.spotify.com/track/4is3oF4FlWmedh3TK6Ke7z",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Whitney Houston",
+    "song_title": "I Wanna Dance With Somebody",
+    "spotify_url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "William McDowell feat. Trinity Anderson",
+    "song_title": "Spirit Break Out",
+    "spotify_url": "https://open.spotify.com/track/05kHI4RsThI6ez9oKnWLHO",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "X Ambassadors & Jamie N Commons",
+    "song_title": "Jungle",
+    "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Yeah Yeah Yeahs",
     "song_title": "Heads Will Roll",
     "spotify_url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Young Money feat. Lil' Wayne",
+    "song_title": "Moment",
+    "spotify_url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3458,9 +4193,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "25/17",
-    "song_title": "Zima Mama",
-    "spotify_url": "https://open.spotify.com/track/5wUUnAZXcgCNA4vM91paUg",
+    "artist": "2517",
+    "song_title": "Mother Winter",
+    "spotify_url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3482,13 +4217,6 @@
     "artist": "2Pac / Lil Wayne",
     "song_title": "When We Ride on Our Enemies / Right Above It",
     "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "2Pac feat Snoop Doggy",
-    "song_title": "2 OF AMERIKAZ MOST WANTED",
-    "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3619,6 +4347,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "A Tribe Called Quest",
+    "song_title": "Dis Generation",
+    "spotify_url": "https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "A$AP Mob",
     "song_title": "Money Man",
     "spotify_url": "https://open.spotify.com/track/0foRpYmPs9PHIAMyXa5bTc",
@@ -3641,6 +4376,13 @@
   },
   {
     "artist": "A$AP Rocky",
+    "song_title": "Lorde Pretty Blaco Jodye 2",
+    "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "A$AP Rocky",
     "song_title": "Praise the Lord (Da Shine)",
     "spotify_url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
     "count": 1,
@@ -3650,6 +4392,13 @@
     "artist": "A$AP Rocky",
     "song_title": "Runnin'",
     "spotify_url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "A.B.N.",
+    "song_title": "Umm Hmm",
+    "spotify_url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3683,8 +4432,8 @@
   },
   {
     "artist": "AC/DC",
-    "song_title": "Back in Black",
-    "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+    "song_title": "For Those About to Rock",
+    "spotify_url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3699,6 +4448,27 @@
     "artist": "AC/DC",
     "song_title": "Hells Bells",
     "spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "AC/DC",
+    "song_title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+    "spotify_url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "AC/DC",
+    "song_title": "Shoot To Thrill",
+    "spotify_url": "https://open.spotify.com/track/6GzCkTddOn1vSln1gbSr8y",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "AC/DC",
+    "song_title": "Stiff Upper Lip",
+    "spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3720,6 +4490,13 @@
     "artist": "ANU",
     "song_title": "输过.没哭过 (I've Lost, But I've Never Cried)",
     "spotify_url": "https://open.spotify.com/track/33BelFfmPLgvw8EJakHqW5",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Ab-Soul",
+    "song_title": "Track Two",
+    "spotify_url": "https://open.spotify.com/track/3XNMyE4GB8v5gdujvucjoc",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3762,6 +4539,13 @@
     "artist": "Aerosmith",
     "song_title": "Dream On",
     "spotify_url": "https://open.spotify.com/track/2K2Ji4ca76JNgoO6xG2QKm",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Aerosmith",
+    "song_title": "Sweet Emotion",
+    "spotify_url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA",
     "count": 1,
     "unique_fighters": 1
   },
@@ -3955,13 +4739,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Ana Gabriel",
-    "song_title": "El Gallo De Oro",
-    "spotify_url": "https://open.spotify.com/track/2bPxASg7VSeQWWeK9q8CzL",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Andre Nickatina",
     "song_title": "The Al Capone Suite",
     "spotify_url": "https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N",
@@ -4046,6 +4823,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Anthony Hamilton & Elayna Boynton",
+    "song_title": "Freedom\" (\"Django Unchained\")",
+    "spotify_url": "https://open.spotify.com/track/4PgsrLmWjOmm58vGDhoV27",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Anton feat. DJ Otzi",
     "song_title": "Hey Baby (Uhh, Ahh)",
     "spotify_url": "https://open.spotify.com/search/Hey%20Baby%20%28Uhh%2C%20Ahh%29%20Anton%20feat.%20DJ%20Otzi",
@@ -4056,6 +4840,13 @@
     "artist": "Antonio Aguilar",
     "song_title": "Un Puno De Tierra",
     "spotify_url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Antonio Aguilar",
+    "song_title": "Viva Mexico",
+    "spotify_url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4097,13 +4888,6 @@
   {
     "artist": "Ara Gevorgyan",
     "song_title": "Artsakh",
-    "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Ara Gevorgyan",
-    "song_title": "Artsakh",
     "spotify_url": "https://open.spotify.com/track/37GaRIuhOEyvGLI6q9WJ6r",
     "count": 1,
     "unique_fighters": 1
@@ -4130,6 +4914,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Armin Van Buuren",
+    "song_title": "Sail",
+    "spotify_url": "https://open.spotify.com/track/03FSRhO4BvSeZ9P2Ec5qzg",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Armin van Buuren vs Human Resource",
     "song_title": "Dominator (Ezer Remix)",
     "spotify_url": "https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu",
@@ -4137,9 +4928,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Arturo 'Zambo' Cavero",
-    "song_title": "Contigo Peru",
-    "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+    "artist": "Aryton Senna",
+    "song_title": "Tema da Vitoria",
+    "spotify_url": "https://open.spotify.com/track/6Yyut53Bx79nxJnXZkVZQq",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Atreyu",
+    "song_title": "Right Side of the Bed",
+    "spotify_url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4175,13 +4973,6 @@
     "artist": "Avicii",
     "song_title": "Levels",
     "spotify_url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Avicii",
-    "song_title": "Wake Me Up",
-    "spotify_url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4273,13 +5064,6 @@
     "artist": "Banda Grafith",
     "song_title": "Chico Bateu No Bode",
     "spotify_url": "https://open.spotify.com/track/7ybr42DJG4RoRVNetX7yEv",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Banda Kora",
-    "song_title": "El Corrido de Nayarit",
-    "spotify_url": "https://open.spotify.com/track/5pFGyUAALeEsoKjMejgko3",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4438,13 +5222,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Big Sean",
-    "song_title": "Bounce Back",
-    "spotify_url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Big Sean/Moke Boy",
     "song_title": "Blessings/Hawaiian Kickboxer",
     "spotify_url": "https://open.spotify.com/track/1bzM1cd6oqFozdr4wK6HdR",
@@ -4497,13 +5274,6 @@
     "artist": "Biga Ranx",
     "song_title": "My Face",
     "spotify_url": "https://open.spotify.com/track/1hN16Iy4yxIj4gIzhzeQ6K",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Bikini Kill",
-    "song_title": "Rebel Girl",
-    "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4565,6 +5335,13 @@
   },
   {
     "artist": "Black Eyed Peas",
+    "song_title": "Bebot",
+    "spotify_url": "https://open.spotify.com/track/4nZwaKTdxczLpUHfLVAozA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Black Eyed Peas",
     "song_title": "RITMO (Bad Boys for Life)",
     "spotify_url": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC",
     "count": 1,
@@ -4606,9 +5383,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Blackberry Smoke",
-    "song_title": "Sleeping Dog",
-    "spotify_url": "https://open.spotify.com/track/3tJ9FsjhspfsrhtYvMWCKp",
+    "artist": "Blue Oyster Cult",
+    "song_title": "Godzilla",
+    "spotify_url": "https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4628,15 +5405,22 @@
   },
   {
     "artist": "Bob Marley",
-    "song_title": "Positive Vibration",
-    "spotify_url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd",
+    "song_title": "Cry To Me",
+    "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
     "count": 1,
     "unique_fighters": 1
   },
   {
     "artist": "Bob Marley",
-    "song_title": "Three Little Birds",
-    "spotify_url": "https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM",
+    "song_title": "Jammin'",
+    "spotify_url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Bob Marley",
+    "song_title": "Positive Vibration",
+    "spotify_url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4662,6 +5446,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Bolt Thrower",
+    "song_title": "The IVth Crusade",
+    "spotify_url": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Bon Jovi",
     "song_title": "Livin' on a Prayer",
     "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
@@ -4676,13 +5467,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Bone Thugs-N-Harmony",
-    "song_title": "Thuggish Ruggish Bone",
-    "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Boney M.",
     "song_title": "Daddy Cool",
     "spotify_url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g",
@@ -4693,6 +5477,13 @@
     "artist": "Bonnie Tyler",
     "song_title": "Holding Out for a Hero",
     "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Booba",
+    "song_title": "4G",
+    "spotify_url": "https://open.spotify.com/track/4jcoBHze3yMVWviB27Rzq4",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4740,13 +5531,6 @@
   },
   {
     "artist": "Brantley Gilbert",
-    "song_title": "Kick it in the Sticks",
-    "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Brantley Gilbert",
     "song_title": "Take It Outside",
     "spotify_url": "https://open.spotify.com/track/1AJBs8myLazWQpOMZ8Vtpg",
     "count": 1,
@@ -4756,6 +5540,13 @@
     "artist": "Brenno, Kieran The Light, K. Diamond",
     "song_title": "God Energy",
     "spotify_url": "https://open.spotify.com/track/2jUNL4gRZmv3gLJXo0G4ty",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Brody Dalle",
+    "song_title": "Don't Mess with Me",
+    "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4802,9 +5593,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Buchecha",
-    "song_title": "Medley",
-    "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+    "artist": "Built to Spill",
+    "song_title": "Goin' Against Your Mind",
+    "spotify_url": "https://open.spotify.com/track/1rxz8AseGxCsYQDHyg4scv",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Bullet For My Valentine",
+    "song_title": "Your Betrayal",
+    "spotify_url": "https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4858,6 +5656,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "CPM 22",
+    "song_title": "Tarde De Outubro",
+    "spotify_url": "https://open.spotify.com/track/1d9FVl17Uq9LWHAFyrmIgO",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Café Tacuba",
+    "song_title": "Ojalá! Que Llueva Café",
+    "spotify_url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Cage the Elephant",
     "song_title": "Ain't No Rest for the Wicked",
     "spotify_url": "https://open.spotify.com/track/7tCHpjktA50ihtkLz6bAnn",
@@ -4868,6 +5680,13 @@
     "artist": "Caifanes",
     "song_title": "Antes de que nos olviden",
     "spotify_url": "https://open.spotify.com/track/3ZuGavt1YrOkg6G93lgfUw",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Calvin Harris",
+    "song_title": "My Way",
+    "spotify_url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm",
     "count": 1,
     "unique_fighters": 1
   },
@@ -4896,6 +5715,13 @@
     "artist": "Cardi B",
     "song_title": "Money",
     "spotify_url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Carl Orff",
+    "song_title": "O Fortuna\" from \"Carmina Burana",
+    "spotify_url": "https://open.spotify.com/track/2d7139N7CJ9eJmGVE42Y44",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5019,6 +5845,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Charm City Devils",
+    "song_title": "Man of Constant Sorrow",
+    "spotify_url": "https://open.spotify.com/track/0M5Slf7W71wMTsESqjnwr0",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Chas and Dave",
     "song_title": "Gertcha",
     "spotify_url": "https://open.spotify.com/track/1UeNDtSqYRs8ELLsyFA5kg",
@@ -5029,13 +5862,6 @@
     "artist": "Chase & Status feat. Tom Grennan",
     "song_title": "All Goes Wrong",
     "spotify_url": "https://open.spotify.com/track/4pfu1lEKJhRGTQf64cQPXd",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Chase and Status",
-    "song_title": "Alive",
-    "spotify_url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5064,6 +5890,13 @@
     "artist": "Chevelle",
     "song_title": "The Red",
     "spotify_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Chico Cervantes",
+    "song_title": "La Cumbia de la Paz",
+    "spotify_url": "https://open.spotify.com/track/1TbXWuFKwmZs0zv7PivZBW",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5106,6 +5939,13 @@
     "artist": "Chris Brown",
     "song_title": "Iffy",
     "spotify_url": "https://open.spotify.com/track/54Ck9yFxxImJ2ONxcLFPZz",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Chris LeDoux",
+    "song_title": "Hooked On An Eight Second Ride",
+    "spotify_url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5166,6 +6006,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Classified",
+    "song_title": "Oh ... Canada",
+    "spotify_url": "https://open.spotify.com/track/4wjTgKnltcEBfDpWcPN1J4",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Clinch!",
     "song_title": "Dr. Panico",
     "spotify_url": "https://open.spotify.com/track/7IW97SFUISAWehSIW1eJvM",
@@ -5183,6 +6030,13 @@
     "artist": "Cody Jinks",
     "song_title": "Loud and Heavy",
     "spotify_url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Coldplay",
+    "song_title": "Viva La Vida",
+    "spotify_url": "https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5278,9 +6132,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Crew Cardinal feat. Kodie",
+    "song_title": "Forever Young",
+    "spotify_url": "https://open.spotify.com/track/754OmeCDdrHUiLVHNaWQm9",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Crime Mob",
     "song_title": "Knuck If You Buck",
     "spotify_url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Criolo",
+    "song_title": "Convoque Seu Buda",
+    "spotify_url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5348,9 +6216,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "D-Dash",
+    "song_title": "Water Pow",
+    "spotify_url": "https://open.spotify.com/track/50anz5nwXH7hDYCFvaFfvp",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "D.I.T.C.",
     "song_title": "Rock Shyt",
     "spotify_url": "https://open.spotify.com/track/1mPAUh3U8BC4iCTK6UzhgB",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "DJ Baku feat. Kyono",
+    "song_title": "Scream the Life",
+    "spotify_url": "https://open.spotify.com/track/41MoQD2uHoGmfyodtW0IOo",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5425,6 +6307,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "DJ Ozma",
+    "song_title": "Age Age Every Knight",
+    "spotify_url": "https://open.spotify.com/track/2cUguiEtdRMG73jFdubZnG",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "DJ Ruan Do Primerio",
     "song_title": "Abertura Oficial Victor Petrino",
     "spotify_url": "https://open.spotify.com/track/0yok8vl4rNy4WPRy1uLu2V",
@@ -5467,13 +6356,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "DJ Tiesto",
-    "song_title": "He's a Pirate (Tiesto Remix)",
-    "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "DMX",
     "song_title": "Ain't No Sunshine",
     "spotify_url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
@@ -5482,29 +6364,8 @@
   },
   {
     "artist": "DMX",
-    "song_title": "Let Me Fly",
-    "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "DMX",
     "song_title": "MIKE TYSON SONG",
     "spotify_url": "https://open.spotify.com/track/4zN1Cr7chwMed20zF9IZzW",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "DMX",
-    "song_title": "Ruff Ryders' Anthem",
-    "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "DMX",
-    "song_title": "The Rain",
-    "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5526,6 +6387,20 @@
     "artist": "DMX",
     "song_title": "X Gon' Give It To You",
     "spotify_url": "https://open.spotify.com/track/4O9ICXbrUTAVR5kkx6xANJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "DMX feat. Sean Paul & Mr. Vegas",
+    "song_title": "Top Shotter",
+    "spotify_url": "https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "DMX, Sean Paul & Mr. V",
+    "song_title": "Top Shotter (Here Comes the Boom)",
+    "spotify_url": "https://open.spotify.com/track/56DwpOwvJdqe7F0wa2ncJ8",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5572,13 +6447,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Damien Marley and Skrillex",
-    "song_title": "Make It Bun Dem",
-    "spotify_url": "https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Dan McCabe and “Enter The Dragon” by blk.",
     "song_title": "Spancil Hill",
     "spotify_url": "https://open.spotify.com/track/2mzS2DPwdHse5UxAsA6GBz",
@@ -5621,9 +6489,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Darude",
-    "song_title": "Sandstorm",
-    "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+    "artist": "Danzig",
+    "song_title": "Mother",
+    "spotify_url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5663,13 +6531,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "David Guetta feat. Kid Cudi",
-    "song_title": "Memories",
-    "spotify_url": "https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "David Michael Wyatt",
     "song_title": "Prosper",
     "spotify_url": "https://open.spotify.com/track/2Tp06Bm3KnWQIzm1zNLZqH",
@@ -5680,6 +6541,13 @@
     "artist": "Days Like These",
     "song_title": "Thedawning",
     "spotify_url": "https://open.spotify.com/track/0aPgAvLQZNqfLDMrXv0IPE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Dazaranha",
+    "song_title": "O Cubo",
+    "spotify_url": "https://open.spotify.com/track/4nhijl68CDtHObByp0Cymf",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5701,6 +6569,13 @@
     "artist": "Debora Duarte",
     "song_title": "Cancao Pra Deus",
     "spotify_url": "https://open.spotify.com/track/4w7Xwcr7QRC9DqBcKfoFm1",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Deetox & Lange Frans",
+    "song_title": "Het Land Van",
+    "spotify_url": "https://open.spotify.com/track/0wMAsL98TGuI6eWUEocd1O",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5756,6 +6631,13 @@
   {
     "artist": "Denz feat. T.A.P. Malledrengen",
     "song_title": "Store Far",
+    "spotify_url": "https://open.spotify.com/track/1xNwo9zhbKW2CfpRMcp0it",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Denz feat. T.A.P. Malledrengen",
+    "song_title": "Store Far",
     "spotify_url": "https://open.spotify.com/track/6YoDSE0GClozWoRKBB7y6i",
     "count": 1,
     "unique_fighters": 1
@@ -5782,9 +6664,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Desiigner",
-    "song_title": "Panda",
-    "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+    "artist": "Descontrol",
+    "song_title": "Descontrol",
+    "spotify_url": "https://open.spotify.com/track/2rJiqNZRQxlMNF9c6qPg6U",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5810,6 +6692,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Dick Dale & His Del-Tones",
+    "song_title": "Misirlou",
+    "spotify_url": "https://open.spotify.com/track/3yuhWcddu8hgwlMIAyFamR",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Diddy feat. The Notorious B.I.G., Busta Rhymes, 50 Cent & Lloyd Banks",
     "song_title": "Victory 2004",
     "spotify_url": "https://open.spotify.com/track/2Yslb5NGqlZ8dC94ARxivO",
@@ -5820,13 +6709,6 @@
     "artist": "Digital",
     "song_title": "Gandan Buurahgui",
     "spotify_url": "https://open.spotify.com/track/0JsOHsTF8aZ1O6l6qAsQS7",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Direct Hit & Sabina Saldova",
-    "song_title": "Dagestan",
-    "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5867,15 +6749,8 @@
   },
   {
     "artist": "Disturbed",
-    "song_title": "Down With the Sickness",
-    "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Disturbed",
-    "song_title": "Indestructible",
-    "spotify_url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf",
+    "song_title": "I Still Haven't Found What I'm Looking For",
+    "spotify_url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5930,13 +6805,6 @@
   },
   {
     "artist": "Don Omar",
-    "song_title": "Danza Kuduro",
-    "spotify_url": "https://open.spotify.com/track/16YktaSw5wfbjsSTTxE5ZH",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Don Omar",
     "song_title": "La Copa",
     "spotify_url": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
     "count": 1,
@@ -5951,15 +6819,15 @@
   },
   {
     "artist": "Doug Seegers",
-    "song_title": "Going Down to the Floor",
-    "spotify_url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl",
+    "song_title": "Going Down To The River",
+    "spotify_url": "https://open.spotify.com/track/2bI8JuY4ss4FXu6TejoqFO",
     "count": 1,
     "unique_fighters": 1
   },
   {
-    "artist": "Dr. Dre",
-    "song_title": "Nuthin' but a G Thang",
-    "spotify_url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD",
+    "artist": "Doug Seegers",
+    "song_title": "Going Down to the Floor",
+    "spotify_url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl",
     "count": 1,
     "unique_fighters": 1
   },
@@ -5974,6 +6842,13 @@
     "artist": "Drake",
     "song_title": "0 to 100/The Catch",
     "spotify_url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Drake",
+    "song_title": "6 Man",
+    "spotify_url": "https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6020,16 +6895,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Drummatix",
-    "song_title": "БОЙЦОВСКАЯ ТРОПА",
-    "spotify_url": "https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF",
+    "artist": "Dropkick Murphys",
+    "song_title": "Johnny I Hardly Knew Ya",
+    "spotify_url": "https://open.spotify.com/track/5I9bmpCFS6oxCz3GkA2t9j",
     "count": 1,
     "unique_fighters": 1
   },
   {
-    "artist": "Duran Duran",
-    "song_title": "Wild Boys",
-    "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+    "artist": "Drummatix",
+    "song_title": "БОЙЦОВСКАЯ ТРОПА",
+    "spotify_url": "https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6069,9 +6944,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Eastwest Rockers",
+    "song_title": "Oczy Wpatrzone w Cel",
+    "spotify_url": "https://open.spotify.com/track/2PrNDTC15Trj72YHPJlH6G",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Eazy E feat. The Game",
     "song_title": "Still Crusin",
     "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eazy-E",
+    "song_title": "Switchez",
+    "spotify_url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6118,6 +7007,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Ekhymosis",
+    "song_title": "La Tierra",
+    "spotify_url": "https://open.spotify.com/track/1dw53BtsidgW4ZmTN4zoeP",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "El Alfa, El Shick",
     "song_title": "K PARA DE QUÉ",
     "spotify_url": "https://open.spotify.com/track/7phz5W0WmlFowDvp8488Xb",
@@ -6153,6 +7049,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "El Gran Silencio",
+    "song_title": "Con Sangre del Norte",
+    "spotify_url": "https://open.spotify.com/track/5sG6YezOe97sFpqvymZ66u",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "El Kimiko Y Yordy X Michel Boutic",
     "song_title": "El Campeon",
     "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
@@ -6177,6 +7080,13 @@
     "artist": "Elvana Gjata",
     "song_title": "Kuq E Zi Je Ti",
     "spotify_url": "https://open.spotify.com/track/0VsOmz0XuRxzxcLj0BXIHn",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Elvis Crespo feat. Deorro",
+    "song_title": "Bailar",
+    "spotify_url": "https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6210,6 +7120,20 @@
   },
   {
     "artist": "Eminem",
+    "song_title": "Beautiful",
+    "spotify_url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eminem",
+    "song_title": "Go To Sleep",
+    "spotify_url": "https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eminem",
     "song_title": "I’m Not Afraid",
     "spotify_url": "https://open.spotify.com/search/I%E2%80%99m%20Not%20Afraid%20Eminem",
     "count": 1,
@@ -6233,6 +7157,13 @@
     "artist": "Eminem",
     "song_title": "Wont Back Down",
     "spotify_url": "https://open.spotify.com/track/7kNlRLC9PEH8nXMVawssMx",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eminem feat. Dr. Dre",
+    "song_title": "Say What You Say",
+    "spotify_url": "https://open.spotify.com/track/4EQkcrSLF3QdlwNca7sMXY",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6265,9 +7196,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Enrique Igesias feat. Luan Santana",
+    "song_title": "Bailando",
+    "spotify_url": "https://open.spotify.com/track/6PSKhwo0mVcOdjUOhVJd5p",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Eolya",
     "song_title": "Ve Vigja",
     "spotify_url": "https://open.spotify.com/track/5tYxG91boV6a3ki2xkGgTI",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Eric Church",
+    "song_title": "The Outsiders",
+    "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6300,6 +7245,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Etthehiphoppreacher",
+    "song_title": "Pain is Temporary",
+    "spotify_url": "https://open.spotify.com/track/2PvwfSw9MTu16ezRkH8ut1",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Everlast",
     "song_title": "What It's Like",
     "spotify_url": "https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ",
@@ -6307,9 +7259,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Evil Empire",
+    "song_title": "I'm Ill",
+    "spotify_url": "https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Eyenine",
     "song_title": "Kentucky Derby",
     "spotify_url": "https://open.spotify.com/track/6yniMtRG6gVEZFgUVRlnPR",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Fababy",
+    "song_title": "Ma Petite",
+    "spotify_url": "https://open.spotify.com/track/6vFM1LBzMCOIybF7wfUDIa",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6363,6 +7329,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Fat Joe & Remy",
+    "song_title": "All The Way Up",
+    "spotify_url": "https://open.spotify.com/track/7Ezwtgfw7khBrpvaNPtMoT",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Fedde Le Grand",
     "song_title": "Put Your Hands Up 4 Detroit",
     "spotify_url": "https://open.spotify.com/track/2tyMOrVliF1wRnumVdcEwP",
@@ -6384,9 +7357,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Filapine feat. Akon",
+    "song_title": "Rock",
+    "spotify_url": "https://open.spotify.com/track/3gpqjfcVjZrgKJyaVUKUJR",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Five Finger Death Punch",
     "song_title": "Blue on Black",
     "spotify_url": "https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Five Finger Death Punch",
+    "song_title": "Wrong Side of Heaven",
+    "spotify_url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6433,6 +7420,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Florida Georgia Line",
+    "song_title": "Anything Goes",
+    "spotify_url": "https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Fogottenage, Solizy",
     "song_title": "Your Smile",
     "spotify_url": "https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF",
@@ -6450,6 +7444,13 @@
     "artist": "Forest Frank",
     "song_title": "Never Get Used to This",
     "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Foxy Brown",
+    "song_title": "Oh Yeah",
+    "spotify_url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6489,6 +7490,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Freeze & Noodles",
+    "song_title": "Bring on the Thunder",
+    "spotify_url": "https://open.spotify.com/track/5J8zBspeWfSLVJQMmkx4Je",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "French Montana feat. Swae Lee",
     "song_title": "Unforgettable",
     "spotify_url": "https://open.spotify.com/track/0dKNXODgcbQtyDgEt6mw1A",
@@ -6499,6 +7507,13 @@
     "artist": "Fridayy",
     "song_title": "God Sent",
     "spotify_url": "https://open.spotify.com/track/00oGVikl6GISbBbCiJyyi4",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Fuego",
+    "song_title": "Belizean Warrior",
+    "spotify_url": "https://open.spotify.com/track/5L0liauh094q77ypjSVVnO",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6527,6 +7542,13 @@
     "artist": "G-Eazy",
     "song_title": "Me, Myself and I",
     "spotify_url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "G.I.S.M.",
+    "song_title": "Meaning Corrupted 3 Destruction",
+    "spotify_url": "https://open.spotify.com/track/5Qm0F3Kaf043hkK43klaWU",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6576,13 +7598,6 @@
     "artist": "Gang Starr",
     "song_title": "Full Clip",
     "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Gang Starr",
-    "song_title": "Work",
-    "spotify_url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6664,6 +7679,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Gezi Monteiro",
+    "song_title": "Santos Espirito (Holy Spirit)",
+    "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Ghostface Killah",
     "song_title": "The Champ",
     "spotify_url": "https://open.spotify.com/track/5iT0oOBAZek1ynX91Pr4iI",
@@ -6685,9 +7707,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Giggs",
-    "song_title": "Tick Tock",
-    "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+    "artist": "Gil Scott-Heron",
+    "song_title": "Me and the Devil",
+    "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6727,6 +7749,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Goodbye To Gravity",
+    "song_title": "The Cage",
+    "spotify_url": "https://open.spotify.com/track/1RKDgKUayV3x2bOlWun91n",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Govana",
     "song_title": "Mxrdah / Intence",
     "spotify_url": "https://open.spotify.com/search/Mxrdah%20/%20Intence%20Govana",
@@ -6758,6 +7787,13 @@
     "artist": "Greta Van Fleet",
     "song_title": "Highway Tune",
     "spotify_url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Grimes",
+    "song_title": "Oblivion",
+    "spotify_url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6798,6 +7834,13 @@
   },
   {
     "artist": "Gusttavo Lima",
+    "song_title": "Balada Boa (Tche Tcherere)",
+    "spotify_url": "https://open.spotify.com/track/2WBGz1dDhZ45Qf1d8t97jR",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Gusttavo Lima",
     "song_title": "Canudinho Part. Ana Castela",
     "spotify_url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7",
     "count": 1,
@@ -6807,6 +7850,13 @@
     "artist": "Gusttavo Lima, Hugo & Guilherme",
     "song_title": "Torce o Olho",
     "spotify_url": "https://open.spotify.com/track/1CJnFX2V9CEUWrnrNGa60b",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "HB feat. Tektite Afrika",
+    "song_title": "I Bang",
+    "spotify_url": "https://open.spotify.com/track/0XoRURhco1RorkcKjnd5NP",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6835,13 +7885,6 @@
     "artist": "Hadrian",
     "song_title": "Mi Corrido",
     "spotify_url": "https://open.spotify.com/track/5NxAoIrGwgfZdWFUS7MOFh",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Halsey",
-    "song_title": "Gasoline",
-    "spotify_url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6979,6 +8022,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Hillsong",
+    "song_title": "To Be Like You (Live)",
+    "spotify_url": "https://open.spotify.com/track/0OKfqckOvPoMbT4afgvWJZ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Hillsong Light",
     "song_title": "Endless Light",
     "spotify_url": "https://open.spotify.com/track/4dZNAbKbfmxVDgYPFi7oEm",
@@ -7070,6 +8120,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "IceWear Vezzo feat. Trick Trick",
+    "song_title": "D Boy Party",
+    "spotify_url": "https://open.spotify.com/track/2cjiSjDVUysQgJeFWiUepD",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Iggy Azalea & Wiz Khalifa",
+    "song_title": "Go Hard or Go Home",
+    "spotify_url": "https://open.spotify.com/track/4IXiFMhtXEbSEG8UoAeTwD",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Imagine Dragons",
     "song_title": "Radioactive",
     "spotify_url": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2",
@@ -7154,6 +8218,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Ivete Sangalo",
+    "song_title": "O Farol",
+    "spotify_url": "https://open.spotify.com/track/4u9YXYbf1uCkXSxZ4uGiDp",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Iza",
     "song_title": "Fe",
     "spotify_url": "https://open.spotify.com/track/4mdKdoSBGmeL5zm2D4AtiU",
@@ -7192,6 +8263,13 @@
     "artist": "J Hus",
     "song_title": "Spirit",
     "spotify_url": "https://open.spotify.com/track/2vKVaAoTG6ag83gW3RHwIn",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "J-Kwon",
+    "song_title": "Tipsy",
+    "spotify_url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7287,6 +8365,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Jake Maurer",
+    "song_title": "Just Don't Quit",
+    "spotify_url": "https://open.spotify.com/track/4TUbS0WDcIV20XJkQsby0a",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "James Brown",
     "song_title": "Get Up Offa That Thing",
     "spotify_url": "https://open.spotify.com/track/5XeSAezNDk9tuw3viiCbZ3",
@@ -7304,6 +8389,20 @@
     "artist": "James Brown",
     "song_title": "People Get Up and Drive Your Funky Soul",
     "spotify_url": "https://open.spotify.com/track/7FqcsBx3azfOg1gAJkAXje",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "James Brown",
+    "song_title": "Soul Power",
+    "spotify_url": "https://open.spotify.com/track/5Go3WPIsPzbcCyVMAwWuWE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "James Brown & Tupac",
+    "song_title": "Unchained (The Payback/Untouchable)",
+    "spotify_url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7346,13 +8445,6 @@
     "artist": "Jay Rock, Kendrick Lamar & Future",
     "song_title": "King's Dead",
     "spotify_url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Jay Z and Kanye West",
-    "song_title": "N****s in Paris",
-    "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7595,6 +8687,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "John Frusciante",
+    "song_title": "Murderers",
+    "spotify_url": "https://open.spotify.com/track/2Lt6XpDCo3xETDwWgvZJIY",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "John Legend",
     "song_title": "If You're Out There",
     "spotify_url": "https://open.spotify.com/track/4jWNwr5r9emJVwNeYCgJY7",
@@ -7612,13 +8711,6 @@
     "artist": "John Williams",
     "song_title": "2001: A Space Odyssey",
     "spotify_url": "https://open.spotify.com/track/5llCIz1U9DoI03Hit31wna",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "John Williams",
-    "song_title": "Superman Theme",
-    "spotify_url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7666,6 +8758,20 @@
   },
   {
     "artist": "Johnny Cash",
+    "song_title": "Hurt",
+    "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Johnny Cash",
+    "song_title": "I Won't Back Down",
+    "spotify_url": "https://open.spotify.com/track/6b0AtCzgnYrb7T84o18V4l",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Johnny Cash",
     "song_title": "When the Man Comes Around",
     "spotify_url": "https://open.spotify.com/track/4kIVFKUOphtW7wUSrEeNTC",
     "count": 1,
@@ -7680,22 +8786,8 @@
   },
   {
     "artist": "Jorge Quintero",
-    "song_title": "300 Violin Orchestra",
-    "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Jorge Quintero",
     "song_title": "300 Violin Orchestra (Prayer Version)",
     "spotify_url": "https://open.spotify.com/track/0Rl4Rn73QKy7lmbVhlnFLX",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Jorge Quintero",
-    "song_title": "300 Violins Orchestra",
-    "spotify_url": "https://open.spotify.com/track/7IvEXpZFOqsv7fdfqHl0Rj",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7703,6 +8795,13 @@
     "artist": "Josh Abbott Band",
     "song_title": "I'll Sing About Mine",
     "spotify_url": "https://open.spotify.com/track/4GtXuqiBbAmK4XIePNT6QM",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Josh Abbott Band feat. Pat Green",
+    "song_title": "My Texas",
+    "spotify_url": "https://open.spotify.com/track/0K2R5ECfzYqSyBLHXywRo5",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7759,13 +8858,6 @@
     "artist": "Joyner Lucas ft. Logic",
     "song_title": "Isis",
     "spotify_url": "https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Juan Carlos Alvarado",
-    "song_title": "Le Llaman Guerrero",
-    "spotify_url": "https://open.spotify.com/track/4vgsDzUuJjPyX7enMK11vZ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7840,9 +8932,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Justin Seven",
-    "song_title": "Music the Best 3",
-    "spotify_url": "https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT",
+    "artist": "Justin Timberlake",
+    "song_title": "Can't Stop The Feeling",
+    "spotify_url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7864,13 +8956,6 @@
     "artist": "Kaleo",
     "song_title": "No Good",
     "spotify_url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Kaleo",
-    "song_title": "Way Down We Go",
-    "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7920,6 +9005,13 @@
     "artist": "Kanye West",
     "song_title": "Stronger",
     "spotify_url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kanye West",
+    "song_title": "Ultralight Beam",
+    "spotify_url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7994,6 +9086,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Kasabian",
+    "song_title": "Underdog",
+    "spotify_url": "https://open.spotify.com/track/3PbsDnKdrZY0ttX7VE9s5R",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Kate Bush",
     "song_title": "Running Up That Hill / Hawaiian Kickboxer",
     "spotify_url": "https://open.spotify.com/search/Running%20Up%20That%20Hill%20/%20Hawaiian%20Kickboxer%20Kate%20Bush",
@@ -8004,6 +9103,13 @@
     "artist": "Kate Bush / Moke Boy",
     "song_title": "Running Up That Hill (A Deal With God) / Hawaiian Kickboxer",
     "spotify_url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Katy Perry",
+    "song_title": "Rise",
+    "spotify_url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8032,6 +9138,20 @@
     "artist": "Keiichi Zuzuki",
     "song_title": "Festivo",
     "spotify_url": "https://open.spotify.com/search/Festivo%20Keiichi%20Zuzuki",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Keith Ape",
+    "song_title": "It G Ma",
+    "spotify_url": "https://open.spotify.com/track/0gpFiquPvir7e3RrM4kii9",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kelly Price feat. Aaron Hall",
+    "song_title": "Love Sets You Free",
+    "spotify_url": "https://open.spotify.com/track/50BI825pqe9QBumiBtBKg5",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8071,9 +9191,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Kendrick Lamar feat. Nina Simone",
+    "song_title": "Misunderstood",
+    "spotify_url": "https://open.spotify.com/track/4IgfVOx1K24TLFWWY1t4mk",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Kennedy",
     "song_title": "Karate",
     "spotify_url": "https://open.spotify.com/track/7heDoIselh7glb6h6D8tPh",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kennedy",
+    "song_title": "Karate",
+    "spotify_url": "https://open.spotify.com/track/0S6aB4lOnffbWYD9m7KjPx",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8093,8 +9227,22 @@
   },
   {
     "artist": "Kevin Gates",
+    "song_title": "Really Really",
+    "spotify_url": "https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kevin Gates",
     "song_title": "Wish I Had It",
     "spotify_url": "https://open.spotify.com/track/2x50fMpSjA2WWmptDUStS9",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kevin Gates feat. August Alsina",
+    "song_title": "I Don't Get Tired",
+    "spotify_url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8155,6 +9303,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "King Casey",
+    "song_title": "Never",
+    "spotify_url": "https://open.spotify.com/track/2Kf7dwNBp8pUNE8iOpg5oT",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "King Harvest",
     "song_title": "Dancing in the Moonlight",
     "spotify_url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU",
@@ -8207,6 +9362,13 @@
     "artist": "Kiss",
     "song_title": "Detroit Rock City",
     "spotify_url": "https://open.spotify.com/track/3IjrDeaVRFEi3GgHI5xyjX",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kodak Black",
+    "song_title": "Ambition",
+    "spotify_url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8330,6 +9492,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "LA 33",
+    "song_title": "Bomba Colombiana de la Orquesta",
+    "spotify_url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "LL Cool J",
     "song_title": "It's Time for War",
     "spotify_url": "https://open.spotify.com/track/1dgJL7ysEGYgFXndee5sSa",
@@ -8361,6 +9530,13 @@
     "artist": "La Kongo",
     "song_title": "Te Mentiria",
     "spotify_url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "La Original Band el Limon de Salvador Lizzaraga",
+    "song_title": "La Feria de San Marcos",
+    "spotify_url": "https://open.spotify.com/track/1jVz7o47YsKT5ur9RlG6ck",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8484,9 +9660,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Led Zeppelin",
-    "song_title": "Black Dog",
-    "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+    "artist": "Lecrae/The Governor",
+    "song_title": "Blessings/Focused",
+    "spotify_url": "https://open.spotify.com/track/2pMHly34TFOMvHvg739V5p",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8533,6 +9709,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Lenine",
+    "song_title": "Candeeiro Encantado",
+    "spotify_url": "https://open.spotify.com/track/2CGB0FgfbvmRNw96EBJh24",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Leo Santana",
     "song_title": "Posturado e Calmo",
     "spotify_url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh",
@@ -8557,6 +9740,13 @@
     "artist": "Lezginka",
     "song_title": "Cenroev",
     "spotify_url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Lezginka",
+    "song_title": "Traditional Earn European Folk Dance",
+    "spotify_url": "https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8638,13 +9828,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Lil Wayne feat. Eminem",
-    "song_title": "Drop\nThe World",
-    "spotify_url": "https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Lil' Baby",
     "song_title": "All In",
     "spotify_url": "https://open.spotify.com/track/0zlru783fmr588D5RY9ERU",
@@ -8662,6 +9845,13 @@
     "artist": "Lil' Boosie",
     "song_title": "Mind of a Maniac",
     "spotify_url": "https://open.spotify.com/track/6OCFWtV1maSYVa4AP7Mkmc",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Lil' Boosie feat. Young Jeeezy & Webbie",
+    "song_title": "Better Believe It",
+    "spotify_url": "https://open.spotify.com/track/6YKHIIVQuz1lUKIhe5GMlX",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8841,9 +10031,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Los Cojolites",
-    "song_title": "El Cameral",
-    "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+    "artist": "Los Fabulosos Cadillacs",
+    "song_title": "Matador",
+    "spotify_url": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8890,9 +10080,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Ludacris",
-    "song_title": "Grew Up a Screw Up",
-    "spotify_url": "https://open.spotify.com/track/4BH06Z1ffWB6ug5tpju6JD",
+    "artist": "Lucy Spraggen",
+    "song_title": "Unsinkable",
+    "spotify_url": "https://open.spotify.com/track/468fnkKmmG6YDz5qToPIHi",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8900,13 +10090,6 @@
     "artist": "Ludacris feat. Mystikal",
     "song_title": "Move B*tch",
     "spotify_url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Ludmilla",
-    "song_title": "Chegui",
-    "spotify_url": "https://open.spotify.com/track/2Bht3AhEqb8jmiWiJBigFw",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8956,6 +10139,13 @@
     "artist": "Luniz",
     "song_title": "I Got 5 On It",
     "spotify_url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Luniz",
+    "song_title": "I Got 5 on It (Instrumental)",
+    "spotify_url": "https://open.spotify.com/track/3MVrgmGduLW44h3ixjSTLM",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9149,13 +10339,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "MGK",
-    "song_title": "Invincible",
-    "spotify_url": "https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "MGK, X Ambassadors & Bebe Rexha",
     "song_title": "Home",
     "spotify_url": "https://open.spotify.com/track/0OI7AFifLSoGzpb8bdBLLV",
@@ -9192,8 +10375,22 @@
   },
   {
     "artist": "MV Bill",
+    "song_title": "Marginal Menestral",
+    "spotify_url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "MV Bill",
     "song_title": "Marginal Menestrel",
     "spotify_url": "https://open.spotify.com/track/3VCuRcPJN4yW0LIvyJMOLA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Mac Dre",
+    "song_title": "Feelin' Myself",
+    "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9261,13 +10458,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Machine Gun Kelly",
-    "song_title": "Taurus",
-    "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Mack 10, Ice Cube",
     "song_title": "Hoo-Bangin'",
     "spotify_url": "https://open.spotify.com/track/7azG6CLuWpm0YHNTFG6WSa",
@@ -9278,6 +10468,13 @@
     "artist": "Macklemore",
     "song_title": "Glorious",
     "spotify_url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Macklemore & Ryan Lewis feat. The Teaching",
+    "song_title": "BomBom",
+    "spotify_url": "https://open.spotify.com/track/2r7JnMf6lNNcjKyCv1r6ot",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9296,9 +10493,30 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Madonna",
+    "song_title": "Like a Prayer",
+    "spotify_url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Magic Sword",
     "song_title": "in the Face of Evil",
     "spotify_url": "https://open.spotify.com/track/6EfP7rkoR1L1OpDzKN5lXX",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Maino",
+    "song_title": "Remember My Name",
+    "spotify_url": "https://open.spotify.com/track/3mjT14Y7QMDqZtwim4WlmH",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Maino feat. T-Pain",
+    "song_title": "All the Above",
+    "spotify_url": "https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9313,6 +10531,20 @@
     "artist": "Maitre Gims",
     "song_title": "Meutre Par Strangulation",
     "spotify_url": "https://open.spotify.com/track/6ObrHZC0MpyNkWh1CdmCcg",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Major A Testa",
+    "song_title": "Quanto Major O Gigante",
+    "spotify_url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Major Lazer feat. Nyla & Fuse ODG",
+    "song_title": "Light It Up",
+    "spotify_url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9383,6 +10615,13 @@
     "artist": "Marcin Przbylowicz & Percival Schuttenbach",
     "song_title": "Back on the Path",
     "spotify_url": "https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Marco Polo feat. Torae & Skyzoo",
+    "song_title": "Double Monsters",
+    "spotify_url": "https://open.spotify.com/track/3zEsEydHPk82ciyG8OqeEc",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9478,6 +10717,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Massive Attack feat. Mos Def",
+    "song_title": "I Against I",
+    "spotify_url": "https://open.spotify.com/track/0NxTDkes19DzkFCo3ZHTGU",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Master Ismail",
     "song_title": "Assalam Aleykum",
     "spotify_url": "https://open.spotify.com/track/5ZGpVo7NbtVmwQqIbylGUp",
@@ -9488,6 +10734,13 @@
     "artist": "Matisyahu",
     "song_title": "One Day",
     "spotify_url": "https://open.spotify.com/track/2r4wtvZztMhDTIXlOF5ZYa",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Matisyahu",
+    "song_title": "Sunshine",
+    "spotify_url": "https://open.spotify.com/track/56ZDcszhe1eCeghso93fXP",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9513,16 +10766,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Mc Sapão",
-    "song_title": "O Grito De Um Guerreiro",
-    "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "McFadden & Whitehead",
-    "song_title": "Ain't No Stopping' Us Now",
-    "spotify_url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK",
+    "artist": "Maxo Kream feat. Paul Wall",
+    "song_title": "Scream",
+    "spotify_url": "https://open.spotify.com/track/7BNFEzvZDmIeC3Vdu2xMkb",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9563,6 +10809,13 @@
   },
   {
     "artist": "Meek Mill feat. Tory Lanez",
+    "song_title": "Litty",
+    "spotify_url": "https://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Meek Mill feat. Tory Lanez",
     "song_title": "Lord Knows",
     "spotify_url": "https://open.spotify.com/track/57hCSu4zMTdnSum7NBL1Ye",
     "count": 1,
@@ -9583,6 +10836,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Meredith Brooks",
+    "song_title": "Bitch",
+    "spotify_url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Metal Gear Rising OST",
     "song_title": "THE ONLY THING I KNOW FOR REAL",
     "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
@@ -9593,6 +10853,13 @@
     "artist": "Metallica",
     "song_title": "Enter Sandman",
     "spotify_url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Metallica",
+    "song_title": "Harvester of Sorrow",
+    "spotify_url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9640,8 +10907,22 @@
   },
   {
     "artist": "Michael Jackson",
+    "song_title": "Beat It",
+    "spotify_url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Michael Jackson",
     "song_title": "Don't Stop Til You Get Enough",
     "spotify_url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Michael Jackson",
+    "song_title": "Rock With You",
+    "spotify_url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9656,6 +10937,13 @@
     "artist": "Michael McCann",
     "song_title": "The Rampager, Part 2",
     "spotify_url": "https://open.spotify.com/track/5niYQsW1rLkxIELDlLEJyG",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Michael Molley & Alex Evans",
+    "song_title": "Rise & Fall",
+    "spotify_url": "https://open.spotify.com/search/Rise%20%26%20Fall%20Michael%20Molley%20%26%20Alex%20Evans",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9716,6 +11004,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Mikey Rukus",
+    "song_title": "God's Song",
+    "spotify_url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Miley Cyrus",
     "song_title": "We Can't Stop",
     "spotify_url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH",
@@ -9730,6 +11025,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Milton Carvalho",
+    "song_title": "Pipo S Montagem Deixa Os Garotos Brincar",
+    "spotify_url": "https://open.spotify.com/track/4lINnnniAHYX6qJOHn4e6a",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Miracle of Sound",
     "song_title": "Forever Flame",
     "spotify_url": "https://open.spotify.com/track/46iJ1bKTkCM2Jwaixk9cts",
@@ -9740,13 +11042,6 @@
     "artist": "Mirechal Bento Ribeiro",
     "song_title": "CACHAMBI OTEIRO",
     "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Misfits",
-    "song_title": "Skulls",
-    "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9793,9 +11088,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Motorhead",
-    "song_title": "Ace of Spades",
-    "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+    "artist": "Movado",
+    "song_title": "Slow Singing",
+    "spotify_url": "https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9810,6 +11105,13 @@
     "artist": "Mozzy",
     "song_title": "Beautiful Struggle",
     "spotify_url": "https://open.spotify.com/track/6o5BldzaxCCqXZO0yMuxa4",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Mr. Catra",
+    "song_title": "O Simptico",
+    "spotify_url": "https://open.spotify.com/track/2GfLH7d0nu3N4uHuIzV4Z4",
     "count": 1,
     "unique_fighters": 1
   },
@@ -9920,6 +11222,13 @@
   },
   {
     "artist": "NF",
+    "song_title": "Oh Lord",
+    "spotify_url": "https://open.spotify.com/track/1ISsiC4Fw6f96kZQegLGiJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "NF",
     "song_title": "Paid My Dues” and “The Search",
     "spotify_url": "https://open.spotify.com/track/6ziQdexOHyC2gkZ1iNoi1w",
     "count": 1,
@@ -10025,6 +11334,13 @@
   },
   {
     "artist": "Nasheed",
+    "song_title": "Kuntu Maytan",
+    "spotify_url": "https://open.spotify.com/track/549jNPkLSNvTh30gPc7O2L",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Nasheed",
     "song_title": "We are Heroes",
     "spotify_url": "https://open.spotify.com/track/1TayNhoH7cuNwMO8F058Ei",
     "count": 1,
@@ -10034,6 +11350,13 @@
     "artist": "Nasr feat. Raim",
     "song_title": "Field Men",
     "spotify_url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Natalie Grant",
+    "song_title": "Ever Be",
+    "spotify_url": "https://open.spotify.com/track/5xHjVqWSx4QzMGDNHBmmMx",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10200,6 +11523,13 @@
   },
   {
     "artist": "Nirvana",
+    "song_title": "Lake of Fire",
+    "spotify_url": "https://open.spotify.com/track/4UJmPSJsBsIR1U0N79BU1g",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Nirvana",
     "song_title": "Smells Like Teen Spirit",
     "spotify_url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj",
     "count": 1,
@@ -10216,6 +11546,13 @@
     "artist": "No Money Enterprise",
     "song_title": "German",
     "spotify_url": "https://open.spotify.com/track/4CtQlS1NxP94RwYP7Jbr0p",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Nobodyknows",
+    "song_title": "Hero's Come Back",
+    "spotify_url": "https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10262,9 +11599,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Notorious B.I.G. feat. P-Diddy",
-    "song_title": "Mo Money Mo Problems",
-    "spotify_url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+    "artist": "Notorious B.I.G. feat. Eminem",
+    "song_title": "Dead Wrong",
+    "spotify_url": "https://open.spotify.com/track/6s4kWgzQwsueo3mfllY1s6",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10284,8 +11621,8 @@
   },
   {
     "artist": "O Rappa",
-    "song_title": "Lado B Lado A",
-    "spotify_url": "https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn",
+    "song_title": "Minha Alma (A Paz Que Eu Nao Quero)",
+    "spotify_url": "https://open.spotify.com/track/0lPWEt7kSY37pSUIH68ME0",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10319,15 +11656,15 @@
   },
   {
     "artist": "Officers",
-    "song_title": "The Heroes of Yore",
-    "spotify_url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
+    "song_title": "The Heroes Of Yore",
+    "spotify_url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI",
     "count": 1,
     "unique_fighters": 1
   },
   {
-    "artist": "Oficina G3",
-    "song_title": "Meus Proprios Meios",
-    "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+    "artist": "Officers",
+    "song_title": "The Heroes of Yore",
+    "spotify_url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10381,13 +11718,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "One Direction",
-    "song_title": "Drag Me Down",
-    "spotify_url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "One Republic",
     "song_title": "I Ain’t Worried",
     "spotify_url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB",
@@ -10398,6 +11728,13 @@
     "artist": "Opus",
     "song_title": "Live is Life",
     "spotify_url": "https://open.spotify.com/track/7hkOgKKybgawYUcrkZD3wV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Original Banda el Limon de Salvador Lizarraga",
+    "song_title": "La Feria de San Marcos",
+    "spotify_url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10430,13 +11767,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "P-Masta feat. Mr. Room9",
-    "song_title": "Better Than Yesterday",
-    "spotify_url": "https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "P. Diddy",
     "song_title": "Bad Boy For Life",
     "spotify_url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
@@ -10454,6 +11784,13 @@
     "artist": "Panic! At the Disco",
     "song_title": "Hey Ma, I Made It",
     "spotify_url": "https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Papa Roach",
+    "song_title": "Face Everything And Rise",
+    "spotify_url": "https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10500,6 +11837,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Pastor Troy",
+    "song_title": "Champion",
+    "spotify_url": "https://open.spotify.com/track/2WLRjkVv4oaQkGWNZOtclt",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Pat Benatar",
+    "song_title": "All Fired Up",
+    "spotify_url": "https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Patricio Rey y Sus Redonditos de Ricota",
     "song_title": "La Bestia Pop",
     "spotify_url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05",
@@ -10535,16 +11886,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Pendulum",
-    "song_title": "Slam",
-    "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
+    "artist": "Pennywise",
+    "song_title": "Bro Hymn",
+    "spotify_url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L",
     "count": 1,
     "unique_fighters": 1
   },
   {
-    "artist": "Pennywise",
-    "song_title": "Bro Hymn",
-    "spotify_url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L",
+    "artist": "People In Planes",
+    "song_title": "Last Man Standing",
+    "spotify_url": "https://open.spotify.com/track/1BoJEC8Tjs4DxoEGuT8UBf",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10633,9 +11984,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Planet Soul",
+    "song_title": "Set You Free",
+    "spotify_url": "https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Plastic Bertrand",
     "song_title": "Ca Plane Pour Moi",
     "spotify_url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Plies",
+    "song_title": "Ran Off On Da Plug Twice",
+    "spotify_url": "https://open.spotify.com/track/0I6wh8pETh9PS7dVTzykQd",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10704,6 +12069,20 @@
   },
   {
     "artist": "Pregador Luo",
+    "song_title": "Bate Pesadao",
+    "spotify_url": "https://open.spotify.com/track/2GYzNZRlQjjtWPd4qFyD56",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Pregador Luo",
+    "song_title": "Derrubando Muralhas",
+    "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Pregador Luo",
     "song_title": "Ja Posso Suportar",
     "spotify_url": "https://open.spotify.com/track/1fksdx1HllkoGuCo8lokIr",
     "count": 1,
@@ -10731,6 +12110,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Prince",
+    "song_title": "Purple Rain",
+    "spotify_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Prod. Sidney Scaccio",
     "song_title": "Vibe Animes #2",
     "spotify_url": "https://open.spotify.com/track/0pPfMFy55819r2wbZY2Prc",
@@ -10748,6 +12134,13 @@
     "artist": "Prodigy with Public Enemy, Manfred Mann",
     "song_title": "Shut ‘Em Up",
     "spotify_url": "https://open.spotify.com/track/2JCfiNog8XQIOHFcxZoRo6",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Prof",
+    "song_title": "Amazing",
+    "spotify_url": "https://open.spotify.com/track/26zeCOQOl5p1innA6fYWLh",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10836,6 +12229,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Queen and David Bowie",
+    "song_title": "Under Pressure",
+    "spotify_url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Queen/Jadakiss",
     "song_title": "We Are the Champions/The Champ is Here",
     "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
@@ -10864,6 +12264,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Rachel Platten",
+    "song_title": "Fight Song",
+    "spotify_url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Racion",
     "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
     "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
@@ -10871,9 +12278,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Racionais MC's",
-    "song_title": "Negro Drama (Ao Vivo)",
-    "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
+    "artist": "Racionales",
+    "song_title": "Vida Loucha (Part 2)",
+    "spotify_url": "https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10893,15 +12300,15 @@
   },
   {
     "artist": "Rage Against the Machine",
-    "song_title": "Guerrilla Radio",
-    "spotify_url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8",
+    "song_title": "Know Your Enemy",
+    "spotify_url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
     "count": 1,
     "unique_fighters": 1
   },
   {
     "artist": "Rage Against the Machine",
-    "song_title": "Know Your Enemy",
-    "spotify_url": "https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB",
+    "song_title": "Sleep Now in the Fire",
+    "spotify_url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10941,6 +12348,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Red Café feat. Fabolous",
+    "song_title": "I'm Ill",
+    "spotify_url": "https://open.spotify.com/track/13fUmy3Leqer7nSxFC0pdw",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Red Hot Chili Peppers",
     "song_title": "Aeroplane",
     "spotify_url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ",
@@ -10965,6 +12379,13 @@
     "artist": "Rem Digga, Mania",
     "song_title": "Шахта (Mine)",
     "spotify_url": "https://open.spotify.com/track/1gv5Ufb02sLbcN7mI8sQby",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Remy Zero",
+    "song_title": "Save Me",
+    "spotify_url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11018,6 +12439,20 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Rick Ross feat. Future",
+    "song_title": "No Games",
+    "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Riff Raff feat. Slim Thug (Paul Wall Houston Remix)",
+    "song_title": "How to Be the Man",
+    "spotify_url": "https://open.spotify.com/track/6XE2vZO8ROQmxElzRQvheR",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Rihanna / James Brown",
     "song_title": "Diamonds / The Boss",
     "spotify_url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx",
@@ -11039,9 +12474,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Rise Against",
-    "song_title": "Re-Education Through Labor",
-    "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+    "artist": "Rob Bailey",
+    "song_title": "Hold Strong",
+    "spotify_url": "https://open.spotify.com/track/3SeZzF0iKVwsqfpZcQeA4r",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Rob Bailey & The Hustle Standard",
+    "song_title": "Beast",
+    "spotify_url": "https://open.spotify.com/track/0WKY4nRJgz3GUG7IqkTgUH",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11137,6 +12579,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Rudimental feat. John Newman",
+    "song_title": "Not Giving In",
+    "spotify_url": "https://open.spotify.com/track/7eBIV7xripa8OJFuZKVKvk",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Run the Jewels",
     "song_title": "Down",
     "spotify_url": "https://open.spotify.com/track/5joOfvaQlHiwKk75rSgjgh",
@@ -11147,6 +12596,13 @@
     "artist": "Run the Jewels",
     "song_title": "Dynamite",
     "spotify_url": "https://open.spotify.com/track/40BM1C9FbxxDT5Dcip8jNc",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Run the Jewels",
+    "song_title": "Get It",
+    "spotify_url": "https://open.spotify.com/track/2rOHWE77alc9Txyn4i0QY3",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11207,6 +12663,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "S.U.S.P.E.K.T",
+    "song_title": "Suspekt",
+    "spotify_url": "https://open.spotify.com/track/2hXnkp4SKivcHV555G72yz",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "SHoxrux",
     "song_title": "O’Zbegim",
     "spotify_url": "https://open.spotify.com/track/4y1iJljq1LedT5T43LeoUN",
@@ -11235,6 +12698,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Sabaton",
+    "song_title": "40:1",
+    "spotify_url": "https://open.spotify.com/track/5oxTzgRZTVgss1cKrEd0tN",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Saida",
     "song_title": "O’zbekiston Farzandlarimiz",
     "spotify_url": "https://open.spotify.com/track/0IuX3um0X8aDRAMZiuKslL",
@@ -11259,6 +12729,20 @@
     "artist": "Salt N Pepa",
     "song_title": "Shoop",
     "spotify_url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Salvador",
+    "song_title": "Fight Nights",
+    "spotify_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Sam & Dave",
+    "song_title": "Hold On, I'm Coming",
+    "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11315,6 +12799,13 @@
     "artist": "Scribe",
     "song_title": "Dreaming",
     "spotify_url": "https://open.spotify.com/track/2DRHvVOlWg7Z3pkzn58Jrh",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Scribe",
+    "song_title": "Not Many",
+    "spotify_url": "https://open.spotify.com/track/7hlwEYdoK7d0Hz7h4pGqDe",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11452,6 +12943,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Shocking Lemon",
+    "song_title": "Inner Light",
+    "spotify_url": "https://open.spotify.com/track/1hsBXVwHFUyK6bmWTCggFo",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Shouse",
     "song_title": "Love Tonight",
     "spotify_url": "https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9",
@@ -11473,13 +12971,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Sick Puppies",
-    "song_title": "You're Going Down",
-    "spotify_url": "https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Sidewalk Prophets",
     "song_title": "For Me To Live Is Christ",
     "spotify_url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw",
@@ -11497,6 +12988,13 @@
     "artist": "Simon & Garfunkel",
     "song_title": "The Sound of Silence",
     "spotify_url": "https://open.spotify.com/track/76jbmmHFSCSvycFCgcmKCP",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Sinead O'Connor/The Game & Skrillex",
+    "song_title": "Foggy Dew/El Chapo",
+    "spotify_url": "https://open.spotify.com/track/2xHNN3ClB7BX4D7twWwX7x",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11557,9 +13055,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Smyslovye Galljustsinatsii",
+    "song_title": "Vechno Molodoi (Forever Young)",
+    "spotify_url": "https://open.spotify.com/track/7uur39wYNLvayRF11cypG4",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Snap!",
     "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
     "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Solzh G 1ala",
+    "song_title": "Terrible",
+    "spotify_url": "https://open.spotify.com/track/7AcUCmtDNAto1wWcB0KxeV",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11592,9 +13104,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Spiderbait",
-    "song_title": "Black Betty",
-    "spotify_url": "https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L",
+    "artist": "Spinna B-ill",
+    "song_title": "Lion No KO (Yashabo Version)",
+    "spotify_url": "https://open.spotify.com/track/2hBjKyHEl9fAv4EHIUa2Dc",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Spoon",
+    "song_title": "Don't You Evah",
+    "spotify_url": "https://open.spotify.com/track/63VdDgvlj3rhpxuHoPmY8D",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11641,6 +13160,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Stevie Ray Vaughan",
+    "song_title": "Life by the Drop",
+    "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Sting",
     "song_title": "Englishman in New York",
     "spotify_url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp",
@@ -11662,9 +13188,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Stromae",
+    "song_title": "Formidable",
+    "spotify_url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Struggle Jennings and Caitlynne Curtis",
     "song_title": "God We Need You Now",
     "spotify_url": "https://open.spotify.com/track/24j0o1B7eiiwSdtbUm7OnN",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Sublime",
+    "song_title": "Scarlet Begonias",
+    "spotify_url": "https://open.spotify.com/track/1NpLCZNSYEegtDYCRA5PNN",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11747,15 +13287,15 @@
   },
   {
     "artist": "T.I.",
-    "song_title": "Big Things Poppin' (Do It)'",
-    "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
+    "song_title": "King",
+    "spotify_url": "https://open.spotify.com/track/3p6u2A85mjpENdBs4cnWR4",
     "count": 1,
     "unique_fighters": 1
   },
   {
     "artist": "T.I.",
-    "song_title": "King",
-    "spotify_url": "https://open.spotify.com/track/3p6u2A85mjpENdBs4cnWR4",
+    "song_title": "Rubber Band Man",
+    "spotify_url": "https://open.spotify.com/track/5GwJBXIQOJ6ARh3sFt9dBZ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11784,6 +13324,20 @@
     "artist": "Talking Heads",
     "song_title": "Psycho Killer",
     "spotify_url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Tech N9ne",
+    "song_title": "Worldwide Choppers",
+    "spotify_url": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Tech N9ne feat. Skatterman & Snug Brim",
+    "song_title": "Riot Maker",
+    "spotify_url": "https://open.spotify.com/track/6nU5YHmm88HuVfpegW74p7",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11879,13 +13433,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "The Choirboys",
-    "song_title": "Run to Paradise",
-    "spotify_url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "The Clash",
     "song_title": "London Calling",
     "spotify_url": "https://open.spotify.com/track/124Y9LPRCAz3q2OP0iCvcJ",
@@ -11896,6 +13443,13 @@
     "artist": "The Deftones",
     "song_title": "Hexagram",
     "spotify_url": "https://open.spotify.com/track/5w16bds4fklGhyIl9IFjay",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Distillers",
+    "song_title": "City of Angels",
+    "spotify_url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11924,6 +13478,13 @@
     "artist": "The Fratellis",
     "song_title": "Chelsea Dagger",
     "spotify_url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Fureys & David Arthur",
+    "song_title": "The Lonesome Boatman",
+    "spotify_url": "https://open.spotify.com/track/2aLNcakASO2rKKUEzh8w33",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12006,8 +13567,15 @@
   },
   {
     "artist": "The Notorious B.I.G.",
-    "song_title": "Kick in the Door",
-    "spotify_url": "https://open.spotify.com/track/0ed6evAMZvewGh4UI9KkVU",
+    "song_title": "Juicy",
+    "spotify_url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Notorious B.I.G. feat. Bone Thugz-N-Harmony",
+    "song_title": "Notorious Thugs",
+    "spotify_url": "https://open.spotify.com/track/1ozdRCYFVt8Ui0dba1520D",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12033,6 +13601,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "The Partysquad & Boaz",
+    "song_title": "Oh My",
+    "spotify_url": "https://open.spotify.com/track/5ZJ9wxMqAhIOekYLmukc2L",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "The Prodigy",
     "song_title": "Firestarter",
     "spotify_url": "https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU",
@@ -12043,6 +13618,20 @@
     "artist": "The Prodigy",
     "song_title": "Voodoo People",
     "spotify_url": "https://open.spotify.com/track/7H0MOWplwc6gf2AD1vTSYi",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Royal Scots Dragoon Guard",
+    "song_title": "Amazing Grace",
+    "spotify_url": "https://open.spotify.com/track/6I3NxBRBsqbJEJ3JmMYqvE",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Royal Scots Dragoon Guards",
+    "song_title": "Flowers of Scotland",
+    "spotify_url": "https://open.spotify.com/track/46TO0SYd47xJRRgWkzRIG7",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12096,16 +13685,16 @@
     "unique_fighters": 1
   },
   {
-    "artist": "The White Stripes",
-    "song_title": "Icky Thump",
-    "spotify_url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ",
+    "artist": "The Weeknd feat. Daft Punk",
+    "song_title": "Starboy",
+    "spotify_url": "https://open.spotify.com/track/76yLBykniz0SSNv0jj17M2",
     "count": 1,
     "unique_fighters": 1
   },
   {
     "artist": "The White Stripes",
-    "song_title": "Seven Nation Army (Glitch Mob Remix)",
-    "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
+    "song_title": "Icky Thump",
+    "spotify_url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12124,9 +13713,23 @@
     "unique_fighters": 1
   },
   {
+    "artist": "The XX",
+    "song_title": "Intro (Long Version)",
+    "spotify_url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Thi'sl",
     "song_title": "I Ain't Turning Back",
     "spotify_url": "https://open.spotify.com/track/7iyc3BlDHRi2utwTblalaJ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Thi'sl",
+    "song_title": "King Without a Crown",
+    "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12145,6 +13748,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Thousand Foot Krutch",
+    "song_title": "Move",
+    "spotify_url": "https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Three 6 Mafia",
     "song_title": "It's a Fight",
     "spotify_url": "https://open.spotify.com/search/Its%20a%20Fight%20Three%206%20Mafia",
@@ -12159,9 +13769,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Tiago Brasil",
-    "song_title": "Podo Vir",
-    "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+    "artist": "Thrice",
+    "song_title": "Listen Through Me",
+    "spotify_url": "https://open.spotify.com/track/05Bn9Giqos0GZjjTAmgcNO",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12208,13 +13818,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Toby Keith",
-    "song_title": "Made In America",
-    "spotify_url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Tom Petty and the Heartbreakers",
     "song_title": "Runnin’ Down a Dream",
     "spotify_url": "https://open.spotify.com/track/6ZIqc8hMV2PqK5qPqvcI6H",
@@ -12246,6 +13849,13 @@
     "artist": "Tones and I",
     "song_title": "Dance Monkey",
     "spotify_url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Tool",
+    "song_title": "Triad",
+    "spotify_url": "https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12313,6 +13923,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Travis Greene",
+    "song_title": "Intentional",
+    "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Travis Scott",
     "song_title": "I Know?",
     "spotify_url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU",
@@ -12330,6 +13947,13 @@
     "artist": "Travis Scott feat. Young Thug and M.I.A.",
     "song_title": "Franchise",
     "spotify_url": "https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Travis Tritt",
+    "song_title": "Too Far to Turn Around",
+    "spotify_url": "https://open.spotify.com/track/6TdTmzyovtqMTHwQB0GXEg",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12376,9 +14000,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Tropkillaz",
-    "song_title": "Baby Baby",
-    "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+    "artist": "Tropa Valenta",
+    "song_title": "Los Caminos de la Vida",
+    "spotify_url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12432,6 +14056,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Tupac feat. Outlawz",
+    "song_title": "Don't Make Enemies With Me (Part 2)",
+    "spotify_url": "https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Turan",
     "song_title": "Etno Folk",
     "spotify_url": "https://open.spotify.com/track/4WxX2J9qzVVKJvL2EssdKG",
@@ -12477,6 +14108,13 @@
     "artist": "Ulytau",
     "song_title": "Jumry Kylysh",
     "spotify_url": "https://open.spotify.com/track/0SolkK5zS11XWr6GVCf6oC",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Unknown",
+    "song_title": "Alistair",
+    "spotify_url": "https://open.spotify.com/track/1fZB2nXpKbd1MxrRo3oax3",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12586,6 +14224,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Vince Dicola",
+    "song_title": "Training Montage",
+    "spotify_url": "https://open.spotify.com/track/5PKtqiUwkjveVYzmj4gMnz",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Vladimir Vysotsky",
     "song_title": "Ballad for Suppression",
     "spotify_url": "https://open.spotify.com/track/11t7SXGpNgZSqTLk3plWJ1",
@@ -12635,6 +14280,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Weekend",
+    "song_title": "Ona Tanczy Dla Mnie",
+    "spotify_url": "https://open.spotify.com/track/2Wq2R59KXY8mW7sYGccrKA",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Westside Gunn feat. Benny the Butcher and Jadakiss",
     "song_title": "Gods Don't Bleed",
     "spotify_url": "https://open.spotify.com/track/6ygqTrc7mykDvfyzRZQ8sk",
@@ -12642,9 +14294,9 @@
     "unique_fighters": 1
   },
   {
-    "artist": "William McDowell feat. Trinity Anderson",
-    "song_title": "Spirit Break Out",
-    "spotify_url": "https://open.spotify.com/track/05kHI4RsThI6ez9oKnWLHO",
+    "artist": "White Zombie",
+    "song_title": "Ratfinks, Suicide Tanks, Cannibal Girls",
+    "spotify_url": "https://open.spotify.com/track/6PDBcqHNIg5cOojcCkhxYM",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12761,6 +14413,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Yoshida Brothers (Daishi Dance Remix)",
+    "song_title": "Memories of the Wind",
+    "spotify_url": "https://open.spotify.com/track/7o5vJPnyA74cuM60JQ8NQS",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Young Buck",
     "song_title": "The Get Back",
     "spotify_url": "https://open.spotify.com/track/3y6zi6uhT3EjHgHwb5Ay9U",
@@ -12831,13 +14490,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Young Money feat. Lil Wayne",
-    "song_title": "Moment",
-    "spotify_url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Young Nudy",
     "song_title": "Ready",
     "spotify_url": "https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS",
@@ -12887,6 +14539,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "ZZ Top",
+    "song_title": "My Head's in Mississippi",
+    "spotify_url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Zacardi Cortez",
     "song_title": "Lord Do It for Me",
     "spotify_url": "https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw",
@@ -12897,6 +14556,13 @@
     "artist": "Zack de la Rocha",
     "song_title": "Digging for Windows",
     "spotify_url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Zambo Cavero",
+    "song_title": "Contigo Peru",
+    "spotify_url": "https://open.spotify.com/track/7C0Wd6yq3kC8XXZB4V5Xa4",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12925,6 +14591,13 @@
     "artist": "Zauntee",
     "song_title": "Wartime",
     "spotify_url": "https://open.spotify.com/track/2GxowGnhuLNVnBCnUEZA8Q",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Zayde Wolf",
+    "song_title": "Born Ready",
+    "spotify_url": "https://open.spotify.com/track/6Y8BMJXyRWVpxzQt3WDEmb",
     "count": 1,
     "unique_fighters": 1
   },

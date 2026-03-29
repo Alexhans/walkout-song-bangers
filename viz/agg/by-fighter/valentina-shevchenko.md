@@ -1,9 +1,10 @@
 # Valentina Shevchenko
 
-7 event(s) | 3 song(s) found | 2 unique
+8 event(s) | 4 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2016-03-05 | [UFC 196: McGregor vs Diaz](../../ufc-196-mcgregor-vs-diaz.md) | Traditional Earn European Folk Dance | Lezginka | [Listen](https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU) |
 | 2019-06-08 | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |
 | 2020-02-08 | [UFC 247: Jones vs. Reyes](../../ufc-247.md) | Lezginka | Traditional | [Listen](https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr) |
 | 2021-09-25 | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | — | — | |

@@ -1,7 +1,7 @@
 {
   "fighter": "Max Griffin",
   "slug": "max-griffin",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "What's Up, What's Haapnin'",
@@ -58,6 +58,15 @@
       "date": "2022-03-26"
     },
     {
+      "song_title": "Sucker for Pain",
+      "artist": "Lil' Wayne and Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
       "song_title": "I Got 5 On It",
       "artist": "Luniz",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 7,
+    "events": 10,
+    "with_song": 8,
     "missing": 2,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

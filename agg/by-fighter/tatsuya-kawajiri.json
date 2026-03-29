@@ -1,0 +1,22 @@
+{
+  "fighter": "Tatsuya Kawajiri",
+  "slug": "tatsuya-kawajiri",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Water Pow",
+      "artist": "D-Dash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50anz5nwXH7hDYCFvaFfvp",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

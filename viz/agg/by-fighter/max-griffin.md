@@ -1,6 +1,6 @@
 # Max Griffin
 
-9 event(s) | 7 song(s) found | 6 unique
+10 event(s) | 8 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,6 +10,7 @@
 | 2020-03-07 | [UFC 248: Adesanya vs. Romero](../../ufc-248.md) | On God | Mustard feat. A$AP Ferg, YG, Tyga and A$AP Rocky | [Listen](https://open.spotify.com/track/3O7lxdQoe1aNWs93VSHsJg) |
 | 2021-07-10 | [UFC 264: Poirier vs. McGregor 3](../../ufc-264.md) | — | — | |
 | 2022-03-26 | [UFC Fight Night: Blaydes vs. Daukaus](../../ufc-fight-night-blaydes-vs-daukaus.md) | The Luniz | Yukmouth | [Listen](https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi) |
+| 2016-11-05 | [UFC Fight Night: Dos Anjos vs. Ferguson](../../ufc-fight-night-dos-anjos-vs-ferguson.md) | Sucker for Pain | Lil' Wayne and Wiz Khalifa | [Listen](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
 | 2024-02-10 | [UFC Fight Night: Hermansson vs. Pyfer](../../ufc-fight-night-hermansson-vs-pyfer.md) | I Got 5 On It | Luniz | [Listen](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) |
 | 2022-10-29 | [UFC Fight Night: Kattar vs. Allen](../../ufc-fight-night-kattar-vs-allen.md) | The Luniz | Yukmouth | [Listen](https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi) |
 | 2023-07-01 | [UFC Fight Night: Strickland vs. Magomedov](../../ufc-fight-night-strickland-vs-magomedov.md) | Gunz | Yukmouth | [Listen](https://open.spotify.com/track/6LeaM0nUdf1uFL1dv2XVo7) |

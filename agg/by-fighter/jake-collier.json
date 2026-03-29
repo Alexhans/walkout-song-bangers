@@ -1,7 +1,7 @@
 {
   "fighter": "Jake Collier",
   "slug": "jake-collier",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Are You Ready",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Kattar vs. Chikadze",
       "event_slug": "ufc-fight-night-kattar-vs-chikadze",
       "date": "2022-01-15"
+    },
+    {
+      "song_title": "Hold Strong",
+      "artist": "Rob Bailey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SeZzF0iKVwsqfpZcQeA4r",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

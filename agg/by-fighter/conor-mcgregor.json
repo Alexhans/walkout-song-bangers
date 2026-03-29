@@ -1,8 +1,17 @@
 {
   "fighter": "Conor McGregor",
   "slug": "conor-mcgregor",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Foggy Dew/El Chapo",
+      "artist": "Sinead O'Connor/The Game & Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xHNN3ClB7BX4D7twWwX7x",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
     {
       "song_title": "Foggy Dew/Hypnotize",
       "artist": "Sinead O'Connor/Notorious B.I.G.",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

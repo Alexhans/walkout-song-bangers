@@ -1,0 +1,40 @@
+{
+  "fighter": "Chris Camozzi",
+  "slug": "chris-camozzi",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Jungle",
+      "artist": "X Ambassadors feat. Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
+      "song_title": "Born Ready",
+      "artist": "Zayde Wolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Y8BMJXyRWVpxzQt3WDEmb",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    },
+    {
+      "song_title": "Jungle",
+      "artist": "X Ambassadors & Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

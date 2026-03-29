@@ -1,0 +1,31 @@
+{
+  "fighter": "Teruto Ishihara",
+  "slug": "teruto-ishihara",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Lion No KO",
+      "artist": "Spinna B-ill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
+    },
+    {
+      "song_title": "Lion No KO (Yashabo Version)",
+      "artist": "Spinna B-ill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hBjKyHEl9fAv4EHIUa2Dc",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

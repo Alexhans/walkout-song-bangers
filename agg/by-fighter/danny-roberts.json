@@ -1,8 +1,17 @@
 {
   "fighter": "Danny Roberts",
   "slug": "danny-roberts",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Me and the Devil",
+      "artist": "Gil Scott-Heron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "Rise & Fall",
       "artist": "Michael Molloy & Alex Evans",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Ladd vs. Dumont",
       "event_slug": "ufc-fight-night-ladd-vs-dumont",
       "date": "2021-10-16"
+    },
+    {
+      "song_title": "Rise & Fall",
+      "artist": "Michael Molley & Alex Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Rise%20%26%20Fall%20Michael%20Molley%20%26%20Alex%20Evans",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Adam Milstead",
+  "slug": "adam-milstead",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Man of Constant Sorrow",
+      "artist": "Charm City Devils",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0M5Slf7W71wMTsESqjnwr0",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

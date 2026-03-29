@@ -1,7 +1,7 @@
 {
   "fighter": "Santiago Ponzinibbio",
   "slug": "santiago-ponzinibbio",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "La Copa",
@@ -38,12 +38,30 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Hablando de la Libertad",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
+    },
+    {
+      "song_title": "Hablando de la Libertad",
+      "artist": "La Renga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

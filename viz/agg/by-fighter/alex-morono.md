@@ -1,6 +1,6 @@
 # Alex Morono
 
-9 event(s) | 8 song(s) found | 7 unique
+10 event(s) | 9 song(s) found | 8 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,6 +10,7 @@
 | 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Enemies | Eleine | [Listen](https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz) |
 | 2024-04-06 | [UFC Fight Night: Allen vs. Curtis 2](../../ufc-fight-night-allen-vs-curtis-2.md) | Enemies | Eleine | [Listen](https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz) |
 | 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Blue on Black | Five Finger Death Punch | [Listen](https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw) |
+| 2017-02-04 | [UFC Fight Night: Bermudez vs. The Korean Zombie](../../ufc-fight-night-bermudez-vs-the-korean-zombie.md) | My Head's in Mississippi | ZZ Top | [Listen](https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC) |
 | 2021-09-04 | [UFC Fight Night: Brunson vs. Till](../../ufc-fight-night-brunson-vs-till.md) | Zombies Ate My Pirate Ship | Alestorm | [Listen](https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89) |
 | 2023-10-07 | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | Snap Your Finger, Snap Your Neck | Prong | [Listen](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) |
 | 2021-12-04 | [UFC Fight Night: Font vs. Aldo](../../ufc-fight-night-font-vs-aldo.md) | I E A I A I O | System of a Down | [Listen](https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5) |

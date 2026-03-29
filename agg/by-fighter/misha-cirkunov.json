@@ -1,7 +1,7 @@
 {
   "fighter": "Misha Cirkunov",
   "slug": "misha-cirkunov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Started from the Bottom",
@@ -11,6 +11,15 @@
       "event": "UFC 206: Holloway vs. Pettis",
       "event_slug": "ufc-206",
       "date": "2016-12-10"
+    },
+    {
+      "song_title": "Vechno Molodoi (Forever Young)",
+      "artist": "Smyslovye Galljustsinatsii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7uur39wYNLvayRF11cypG4",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     },
     {
       "song_title": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

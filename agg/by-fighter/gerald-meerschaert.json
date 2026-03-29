@@ -1,7 +1,7 @@
 {
   "fighter": "Gerald Meerschaert",
   "slug": "gerald-meerschaert",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Ante Up",
@@ -67,6 +67,15 @@
       "date": "2022-04-30"
     },
     {
+      "song_title": "Rubber Band Man",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GwJBXIQOJ6ARh3sFt9dBZ",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
+    },
+    {
       "song_title": "Kickstart My Heart",
       "artist": "Mötley Crüe",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 6,
+    "events": 10,
+    "with_song": 7,
     "missing": 3,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

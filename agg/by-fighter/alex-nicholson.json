@@ -1,0 +1,31 @@
+{
+  "fighter": "Alex Nicholson",
+  "slug": "alex-nicholson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Hate Me Now",
+      "artist": "Nas and Puff Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    },
+    {
+      "song_title": "Better Believe It",
+      "artist": "Lil' Boosie feat. Young Jeeezy & Webbie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YKHIIVQuz1lUKIhe5GMlX",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

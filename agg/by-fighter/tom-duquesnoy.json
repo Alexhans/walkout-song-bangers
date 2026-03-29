@@ -1,7 +1,7 @@
 {
   "fighter": "Tom Duquesnoy",
   "slug": "tom-duquesnoy",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Stronger",
@@ -11,12 +11,21 @@
       "event": "UFC 216: Ferguson vs. Lee",
       "event_slug": "ufc-216",
       "date": "2017-10-07"
+    },
+    {
+      "song_title": "Remember My Name",
+      "artist": "Maino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mjT14Y7QMDqZtwim4WlmH",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

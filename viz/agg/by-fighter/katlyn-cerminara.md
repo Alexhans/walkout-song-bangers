@@ -1,10 +1,11 @@
 # Katlyn Cerminara
 
-8 event(s) | 1 song(s) found | 1 unique
+9 event(s) | 1 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2016-11-12 | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | — | — | |
+| 2017-04-08 | [UFC 210: Cormier vs. Johnson 2](../../ufc-210-cormier-vs-johnson-2.md) | — | — | |
 | 2019-06-08 | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |
 | 2019-11-02 | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | — | — | |
 | 2020-02-08 | [UFC 247: Jones vs. Reyes](../../ufc-247.md) | — | — | |

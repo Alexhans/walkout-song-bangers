@@ -1,7 +1,7 @@
 {
   "fighter": "Aiemann Zahabi",
   "slug": "aiemann-zahabi",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Still Crusin",
@@ -31,6 +31,15 @@
       "date": "2022-07-09"
     },
     {
+      "song_title": "Switchez",
+      "artist": "Eazy-E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
+    },
+    {
       "song_title": "Thug Luv",
       "artist": "Bone Thugs-N-Harmony feat. Tupac",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

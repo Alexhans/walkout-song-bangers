@@ -1,8 +1,17 @@
 {
   "fighter": "Robbie Lawler",
   "slug": "robbie-lawler",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Hold On, I'm Coming",
+      "artist": "Sam & Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
     {
       "song_title": "Ain't No Grave",
       "artist": "Johnny Cash",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

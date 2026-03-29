@@ -20,17 +20,40 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 <!-- BEGIN EVENTS -->
 | Event | Fighters | Gold | Silver | Bronze | Missing |
 |-------|----------|------|--------|--------|---------|
+| [UFC Fight Night: Cowboy vs Cowboy](viz/ufc-fight-night-cowboy-vs-cowboy.md) | 26 | 0 | 0 | 24 | 2 |
+| [UFC 196: McGregor vs Diaz](viz/ufc-196-mcgregor-vs-diaz.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Rothwell vs Dos Santos](viz/ufc-fight-night-rothwell-vs-dos-santos.md) | 26 | 0 | 0 | 23 | 3 |
+| [UFC 197: Jones vs Saint Preux](viz/ufc-197-jones-vs-saint-preux.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC Fight Night: Overeem vs Arlovski](viz/ufc-fight-night-overeem-vs-arlovski.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC 198: Werdum vs Miocic](viz/ufc-198-werdum-vs-miocic.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC Fight Night: Dos Anjos vs. Alvarez](viz/ufc-fight-night-dos-anjos-vs-alvarez.md) | 24 | 0 | 0 | 20 | 4 |
+| [The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale](viz/the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 200: Tate vs. Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC 201: Lawler vs. Woodley](viz/ufc-201-lawler-vs-woodley.md) | 22 | 0 | 0 | 19 | 3 |
 | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
+| [UFC on FOX: Maia vs. Condit](viz/ufc-on-fox-maia-vs-condit.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC Fight Night: Arlovski vs. Barnett](viz/ufc-fight-night-arlovski-vs-barnett.md) | 22 | 0 | 0 | 18 | 4 |
 | [UFC 203: Miocic vs. Overeem](viz/ufc-203.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC Fight Night: Poirier vs. Johnson](viz/ufc-fight-night-poirier-vs-johnson.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
+| [UFC Fight Night: Dos Anjos vs. Ferguson](viz/ufc-fight-night-dos-anjos-vs-ferguson.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 205: Alvarez vs. McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC Fight Night: Mousasi vs. Hall 2](viz/ufc-fight-night-mousasi-vs-hall-2.md) | 26 | 0 | 0 | 25 | 1 |
+| [UFC Fight Night: Whittaker vs. Brunson](viz/ufc-fight-night-whittaker-vs-brunson.md) | 26 | 0 | 0 | 23 | 3 |
 | [UFC 206: Holloway vs. Pettis](viz/ufc-206.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 207: Nunes vs. Rousey](viz/ufc-207.md) | 20 | 0 | 0 | 20 | 0 |
+| [UFC Fight Night: Bermudez vs. The Korean Zombie](viz/ufc-fight-night-bermudez-vs-the-korean-zombie.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC Fight Night: Lewis vs. Browne](viz/ufc-fight-night-lewis-vs-browne.md) | 22 | 0 | 0 | 19 | 3 |
 | [UFC 209: Woodley vs. Thompson 2](viz/ufc-209.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC 210: Cormier vs. Johnson 2](viz/ufc-210-cormier-vs-johnson-2.md) | 26 | 0 | 0 | 10 | 16 |
+| [UFC on FOX: Johnson vs. Reis](viz/ufc-on-fox-johnson-vs-reis.md) | 26 | 0 | 0 | 20 | 6 |
+| [UFC 211: Miocic vs. Dos Santos](viz/ufc-211-miocic-vs-dos-santos.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 211: Miocic vs. Dos Santos 2](viz/ufc-211.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Gustafsson vs. Teixeira](viz/ufc-fight-night-gustafsson-vs-teixeira.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 212: Aldo vs. Holloway](viz/ufc-212.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC Fight Night: Holm vs. Correia](viz/ufc-fight-night-holm-vs-correia.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC 213: Romero vs. Whittaker](viz/ufc-213.md) | 22 | 0 | 0 | 22 | 0 |
+| [UFC Fight Night: Nelson vs. Ponzinibbio](viz/ufc-fight-night-nelson-vs-ponzinibbio.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 214: Cormier vs. Jones 2](viz/ufc-214.md) | 24 | 0 | 0 | 24 | 0 |
 | [UFC 216: Ferguson vs. Lee](viz/ufc-216.md) | 22 | 0 | 0 | 22 | 0 |
 | [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |

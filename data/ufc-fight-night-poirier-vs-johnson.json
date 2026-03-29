@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Poirier vs. Johnson",
+  "event_slug": "ufc-fight-night-poirier-vs-johnson",
+  "date": "2016-09-17",
+  "location": "Hidalgo, Texas, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/2016/09/fight-tracks-the-walkout-songs-of-ufc-fight-night-94-the-one-time-iggy-azalea-is-cooler-than-billy-squier"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "Misunderstood",
+      "artist": "Kendrick Lamar feat. Nina Simone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IgfVOx1K24TLFWWY1t4mk",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Poirier",
+      "song_title": "I Don't Get Tired",
+      "artist": "Kevin Gates feat. August Alsina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse",
+      "notes": ""
+    },
+    {
+      "fighter": "Derek Brunson",
+      "song_title": "Finna Get Loose",
+      "artist": "Puff Daddy & The Family feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
+      "notes": ""
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Unchained (The Payback/Untouchable)",
+      "artist": "James Brown & Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj",
+      "notes": ""
+    },
+    {
+      "fighter": "Evan Dunham",
+      "song_title": "Dead Wrong",
+      "artist": "Notorious B.I.G. feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s4kWgzQwsueo3mfllY1s6",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "The Stroke",
+      "artist": "Billy Squier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
+      "notes": ""
+    },
+    {
+      "fighter": "Roan Carneiro",
+      "song_title": "Marginal Menestral",
+      "artist": "MV Bill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp",
+      "notes": ""
+    },
+    {
+      "fighter": "Kenny Robertson",
+      "song_title": "Just Don't Quit",
+      "artist": "Jake Maurer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TUbS0WDcIV20XJkQsby0a",
+      "notes": ""
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Wade",
+      "song_title": "Say What You Say",
+      "artist": "Eminem feat. Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4EQkcrSLF3QdlwNca7sMXY",
+      "notes": ""
+    },
+    {
+      "fighter": "Chas Skelly",
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea feat. Charli XCX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Maximo Blanco",
+      "song_title": "Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Mejor Morir en Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Sicilia",
+      "song_title": "Sleep Now in the Fire",
+      "artist": "Rage Against the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T",
+      "notes": ""
+    },
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "notes": ""
+    },
+    {
+      "fighter": "Augusto Montano",
+      "song_title": "La Cumbia de la Paz",
+      "artist": "Chico Cervantes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TbXWuFKwmZs0zv7PivZBW",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonio Carlos Junior",
+      "song_title": "Let's Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "notes": ""
+    },
+    {
+      "fighter": "Leonardo Guimaraes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Quinonez",
+      "song_title": "Ojalá! Que Llueva Café",
+      "artist": "Café Tacuba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA",
+      "notes": ""
+    },
+    {
+      "fighter": "Joey Gomez",
+      "song_title": "Don't You Evah",
+      "artist": "Spoon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63VdDgvlj3rhpxuHoPmY8D",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Slow Singing",
+      "artist": "Movado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Erick Montano",
+      "song_title": "Meaning Corrupted 3 Destruction",
+      "artist": "G.I.S.M.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Qm0F3Kaf043hkK43klaWU",
+      "notes": ""
+    },
+    {
+      "fighter": "Alejandro Perez",
+      "song_title": "La Feria de San Marcos",
+      "artist": "Original Banda el Limon de Salvador Lizarraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Morales",
+      "song_title": "Really Really",
+      "artist": "Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o",
+      "notes": ""
+    }
+  ]
+}

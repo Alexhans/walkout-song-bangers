@@ -1,0 +1,31 @@
+{
+  "fighter": "Will Brooks",
+  "slug": "will-brooks",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "I'm Ill",
+      "artist": "Red Café feat. Fabolous",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13fUmy3Leqer7nSxFC0pdw",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
+    {
+      "song_title": "I'm Ill",
+      "artist": "Evil Empire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6591oPA9nKFawSWOcQcL8A",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

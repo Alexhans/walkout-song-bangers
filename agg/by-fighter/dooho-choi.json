@@ -1,0 +1,22 @@
+{
+  "fighter": "Dooho Choi",
+  "slug": "dooho-choi",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Superman Theme",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

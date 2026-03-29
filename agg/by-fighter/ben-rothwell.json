@@ -1,7 +1,7 @@
 {
   "fighter": "Ben Rothwell",
   "slug": "ben-rothwell",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "The Rampager, Part 2",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Holloway vs. Rodriguez",
       "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
       "date": "2021-11-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Andrei Arlovski",
   "slug": "andrei-arlovski",
-  "appearances": 8,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Watchdog",
@@ -40,6 +40,15 @@
       "date": "2024-01-13"
     },
     {
+      "song_title": "Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
       "song_title": "Watchdog",
       "artist": "Issaya",
       "confidence": "bronze",
@@ -47,6 +56,15 @@
       "event": "UFC Fight Night: Font vs. Vera",
       "event_slug": "ufc-fight-night-font-vs-vera",
       "date": "2022-04-30"
+    },
+    {
+      "song_title": "I'm a Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     },
     {
       "song_title": "God’s Gonna Cut You Down",
@@ -74,12 +92,21 @@
       "event": "UFC Fight Night: Ladd vs. Dumont",
       "event_slug": "ufc-fight-night-ladd-vs-dumont",
       "date": "2021-10-16"
+    },
+    {
+      "song_title": "Solidier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 11,
+    "with_song": 11,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 7
   }
 }

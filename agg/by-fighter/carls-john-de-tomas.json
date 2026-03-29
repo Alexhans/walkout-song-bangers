@@ -1,0 +1,22 @@
+{
+  "fighter": "Carls John De Tomas",
+  "slug": "carls-john-de-tomas",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Luha ng Kagalakan",
+      "artist": "Brothers Marvin Estrada",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,8 +1,26 @@
 {
   "fighter": "Yair Rodriguez",
   "slug": "yair-rodriguez",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "Los Rieledros del Notre",
+      "artist": "El Corrido De Chihuahua",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
+    {
+      "song_title": "El Corrido de Chuhuahua",
+      "artist": "Los Rieleros Del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
     {
       "song_title": "El Corrido de Chuhuahua",
       "artist": "Los Rieleros Del Norte",
@@ -59,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

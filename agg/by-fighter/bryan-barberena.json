@@ -1,8 +1,17 @@
 {
   "fighter": "Bryan Barberena",
   "slug": "bryan-barberena",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "The Outsiders",
+      "artist": "Eric Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

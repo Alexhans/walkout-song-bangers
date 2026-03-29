@@ -1,0 +1,22 @@
+{
+  "fighter": "Jonavin Webb",
+  "slug": "jonavin-webb",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Oh My",
+      "artist": "The Partysquad & Boaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZJ9wxMqAhIOekYLmukc2L",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

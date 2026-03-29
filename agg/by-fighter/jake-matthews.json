@@ -1,8 +1,17 @@
 {
   "fighter": "Jake Matthews",
   "slug": "jake-matthews",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Face Everything And Rise",
+      "artist": "Papa Roach",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
+    },
     {
       "song_title": "The Game",
       "artist": "Motorhead",
@@ -47,12 +56,21 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Right Side of the Bed",
+      "artist": "Atreyu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

@@ -1,9 +1,10 @@
 # Kamaru Usman
 
-5 event(s) | 5 song(s) found | 5 unique
+6 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2017-04-08 | [UFC 210: Cormier vs. Johnson 2](../../ufc-210-cormier-vs-johnson-2.md) | — | — | |
 | 2019-12-14 | [UFC 245: Usman vs. Covington](../../ufc-245.md) | Another Story & Anybody | Burna Boy |  |
 | 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | YABA BULUKU |  | [Listen](https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i) |
 | 2022-08-20 | [UFC 278: Usman vs. Edwards](../../ufc-278-usman-vs-edwards.md) | Try Jesus | Tobe Nwigwe, "Big League" by Yo Gotti & Moneybag Yo | [Listen](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) |

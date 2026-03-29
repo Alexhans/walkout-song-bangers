@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Arlovski vs. Barnett",
+  "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+  "date": "2016-09-03",
+  "location": "Hamburg, Hamburg, Germany",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/09/04/fight-tracks-the-walkout-songs-of-ufc-fight-night-93-with-the-stones-acdc-blue-oyster-cult/82327418007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Josh Barnett",
+      "song_title": "The IVth Crusade",
+      "artist": "Bolt Thrower",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00nhkvorbdardFjuIi2OOo",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Gustafsson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Lazare",
+      "artist": "Percival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xGN48DyadvhEpM2RhJQ1X",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Bader",
+      "song_title": "Paint it Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "notes": ""
+    },
+    {
+      "fighter": "Ilir Latifi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Hein",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Tae Hyun Bang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessin Ayari",
+      "song_title": "Journey",
+      "artist": "Jah Cure",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FVHH9AKmdvxczTRrqgLaz",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Wallhead",
+      "song_title": "Turn Down for What",
+      "artist": "DJ Snake feat. Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h5yOjQNDaLZ0rW2OGoXTB",
+      "notes": ""
+    },
+    {
+      "fighter": "Peter Sobotta",
+      "song_title": "Bad Boys",
+      "artist": "Inner Circle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1NojrDCqDLh4dWRZ7F589Q",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Suspekt",
+      "artist": "S.U.S.P.E.K.T",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hXnkp4SKivcHV555G72yz",
+      "notes": ""
+    },
+    {
+      "fighter": "Ashlee Evans-Smith",
+      "song_title": "Don't Mess with Me",
+      "artist": "Brody Dalle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
+      "notes": ""
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Taylor Lapilus",
+      "song_title": "Oh Yeah",
+      "artist": "Foxy Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E",
+      "notes": ""
+    },
+    {
+      "fighter": "Leandro Issa",
+      "song_title": "Negro Drama",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8",
+      "notes": ""
+    },
+    {
+      "fighter": "Jarjis Danho",
+      "song_title": "O Fortuna\" from \"Carmina Burana",
+      "artist": "Carl Orff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2d7139N7CJ9eJmGVE42Y44",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Colombo",
+      "song_title": "Godzilla",
+      "artist": "Blue Oyster Cult",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "notes": ""
+    },
+    {
+      "fighter": "Scott Askham",
+      "song_title": "I Got 5 on It (Instrumental)",
+      "artist": "Luniz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MVrgmGduLW44h3ixjSTLM",
+      "notes": ""
+    },
+    {
+      "fighter": "Rustam Khabilov",
+      "song_title": "I Against I",
+      "artist": "Massive Attack feat. Mos Def",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NxTDkes19DzkFCo3ZHTGU",
+      "notes": ""
+    },
+    {
+      "fighter": "Leandro Silva",
+      "song_title": "Love Sets You Free",
+      "artist": "Kelly Price feat. Aaron Hall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50BI825pqe9QBumiBtBKg5",
+      "notes": ""
+    }
+  ]
+}

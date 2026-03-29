@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Condit",
   "slug": "carlos-condit",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Home",
@@ -20,12 +20,21 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Triad",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl",
+      "event": "UFC on FOX: Maia vs. Condit",
+      "event_slug": "ufc-on-fox-maia-vs-condit",
+      "date": "2016-08-27"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

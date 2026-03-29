@@ -1,7 +1,7 @@
 {
   "fighter": "Louis Smolka",
   "slug": "louis-smolka",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Bigger Than Me",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "Riot Maker",
+      "artist": "Tech N9ne feat. Skatterman & Snug Brim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nU5YHmm88HuVfpegW74p7",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

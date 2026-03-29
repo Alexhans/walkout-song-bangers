@@ -1,8 +1,17 @@
 {
   "fighter": "Robert Whittaker",
   "slug": "robert-whittaker",
-  "appearances": 7,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "Can't Be Touched",
       "artist": "Roy Jones Jr.",
@@ -65,12 +74,30 @@
       "event": "UFC Fight Night: Gane vs. Tuivasa",
       "event_slug": "ufc-fight-night-gane-vs-tuivasa",
       "date": "2022-09-03"
+    },
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Body Head Bangerz feat. Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
+    },
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Body Head Bangerz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
+    "events": 10,
+    "with_song": 8,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

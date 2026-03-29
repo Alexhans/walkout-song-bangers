@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Oliveira",
   "slug": "alex-oliveira",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Balada",
@@ -40,6 +40,15 @@
       "date": "2020-10-24"
     },
     {
+      "song_title": "Balada Boa (Tche Tcherere)",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WBGz1dDhZ45Qf1d8t97jR",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
+    {
       "song_title": "Ta Escrito",
       "artist": "Grupo Revelacao",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

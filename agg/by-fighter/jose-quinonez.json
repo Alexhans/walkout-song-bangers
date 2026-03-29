@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Quinonez",
   "slug": "jose-quinonez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 248: Adesanya vs. Romero",
       "event_slug": "ufc-248",
       "date": "2020-03-07"
+    },
+    {
+      "song_title": "Ojalá! Que Llueva Café",
+      "artist": "Café Tacuba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dDDsr1cMbpkE5MZLy8eHA",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

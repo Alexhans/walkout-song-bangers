@@ -1,0 +1,31 @@
+{
+  "fighter": "Erik Perez",
+  "slug": "erik-perez",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Cancion Del Mariachi",
+      "artist": "Los Lobos & Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "song_title": "Con Sangre del Norte",
+      "artist": "El Gran Silencio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5sG6YezOe97sFpqvymZ66u",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

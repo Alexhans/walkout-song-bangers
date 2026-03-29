@@ -1,7 +1,7 @@
 {
   "fighter": "Maryna Moroz",
   "slug": "maryna-moroz",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Жми КОЗАКИ (АТО.Укра7на)",
@@ -20,12 +20,21 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "BomBom",
+      "artist": "Macklemore & Ryan Lewis feat. The Teaching",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2r7JnMf6lNNcjKyCv1r6ot",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

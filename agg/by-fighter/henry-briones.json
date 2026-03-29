@@ -1,0 +1,22 @@
+{
+  "fighter": "Henry Briones",
+  "slug": "henry-briones",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bailar",
+      "artist": "Elvis Crespo feat. Deorro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp",
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

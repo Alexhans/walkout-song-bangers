@@ -1,7 +1,7 @@
 {
   "fighter": "John Makdessi",
   "slug": "john-makdessi",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Fade",
@@ -22,6 +22,15 @@
       "date": "2023-09-09"
     },
     {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
       "song_title": "Ambitionz Az a Ridah",
       "artist": "Tupac",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

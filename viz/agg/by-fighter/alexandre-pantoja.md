@@ -1,6 +1,6 @@
 # Alexandre Pantoja
 
-7 event(s) | 5 song(s) found | 1 unique
+8 event(s) | 6 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | 2021-08-21 | [UFC Fight Night: Cannonier vs. Gastelum](../../ufc-fight-night-cannonier-vs-gastelum.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
+| 2017-07-16 | [UFC Fight Night: Nelson vs. Ponzinibbio](../../ufc-fight-night-nelson-vs-ponzinibbio.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |

@@ -1,8 +1,26 @@
 {
   "fighter": "Ashlee Evans-Smith",
   "slug": "ashlee-evans-smith",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Don't Mess with Me",
+      "artist": "Brody Dalle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
+    },
     {
       "song_title": "Rebel Girl",
       "artist": "Bikini Kill",
@@ -11,12 +29,21 @@
       "event": "UFC Fight Night: Holm vs. Bueno Silva",
       "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
       "date": "2023-07-15"
+    },
+    {
+      "song_title": "City of Angels",
+      "artist": "The Distillers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

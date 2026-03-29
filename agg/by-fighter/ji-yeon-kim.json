@@ -1,7 +1,7 @@
 {
   "fighter": "Ji Yeon Kim",
   "slug": "ji-yeon-kim",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Forever Young",
@@ -31,6 +31,15 @@
       "date": "2021-09-04"
     },
     {
+      "song_title": "Forever Young",
+      "artist": "Crew Cardinal feat. Kodie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/754OmeCDdrHUiLVHNaWQm9",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
       "song_title": "Unstoppable",
       "artist": "Sia",
       "confidence": "bronze",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 4
   }

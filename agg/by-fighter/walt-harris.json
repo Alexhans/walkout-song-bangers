@@ -1,8 +1,17 @@
 {
   "fighter": "Walt Harris",
   "slug": "walt-harris",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Intentional",
+      "artist": "Travis Greene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
+    },
     {
       "song_title": "New Level",
       "artist": "A$AP Ferg feat. Future",
@@ -29,12 +38,21 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Blessings/Focused",
+      "artist": "Lecrae/The Governor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2pMHly34TFOMvHvg739V5p",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

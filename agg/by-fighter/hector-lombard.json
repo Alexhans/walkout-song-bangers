@@ -1,0 +1,22 @@
+{
+  "fighter": "Hector Lombard",
+  "slug": "hector-lombard",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Adagio for Strings",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

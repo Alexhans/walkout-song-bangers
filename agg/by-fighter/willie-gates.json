@@ -1,0 +1,22 @@
+{
+  "fighter": "Willie Gates",
+  "slug": "willie-gates",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Purple Rain",
+      "artist": "Prince",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

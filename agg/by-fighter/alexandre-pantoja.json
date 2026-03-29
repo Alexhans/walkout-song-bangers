@@ -1,7 +1,7 @@
 {
   "fighter": "Alexandre Pantoja",
   "slug": "alexandre-pantoja",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -65,11 +65,20 @@
       "event": "UFC Fight Night: Cannonier vs. Gastelum",
       "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
       "date": "2021-08-21"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
+    "events": 8,
+    "with_song": 6,
     "missing": 2,
     "unique_songs": 1
   }

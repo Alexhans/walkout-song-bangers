@@ -1,0 +1,22 @@
+{
+  "fighter": "Fredy Serrano",
+  "slug": "fredy-serrano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bomba Colombiana de la Orquesta",
+      "artist": "LA 33",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Alejandro Perez",
   "slug": "alejandro-perez",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Un Puno De Tierra",
@@ -22,6 +22,24 @@
       "date": "2022-02-26"
     },
     {
+      "song_title": "La Feria de San Marcos",
+      "artist": "Original Banda el Limon de Salvador Lizarraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
+    },
+    {
+      "song_title": "La Feria de San Marcos",
+      "artist": "La Original Band el Limon de Salvador Lizzaraga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jVz7o47YsKT5ur9RlG6ck",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
+    },
+    {
       "song_title": "Believer",
       "artist": "Imagine Dragons",
       "confidence": "bronze",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

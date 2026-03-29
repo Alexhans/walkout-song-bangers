@@ -1,7 +1,7 @@
 {
   "fighter": "Lucie Pudilova",
   "slug": "lucie-pudilova",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Rise of the Champion",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Wrong Side of Heaven",
+      "artist": "Five Finger Death Punch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

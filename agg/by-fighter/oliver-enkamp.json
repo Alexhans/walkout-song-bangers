@@ -1,0 +1,22 @@
+{
+  "fighter": "Oliver Enkamp",
+  "slug": "oliver-enkamp",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Intro (Long Version)",
+      "artist": "The XX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j",
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

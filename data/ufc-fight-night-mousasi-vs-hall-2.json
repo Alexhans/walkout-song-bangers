@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Mousasi vs. Hall 2",
+  "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+  "date": "2016-11-19",
+  "location": "Belfast, Northern Ireland, United Kingdom",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/11/20/fight-tracks-the-walkout-songs-ufc-fight-night-99-in-belfast-with-katy-perry-and-uhh-whitney-houston/82305460007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Gegard Mousasi",
+      "song_title": "Ara Gevorgyan",
+      "artist": "Artsakh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "notes": ""
+    },
+    {
+      "fighter": "Uriah Hall",
+      "song_title": "Jammin'",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj",
+      "notes": ""
+    },
+    {
+      "fighter": "Stevie Ray",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ross Pearson",
+      "song_title": "My Way",
+      "artist": "Calvin Harris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Mother Winter",
+      "artist": "2517",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq",
+      "notes": ""
+    },
+    {
+      "fighter": "Timothy Johnson",
+      "song_title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nFNJmjfgBF7jwv2oBC45b",
+      "notes": ""
+    },
+    {
+      "fighter": "Artem Lobov",
+      "song_title": "Freedom\" (\"Django Unchained\")",
+      "artist": "Anthony Hamilton & Elayna Boynton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PgsrLmWjOmm58vGDhoV27",
+      "notes": ""
+    },
+    {
+      "fighter": "Teruto Ishihara",
+      "song_title": "Lion No KO (Yashabo Version)",
+      "artist": "Spinna B-ill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hBjKyHEl9fAv4EHIUa2Dc",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Marshman",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Magnus Cedenblad",
+      "song_title": "Highway Man",
+      "artist": "Hoffmaestro & Chraa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56nYbGRkOwhDoBC7quMDTT",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyoji Horiguchi",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Ali Bagautinov",
+      "song_title": "Fight Nights",
+      "artist": "Salvador",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "Welcome to Detroit",
+      "artist": "Eminem feat. Trick Trick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79t5idiRhbDB1oLaVcTVsD",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Mustafaev",
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Cooper",
+      "song_title": "Gasoline",
+      "artist": "Halsey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT",
+      "notes": ""
+    },
+    {
+      "fighter": "Anna Elmose",
+      "song_title": "I Wanna Dance With Somebody",
+      "artist": "Whitney Houston",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Ledet",
+      "song_title": "Too Far to Turn Around",
+      "artist": "Travis Tritt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6TdTmzyovtqMTHwQB0GXEg",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Godbeer",
+      "song_title": "Come With Me Now",
+      "artist": "Kongos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2",
+      "notes": ""
+    },
+    {
+      "fighter": "Zak Cummings",
+      "song_title": "Starboy",
+      "artist": "The Weeknd feat. Daft Punk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76yLBykniz0SSNv0jj17M2",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Yakovlev",
+      "song_title": "Music The Best 3",
+      "artist": "Justin Seven Music",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT",
+      "notes": ""
+    },
+    {
+      "fighter": "Marion Reneau",
+      "song_title": "Rise",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX",
+      "notes": ""
+    },
+    {
+      "fighter": "Milana Dudieva",
+      "song_title": "Bring on the Thunder",
+      "artist": "Freeze & Noodles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5J8zBspeWfSLVJQMmkx4Je",
+      "notes": ""
+    },
+    {
+      "fighter": "Brett Johns",
+      "song_title": "I'm Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Kwan Ho Kwak",
+      "song_title": "300 Violin Orchestra",
+      "artist": "Jorge Quintero",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "I'm On the Rock",
+      "artist": "Mavado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qCUQguuF19BuApHspnlFk",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Ward",
+      "song_title": "The Lonesome Boatman",
+      "artist": "The Fureys & David Arthur",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2aLNcakASO2rKKUEzh8w33",
+      "notes": ""
+    }
+  ]
+}

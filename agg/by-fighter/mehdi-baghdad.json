@@ -1,0 +1,22 @@
+{
+  "fighter": "Mehdi Baghdad",
+  "slug": "mehdi-baghdad",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "All The Way Up",
+      "artist": "Fat Joe & Remy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ezwtgfw7khBrpvaNPtMoT",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

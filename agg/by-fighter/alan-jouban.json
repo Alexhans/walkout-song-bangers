@@ -1,7 +1,7 @@
 {
   "fighter": "Alan Jouban",
   "slug": "alan-jouban",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Gangsta’s Paradise",
@@ -11,12 +11,21 @@
       "event": "UFC 236: Holloway vs. Poirier 2",
       "event_slug": "ufc-236",
       "date": "2019-04-13"
+    },
+    {
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

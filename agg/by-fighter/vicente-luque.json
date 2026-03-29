@@ -1,7 +1,7 @@
 {
   "fighter": "Vicente Luque",
   "slug": "vicente-luque",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Baby Baby",
@@ -58,6 +58,15 @@
       "date": "2024-03-30"
     },
     {
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
+    },
+    {
       "song_title": "Long Way",
       "artist": "Lathan Warlick feat. KB",
       "confidence": "bronze",
@@ -86,8 +95,8 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 6,
+    "events": 10,
+    "with_song": 7,
     "missing": 3,
     "unique_songs": 6
   }

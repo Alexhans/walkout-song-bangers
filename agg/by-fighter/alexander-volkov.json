@@ -1,7 +1,7 @@
 {
   "fighter": "Alexander Volkov",
   "slug": "alexander-volkov",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Zima Mama",
@@ -40,6 +40,15 @@
       "date": "2023-09-09"
     },
     {
+      "song_title": "Mother Winter",
+      "artist": "2517",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
+    },
+    {
       "song_title": "Mama Mi Vse Tiago Bolni",
       "artist": "25/17",
       "confidence": "bronze",
@@ -56,12 +65,21 @@
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "Zima-mama",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wUUnAZXcgCNA4vM91paUg",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

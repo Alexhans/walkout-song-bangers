@@ -1,6 +1,6 @@
 # Tyson Pedro
 
-6 event(s) | 6 song(s) found | 6 unique
+7 event(s) | 7 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | All My Life | Lil Durk | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
 | 2022-04-23 | [UFC Fight Night: Lemos vs. Andrade](../../ufc-fight-night-lemos-vs-andrade.md) | Sexual | Neikid feat. Dyo | [Listen](https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o) |
 | 2024-03-02 | [UFC Fight Night: Rozenstruik vs. Gaziev](../../ufc-fight-night-rozenstruik-vs-gaziev.md) | Let’s Go | Trick Daddy feat. Lil’ Jon & Twista | [Listen](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) |
+| 2016-11-26 | [UFC Fight Night: Whittaker vs. Brunson](../../ufc-fight-night-whittaker-vs-brunson.md) | Sexual | NEIKED feat. Dyo | [Listen](https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o) |

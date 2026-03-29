@@ -1,0 +1,172 @@
+{
+  "event": "UFC on FOX: Maia vs. Condit",
+  "event_slug": "ufc-on-fox-maia-vs-condit",
+  "date": "2016-08-27",
+  "location": "Vancouver, British Columbia, Canada",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/08/28/fight-tracks-the-walkout-songs-of-ufc-on-fox-21-with-ccr-acdc-and-train-yes-train/82330514007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Demian Maia",
+      "song_title": "Numb",
+      "artist": "Linkin Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Condit",
+      "song_title": "Triad",
+      "artist": "Tool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2D9rd6TIpqmDkog5Mx8kxl",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Summer Sixteen",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Oliveira",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Paige VanZant",
+      "song_title": "Zanza Kuduro",
+      "artist": "Lucenzo with Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Bec Rawlings",
+      "song_title": "Hail Mary",
+      "artist": "Tupac feat. The Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Lauzon",
+      "song_title": "Move",
+      "artist": "Thousand Foot Krutch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Alvey",
+      "song_title": "Hey Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Casey",
+      "song_title": "Never",
+      "artist": "King Casey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Kf7dwNBp8pUNE8iOpg5oT",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Bochniak",
+      "song_title": "For Those About to Rock",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb",
+      "notes": ""
+    },
+    {
+      "fighter": "Enrique Barzola",
+      "song_title": "Contigo Peru",
+      "artist": "Arturo Zambo Cavero feat. Oscar Avil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessio Di Chirico",
+      "song_title": "Re-Education Through Labor",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "notes": ""
+    },
+    {
+      "fighter": "Garreth McLellan",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Silva",
+      "song_title": "Sail",
+      "artist": "AWOLNATION",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Campbell",
+      "song_title": "Ni**as in Paris",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Laprise",
+      "song_title": "God's Song",
+      "artist": "Mikey Rukus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM",
+      "notes": ""
+    },
+    {
+      "fighter": "Thibault Gouti",
+      "song_title": "Nothin' but a G Thang",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD",
+      "notes": ""
+    },
+    {
+      "fighter": "Jeremy Kennedy",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Ricci",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

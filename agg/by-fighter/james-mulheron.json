@@ -1,0 +1,22 @@
+{
+  "fighter": "James Mulheron",
+  "slug": "james-mulheron",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

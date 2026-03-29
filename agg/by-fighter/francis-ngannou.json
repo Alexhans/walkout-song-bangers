@@ -1,7 +1,7 @@
 {
   "fighter": "Francis Ngannou",
   "slug": "francis-ngannou",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Mi Gente",
@@ -38,12 +38,21 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "Ma Petite",
+      "artist": "Fababy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vFM1LBzMCOIybF7wfUDIa",
+      "event": "UFC Fight Night: Rothwell vs Dos Santos",
+      "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
+      "date": "2016-04-10"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }
