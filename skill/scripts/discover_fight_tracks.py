@@ -18,6 +18,7 @@ import sys
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 
 from run_logging import RunLogger
@@ -396,6 +397,80 @@ def _is_low_value_candidate(url: str) -> tuple[bool, str]:
     return (False, "")
 
 
+def _extract_publication_date(page_html: str) -> str:
+    patterns = (
+        r'"datePublished"\s*:\s*"([^"]+)"',
+        r'property="article:published_time"\s+content="([^"]+)"',
+        r'name="publish-date"\s+content="([^"]+)"',
+        r'name="article:published_time"\s+content="([^"]+)"',
+        r'<time[^>]+datetime="([^"]+)"',
+    )
+    for pattern in patterns:
+        match = re.search(pattern, page_html, flags=re.I)
+        if match:
+            value = match.group(1).strip()
+            if value:
+                return value
+    return ""
+
+
+def _publication_date_score(event_date: str, published_at: str) -> tuple[int, list[str]]:
+    reasons: list[str] = []
+    if not event_date or not published_at:
+        return 0, reasons
+
+    pub_date: datetime | None = None
+    candidates = [published_at]
+    if published_at.endswith("Z"):
+        candidates.append(published_at.replace("Z", "+00:00"))
+    if len(published_at) >= 10:
+        candidates.append(published_at[:10])
+
+    for candidate in candidates:
+        try:
+            if len(candidate) == 10:
+                pub_date = datetime.strptime(candidate, "%Y-%m-%d")
+            else:
+                pub_date = datetime.fromisoformat(candidate)
+            break
+        except ValueError:
+            continue
+
+    if pub_date is None:
+        return 0, reasons
+
+    try:
+        event_dt = datetime.strptime(event_date, "%Y-%m-%d")
+    except ValueError:
+        return 0, reasons
+
+    delta_days = abs((pub_date.date() - event_dt.date()).days)
+    if delta_days <= 3:
+        reasons.append(f"published-near-event:{delta_days}")
+        return 25, reasons
+    if delta_days <= 14:
+        reasons.append(f"published-close:{delta_days}")
+        return 10, reasons
+    if pub_date.year == event_dt.year:
+        reasons.append(f"published-same-year:{pub_date.year}")
+        return 0, reasons
+
+    reasons.append(f"published-year-mismatch:{pub_date.year}")
+    return -35, reasons
+
+
+def _has_strong_event_match(candidate: dict[str, object]) -> bool:
+    reasons = [str(reason) for reason in candidate.get("reasons", [])]
+    strong_prefixes = (
+        "canonical-event-match",
+        "headliner-match",
+        "ufc-number-match:url",
+        "ufc-number-match:text",
+        "published-near-event",
+    )
+    return any(reason == prefix or reason.startswith(prefix) for reason in reasons for prefix in strong_prefixes)
+
+
 def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, list[str]]:
     domain = _candidate_domain(url)
     text = html.unescape(page_html)
@@ -425,6 +500,12 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
         score += 20
         reasons.append("fight-tracks-text")
         has_fight_tracks_signal = True
+
+    pub_score, pub_reasons = _publication_date_score(event.date, _extract_publication_date(page_html))
+    score += pub_score
+    reasons.extend(pub_reasons)
+    if any(reason.startswith("published-near-event") for reason in pub_reasons):
+        has_event_match = True
 
     event_norm = _norm(event.event)
     if event_norm and event_norm in text_norm:
@@ -579,6 +660,7 @@ def _discover_candidates(
     return ranked
 
 
+
 def _cache_path_for_event(slug: str) -> Path:
     return DISCOVERY_CACHE_DIR / f"{slug}.json"
 
@@ -602,7 +684,12 @@ def discover(arg: str, use_cache: bool = True, logger: RunLogger | None = None) 
     queries = _search_queries(event)
     candidates = _discover_candidates(event, use_cache=use_cache, logger=logger)
     best_candidate = None
-    if candidates and int(candidates[0]["score"]) >= 70 and "no-fight-tracks-signal" not in candidates[0]["reasons"]:
+    if (
+        candidates
+        and int(candidates[0]["score"]) >= 70
+        and "no-fight-tracks-signal" not in candidates[0]["reasons"]
+        and _has_strong_event_match(candidates[0])
+    ):
         best_candidate = candidates[0]
 
     payload = {
