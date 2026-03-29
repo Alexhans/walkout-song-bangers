@@ -8,6 +8,7 @@ Usage:
     python3 skill/scripts/aggregate.py --year 2026 --urls-only  # Spotify URLs only
 """
 
+import datetime
 import json
 import re
 import sys
@@ -202,22 +203,141 @@ def write_viz_top_songs(song_data):
     return out_path
 
 
+def _load_ufcstats_event_counts():
+    """Count total UFC events per year from agg/ufcstats-events.json, up to today."""
+    events_path = AGG_DIR / "ufcstats-events.json"
+    if not events_path.exists():
+        return {}
+    today = datetime.date.today().isoformat()
+    counts: dict[str, int] = {}
+    with open(events_path) as f:
+        for event in json.load(f):
+            if event.get("date", "") <= today:
+                year = event["date"][:4]
+                counts[year] = counts.get(year, 0) + 1
+    return counts
+
+
 def write_viz_by_year(year_results):
     """Write a markdown summary table of all years."""
     VIZ_AGG_DIR.mkdir(parents=True, exist_ok=True)
     out_path = VIZ_AGG_DIR / "by-year.md"
+    event_counts = _load_ufcstats_event_counts()
     lines = [
         "# Walkout Songs by Year",
         "",
-        "| Year | Events | Songs Found | Unique Playable | Missing | Coverage |",
-        "|------|--------|-------------|-----------------|---------|----------|",
+        "| Year | Events | Event Coverage | Songs Found | Unique Playable | Missing | Song Coverage (parsed events) |",
+        "|------|--------|----------------|-------------|-----------------|---------|-------------------------------|",
     ]
     for year in sorted(year_results.keys()):
         data = year_results[year]
         s = data["stats"]
         total = s["total_fighters"]
-        coverage = f"{s['with_song'] / total * 100:.0f}%" if total else "0%"
-        lines.append(f"| {year} | {data['events']} | {s['with_song']} | {s['unique_playable_tracks']} | {s['missing']} | {coverage} |")
+        song_cov = f"{s['with_song'] / total * 100:.0f}%" if total else "0%"
+        total_events = event_counts.get(str(year))
+        if total_events:
+            events_cell = f"[{data['events']}/{total_events}](by-year/{year}.md)"
+            event_cov = f"{data['events'] / total_events * 100:.0f}%"
+        else:
+            events_cell = str(data["events"])
+            event_cov = ""
+        lines.append(f"| {year} | {events_cell} | {event_cov} | {s['with_song']} | {s['unique_playable_tracks']} | {s['missing']} | {song_cov} |")
+    out_path.write_text("\n".join(lines) + "\n")
+    return out_path
+
+
+def write_viz_year_page(year: int, year_data, events_for_year: list):
+    """Write a per-year viz page: stats + flat song table + event sections."""
+    out_dir = VIZ_AGG_DIR / "by-year"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{year}.md"
+
+    current_year = datetime.date.today().year
+    nav_parts = []
+    if year - 1 >= 2016:
+        nav_parts.append(f"[← {year - 1}]({year - 1}.md)")
+    if year + 1 <= current_year:
+        nav_parts.append(f"[{year + 1} →]({year + 1}.md)")
+    nav = " | ".join(nav_parts)
+
+    lines = [f"# {year} Walkout Songs", ""]
+    if nav:
+        lines += [nav, ""]
+
+    if not year_data or not events_for_year:
+        lines.append("No events recorded for this year yet.")
+        out_path.write_text("\n".join(lines) + "\n")
+        return out_path
+
+    s = year_data["stats"]
+    event_counts = _load_ufcstats_event_counts()
+    total_events = event_counts.get(str(year), "?")
+    song_cov = f"{s['with_song'] / s['total_fighters'] * 100:.0f}%" if s["total_fighters"] else "0%"
+    lines += [
+        f"{year_data['events']}/{total_events} events · {s['with_song']} songs found · {song_cov} song coverage (parsed events)",
+        "",
+    ]
+
+    # Flat song table — aggregate by spotify_url, sort by play count
+    song_counts: dict[str, dict] = {}
+    for event in events_for_year:
+        for song in event.get("songs", []):
+            if song["confidence"] == "missing" or not song["spotify_url"]:
+                continue
+            url = song["spotify_url"]
+            if url not in song_counts:
+                song_counts[url] = {
+                    "song_title": song["song_title"],
+                    "artist": song["artist"],
+                    "spotify_url": url,
+                    "fighters": [],
+                }
+            song_counts[url]["fighters"].append(song["fighter"])
+
+    sorted_songs = sorted(
+        song_counts.values(),
+        key=lambda x: (-len(x["fighters"]), x["artist"].lower(), x["song_title"].lower()),
+    )
+    lines += [
+        "## Songs",
+        "",
+        "| Song | Artist | Fighter(s) | Spotify |",
+        "|------|--------|------------|---------|",
+    ]
+    for entry in sorted_songs:
+        fighters_str = ", ".join(
+            f"[{f}](../by-fighter/{slugify(f)}.md)" for f in entry["fighters"]
+        )
+        url = entry["spotify_url"]
+        link = f"[Listen]({url})" if is_playable_url(url) else ""
+        lines.append(f"| {entry['song_title']} | {entry['artist']} | {fighters_str} | {link} |")
+
+    lines += [""]
+
+    # Event sections — chronological
+    lines += ["## Events", ""]
+    for event in sorted(events_for_year, key=lambda e: e["date"]):
+        songs = event.get("songs", [])
+        found = sum(1 for sg in songs if sg["confidence"] != "missing")
+        total = len(songs)
+        slug = event["event_slug"]
+        event_link = f"[{event['event']}](../../../{slug}.md)"
+        lines += [
+            f"### {event_link} — {found}/{total} songs",
+            "",
+            "| Fighter | Song | Artist | Spotify |",
+            "|---------|------|--------|---------|",
+        ]
+        for song in songs:
+            fighter_link = f"[{song['fighter']}](../by-fighter/{slugify(song['fighter'])}.md)"
+            if song["confidence"] == "missing":
+                lines.append(f"| {fighter_link} | — | — | |")
+            else:
+                url = song["spotify_url"]
+                link = f"[Listen]({url})" if is_playable_url(url) else ""
+                lines.append(f"| {fighter_link} | {song['song_title']} | {song['artist']} | {link} |")
+        lines.append("")
+
     out_path.write_text("\n".join(lines) + "\n")
     return out_path
 
@@ -232,17 +352,19 @@ def write_viz_fighter(fighter_data):
         "",
         f"{fighter_data['appearances']} event(s) | {fighter_data['stats']['with_song']} song(s) found | {fighter_data['stats']['unique_songs']} unique",
         "",
-        "| Date | Event | Song | Artist | Spotify |",
+        "| Year | Event | Song | Artist | Spotify |",
         "|------|-------|------|--------|---------|",
     ]
     for w in fighter_data["walkouts"]:
         event_link = f"[{w['event']}](../../{w['event_slug']}.md)"
+        year = w["date"][:4]
+        year_link = f"[{year}](../agg/by-year/{year}.md)"
         if w["confidence"] == "missing":
-            lines.append(f"| {w['date']} | {event_link} | — | — | |")
+            lines.append(f"| {year_link} | {event_link} | — | — | |")
         else:
             url = w["spotify_url"]
             link = f"[Listen]({url})" if is_playable_url(url) else ""
-            lines.append(f"| {w['date']} | {event_link} | {w['song_title']} | {w['artist']} | {link} |")
+            lines.append(f"| {year_link} | {event_link} | {w['song_title']} | {w['artist']} | {link} |")
     out_path.write_text("\n".join(lines) + "\n")
     return out_path
 
@@ -345,7 +467,20 @@ def main():
         # Viz markdown tables
         write_viz_top_songs(song_results)
         write_viz_by_year(year_results)
-        print(f"viz/agg/ -> top-songs.md, by-year.md")
+
+        # Per-year viz pages
+        current_year = datetime.date.today().year
+        events_by_year: dict[str, list] = defaultdict(list)
+        for event in events:
+            y = event.get("date", "")[:4]
+            if y:
+                events_by_year[y].append(event)
+        year_pages = 0
+        for y in range(2016, current_year + 1):
+            write_viz_year_page(y, year_results.get(str(y)), events_by_year.get(str(y), []))
+            year_pages += 1
+
+        print(f"viz/agg/ -> top-songs.md, by-year.md, by-year/{year_pages} year pages")
 
 
 if __name__ == "__main__":

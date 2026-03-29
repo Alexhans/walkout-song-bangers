@@ -2,6 +2,6 @@
 
 1 event(s) | 1 song(s) found | 1 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-08-27 | [UFC on FOX: Maia vs. Condit](../../ufc-on-fox-maia-vs-condit.md) | Sail | AWOLNATION | [Listen](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) |
+| [2016](../agg/by-year/2016.md) | [UFC on FOX: Maia vs. Condit](../../ufc-on-fox-maia-vs-condit.md) | Sail | AWOLNATION | [Listen](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) |

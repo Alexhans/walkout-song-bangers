@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2020-08-15 | [UFC 252: Miocic vs. Cormier 3](../../ufc-252.md) | — | — | |
+| [2020](../agg/by-year/2020.md) | [UFC 252: Miocic vs. Cormier 3](../../ufc-252.md) | — | — | |

@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-09-03 | [UFC Fight Night: Arlovski vs. Barnett](../../ufc-fight-night-arlovski-vs-barnett.md) | — | — | |
+| [2016](../agg/by-year/2016.md) | [UFC Fight Night: Arlovski vs. Barnett](../../ufc-fight-night-arlovski-vs-barnett.md) | — | — | |

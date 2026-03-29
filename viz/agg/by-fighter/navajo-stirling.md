@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-03-28 | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | — | — | |
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | — | — | |

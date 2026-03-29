@@ -2,6 +2,6 @@
 
 1 event(s) | 1 song(s) found | 1 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-07-07 | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Vida Loucha (Part 2) | Racionales | [Listen](https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc) |
+| [2016](../agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Vida Loucha (Part 2) | Racionales | [Listen](https://open.spotify.com/track/2Ej1aEjSia9FU71eVu3toc) |

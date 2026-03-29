@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |
+| [2021](../agg/by-year/2021.md) | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |

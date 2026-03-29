@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2024-03-23 | [UFC Fight Night: Ribas vs. Namajunas](../../ufc-fight-night-ribas-vs-namajunas.md) | — | — | |
+| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](../../ufc-fight-night-ribas-vs-namajunas.md) | — | — | |

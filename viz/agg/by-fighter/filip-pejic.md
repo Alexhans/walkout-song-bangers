@@ -2,6 +2,6 @@
 
 1 event(s) | 1 song(s) found | 1 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2016-04-10 | [UFC Fight Night: Rothwell vs Dos Santos](../../ufc-fight-night-rothwell-vs-dos-santos.md) | The Rain | DMX | [Listen](https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr) |
+| [2016](../agg/by-year/2016.md) | [UFC Fight Night: Rothwell vs Dos Santos](../../ufc-fight-night-rothwell-vs-dos-santos.md) | The Rain | DMX | [Listen](https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr) |

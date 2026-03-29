@@ -22,20 +22,22 @@ def event_sort_key(event):
 def generate_table(events):
     """Generate the markdown table from event data."""
     lines = [
-        "| Event | Fighters | Gold | Silver | Bronze | Missing |",
-        "|-------|----------|------|--------|--------|---------|",
+        "| Year | Event | Fighters | Gold | Silver | Bronze | Missing |",
+        "|------|-------|----------|------|--------|--------|---------|",
     ]
 
     for event in sorted(events, key=event_sort_key):
         songs = event.get("songs", [])
         slug = event["event_slug"]
         name = event["event"]
+        year = event.get("date", "")[:4]
+        year_link = f"[{year}](viz/agg/by-year/{year}.md)" if year else ""
         total = len(songs)
         gold = sum(1 for s in songs if s["confidence"] == "gold")
         silver = sum(1 for s in songs if s["confidence"] == "silver")
         bronze = sum(1 for s in songs if s["confidence"] == "bronze")
         missing = sum(1 for s in songs if s["confidence"] == "missing")
-        lines.append(f"| [{name}](viz/{slug}.md) | {total} | {gold} | {silver} | {bronze} | {missing} |")
+        lines.append(f"| {year_link} | [{name}](viz/{slug}.md) | {total} | {gold} | {silver} | {bronze} | {missing} |")
 
     return "\n".join(lines)
 

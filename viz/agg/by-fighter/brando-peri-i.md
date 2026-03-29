@@ -2,6 +2,6 @@
 
 1 event(s) | 0 song(s) found | 0 unique
 
-| Date | Event | Song | Artist | Spotify |
+| Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| 2026-03-21 | [UFC Fight Night: Evloev vs. Murphy](../../ufc-fight-night-evloev-vs-murphy.md) | — | — | |
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](../../ufc-fight-night-evloev-vs-murphy.md) | — | — | |
