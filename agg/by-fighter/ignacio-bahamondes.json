@@ -1,7 +1,7 @@
 {
   "fighter": "Ignacio Bahamondes",
   "slug": "ignacio-bahamondes",
-  "appearances": 6,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,15 +11,6 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
-    },
-    {
-      "song_title": "El Taller del Maestro",
-      "artist": "Alex Campos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
     },
     {
       "song_title": "Paz En La Tormenta",
@@ -59,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 4
   }

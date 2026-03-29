@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 10,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -49,15 +49,6 @@
       "date": "2024-06-01"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
-    },
-    {
       "song_title": "Praise",
       "artist": "Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore",
       "confidence": "bronze",
@@ -95,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 9,
     "with_song": 9,
-    "missing": 1,
+    "missing": 0,
     "unique_songs": 7
   }
 }

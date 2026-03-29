@@ -1,7 +1,7 @@
 {
   "fighter": "Ricky Simon",
   "slug": "ricky-simon",
-  "appearances": 4,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Italy",
@@ -11,15 +11,6 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
     },
     {
       "song_title": "Ricky",
@@ -41,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 3,
     "with_song": 3,
-    "missing": 1,
+    "missing": 0,
     "unique_songs": 2
   }
 }

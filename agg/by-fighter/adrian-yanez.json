@@ -1,7 +1,7 @@
 {
   "fighter": "Adrian Yanez",
   "slug": "adrian-yanez",
-  "appearances": 7,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Oh La La",
@@ -11,15 +11,6 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
-    },
-    {
-      "song_title": "Oh La La",
-      "artist": "Run the Jewels",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
     },
     {
       "song_title": "",
@@ -68,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
     "unique_songs": 5
   }

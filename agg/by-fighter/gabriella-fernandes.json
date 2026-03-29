@@ -1,17 +1,8 @@
 {
   "fighter": "Gabriella Fernandes",
   "slug": "gabriella-fernandes",
-  "appearances": 3,
+  "appearances": 2,
   "walkouts": [
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
-    },
     {
       "song_title": "Alright",
       "artist": "Kendrick Lamar",
@@ -32,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 2,
     "with_song": 2,
-    "missing": 1,
+    "missing": 0,
     "unique_songs": 2
   }
 }

@@ -198,7 +198,6 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 9 | 17 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 4 | 22 |
 <!-- END EVENTS -->
 
 ## How it works

@@ -532,13 +532,6 @@
     "unique_fighters": 3
   },
   {
-    "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
-    "song_title": "All The Way Up",
-    "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
-    "count": 3,
-    "unique_fighters": 3
-  },
-  {
     "artist": "Fort Minor",
     "song_title": "Remember the Name",
     "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
@@ -1312,6 +1305,13 @@
     "artist": "Endo Rivera",
     "song_title": "Por Ti Volare",
     "spotify_url": "https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Fat Joe & Remy Ma feat. French Montana & Infrared",
+    "song_title": "All The Way Up",
+    "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
     "count": 2,
     "unique_fighters": 2
   },
@@ -2775,13 +2775,6 @@
     "artist": "Alborosie",
     "song_title": "Tears",
     "spotify_url": "https://open.spotify.com/track/4g0uvKVVh4Hf1X0eS8Uvqc",
-    "count": 2,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Alex Campos",
-    "song_title": "El Taller del Maestro",
-    "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
     "count": 2,
     "unique_fighters": 1
   },
@@ -4651,6 +4644,13 @@
     "artist": "Alestorm",
     "song_title": "Zombies Ate My Pirate Ship",
     "spotify_url": "https://open.spotify.com/track/5EVqJG5Gnqmpzq33TJbo89",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Alex Campos",
+    "song_title": "El Taller del Maestro",
+    "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12502,13 +12502,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Robert Trapper",
-    "song_title": "No Easy Way Out",
-    "spotify_url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Robin feat. Elastinen",
     "song_title": "Kipinan Hetki",
     "spotify_url": "https://open.spotify.com/track/1f9Vc7z6Yj3DcttF9Svo33",
@@ -13905,13 +13898,6 @@
     "artist": "Total Combat",
     "song_title": "Fire on the Beach",
     "spotify_url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Trapt",
-    "song_title": "Headstrong",
-    "spotify_url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4",
     "count": 1,
     "unique_fighters": 1
   },
