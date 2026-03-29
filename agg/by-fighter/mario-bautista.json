@@ -1,7 +1,7 @@
 {
   "fighter": "Mario Bautista",
   "slug": "mario-bautista",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Kickstart My Heart",
@@ -11,6 +11,15 @@
       "event": "UFC 247: Jones vs. Reyes",
       "event_slug": "ufc-247",
       "date": "2020-02-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "Immigrant Song",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 8,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

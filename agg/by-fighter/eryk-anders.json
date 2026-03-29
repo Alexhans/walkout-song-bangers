@@ -1,7 +1,7 @@
 {
   "fighter": "Eryk Anders",
   "slug": "eryk-anders",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "ATLiens",
@@ -11,6 +11,15 @@
       "event": "UFC 236: Holloway vs. Poirier 2",
       "event_slug": "ufc-236",
       "date": "2019-04-13"
+    },
+    {
+      "song_title": "The Purge",
+      "artist": "Jay Park",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3gGyzpBLb7pqOw5oC47QaV",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Set it Off",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

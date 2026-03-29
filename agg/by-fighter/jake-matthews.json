@@ -1,7 +1,7 @@
 {
   "fighter": "Jake Matthews",
   "slug": "jake-matthews",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Face Everything And Rise",
@@ -20,6 +20,15 @@
       "event": "UFC 243: Whittaker vs. Adesanya",
       "event_slug": "ufc-243",
       "date": "2019-10-05"
+    },
+    {
+      "song_title": "The Downfall of us All",
+      "artist": "A Day To Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "Got This",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

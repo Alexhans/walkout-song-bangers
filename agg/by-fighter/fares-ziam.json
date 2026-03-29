@@ -1,7 +1,7 @@
 {
   "fighter": "Fares Ziam",
   "slug": "fares-ziam",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Never Personal",
@@ -11,6 +11,15 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Pour De Vrai",
+      "artist": "Lacrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60FgA36WE1ubi8oiGSnPP8",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "On La Pas Choisi",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

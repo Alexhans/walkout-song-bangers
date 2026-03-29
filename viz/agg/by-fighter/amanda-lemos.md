@@ -1,9 +1,10 @@
 # Amanda Lemos
 
-6 event(s) | 6 song(s) found | 5 unique
+7 event(s) | 7 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2021](../agg/by-year/2021.md) | [UFC 259: Blachowicz vs. Adesanya](../../ufc-259.md) | Tu Es Bom | DJ PV featuring Julia Vitoria | [Listen](https://open.spotify.com/track/3XQAzgRBs5TCeWn5akOufa) |
 | [2023](../agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Deixa | Maria Marcai |  |
 | [2024](../agg/by-year/2024.md) | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Bencaos Que Nao Tem Fim | Isadora Pompeu | [Listen](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | De Dentro Pra Fora | Julia Vitoria | [Listen](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) |

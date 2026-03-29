@@ -1,7 +1,7 @@
 {
   "fighter": "Pannie Kianzad",
   "slug": "pannie-kianzad",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Be My Lover",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Saturday Night – Whigfield",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

@@ -80,6 +80,8 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2020](viz/agg/by-year/2020.md) | [UFC 252: Miocic vs. Cormier 3](viz/ufc-252.md) | 22 | 0 | 0 | 11 | 11 |
 | [2020](viz/agg/by-year/2020.md) | [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
 | [2021](viz/agg/by-year/2021.md) | [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 259: Blachowicz vs. Adesanya](viz/ufc-259.md) | 30 | 0 | 0 | 15 | 15 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](viz/ufc-263.md) | 28 | 0 | 0 | 13 | 15 |
 | [2021](viz/agg/by-year/2021.md) | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
 | [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Sandhagen vs. Dillashaw](viz/ufc-fight-night-sandhagen-vs-dillashaw.md) | 22 | 0 | 0 | 21 | 1 |
 | [2021](viz/agg/by-year/2021.md) | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |

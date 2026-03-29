@@ -1,8 +1,17 @@
 {
   "fighter": "Amanda Lemos",
   "slug": "amanda-lemos",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Tu Es Bom",
+      "artist": "DJ PV featuring Julia Vitoria",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XQAzgRBs5TCeWn5akOufa",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
     {
       "song_title": "Deixa",
       "artist": "Maria Marcai",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

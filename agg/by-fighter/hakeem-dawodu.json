@@ -1,7 +1,7 @@
 {
   "fighter": "Hakeem Dawodu",
   "slug": "hakeem-dawodu",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 244: Masvidal vs. Diaz",
       "event_slug": "ufc-244",
       "date": "2019-11-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

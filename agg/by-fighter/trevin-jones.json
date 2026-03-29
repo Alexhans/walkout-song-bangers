@@ -1,8 +1,17 @@
 {
   "fighter": "Trevin Jones",
   "slug": "trevin-jones",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "“Pump it Up” by Joe Budden « Previous Jan Blachowicz, Amanda Nunes Retain Championships at UFC 259; Petr Yan Loses Title on DQ Next By the Numbers: UFC 259 » More view more --> UFC Seattle highlight video: Joe Pyfer pounds out Israel AdesanyaAfter The Bell: UFC Seattle live recapUFC Seattle highlight video: Alexa Grasso KOs, chokes out Maycee BarberUFC Seattle highlight video: Michael Chiesa RNCs Niko Price in retirement fightUFC Seattle highlight video: Yousri Belgaroui crumbles Mansur Abdul-Malik Subscribe to our Newsletter * indicates required Email Address * Latest News ALLUFCPFL Live Now! PFL Pittsburgh ‘Eblen vs. Battle’ play-by-play, results & round scoringLive Now! UFC Seattle ‘Adesanya vs. Pyfer’ play-by-play, results & round scoringUFC Seattle Prelims: Musayev wins wild scrap against BahamondesFlyweight GOAT Demetrious Johnson headed to UFC Hall of FameNate Diaz teammate to face fellow UFC vet on MVP 'Rousey vs. Carano' cardSteve Erceg plans to have 'less respect' for future opponentsBrazilian Pancrase ace eyes future bouts with Rizin, Dana White’s Contender SeriesJack Della Maddalena reflects on UFC title loss: 'It was a bit of laziness'Live Now! UFC Seattle ‘Adesanya vs. Pyfer’ play-by-play, results & round scoringUFC Seattle Prelims: Musayev wins wild scrap against BahamondesFlyweight GOAT Demetrious Johnson headed to UFC Hall of FameSteve Erceg plans to have 'less respect' for future opponentsJack Della Maddalena reflects on UFC title loss: 'It was a bit of laziness'Quillan Salkilld sets timeline for UFC title shotCoach: Barking like a dog won’t earn Jean Silva next title shot vs. VolkanovskiColby Covington admits to souring of relationship with UFCLive Now! PFL Pittsburgh ‘Eblen vs. Battle’ play-by-play, results & round scoringPFL Pittsburgh weigh-ins: Johnny Eblen's return set as everyone makes weightJack Cartwright rides wave of momentum, hope into PFL PittsburghCris Cyborg preps for latest title bout, life after fightingRizin to send former champ to PFL Brussels against 2025 PFL tourney winnerChanged landscape greets Natan Schulte at PFL Pittsburgh after 1,000-day layoffPost-UFC Bryan Battle eager to turn the page at PFL PittsburghSumiko Inaba determined to build on lessons learned ahead of PFL Pittsburgh EVENTS / FIGHTS UFCPFL MORE Mar282026 UFC Fight Night 271 Adesanya vs. Pyfer Apr042026 UFC Fight Night 272 Moicano vs. Duncan Apr112026 UFC 327 Prochazka vs. Ulberg Apr182026 UFC Fight Night 273 Burns vs. Malott Apr252026 UFC Fight Night 274 Sterling vs. Zalal Mar282026 Professional Fighters League PFL Pittsburgh - Eblen vs. Battle Apr102026 Professional Fighters League PFL Africa 1: 2026 First Round Apr112026 Professional Fighters League PFL Chicago - Pettis vs. McKee Apr162026 Professional Fighters League PFL Belfast - Wilson vs. Kelly May022026 Professional Fighters League PFL Sioux Falls - Storley vs. Zendeli + MORE UFC FIGHTS+ MORE PFL FIGHTS {firstname} { \"nickname\" }{lastname} {firstname} { \"nickname\" }{lastname} {name} - {title} FIGHT FINDER FIGHTER OF THE WEEK Renat Khavalov TOP TRENDING FIGHTERS Gina CaranoRonda RouseyRenato CarneiroSergio Pettis MORE FIGHTERS... Ethyn Ewing",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
     {
       "song_title": "Spit Your Game",
       "artist": "Notorious B.I.G.",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Thiago Santos",
   "slug": "thiago-santos",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -29,6 +29,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Marreta Da CDD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Lauren Murphy",
   "slug": "lauren-murphy",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Bad to the Bone",
@@ -20,6 +20,15 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "BAD TO THE BONE",
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 5
   }

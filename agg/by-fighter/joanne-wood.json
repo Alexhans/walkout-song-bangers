@@ -1,7 +1,7 @@
 {
   "fighter": "Joanne Wood",
   "slug": "joanne-wood",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -29,6 +29,15 @@
       "event": "UFC 257: Poirier vs. McGregor 2",
       "event_slug": "ufc-257",
       "date": "2021-01-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Protect Your Mind (For the Love of a Princess)",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 4,
-    "missing": 4,
+    "missing": 5,
     "unique_songs": 4
   }
 }

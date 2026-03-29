@@ -1,7 +1,7 @@
 {
   "fighter": "Brad Riddell",
   "slug": "brad-riddell",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Thunderstruck",
@@ -11,6 +11,15 @@
       "event": "UFC 243: Whittaker vs. Adesanya",
       "event_slug": "ufc-243",
       "date": "2019-10-05"
+    },
+    {
+      "song_title": "Tevita Latai Maumi",
+      "artist": "Jay Black (RatLand Entertainment)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vN8wVgt2sIAN2JQNiNSGd",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Sons of Plunder",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

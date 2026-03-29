@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Diaz",
   "slug": "nate-diaz",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Don't Make Enemies With Me (Part 2)",
@@ -38,12 +38,21 @@
       "event": "UFC 244: Masvidal vs. Diaz",
       "event_slug": "ufc-244",
       "date": "2019-11-02"
+    },
+    {
+      "song_title": "The Rain / Used To / Cant C Me / Last Ones Left",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Rain%20/%20Used%20To%20/%20Cant%20C%20Me%20/%20Last%20Ones%20Left%20DMX",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

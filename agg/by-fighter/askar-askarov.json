@@ -1,7 +1,7 @@
 {
   "fighter": "Askar Askarov",
   "slug": "askar-askarov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "We Are Heroes",
+      "artist": "Nasheed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TayNhoH7cuNwMO8F058Ei",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "We are Heroes",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

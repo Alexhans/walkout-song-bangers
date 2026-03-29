@@ -1,7 +1,7 @@
 {
   "fighter": "Casey Kenney",
   "slug": "casey-kenney",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2020-10-24"
     },
     {
+      "song_title": "King",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
       "song_title": "Thug",
       "artist": "Slim Thug",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

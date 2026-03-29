@@ -1,7 +1,7 @@
 {
   "fighter": "Jan Blachowicz",
   "slug": "jan-blachowicz",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Ballada O Pancernych",
+      "artist": "Edmund Fetting",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fk2w2RANRpiAuCxcnWzgT",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "Ballada o Pancernych",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 7,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

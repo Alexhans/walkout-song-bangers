@@ -1,7 +1,7 @@
 {
   "fighter": "Israel Adesanya",
   "slug": "israel-adesanya",
-  "appearances": 10,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "Smile",
@@ -38,6 +38,24 @@
       "event": "UFC 248: Adesanya vs. Romero",
       "event_slug": "ufc-248",
       "date": "2020-03-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "",
@@ -95,9 +113,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 12,
     "with_song": 3,
-    "missing": 7,
+    "missing": 9,
     "unique_songs": 3
   }
 }

@@ -29,6 +29,8 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent.parent
 DATA_DIR = REPO_ROOT / "data"
 VIZ_DIR = REPO_ROOT / "viz"
+YAHOO_SEARCH_ROOT = "https://search.yahoo.com/search?p="
+BING_SEARCH_ROOT = "https://www.bing.com/search?q="
 
 
 CONF_RANK = {"missing": 0, "bronze": 1, "silver": 2, "gold": 3}
@@ -156,6 +158,32 @@ def _parse_event_number(arg: str) -> int:
     return int(m.group(1))
 
 
+def _extract_result_urls_yahoo(search_html: str) -> list[str]:
+    urls: list[str] = []
+    seen: set[str] = set()
+    for encoded in re.findall(r"/RU=([^/]+)/RK=", search_html):
+        url = urllib.parse.unquote(encoded)
+        if url.startswith("http") and url not in seen:
+            seen.add(url)
+            urls.append(url)
+    return urls
+
+
+def _extract_result_urls_bing(search_html: str) -> list[str]:
+    urls: list[str] = []
+    seen: set[str] = set()
+    for raw in re.findall(r'href="([^"]+)"', search_html):
+        href = html.unescape(raw)
+        if not href.startswith("http"):
+            continue
+        if "sherdog.com" not in href:
+            continue
+        if href not in seen:
+            seen.add(href)
+            urls.append(href)
+    return urls
+
+
 def _find_ufcstats_event_url(event_label: str) -> tuple[str, str]:
     """Return (event_url, canonical_event_name) from UFCStats."""
     index = _http_get("http://www.ufcstats.com/statistics/events/completed?page=all")
@@ -243,6 +271,28 @@ def _find_walkmen_url(event_number: int) -> str:
     m = re.search(pat, sitemap)
     if m:
         return m.group(0)
+
+    queries = [
+        f'site:sherdog.com "The Walkmen" "UFC {event_number}"',
+        f'site:sherdog.com "All UFC {event_number} Walkout Tracks"',
+        f'site:sherdog.com "UFC {event_number}" "Walkout Tracks"',
+    ]
+    for query in queries:
+        for provider, root in (("yahoo", YAHOO_SEARCH_ROOT), ("bing", BING_SEARCH_ROOT)):
+            try:
+                html_txt = _http_get(root + urllib.parse.quote_plus(query))
+            except Exception:
+                continue
+            hrefs = (
+                _extract_result_urls_yahoo(html_txt)
+                if provider == "yahoo"
+                else _extract_result_urls_bing(html_txt)
+            )
+            for href in hrefs:
+                if "sherdog.com/news/articles/The-Walkmen-" not in href:
+                    continue
+                if f"UFC-{event_number}-" in href:
+                    return href
 
     # Fallback: walk recent article list pages until we find a matching Walkmen URL.
     # This is intentionally bounded to keep runtime predictable.

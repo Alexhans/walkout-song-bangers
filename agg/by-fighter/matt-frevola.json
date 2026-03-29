@@ -1,7 +1,7 @@
 {
   "fighter": "Matt Frevola",
   "slug": "matt-frevola",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Livin' on a Prayer",
@@ -29,6 +29,15 @@
       "event": "UFC 257: Poirier vs. McGregor 2",
       "event_slug": "ufc-257",
       "date": "2021-01-23"
+    },
+    {
+      "song_title": "Good Vibrations",
+      "artist": "Marky Mark and The Funky Bunch (Featuring Loleatta Holloway)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "ROLLIN",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

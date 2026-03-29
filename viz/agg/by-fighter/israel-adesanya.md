@@ -1,6 +1,6 @@
 # Israel Adesanya
 
-10 event(s) | 3 song(s) found | 3 unique
+12 event(s) | 3 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,6 +8,8 @@
 | [2019](../agg/by-year/2019.md) | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | [2019](../agg/by-year/2019.md) | [UFC 243: Whittaker vs. Adesanya](../../ufc-243.md) | — | — | |
 | [2020](../agg/by-year/2020.md) | [UFC 248: Adesanya vs. Romero](../../ufc-248.md) | — | — | |
+| [2021](../agg/by-year/2021.md) | [UFC 259: Blachowicz vs. Adesanya](../../ufc-259.md) | — | — | |
+| [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | — | — | |

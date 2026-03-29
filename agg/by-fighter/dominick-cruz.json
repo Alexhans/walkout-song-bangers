@@ -1,7 +1,7 @@
 {
   "fighter": "Dominick Cruz",
   "slug": "dominick-cruz",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Dominator (Ezer Remix)",
@@ -20,6 +20,15 @@
       "event": "UFC 249: Ferguson vs. Gaethje",
       "event_slug": "ufc-249",
       "date": "2020-05-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "Still Tippin'",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

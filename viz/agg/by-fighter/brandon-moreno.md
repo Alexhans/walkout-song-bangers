@@ -1,10 +1,11 @@
 # Brandon Moreno
 
-8 event(s) | 4 song(s) found | 3 unique
+9 event(s) | 4 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2019](../agg/by-year/2019.md) | [UFC 245: Usman vs. Covington](../../ufc-245.md) | — | — | |
+| [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | — | — | |

@@ -1,7 +1,7 @@
 {
   "fighter": "Kai Kara-France",
   "slug": "kai-kara-france",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "The Greatest",
@@ -11,6 +11,15 @@
       "event": "UFC 245: Usman vs. Covington",
       "event_slug": "ufc-245",
       "date": "2019-12-14"
+    },
+    {
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "Poi E",
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 4
   }

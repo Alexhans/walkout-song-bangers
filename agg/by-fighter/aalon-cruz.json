@@ -1,0 +1,22 @@
+{
+  "fighter": "Aalon Cruz",
+  "slug": "aalon-cruz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Memories",
+      "artist": "David Guetta featuring Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

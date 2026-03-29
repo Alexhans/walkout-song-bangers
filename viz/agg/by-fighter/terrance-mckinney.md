@@ -1,9 +1,10 @@
 # Terrance McKinney
 
-7 event(s) | 5 song(s) found | 5 unique
+8 event(s) | 5 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Holm vs. Bueno Silva](../../ufc-fight-night-holm-vs-bueno-silva.md) | Can't Tell Me Nothing | Kanye West | [Listen](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | — | — | |

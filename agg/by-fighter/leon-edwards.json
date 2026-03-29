@@ -1,7 +1,7 @@
 {
   "fighter": "Leon Edwards",
   "slug": "leon-edwards",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Mo Money Mo Problems",
@@ -11,6 +11,15 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Shabba Madda Pot",
@@ -68,8 +77,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
     "unique_songs": 4
   }

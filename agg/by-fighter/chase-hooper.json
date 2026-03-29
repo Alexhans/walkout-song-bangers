@@ -1,7 +1,7 @@
 {
   "fighter": "Chase Hooper",
   "slug": "chase-hooper",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Visionz",
@@ -20,6 +20,15 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "Euphoria",
+      "artist": "Rakim Featuring Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hmJtNEQx7uAr22KGCipYF",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "The Al Capone Suite",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

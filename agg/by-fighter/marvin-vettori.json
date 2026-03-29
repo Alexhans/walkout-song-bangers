@@ -1,7 +1,7 @@
 {
   "fighter": "Marvin Vettori",
   "slug": "marvin-vettori",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -29,6 +29,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Victory",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 6,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 6
   }
 }

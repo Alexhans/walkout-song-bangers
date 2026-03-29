@@ -1,7 +1,7 @@
 {
   "fighter": "Drew Dober",
   "slug": "drew-dober",
-  "appearances": 9,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Shoop",
@@ -38,6 +38,24 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "This is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "This is How We Do It",
@@ -86,8 +104,8 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 8,
+    "events": 11,
+    "with_song": 10,
     "missing": 1,
     "unique_songs": 6
   }

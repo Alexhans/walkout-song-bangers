@@ -1,7 +1,7 @@
 {
   "fighter": "Amanda Nunes",
   "slug": "amanda-nunes",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "O Farol",
@@ -58,6 +58,15 @@
       "date": "2020-06-06"
     },
     {
+      "song_title": "American Oxygen",
+      "artist": "Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
       "song_title": "Troca de Calcada",
       "artist": "Marilla Mendonca",
       "confidence": "bronze",
@@ -86,8 +95,8 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 9,
+    "events": 10,
+    "with_song": 10,
     "missing": 0,
     "unique_songs": 6
   }

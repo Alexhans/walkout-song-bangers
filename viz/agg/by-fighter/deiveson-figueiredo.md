@@ -1,10 +1,11 @@
 # Deiveson Figueiredo
 
-7 event(s) | 4 song(s) found | 4 unique
+8 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2017](../agg/by-year/2017.md) | [UFC 212: Aldo vs. Holloway](../../ufc-212.md) | — | — | |
+| [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Baludão | Dkria, MC Tikão | [Listen](https://open.spotify.com/track/4pKgeh1VrZqw8nDpeQWv4Z) |

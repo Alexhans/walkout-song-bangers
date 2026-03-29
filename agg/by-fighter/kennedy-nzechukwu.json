@@ -1,8 +1,17 @@
 {
   "fighter": "Kennedy Nzechukwu",
   "slug": "kennedy-nzechukwu",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
     {
       "song_title": "This Year (Blessing)",
       "artist": "Victor Thompson and Ehis D Greatest",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 5
   }
 }
