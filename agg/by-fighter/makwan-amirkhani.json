@@ -1,7 +1,7 @@
 {
   "fighter": "Makwan Amirkhani",
   "slug": "makwan-amirkhani",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,48 @@
       "event": "UFC 244: Masvidal vs. Diaz",
       "event_slug": "ufc-244",
       "date": "2019-11-02"
+    },
+    {
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Yazn",
+      "artist": "Mikail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Qagd6kJEbLDdsDzvmRCav",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "Dlakam",
+      "artist": "Marta Hawrami",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6A2swCV80Yu230xkYTPnlN",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 4
   }
 }

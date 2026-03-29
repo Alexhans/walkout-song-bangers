@@ -1,0 +1,22 @@
+{
+  "fighter": "Mike Davis",
+  "slug": "mike-davis",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Yeah Glo!",
+      "artist": "GloRilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

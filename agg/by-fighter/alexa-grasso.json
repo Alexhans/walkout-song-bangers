@@ -1,7 +1,7 @@
 {
   "fighter": "Alexa Grasso",
   "slug": "alexa-grasso",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "Paper Plane",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 5,
+    "with_song": 3,
+    "missing": 2,
+    "unique_songs": 2
   }
 }

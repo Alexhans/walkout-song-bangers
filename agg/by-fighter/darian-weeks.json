@@ -1,7 +1,7 @@
 {
   "fighter": "Darian Weeks",
   "slug": "darian-weeks",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Safe And Save",
@@ -11,12 +11,21 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "Prosper",
+      "artist": "David Michael Wyatt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Tp06Bm3KnWQIzm1zNLZqH",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Jessica Penne",
   "slug": "jessica-penne",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,11 +20,20 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }

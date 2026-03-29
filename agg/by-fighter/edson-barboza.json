@@ -1,7 +1,7 @@
 {
   "fighter": "Edson Barboza",
   "slug": "edson-barboza",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Meus Proprios Meios",
@@ -20,12 +20,30 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Vim, Vivi, Venci",
+      "artist": "MP Michael Puga feat. Edson Barboza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HbST3DxoB1ojgC50dX1aw",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Pelos Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Icn3X57tzVMxg6gjOUtoa",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

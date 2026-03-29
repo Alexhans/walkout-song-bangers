@@ -1,7 +1,7 @@
 {
   "fighter": "JJ Aldrich",
   "slug": "jj-aldrich",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -17,15 +17,33 @@
       "artist": "The Roots",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0TdPHbWSEIgqrI04MjMENl",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "song_title": "The Otherside",
+      "artist": "The Roots",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TdPHbWSEIgqrI04MjMENl",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
     "unique_songs": 1
   }
 }

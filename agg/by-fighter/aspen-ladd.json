@@ -1,7 +1,7 @@
 {
   "fighter": "Aspen Ladd",
   "slug": "aspen-ladd",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Promontory",
@@ -20,11 +20,20 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "Promontory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

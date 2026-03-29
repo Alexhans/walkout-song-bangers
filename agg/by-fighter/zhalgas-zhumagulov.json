@@ -1,7 +1,7 @@
 {
   "fighter": "Zhalgas Zhumagulov",
   "slug": "zhalgas-zhumagulov",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Don’t Worry, Be Happy",
+      "artist": "Bobby McFerrin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "Alash Urany",
+      "artist": "Bekbolat Tleuhan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Wo4VXjYc3TwQZ7YlClL7E",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

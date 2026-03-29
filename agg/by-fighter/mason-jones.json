@@ -1,8 +1,26 @@
 {
   "fighter": "Mason Jones",
   "slug": "mason-jones",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Logic",
+      "artist": "Broken People",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "Broken People",
+      "artist": "Logic & Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

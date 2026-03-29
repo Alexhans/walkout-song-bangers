@@ -1,6 +1,6 @@
 # Kelvin Gastelum
 
-5 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2019-04-13 | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | 2019-11-02 | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | — | — | |
 | 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |
+| 2023-12-02 | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | El Palenque | Vicente Fernandez | [Listen](https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz) |

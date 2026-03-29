@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Song vs. Gutierrez",
+  "event_slug": "ufc-fight-night-song-vs-gutierrez",
+  "date": "2023-12-09",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/12/10/fight-tracks-the-walkout-songs-of-ufc-fight-night-233-feat-johnny-cash-don-omar-and-cindi-lauper/80229120007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Song Yadong",
+      "song_title": "Dragon Fist",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gutierrez",
+      "song_title": "Bandolero",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Staying Alive",
+      "artist": "Bee Gees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Smith",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Ronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "My Brother's Keeper",
+      "artist": "Kid Mac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qMIPg5G5vEwPIcydKJaCq",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55",
+      "notes": ""
+    },
+    {
+      "fighter": "Sumudaerji",
+      "song_title": "Akebanma (Akebanma)",
+      "artist": "Zhaxinima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4J3DGmfkkZ7GWxoxSxxxpZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Muniz",
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "JunYong Park",
+      "song_title": "Gonna Fly Now (Rocky theme song)",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Jousset",
+      "song_title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76jbmmHFSCSvycFCgcmKCP",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Kenan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "HyunSung Park",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Shannon Ross",
+      "song_title": "Layers",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ipUYshiPzzUs9EdeOsBFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "Long Live the Champion",
+      "artist": "KB, Gabriel emc, Yariel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp",
+      "notes": ""
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Santos",
+      "song_title": "Fall Out Boy & Alicia Keys",
+      "artist": "Christina Grimmie & Mike Tompkins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Stephanie Egger",
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Power to the People",
+      "artist": "John Lennon/Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Hernandez",
+      "song_title": "Hypnotize",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "notes": ""
+    },
+    {
+      "fighter": "Talita Alencar",
+      "song_title": "The Dog Days are Over",
+      "artist": "Florence & The Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd",
+      "notes": ""
+    },
+    {
+      "fighter": "Rayanne dos Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

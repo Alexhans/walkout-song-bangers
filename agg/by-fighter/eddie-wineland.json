@@ -1,7 +1,7 @@
 {
   "fighter": "Eddie Wineland",
   "slug": "eddie-wineland",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Big Iron",
@@ -20,12 +20,21 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "If You're Gonna Play in Texas",
+      "artist": "Alabama",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lDHpM8kYUjVScfD8nfQ7A",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

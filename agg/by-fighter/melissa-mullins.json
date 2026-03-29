@@ -1,7 +1,7 @@
 {
   "fighter": "Melissa Mullins",
   "slug": "melissa-mullins",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Dancing in the Moonlight",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

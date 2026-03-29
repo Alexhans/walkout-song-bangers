@@ -1,7 +1,7 @@
 {
   "fighter": "AJ Dobson",
   "slug": "aj-dobson",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "ZOO YORK",
@@ -20,12 +20,30 @@
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
+    },
+    {
+      "song_title": "Everything Nice",
+      "artist": "Popcaan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WseWfbKiXbAAwDDwxuSua",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Nick Maximov",
   "slug": "nick-maximov",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "DIGITAL BATH",
@@ -11,12 +11,30 @@
       "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
+    },
+    {
+      "song_title": "Digital Bath",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "Digital Bath",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

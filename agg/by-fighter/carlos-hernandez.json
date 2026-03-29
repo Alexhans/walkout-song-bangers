@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Hernandez",
   "slug": "carlos-hernandez",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,39 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Live Your Life",
+      "artist": "T.I. feat Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Hypnotize",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    },
+    {
+      "song_title": "Hypnotize",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

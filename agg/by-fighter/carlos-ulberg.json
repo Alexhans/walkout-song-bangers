@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Ulberg",
   "slug": "carlos-ulberg",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "CAUGHT IN A DAZE",
@@ -29,12 +29,30 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "song_title": "Pusherman",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
-    "missing": 0,
-    "unique_songs": 3
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

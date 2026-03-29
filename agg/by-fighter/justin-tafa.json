@@ -1,7 +1,7 @@
 {
   "fighter": "Justin Tafa",
   "slug": "justin-tafa",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Engineers",
@@ -38,12 +38,30 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 6,
     "with_song": 4,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 4
   }
 }

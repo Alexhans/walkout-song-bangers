@@ -1,7 +1,7 @@
 {
   "fighter": "Tatiana Suarez",
   "slug": "tatiana-suarez",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,11 +20,20 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Heads Will Roll",
+      "artist": "Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }

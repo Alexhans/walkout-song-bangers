@@ -1,7 +1,7 @@
 {
   "fighter": "Abubakar Nurmagomedov",
   "slug": "abubakar-nurmagomedov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
+    },
+    {
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

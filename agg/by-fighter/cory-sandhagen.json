@@ -1,7 +1,7 @@
 {
   "fighter": "Cory Sandhagen",
   "slug": "cory-sandhagen",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Electric Feel",
@@ -22,6 +22,24 @@
       "date": "2020-06-06"
     },
     {
+      "song_title": "Gimme the Loot",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "Fly Like an Eagle",
+      "artist": "Seal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5eOhVJhGSUVdhVo2LBHHML",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
       "song_title": "Voodoo Child (Slight Return)",
       "artist": "Jimi Hendrix",
       "confidence": "bronze",
@@ -29,12 +47,21 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Gimme the Loot",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

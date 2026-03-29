@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Curtis",
   "slug": "chris-curtis",
-  "appearances": 7,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "THE ONLY THING I KNOW FOR REAL",
@@ -58,6 +58,15 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "Bad Boy For Life",
       "artist": "P. Diddy",
       "confidence": "bronze",
@@ -65,12 +74,30 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Could Have Been Me",
+      "artist": "The Struts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Barns Courtney",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 10,
+    "with_song": 9,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 9
   }
 }

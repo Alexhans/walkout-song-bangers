@@ -1,7 +1,7 @@
 {
   "fighter": "Louis Smolka",
   "slug": "louis-smolka",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Bigger Than Me",
@@ -20,12 +20,30 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Your Smile",
+      "artist": "Fogottenage, Solizy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "Lord Knows",
+      "artist": "Meek Mill feat. Tory Lanez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57hCSu4zMTdnSum7NBL1Ye",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -60,35 +60,78 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
 | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
 | [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
+| [UFC Fight Night: Dern vs. Rodriguez](viz/ufc-fight-night-dern-vs-rodriguez.md) | 18 | 0 | 0 | 17 | 1 |
+| [UFC Fight Night: Ladd vs. Dumont](viz/ufc-fight-night-ladd-vs-dumont.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC Fight Night: Costa vs. Vettori](viz/ufc-fight-night-costa-vs-vettori.md) | 28 | 0 | 0 | 25 | 3 |
+| [UFC 267: Blachowicz vs. Teixeira](viz/ufc-267-blachowicz-vs-teixeira.md) | 28 | 0 | 0 | 28 | 0 |
 | [UFC 268: Usman vs. Covington 2](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
+| [UFC Fight Night: Holloway vs. Rodriguez](viz/ufc-fight-night-holloway-vs-rodriguez.md) | 22 | 0 | 0 | 21 | 1 |
+| [UFC Fight Night: Vieira vs. Tate](viz/ufc-fight-night-vieira-vs-tate.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC Fight Night: Font vs. Aldo](viz/ufc-fight-night-font-vs-aldo.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 269: Oliveira vs. Poirier](viz/ufc-269.md) | 28 | 0 | 0 | 26 | 2 |
+| [UFC Fight Night: Kattar vs. Chikadze](viz/ufc-fight-night-kattar-vs-chikadze.md) | 20 | 0 | 0 | 18 | 2 |
 | [UFC 270: Ngannou vs. Gane](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
+| [UFC Fight Night: Hermansson vs. Strickland](viz/ufc-fight-night-hermansson-vs-strickland.md) | 26 | 0 | 0 | 22 | 4 |
 | [UFC 271: Adesanya vs. Whittaker 2](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
+| [UFC Fight Night: Walker vs. Hill](viz/ufc-fight-night-walker-vs-hill.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Makhachev vs. Green](viz/ufc-fight-night-makhachev-vs-green.md) | 22 | 0 | 0 | 18 | 4 |
+| [UFC Fight Night: Volkov vs. Aspinall](viz/ufc-fight-night-volkov-vs-aspinall.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Blaydes vs. Daukaus](viz/ufc-fight-night-blaydes-vs-daukaus.md) | 24 | 0 | 0 | 20 | 4 |
 | [UFC 273: Volkanovski vs. The Korean Zombie](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
+| [UFC Fight Night: Luque vs. Muhammad](viz/ufc-fight-night-luque-vs-muhammad.md) | 28 | 0 | 0 | 27 | 1 |
+| [UFC Fight Night: Lemos vs. Andrade](viz/ufc-fight-night-lemos-vs-andrade.md) | 22 | 0 | 0 | 19 | 3 |
+| [UFC Fight Night: Font vs. Vera](viz/ufc-fight-night-font-vs-vera.md) | 22 | 0 | 0 | 21 | 1 |
 | [UFC 274: Oliveira vs. Gaethje](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
+| [UFC Fight Night: Blachowicz vs. Rakic](viz/ufc-fight-night-blachowicz-vs-rakic.md) | 22 | 0 | 0 | 20 | 2 |
 | [UFC 275: Teixeira vs. Prochazka](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
+| [UFC Fight Night: Kattar vs. Emmett](viz/ufc-fight-night-kattar-vs-emmett.md) | 26 | 0 | 0 | 24 | 2 |
+| [UFC Fight Night: Tsarukyan vs. Gamrot](viz/ufc-fight-night-tsarukyan-vs-gamrot.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 276: Adesanya vs. Cannonier](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
+| [UFC Fight Night: Dos Anjos vs. Fiziev](viz/ufc-fight-night-dos-anjos-vs-fiziev.md) | 22 | 0 | 0 | 20 | 2 |
+| [UFC Fight Night: Ortega vs. Rodriguez](viz/ufc-fight-night-ortega-vs-rodriguez.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC Fight Night: Blaydes vs. Aspinall](viz/ufc-fight-night-blaydes-vs-aspinall.md) | 28 | 0 | 0 | 25 | 3 |
 | [UFC 277: Pena vs. Nunes 2](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
+| [UFC Fight Night: Santos vs. Hill](viz/ufc-fight-night-santos-vs-hill.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC Fight Night: Vera vs. Cruz](viz/ufc-fight-night-vera-vs-cruz.md) | 26 | 0 | 0 | 23 | 3 |
+| [UFC 278: Usman vs. Edwards](viz/ufc-278-usman-vs-edwards.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Gane vs. Tuivasa](viz/ufc-fight-night-gane-vs-tuivasa.md) | 24 | 0 | 0 | 20 | 4 |
+| [UFC Fight Night: Sandhagen vs. Song](viz/ufc-fight-night-sandhagen-vs-song.md) | 26 | 0 | 0 | 26 | 0 |
 | [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 9 | 15 |
+| [UFC Fight Night: Kattar vs. Allen](viz/ufc-fight-night-kattar-vs-allen.md) | 22 | 0 | 0 | 21 | 1 |
 | [UFC 281: Adesanya vs. Pereira](viz/ufc-281.md) | 28 | 0 | 0 | 26 | 2 |
+| [UFC Fight Night: Thompson vs. Holland](viz/ufc-fight-night-thompson-vs-holland.md) | 28 | 0 | 0 | 27 | 1 |
 | [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
+| [UFC Fight Night: Strickland vs. Imavov](viz/ufc-fight-night-strickland-vs-imavov.md) | 22 | 0 | 0 | 22 | 0 |
 | [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
 | [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 14 | 12 |
+| [UFC Fight Night: Andrade vs. Blanchfield](viz/ufc-fight-night-andrade-vs-blanchfield.md) | 22 | 0 | 0 | 18 | 4 |
 | [UFC Fight Night: Muniz vs. Allen](viz/ufc-fight-night-muniz-vs-allen.md) | 20 | 0 | 0 | 19 | 1 |
 | [UFC 285: Jones vs. Gane](viz/ufc-285.md) | 28 | 0 | 0 | 27 | 1 |
 | [UFC Fight Night: Yan vs. Dvalishvili](viz/ufc-fight-night-yan-vs-dvalishvili.md) | 26 | 0 | 0 | 23 | 3 |
+| [UFC 286: Edwards vs. Usman 3](viz/ufc-286-edwards-vs-usman-3.md) | 30 | 0 | 0 | 29 | 1 |
 | [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
 | [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
+| [UFC Fight Night: Kara-France vs. Albazi](viz/ufc-fight-night-kara-france-vs-albazi.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
+| [UFC Fight Night: Emmett vs. Topuria](viz/ufc-fight-night-emmett-vs-topuria.md) | 26 | 0 | 0 | 24 | 2 |
+| [UFC Fight Night: Strickland vs. Magomedov](viz/ufc-fight-night-strickland-vs-magomedov.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC 290: Volkanovski vs. Rodriguez](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
+| [UFC Fight Night: Holm vs. Bueno Silva](viz/ufc-fight-night-holm-vs-bueno-silva.md) | 26 | 0 | 0 | 23 | 3 |
 | [UFC 291: Poirier vs. Gaethje 2](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
+| [UFC Fight Night: Sandhagen vs. Font](viz/ufc-fight-night-sandhagen-vs-font.md) | 24 | 0 | 0 | 24 | 0 |
+| [UFC Fight Night: Luque vs. Dos Anjos](viz/ufc-fight-night-luque-vs-dos-anjos.md) | 26 | 0 | 0 | 24 | 2 |
 | [UFC 292: Sterling vs. O'Malley](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
 | [UFC 293: Adesanya vs. Strickland](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC Fight Night: Grasso vs. Shevchenko 2](viz/ufc-fight-night-grasso-vs-shevchenko-2.md) | 22 | 0 | 0 | 20 | 2 |
 | [UFC Fight Night: Fiziev vs. Gamrot](viz/ufc-fight-night-fiziev-vs-gamrot.md) | 22 | 0 | 0 | 14 | 8 |
+| [UFC Fight Night: Dawson vs. Green](viz/ufc-fight-night-dawson-vs-green.md) | 20 | 0 | 0 | 19 | 1 |
+| [UFC Fight Night: Yusuff vs. Barboza](viz/ufc-fight-night-yusuff-vs-barboza.md) | 22 | 0 | 0 | 20 | 2 |
 | [UFC 294: Makhachev vs. Volkanovski 2](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Almeida vs. Lewis](viz/ufc-fight-night-almeida-vs-lewis.md) | 20 | 0 | 0 | 19 | 1 |
 | [UFC 295: Prochazka vs. Pereira](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Allen vs. Craig](viz/ufc-fight-night-allen-vs-craig.md) | 28 | 0 | 0 | 26 | 2 |
+| [UFC Fight Night: Dariush vs. Tsarukyan](viz/ufc-fight-night-dariush-vs-tsarukyan.md) | 24 | 0 | 0 | 22 | 2 |
+| [UFC Fight Night: Song vs. Gutierrez](viz/ufc-fight-night-song-vs-gutierrez.md) | 22 | 0 | 0 | 17 | 5 |
 | [UFC 296: Edwards vs. Covington](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
 | [UFC Fight Night: Ankalaev vs. Walker 2](viz/ufc-fight-night-ankalaev-vs-walker-2.md) | 22 | 0 | 0 | 18 | 4 |
 | [UFC 297: Strickland vs. Du Plessis](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
@@ -98,11 +141,15 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC Fight Night: Moreno vs. Royval 2](viz/ufc-fight-night-moreno-vs-royval-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
 | [UFC 299: O'Malley vs. Vera 2](viz/ufc-299.md) | 28 | 0 | 0 | 24 | 4 |
+| [UFC Fight Night: Tuivasa vs. Tybura](viz/ufc-fight-night-tuivasa-vs-tybura.md) | 26 | 0 | 0 | 23 | 3 |
+| [UFC Fight Night: Ribas vs. Namajunas](viz/ufc-fight-night-ribas-vs-namajunas.md) | 26 | 0 | 0 | 2 | 24 |
 | [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
 | [UFC Fight Night: Nicolau vs. Perez](viz/ufc-fight-night-nicolau-vs-perez.md) | 26 | 0 | 0 | 23 | 3 |
 | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
+| [UFC Fight Night: Lewis vs. Nascimento](viz/ufc-fight-night-lewis-vs-nascimento.md) | 24 | 0 | 0 | 2 | 22 |
+| [UFC Fight Night: Barboza vs. Murphy](viz/ufc-fight-night-barboza-vs-murphy.md) | 24 | 0 | 0 | 2 | 22 |
 | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
 | [UFC Fight Night: Perez vs. Taira](viz/ufc-fight-night-perez-vs-taira.md) | 22 | 0 | 0 | 22 | 0 |
 | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
@@ -123,6 +170,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
 | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
 | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 9 | 17 |
+| [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 4 | 22 |
 <!-- END EVENTS -->
 
 ## How it works

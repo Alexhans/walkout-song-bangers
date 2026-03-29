@@ -1,7 +1,7 @@
 {
   "fighter": "Omar Morales",
   "slug": "omar-morales",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
+    },
+    {
+      "song_title": "Blind",
+      "artist": "Korn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

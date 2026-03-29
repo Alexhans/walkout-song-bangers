@@ -1,0 +1,236 @@
+{
+  "event": "UFC 267: Blachowicz vs. Teixeira",
+  "event_slug": "ufc-267-blachowicz-vs-teixeira",
+  "date": "2021-10-30",
+  "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/31/ufc-267-walkout-music-abu-dhabi-red-hot-chili-peppers-bon-jovi/81417713007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Glover Teixeira",
+      "song_title": "Vou Colher Sorrindo",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc",
+      "notes": ""
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Ballada o Pancernych",
+      "artist": "Edmund Fetting",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fk2w2RANRpiAuCxcnWzgT",
+      "notes": ""
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Gimme the Loot",
+      "artist": "The Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "notes": ""
+    },
+    {
+      "fighter": "Islam Makhachev",
+      "song_title": "Cenroev",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Zima Mama",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "Timur Mucuraev",
+      "artist": "Tu Nocy Kogda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VdkBmlS8G3I3Gd3U8hvqz",
+      "notes": ""
+    },
+    {
+      "fighter": "Li Jingliang",
+      "song_title": "Call Me Wawa",
+      "artist": "Lil-Em",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH",
+      "notes": ""
+    },
+    {
+      "fighter": "Magomed Ankalaev",
+      "song_title": "Krasivaja Lezginka",
+      "artist": "Muzyka and Masinu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aYOxcYhknnFFRKlYG0GNh",
+      "notes": ""
+    },
+    {
+      "fighter": "Volkan Oezdemir",
+      "song_title": "Plugged in Freestyle",
+      "artist": "A92 and Fumez the Engineer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tlpI4YkFR0ECRX9vf5QDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Fee Ra Huri",
+      "artist": "Omnia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+      "notes": ""
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "Island Boy",
+      "artist": "The Kiffness and Island Boys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KQDDcp5ZDx372Y3kIVeA6",
+      "notes": ""
+    },
+    {
+      "fighter": "Zubaira Tukhugov",
+      "song_title": "Terrible",
+      "artist": "South G1ala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ume8nZwNsdsj7kKPZspl4",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "MC Marquinho Omg",
+      "artist": "O Terror Carcacinha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sqanPdZoe2LJ2kk531whx",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Duraev",
+      "song_title": "Lamanxoj",
+      "artist": "Va Maryam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aqRsHq5Rwa6hYlAZIRfoj",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "Rus",
+      "artist": "Nikolay Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Elizeu Zaleski dos Santos",
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "notes": ""
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Le Chant des Commandos a Saint Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Wih2CC5QsRG5TQgrK7mwL",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "Potop Muzyka z Filmu Choragwie Rzeczpospolitej",
+      "artist": "Kazimierz Serocki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Gamzatov",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Lerone Murphy",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Makwan Amirkhani",
+      "song_title": "My Time",
+      "artist": "Fabolous feat. Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Hu Yaozong",
+      "song_title": "The Most Dazzling Ethic Style",
+      "artist": "Phoenix Legend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5HcCPJsWGeWtLrHsw3J5ur",
+      "notes": ""
+    },
+    {
+      "fighter": "Tagir Ulanbekov",
+      "song_title": "Vse Zvezdy",
+      "artist": "Gimi Dagestana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "notes": ""
+    },
+    {
+      "fighter": "Allan Nascimento",
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "notes": ""
+    }
+  ]
+}

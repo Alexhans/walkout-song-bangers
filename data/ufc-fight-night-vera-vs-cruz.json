@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Vera vs. Cruz",
+  "event_slug": "ufc-fight-night-vera-vs-cruz",
+  "date": "2022-08-13",
+  "location": "San Diego, California, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120056721.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Spanish Town Rockin'",
+      "artist": "Chronixx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominick Cruz",
+      "song_title": "Forgot About Dre",
+      "artist": "Dr. Dre feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Landwehr",
+      "song_title": "Bad Company",
+      "artist": "Bad Company",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36vTL8WP4ZoD1bbUaW0V3E",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Back To the Hotel",
+      "artist": "N2Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr",
+      "notes": ""
+    },
+    {
+      "fighter": "Yazmin Jauregui",
+      "song_title": "Yo Vengo de Abajo",
+      "artist": "Santa Fe Klan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13I3CFc0m2GrXMxdTBWgst",
+      "notes": ""
+    },
+    {
+      "fighter": "Iasmin Lucindo",
+      "song_title": "Fe",
+      "artist": "Iza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mdKdoSBGmeL5zm2D4AtiU",
+      "notes": ""
+    },
+    {
+      "fighter": "Azamat Murzakanov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
+      "notes": ""
+    },
+    {
+      "fighter": "Priscila Cachoeira",
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola de Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "Ain’t No Stopping Me",
+      "artist": "Al Kapone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Martin Buday",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    },
+    {
+      "fighter": "Lukasz Brzeski",
+      "song_title": "Lukasyno",
+      "artist": "Moj Swiat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "notes": ""
+    },
+    {
+      "fighter": "Nina Nunes",
+      "song_title": "Don’t Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7",
+      "notes": ""
+    },
+    {
+      "fighter": "Cynthia Calvillo",
+      "song_title": "Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir en Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Ontiveros",
+      "song_title": "Back in My Bag",
+      "artist": "Aha Gazelle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Ozzb5anbxo7FyChwdnKet",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Nam",
+      "song_title": "RITMO",
+      "artist": "Black Eyed Peas feat. J. Balvin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Quinlan",
+      "song_title": "At the Table",
+      "artist": "Josh Garrels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2RIeDMhoeU9sNsh9lv9mig",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Witt",
+      "song_title": "Welcome to the Jungle",
+      "artist": "Guns N’ Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8",
+      "notes": ""
+    },
+    {
+      "fighter": "Youssef Zalal",
+      "song_title": "Up All Night",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55YHftnlehUQQJoTSLKCxj",
+      "notes": ""
+    },
+    {
+      "fighter": "Da'Mon Blackshear",
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "notes": ""
+    }
+  ]
+}

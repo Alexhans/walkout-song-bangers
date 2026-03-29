@@ -1,7 +1,7 @@
 {
   "fighter": "Mario Bautista",
   "slug": "mario-bautista",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Kickstart My Heart",
@@ -53,14 +53,32 @@
       "artist": "Led Zeppelin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
     "unique_songs": 3
   }

@@ -1,6 +1,6 @@
 {
   "year": 2024,
-  "events": 23,
+  "events": 27,
   "tracks": [
     {
       "fighter": "Dricus Du Plessis",
@@ -3243,6 +3243,246 @@
       "date": "2024-01-13"
     },
     {
+      "fighter": "Lerone Murphy",
+      "song_title": "Ambitionz As a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Vim, Vivi, Venci",
+      "artist": "MP Michael Puga feat. Edson Barboza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HbST3DxoB1ojgC50dX1aw",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Themba Gorimbo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Ramiz Brahimaj",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Vinicius Salvador",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Luana Pinheiro",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Tom Nolan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Victor Martinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Oumar Sy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Tuco Tokkos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Tamires Vidal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Abus Magomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Warlley Alves",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Ariane Carnelossi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Piera Rodriguez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Alatengheili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Kleydson Rodrigues",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "fighter": "Emily Ducote",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
       "fighter": "Manon Fiorot",
       "song_title": "Que Pour Les Vrais",
       "artist": "Rohff",
@@ -4283,6 +4523,246 @@
       "date": "2024-02-10"
     },
     {
+      "fighter": "Derrick Lewis",
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Rodrigo Nascimento",
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Nursulton Ruziboev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Diego Ferreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Mateusz Rebecki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Sean Woodson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Alex Caceres",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Waldo Cortes Acosta",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Robelis Despaigne",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Viacheslav Borshchev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Esteban Ribovics",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Tecia Pennington",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Trey Waters",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Billy Ray Goff",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Jake Hadley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "fighter": "JJ Aldrich",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
       "fighter": "Brandon Moreno",
       "song_title": "El Corrido Del Bebe Asesino",
       "artist": "Ariel Macias",
@@ -5263,6 +5743,266 @@
       "date": "2024-06-15"
     },
     {
+      "fighter": "Rose Namajunas",
+      "song_title": "Prolific Praise",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Fee Ra Huri",
+      "artist": "Omnia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Karl Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Justin Tafa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Edmen Shahbazyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "AJ Dobson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Payton Talbott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Youssef Zalal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Billy Quarantillo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Fernando Padilla",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Luis Pajuelo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Trey Ogden",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Kurt Holobaugh",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Julian Erosa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Cody Gibson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Jarno Errens",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Steven Nguyen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Daria Zhelezniakova",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Montse Rendon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Andre Lima",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Igor Severino",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Mick Parkin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "fighter": "Mohammed Usman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
       "fighter": "Jairzinho Rozenstruik",
       "song_title": "Champion",
       "artist": "Josylvio, Sevn Alias and Psycho feat. Jairzinho Rozenstruik",
@@ -5741,13 +6481,273 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Bryan Battle",
+      "song_title": "Man of the Year",
+      "artist": "ScHoolboy Q",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Ange Loosa",
+      "song_title": "Ready Or Not",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43vdIE5mIcjhJaleE3FIkd",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Kennedy Nzechukwu",
+      "song_title": "Hade Boss",
+      "artist": "DJ Lag & Mr. Nation Thingz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "Quema",
+      "artist": "Ryan Castro, Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Isaac Dulgarian",
+      "song_title": "Gangsta Bop",
+      "artist": "Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "Fire Squad",
+      "artist": "J Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Bakhtiari",
+      "artist": "Behrooz Sektor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LW9patAcIHbTlVUWrOuuU",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Mike Davis",
+      "song_title": "Yeah Glo!",
+      "artist": "GloRilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Natan Levy",
+      "song_title": "Subliminal",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Chelsea Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Josiane Nunes",
+      "song_title": "Grande Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Jafel Filho",
+      "song_title": "Harpa Cristã 476",
+      "artist": "Max Do Corinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ukD84JtzRM8w47K1nYgwv",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "Monster",
+      "artist": "Jacob Banks feat. Avelino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Danny Silva",
+      "song_title": "Back to the Hotel",
+      "artist": "N2deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Cory McKenna",
+      "song_title": "Dancing With Myself",
+      "artist": "Billy Idol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Thiago Moises",
+      "song_title": "Malandragem (Intro)",
+      "artist": "MC Kako",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Zc6f69uo4TJBBMmY5AczE",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Mitch Ramirez",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Chad Anheliger",
+      "song_title": "Got It on Me",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5v75PO9JK0vCQ1stmq6hSc",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "fighter": "Charalampos Grigoriou",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "total_fighters": 574,
-    "with_song": 476,
-    "playable_tracks": 439,
-    "unique_playable_tracks": 372,
-    "missing": 98
+    "total_fighters": 674,
+    "with_song": 505,
+    "playable_tracks": 468,
+    "unique_playable_tracks": 395,
+    "missing": 169
   }
 }

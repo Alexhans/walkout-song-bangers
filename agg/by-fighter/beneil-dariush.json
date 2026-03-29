@@ -1,7 +1,7 @@
 {
   "fighter": "Beneil Dariush",
   "slug": "beneil-dariush",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Broken Vessels (Amazing Grace)",
@@ -47,12 +47,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 3,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

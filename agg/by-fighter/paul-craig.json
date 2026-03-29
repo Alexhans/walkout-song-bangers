@@ -1,7 +1,7 @@
 {
   "fighter": "Paul Craig",
   "slug": "paul-craig",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Alive",
@@ -47,12 +47,30 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Quiet Little Voices",
+      "artist": "We Were Promised Jetpacks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TQJGu7KoqOFvjvopA8fx2",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "Quiet Little Voices",
+      "artist": "We Were Promised Jetpacks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TQJGu7KoqOFvjvopA8fx2",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

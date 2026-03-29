@@ -1,7 +1,7 @@
 {
   "fighter": "Joanne Wood",
   "slug": "joanne-wood",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2021-01-23"
     },
     {
+      "song_title": "Protect Your Mind (For the Love of a Princess)",
+      "artist": "DJ Sakin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11Ey2KUrXuMHwgVbKn3BSg",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "Glitter & Gold",
       "artist": "Barns Courtney",
       "confidence": "bronze",
@@ -38,12 +47,30 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "Sweet Dreams",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 1,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Song Kenan",
   "slug": "song-kenan",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "I am Wrath",
@@ -20,12 +20,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

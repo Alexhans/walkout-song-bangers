@@ -1,0 +1,31 @@
+{
+  "fighter": "Gunnar Nelson",
+  "slug": "gunnar-nelson",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Leidin Okkar Allra",
+      "artist": "Hjalmar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Leidin Okkar Allra",
+      "artist": "Hjalmar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

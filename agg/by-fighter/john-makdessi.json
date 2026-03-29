@@ -1,7 +1,7 @@
 {
   "fighter": "John Makdessi",
   "slug": "john-makdessi",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Fade",
@@ -20,12 +20,21 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

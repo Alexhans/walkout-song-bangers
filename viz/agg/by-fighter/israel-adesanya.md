@@ -1,6 +1,6 @@
 # Israel Adesanya
 
-10 event(s) | 3 song(s) found | 3 unique
+11 event(s) | 4 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -14,3 +14,4 @@
 | 2023-04-08 | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |
 | 2023-09-09 | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Bring It On Down (Battlezone) Remix | Flii Stylz & Tenashus |  |
 | 2024-08-17 | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Donda / 11:11 | Kanye West / Chris Brown |  |
+| 2026-03-28 | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | Headstrong | Trapt | [Listen](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) |

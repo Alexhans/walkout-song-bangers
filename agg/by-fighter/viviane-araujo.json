@@ -1,7 +1,7 @@
 {
   "fighter": "Viviane Araujo",
   "slug": "viviane-araujo",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2024-11-16"
     },
     {
+      "song_title": "E o Terror",
+      "artist": "Gog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FAzDuJVmPAx5dxZnN4dmv",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
       "song_title": "Eu Renasci Das Cinzas",
       "artist": "Mc Daniel, Mc Paulin Da Capital",
       "confidence": "bronze",
@@ -47,12 +56,21 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "Ta OK",
+      "artist": "Dennnins, MC Kevin o Chris, Maluma, Karol G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CbzOUi8hm8UTQoG6kYmtp",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Joseph Holmes",
   "slug": "joseph-holmes",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "I’m the Man",
@@ -11,12 +11,30 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "I Ain’t Worried",
+      "artist": "One Republic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "I'm the Man",
+      "artist": "50 Cent feat. Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2OevaXsAnR718TQxqTY9yb",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

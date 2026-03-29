@@ -1,8 +1,17 @@
 {
   "fighter": "Michal Figlak",
   "slug": "michal-figlak",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Shook Ones Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
     {
       "song_title": "Shook Ones Pt. II",
       "artist": "Mobb Deep",
@@ -14,8 +23,8 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

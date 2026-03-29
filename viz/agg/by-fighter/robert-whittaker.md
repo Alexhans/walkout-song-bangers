@@ -1,6 +1,6 @@
 # Robert Whittaker
 
-6 event(s) | 4 song(s) found | 2 unique
+7 event(s) | 5 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2022-02-12 | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |
 | 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | Can’t Be Touched | Roy Jones Jr. | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
 | 2024-02-17 | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Can’t Be Touched | Roy Jones Jr. | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
+| 2022-09-03 | [UFC Fight Night: Gane vs. Tuivasa](../../ufc-fight-night-gane-vs-tuivasa.md) | Can't Be Touched | Roy Jones Jr. | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |

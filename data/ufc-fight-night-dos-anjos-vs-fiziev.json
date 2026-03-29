@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+  "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+  "date": "2022-07-09",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/07/10/fight-tracks-the-walkout-songs-of-ufc-on-espn-39-including-some-dolly-parton/81235583007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "O Grito De Um Guerreiro",
+      "artist": "Mc Sapão",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Borralho",
+      "song_title": "Últimos Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "notes": ""
+    },
+    {
+      "fighter": "Armen Petrosyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Said Nurmagomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Douglas Silva de Andrade",
+      "song_title": "Track 1 (Super Nintendo)",
+      "artist": "Top Gear",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6h2Sf68tiQWru0rvcnZb6V",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Sherman",
+      "song_title": "Voodoo Child",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ufgWnTnkrDBCfKXOS5p6Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "I've Been Hearing That You're Freaky",
+      "artist": "Jonny Craig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7k5DiJCqhW4Chbv7nLA9lH",
+      "notes": ""
+    },
+    {
+      "fighter": "Aiemann Zahabi",
+      "song_title": "Thug Luv",
+      "artist": "Bone Thugs-N-Harmony fear Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Turcios",
+      "song_title": "Champloo Forever",
+      "artist": "Rude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qbS5wftrONsF7PO44gZp6",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "Juice (Know The Ledge)",
+      "artist": "Eric B. & Rakim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4LXsPdBcHAuttD9mKyhA8a",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "9 To 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Tresean Gore",
+      "song_title": "This Is How We Do It",
+      "artist": "Montell Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "notes": ""
+    },
+    {
+      "fighter": "Antonina Shevchenko",
+      "song_title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7",
+      "notes": ""
+    },
+    {
+      "fighter": "Cortney Casey",
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Every Change I Get",
+      "artist": "DJ Khaled feat. Lil Baby, Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "notes": ""
+    },
+    {
+      "fighter": "Garrett Armfield",
+      "song_title": "Legend",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD",
+      "notes": ""
+    },
+    {
+      "fighter": "Kennedy Nzechukwu",
+      "song_title": "Holy Steppin",
+      "artist": "Emanuel Da Prophet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Kn4dooOoVgB85pFEGOwd9",
+      "notes": ""
+    },
+    {
+      "fighter": "Karl Roberson",
+      "song_title": "RYDA",
+      "artist": "Tig Tooh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vDQoJWJp0XxicyMQqTYj7",
+      "notes": ""
+    },
+    {
+      "fighter": "Saidyokub Kakhramonov",
+      "song_title": "Run This Town",
+      "artist": "Jay Z & Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Ronnie Lawrence",
+      "song_title": "Get Paid",
+      "artist": "Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bXzzN93VfUc36DbeWB312",
+      "notes": ""
+    }
+  ]
+}

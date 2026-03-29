@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Landwehr",
   "slug": "nate-landwehr",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "You And Me",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "Bad Company",
+      "artist": "Bad Company",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36vTL8WP4ZoD1bbUaW0V3E",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Misha Cirkunov",
   "slug": "misha-cirkunov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Started from the Bottom",
@@ -11,12 +11,21 @@
       "event": "UFC 206: Holloway vs. Pettis",
       "event_slug": "ufc-206",
       "date": "2016-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

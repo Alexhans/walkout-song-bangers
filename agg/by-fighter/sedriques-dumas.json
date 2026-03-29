@@ -1,7 +1,7 @@
 {
   "fighter": "Sedriques Dumas",
   "slug": "sedriques-dumas",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Ready",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Orange Village",
+      "artist": "Larry June, The Alchemist and Slum Village",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     },
     {
       "song_title": "Pressure",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,0 +1,31 @@
+{
+  "fighter": "Damir Ismagulov",
+  "slug": "damir-ismagulov",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Attan Tuspe Paluan",
+      "artist": "Abdizhappar Alkozha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

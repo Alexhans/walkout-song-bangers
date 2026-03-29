@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Holland",
   "slug": "kevin-holland",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Tell Me",
@@ -56,12 +56,39 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "Tell Me",
+      "artist": "MGF Bandit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Bekb2NCcVFVe7EKuMiogH",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
+    {
+      "song_title": "Goals",
+      "artist": "NBA Youngboy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KpuNcuR0KBVgHdO1IRwYA",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "Ghost",
+      "artist": "NBA Youngboy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 7
   }
 }

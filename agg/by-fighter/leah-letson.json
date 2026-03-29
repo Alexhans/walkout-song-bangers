@@ -1,0 +1,22 @@
+{
+  "fighter": "Leah Letson",
+  "slug": "leah-letson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Killem with Kindness",
+      "artist": "Dizzy Wright",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51Pj5HjM0740JJlbxARMrA",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

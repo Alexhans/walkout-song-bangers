@@ -1,0 +1,22 @@
+{
+  "fighter": "Carlos Mota",
+  "slug": "carlos-mota",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Til I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

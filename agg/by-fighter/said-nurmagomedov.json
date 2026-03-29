@@ -1,7 +1,7 @@
 {
   "fighter": "Said Nurmagomedov",
   "slug": "said-nurmagomedov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -26,15 +26,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

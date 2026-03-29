@@ -1,7 +1,7 @@
 {
   "fighter": "Daniel Zellhuber",
   "slug": "daniel-zellhuber",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Golden Boy",
@@ -11,6 +11,15 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     },
     {
       "song_title": "Goldenboy",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "El Son de La Negra",
+      "artist": "Mariachi Vargas de Tecatitlan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nqAsb4edrtNqpabRzJKcJ",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Alonzo Menifield",
   "slug": "alonzo-menifield",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -49,6 +49,24 @@
       "date": "2023-12-16"
     },
     {
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
       "song_title": "Monster 2.0",
       "artist": "Jacob Banks feat. Boogie",
       "confidence": "bronze",
@@ -59,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
-    "missing": 3,
-    "unique_songs": 2
+    "events": 8,
+    "with_song": 4,
+    "missing": 4,
+    "unique_songs": 3
   }
 }

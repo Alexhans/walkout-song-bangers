@@ -1,0 +1,31 @@
+{
+  "fighter": "Tucker Lutz",
+  "slug": "tucker-lutz",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Lifetime Income",
+      "artist": "Larry June",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3laRfiX9iph8kNTAHZIY3N",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "The Hope",
+      "artist": "Fabolous feat. Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

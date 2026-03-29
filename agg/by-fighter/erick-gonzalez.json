@@ -1,8 +1,17 @@
 {
   "fighter": "Erick Gonzalez",
   "slug": "erick-gonzalez",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
     {
       "song_title": "Die a King",
       "artist": "IamJakeHill",
@@ -11,12 +20,21 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Dedication",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,8 +1,26 @@
 {
   "fighter": "Dustin Stoltzfus",
   "slug": "dustin-stoltzfus",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "A Gringo Like Me",
+      "artist": "Ennio Morricone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6X5Sj93YplXEjnbA8H8LjF",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Ca Plane Pour Moi",
+      "artist": "Plastic Bertrand",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
     {
       "song_title": "Du Hast",
       "artist": "Rammstein",
@@ -11,12 +29,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "July",
+      "artist": "Betcha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2b0G006xcIUoqvRDDaCT8E",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

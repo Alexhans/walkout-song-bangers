@@ -1,7 +1,7 @@
 {
   "fighter": "Sumudaerji",
   "slug": "sumudaerji",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "Akebanma",
+      "artist": "Zhaxinima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4J3DGmfkkZ7GWxoxSxxxpZ",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
+      "song_title": "Akebanma (Akebanma)",
+      "artist": "Zhaxinima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4J3DGmfkkZ7GWxoxSxxxpZ",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Marcin Tybura",
   "slug": "marcin-tybura",
-  "appearances": 2,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Get Me the G.I. Joes",
@@ -13,6 +13,24 @@
       "date": "2017-03-04"
     },
     {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,12 +38,30 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 6,
+    "with_song": 4,
+    "missing": 2,
+    "unique_songs": 2
   }
 }

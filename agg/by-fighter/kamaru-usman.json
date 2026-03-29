@@ -1,7 +1,7 @@
 {
   "fighter": "Kamaru Usman",
   "slug": "kamaru-usman",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Another Story & Anybody",
@@ -22,6 +22,24 @@
       "date": "2021-11-06"
     },
     {
+      "song_title": "Try Jesus",
+      "artist": "Tobe Nwigwe, \"Big League\" by Yo Gotti & Moneybag Yo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Yaba Buluku",
+      "artist": "DJ Tarico, Burna Boy, Preck and Nelson Tivane",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2SixiPBeIDdSlKB6HTvaMq",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "Shaq & Kobe",
       "artist": "Rick Ross",
       "confidence": "bronze",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

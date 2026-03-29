@@ -1,6 +1,6 @@
 # Marlon Vera
 
-8 event(s) | 8 song(s) found | 8 unique
+10 event(s) | 10 song(s) found | 10 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,5 +10,7 @@
 | 2023-08-19 | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Where You Come From | DJ Khaled feat Buju Banton | [Listen](https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3) |
 | 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | The Madness | Action Bronson | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
 | 2018-11-17 | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | Smile (Living My Best Life) | Lil Duval ft. Snoop Dogg & Ball Greezy | [Listen](https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k) |
+| 2022-04-30 | [UFC Fight Night: Font vs. Vera](../../ufc-fight-night-font-vs-vera.md) | Subzero | Action Bronson | [Listen](https://open.spotify.com/track/5cYmCxFGza4zrc9vfs9PMV) |
 | 2026-02-28 | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Tripolar | Canserbero | [Listen](https://open.spotify.com/track/02DIjDfe3wiaiNEzjtohJP) |
 | 2024-08-03 | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | A Bar Song (Tipsy) | Shaboozey | [Listen](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) |
+| 2022-08-13 | [UFC Fight Night: Vera vs. Cruz](../../ufc-fight-night-vera-vs-cruz.md) | Spanish Town Rockin' | Chronixx | [Listen](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) |

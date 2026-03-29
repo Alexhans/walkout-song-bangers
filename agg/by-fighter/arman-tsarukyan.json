@@ -1,7 +1,7 @@
 {
   "fighter": "Arman Tsarukyan",
   "slug": "arman-tsarukyan",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 5,
     "with_song": 1,
-    "missing": 1,
+    "missing": 4,
     "unique_songs": 1
   }
 }

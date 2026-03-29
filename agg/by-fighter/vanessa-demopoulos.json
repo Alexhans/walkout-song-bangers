@@ -1,7 +1,7 @@
 {
   "fighter": "Vanessa Demopoulos",
   "slug": "vanessa-demopoulos",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2022-01-22"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
       "song_title": "No Problem",
       "artist": "Chance The Rapper",
       "confidence": "bronze",
@@ -20,12 +29,30 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Knuck If You Buck",
+      "artist": "Crime Mob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "All I Have",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mnoPyJHlmMYPJsib5tfn0",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 5,
+    "with_song": 3,
+    "missing": 2,
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Khalid Taha",
   "slug": "khalid-taha",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Xhelozia",
@@ -20,11 +20,20 @@
       "event": "UFC 243: Whittaker vs. Adesanya",
       "event_slug": "ufc-243",
       "date": "2019-10-05"
+    },
+    {
+      "song_title": "Xhelozia",
+      "artist": "Mozzik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5kMTREHJjCj6jr04UEzyf9",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 1
   }

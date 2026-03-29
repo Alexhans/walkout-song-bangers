@@ -1,7 +1,7 @@
 {
   "fighter": "Israel Adesanya",
   "slug": "israel-adesanya",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Smile",
@@ -92,12 +92,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "Headstrong",
+      "artist": "Trapt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     }
   ],
   "stats": {
-    "events": 10,
-    "with_song": 3,
+    "events": 11,
+    "with_song": 4,
     "missing": 7,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "TJ Laramie",
+  "slug": "tj-laramie",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

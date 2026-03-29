@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+  "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+  "date": "2023-12-02",
+  "location": "Austin, Texas, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130054531.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
+      "notes": ""
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "The Climb Back",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751",
+      "notes": ""
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "Bandoleros",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damien Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Sean Brady",
+      "song_title": "They Don’t Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquim Silva",
+      "song_title": "Last Breath",
+      "artist": "Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+      "notes": ""
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Stoltzfus",
+      "song_title": "A Gringo Like Me",
+      "artist": "Ennio Morricone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6X5Sj93YplXEjnbA8H8LjF",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "Trinity (Titoli)",
+      "artist": "Annibale E I Cantori Moderni from “Django Unchained”",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2w5lNPWb8vsCYiwPPGxL4W",
+      "notes": ""
+    },
+    {
+      "fighter": "Miesha Tate",
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "notes": ""
+    },
+    {
+      "fighter": "Julia Avila",
+      "song_title": "Bad Girls",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "Fantasy",
+      "artist": "Marian Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3heK15PrG8NymlEOTDpf7S",
+      "notes": ""
+    },
+    {
+      "fighter": "Zach Reese",
+      "song_title": "Folsom Prison Blues",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LTSNmOLBt25GMjHlxp9OR",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "What U See Is What U Get",
+      "artist": "Key Glock and Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gtcO05zF2TqQNx7jzm2Ur",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Solecki",
+      "song_title": "Bury My Bones",
+      "artist": "Whiskey Meyers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yggZbtgrxPNwWOs06cS8L",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodolfo Bellato",
+      "song_title": "Aonde Nos Chegou",
+      "artist": "MC Menor e MC Dede",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm",
+      "notes": ""
+    },
+    {
+      "fighter": "Ihor Potieria",
+      "song_title": "Another Love",
+      "artist": "Tom Odell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gooden",
+      "song_title": "James Brown – It’s A Man’s Man’s Man’s World",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcH252CGECgOWfKBjAaBC",
+      "notes": ""
+    },
+    {
+      "fighter": "Wellington Turman",
+      "song_title": "For Honor",
+      "artist": "Peyton Parrish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1sJQKBdtvKjfvXdQ6ohD63",
+      "notes": ""
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "Baddadan",
+      "artist": "Chase & Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamey-Lyn Horth",
+      "song_title": "Somethin’ Bad",
+      "artist": "Miranda Lambert with Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "notes": ""
+    }
+  ]
+}

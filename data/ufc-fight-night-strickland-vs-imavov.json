@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Strickland vs. Imavov",
+  "event_slug": "ufc-fight-night-strickland-vs-imavov",
+  "date": "2023-01-14",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/01/15/ufc-fight-night-217-las-vegas-walkout-songs-music-notorious-big-survivor-rocky-bon-jovi/81003126007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "Tomorrow",
+      "artist": "Sadio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Ige",
+      "song_title": "Everybody",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
+      "notes": ""
+    },
+    {
+      "fighter": "Damon Jackson",
+      "song_title": "It's a Beautiful Day",
+      "artist": "The Kiffness",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "Rus",
+      "artist": "Nikolay Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "notes": ""
+    },
+    {
+      "fighter": "Raquel Pennington",
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": ""
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "Lezginka",
+      "artist": "Djigitovka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JY0nguP0JUq5wV5WtfEXP",
+      "notes": ""
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "Ringue da Vida",
+      "artist": "MC Cabelinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2MiZLAU9sBe4QCKK3klY0t",
+      "notes": ""
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "Kids",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateus Mendonca",
+      "song_title": "Tubarao Te Amo",
+      "artist": "DJ LK da Escocia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "Kwaku the Traveler",
+      "artist": "Black Sherif",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Ribeiro",
+      "song_title": "Panda",
+      "artist": "Desiigner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateusz Rebecki",
+      "song_title": "Lockzi",
+      "artist": "Hi-Fi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Fiore",
+      "song_title": "Crazy",
+      "artist": "Gnarls Barkley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo",
+      "notes": ""
+    },
+    {
+      "fighter": "Allan Nascimento",
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Hernandez",
+      "song_title": "Hypnotize",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Argueta",
+      "song_title": "A-Punk",
+      "artist": "Vampire Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Aguirre",
+      "song_title": "Remember This",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5dMKsEQSlR2ITYpScl7UMd",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "Move B*tch",
+      "artist": "Ludacris feat. Mystikal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmy Flick",
+      "song_title": "Scatman",
+      "artist": "Scatman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh",
+      "notes": ""
+    }
+  ]
+}

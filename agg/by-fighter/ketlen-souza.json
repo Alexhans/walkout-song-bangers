@@ -1,7 +1,7 @@
 {
   "fighter": "Ketlen Souza",
   "slug": "ketlen-souza",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "A Rezadeira",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Muleque de Vila (Ao Vivo)",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kGoQLmgPxVcDzhdeqvlOp",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     },
     {
       "song_title": "Louco E Sonhador",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

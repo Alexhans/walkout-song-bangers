@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Gibson",
   "slug": "cody-gibson",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "A Beautiful Day",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

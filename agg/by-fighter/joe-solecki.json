@@ -1,7 +1,7 @@
 {
   "fighter": "Joe Solecki",
   "slug": "joe-solecki",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Bury My Bones",
@@ -17,14 +17,23 @@
       "artist": "Whiskey Meyers",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6yggZbtgrxPNwWOs06cS8L",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Bury My Bones",
+      "artist": "Whiskey Meyers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yggZbtgrxPNwWOs06cS8L",
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

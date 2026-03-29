@@ -1,0 +1,22 @@
+{
+  "fighter": "Dakota Bush",
+  "slug": "dakota-bush",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Let It Ride",
+      "artist": "Bachman Turner Overdrive",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

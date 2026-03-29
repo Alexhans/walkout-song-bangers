@@ -1,7 +1,7 @@
 {
   "fighter": "Blagoy Ivanov",
   "slug": "blagoy-ivanov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Yaku",
@@ -29,12 +29,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "Prituri Se Planinata",
+      "artist": "Stefka Sabotinova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4oyicT8w0fkCzQuORoTEds",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

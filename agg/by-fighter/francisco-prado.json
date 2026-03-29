@@ -1,7 +1,7 @@
 {
   "fighter": "Francisco Prado",
   "slug": "francisco-prado",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "El Nuevo Campeon",
+      "artist": "Ali Dimaev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DeOJI1E0iIlWGfuTTFomF",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 1,
     "missing": 3,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Walker vs. Hill",
+  "event_slug": "ufc-fight-night-walker-vs-hill",
+  "date": "2022-02-19",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/02/20/ufc-fight-night-201-las-vegas-walkout-songs-music-black-sabbath-acdc-led-zeppelin-eminem-drake/81332480007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Jamahal Hill",
+      "song_title": "Knife Talk",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "The Business",
+      "artist": "Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Boys are Back in Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Wolves",
+      "artist": "Big Sean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Parker Porter",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Baudot",
+      "song_title": "Family Ties",
+      "artist": "Baby Keem and Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbaath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/04DDJLQA0293yVpOf81xoS",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolas Motta",
+      "song_title": "Boom",
+      "artist": "Juicy J feat. Slash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DJfIyGnXulcr3flyCEJKn",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "I Don't Give a F",
+      "artist": "Lil' Jon & The East Side Boyz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X0EjhOpkLqGrU9pSJVaYl",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Unforgettable",
+      "artist": "French Montana feat. Swae Lee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dKNXODgcbQtyDgEt6mw1A",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Benitez",
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir en Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephanie Egger",
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica-Rose Clark",
+      "song_title": "Only One",
+      "artist": "John Butler Trio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cchZR8pao5z9dfyqk9hpW",
+      "notes": ""
+    },
+    {
+      "fighter": "Chas Skelly",
+      "song_title": "Loud and Heavy",
+      "artist": "Cody Jinks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE",
+      "notes": ""
+    },
+    {
+      "fighter": "Mark Striegl",
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "Gloria de Paula",
+      "song_title": "Ceu Aberto",
+      "artist": "Marcelo Falcao and Hungria Hip Hop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yAsVULNjwJ7QQMWDSOLdr",
+      "notes": ""
+    },
+    {
+      "fighter": "Diana Belbita",
+      "song_title": "Celtic Music",
+      "artist": "Legend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ETRsTqEuNcjd68NhdcIdm",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Anheliger",
+      "song_title": "Shut 'em Down",
+      "artist": "Public Enemy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Zm9vkQ65RowiZEMAJzNV9",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesse Strader",
+      "song_title": "The Greatest",
+      "artist": "SIX60",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "Pa Romperla",
+      "artist": "Bad Bunny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Jay Perrin",
+      "song_title": "Last Time I Checked",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
+      "notes": ""
+    }
+  ]
+}

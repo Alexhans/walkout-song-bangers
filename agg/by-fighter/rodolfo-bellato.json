@@ -1,7 +1,7 @@
 {
   "fighter": "Rodolfo Bellato",
   "slug": "rodolfo-bellato",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "Aonde Nos Chegou",
+      "artist": "MC Menor e MC Dede",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

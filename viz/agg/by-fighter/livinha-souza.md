@@ -1,7 +1,8 @@
 # Livinha Souza
 
-1 event(s) | 0 song(s) found | 0 unique
+2 event(s) | 1 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2020-08-15 | [UFC 252: Miocic vs. Cormier 3](../../ufc-252.md) | — | — | |
+| 2021-10-23 | [UFC Fight Night: Costa vs. Vettori](../../ufc-fight-night-costa-vs-vettori.md) | Pandemia | MC Kevin | [Listen](https://open.spotify.com/track/5UGKVzE5Vhd9EVC38xIIYX) |

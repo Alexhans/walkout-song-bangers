@@ -1,6 +1,6 @@
 # Max Holloway
 
-9 event(s) | 9 song(s) found | 8 unique
+10 event(s) | 10 song(s) found | 8 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -13,3 +13,4 @@
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Running Up That Hill (A Deal With God) / Hawaiian Kickboxer | Kate Bush / Moke Boy | [Listen](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) |
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | Hawaiian Kickboxer / Hawaiian Hitman | Moke Boy / Pohaku | [Listen](https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy) |
 | 2026-03-07 | [UFC 326: Holloway vs. Oliveira 2](../../ufc-326.md) | Hawaiian Kickboxer / Hawaiian Hitman | Moke Boy / Pohaku | [Listen](https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy) |
+| 2021-11-13 | [UFC Fight Night: Holloway vs. Rodriguez](../../ufc-fight-night-holloway-vs-rodriguez.md) | Hawaiian Kickboxer | Moke Boy | [Listen](https://open.spotify.com/track/0tHX6V1pfTLY1gTFRoTeBy) |

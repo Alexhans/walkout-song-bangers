@@ -1,7 +1,7 @@
 {
   "fighter": "Punahele Soriano",
   "slug": "punahele-soriano",
-  "appearances": 2,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,33 @@
       "date": "2019-12-14"
     },
     {
+      "song_title": "Trinity (Titoli)",
+      "artist": "Annibale E I Cantori Moderni from “Django Unchained”",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2w5lNPWb8vsCYiwPPGxL4W",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Streets of Siam",
+      "artist": "Paul Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Highwayman",
+      "artist": "The Highwaymen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,12 +47,21 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 4
   }
 }

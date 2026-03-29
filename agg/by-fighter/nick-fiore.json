@@ -1,0 +1,22 @@
+{
+  "fighter": "Nick Fiore",
+  "slug": "nick-fiore",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Crazy",
+      "artist": "Gnarls Barkley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

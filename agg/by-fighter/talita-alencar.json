@@ -1,0 +1,22 @@
+{
+  "fighter": "Talita Alencar",
+  "slug": "talita-alencar",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Dog Days are Over",
+      "artist": "Florence & The Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

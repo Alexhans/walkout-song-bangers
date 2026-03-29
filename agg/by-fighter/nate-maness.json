@@ -1,8 +1,17 @@
 {
   "fighter": "Nate Maness",
   "slug": "nate-maness",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
     {
       "song_title": "Mayhem",
       "artist": "YJ Donstatus",
@@ -11,12 +20,21 @@
       "event": "UFC Fight Night: Perez vs. Taira",
       "event_slug": "ufc-fight-night-perez-vs-taira",
       "date": "2024-06-15"
+    },
+    {
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

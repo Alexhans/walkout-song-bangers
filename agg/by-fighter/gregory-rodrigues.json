@@ -1,7 +1,7 @@
 {
   "fighter": "Gregory Rodrigues",
   "slug": "gregory-rodrigues",
-  "appearances": 6,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -49,6 +49,15 @@
       "date": "2026-03-07"
     },
     {
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
       "song_title": "This Means War",
       "artist": "Avenged Sevenfold",
       "confidence": "bronze",
@@ -56,11 +65,38 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 10,
+    "with_song": 9,
     "missing": 1,
     "unique_songs": 3
   }

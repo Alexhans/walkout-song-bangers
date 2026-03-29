@@ -1,7 +1,7 @@
 {
   "fighter": "Ashley Yoder",
   "slug": "ashley-yoder",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 252: Miocic vs. Cormier 3",
       "event_slug": "ufc-252",
       "date": "2020-08-15"
+    },
+    {
+      "song_title": "It’s Good",
+      "artist": "Lil’ Wayne feat. Jadakiss and Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zRnQCF26KYUkZt2Qxrpw",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

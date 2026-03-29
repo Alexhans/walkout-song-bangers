@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Strickland vs. Magomedov",
+  "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+  "date": "2023-07-01",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120012185.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Abus Magomedov",
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "notes": ""
+    },
+    {
+      "fighter": "Damir Ismagulov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Morales",
+      "song_title": "Jugador Franquicia",
+      "artist": "Myke Towers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kNpoVStauSMwm0mF0qShU",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "Gunz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LeaM0nUdf1uFL1dv2XVo7",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane da Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "notes": ""
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Le Chant des Commandos/Saint-Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW",
+      "notes": ""
+    },
+    {
+      "fighter": "Ismael Bonfim",
+      "song_title": "Chegou o Tempo",
+      "artist": "Leandro Borges",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nL91974zK2xj7Pn0VKUmD",
+      "notes": ""
+    },
+    {
+      "fighter": "Nursulton Ruziboev",
+      "song_title": "O’Zbegim",
+      "artist": "SHoxrux",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4y1iJljq1LedT5T43LeoUN",
+      "notes": ""
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rinat Fakhretdinov",
+      "song_title": "Zaman",
+      "artist": "Alpar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0AzyJL9Vz9tQM4ztXvRL3f",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Lee",
+      "song_title": "Y’all Must’ve Forgot II",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/16X8TGhAzNUbKrwPVNWL9w",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanderson Brito",
+      "song_title": "Pivete e Sal",
+      "artist": "Dodo Pressao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5",
+      "notes": ""
+    },
+    {
+      "fighter": "Westin Wilson",
+      "song_title": "All of the Lights",
+      "artist": "Kanye West feat. Rihanna, Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO",
+      "notes": ""
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt e Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG",
+      "notes": ""
+    },
+    {
+      "fighter": "Yana Santos",
+      "song_title": "Believer",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
+      "notes": ""
+    },
+    {
+      "fighter": "Elves Brener",
+      "song_title": "Levante e Ande",
+      "artist": "Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ggiwV8BiirsCeg2ORWac9",
+      "notes": ""
+    },
+    {
+      "fighter": "Guram Kutateladze",
+      "song_title": "Makharia",
+      "artist": "Georgian International Children’s Choir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "123 Victory",
+      "artist": "Kirk Franklin and Pharrell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0guLy1dNMhMS86Jquqqmfe",
+      "notes": ""
+    },
+    {
+      "fighter": "Ivana Petrovic",
+      "song_title": "Paint It, Black",
+      "artist": "the Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "Jesus Is King",
+      "artist": "Burak Toy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XtKMDoyRz89do4zYTBwN1",
+      "notes": ""
+    },
+    {
+      "fighter": "Blagoy Ivanov",
+      "song_title": "Prituri Se Planinata",
+      "artist": "Stefka Sabotinova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4oyicT8w0fkCzQuORoTEds",
+      "notes": ""
+    }
+  ]
+}

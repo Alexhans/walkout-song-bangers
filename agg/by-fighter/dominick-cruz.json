@@ -1,7 +1,7 @@
 {
   "fighter": "Dominick Cruz",
   "slug": "dominick-cruz",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Dominator (Ezer Remix)",
@@ -29,12 +29,21 @@
       "event": "UFC 269: Oliveira vs. Poirier",
       "event_slug": "ufc-269",
       "date": "2021-12-11"
+    },
+    {
+      "song_title": "Forgot About Dre",
+      "artist": "Dr. Dre feat. Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Rafa Garcia",
   "slug": "rafa-garcia",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "El Cachanilla",
@@ -11,12 +11,30 @@
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
+    },
+    {
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote and Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

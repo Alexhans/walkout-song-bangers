@@ -1,7 +1,7 @@
 {
   "fighter": "Billy Quarantillo",
   "slug": "billy-quarantillo",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert feat. Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
-    "missing": 2,
-    "unique_songs": 0
+    "events": 4,
+    "with_song": 1,
+    "missing": 3,
+    "unique_songs": 1
   }
 }

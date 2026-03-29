@@ -1,7 +1,7 @@
 {
   "fighter": "Ilia Topuria",
   "slug": "ilia-topuria",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "El Matador",
@@ -29,12 +29,30 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "Love Tonight",
+      "artist": "Shouse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "Una Palabra",
+      "artist": "Anuel AA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0RP5vC6fzwr15mSAotXJEo",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

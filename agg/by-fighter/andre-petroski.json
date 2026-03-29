@@ -1,8 +1,17 @@
 {
   "fighter": "Andre Petroski",
   "slug": "andre-petroski",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
     {
       "song_title": "Polo & Shell Tops",
       "artist": "Meek Mill",
@@ -22,6 +31,15 @@
       "date": "2023-08-19"
     },
     {
+      "song_title": "This Is the New Sh*t",
+      "artist": "Marilyn Manson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BD4AgZ1seuWauxzbCcDEw",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
       "song_title": "Atlantic City",
       "artist": "The Band",
       "confidence": "bronze",
@@ -38,12 +56,21 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Am I Dreaming",
+      "artist": "Metro Boomin, A$AP Rocky, Roisee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 7
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Christian Rodriguez",
   "slug": "christian-rodriguez",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,48 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
+    },
+    {
+      "song_title": "Guasa, Guasa",
+      "artist": "Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Quema",
+      "artist": "Ryan Castro, Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "Pa Romperla",
+      "artist": "Bad Bunny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
+    },
+    {
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 4
   }
 }

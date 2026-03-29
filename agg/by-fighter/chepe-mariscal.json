@@ -1,7 +1,7 @@
 {
   "fighter": "Chepe Mariscal",
   "slug": "chepe-mariscal",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "Porbre Diablo",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pEpQPOjFsHVrkC4yy501I",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

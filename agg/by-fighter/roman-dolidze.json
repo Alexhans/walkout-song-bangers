@@ -1,8 +1,17 @@
 {
   "fighter": "Roman Dolidze",
   "slug": "roman-dolidze",
-  "appearances": 4,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "The Eighth Wonder of the World",
+      "artist": "Georgian Dances",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -38,12 +47,39 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "Georgian Dances",
+      "artist": "The Eighth Wonder of the World",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "The Eighth Wonder of the World",
+      "artist": "Georgian dances",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
-    "missing": 2,
-    "unique_songs": 2
+    "events": 8,
+    "with_song": 5,
+    "missing": 3,
+    "unique_songs": 5
   }
 }

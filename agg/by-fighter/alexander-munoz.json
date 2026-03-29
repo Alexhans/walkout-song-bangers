@@ -1,0 +1,22 @@
+{
+  "fighter": "Alexander Munoz",
+  "slug": "alexander-munoz",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Work",
+      "artist": "Gang Starr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

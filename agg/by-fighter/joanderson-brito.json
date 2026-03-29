@@ -1,7 +1,7 @@
 {
   "fighter": "Joanderson Brito",
   "slug": "joanderson-brito",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Joanderson Brito UFC Cage",
+      "artist": "Endrah",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Joanderson Brito UFC Cage",
+      "artist": "Endrah",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Pivete e Sal",
+      "artist": "Dodo Pressao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

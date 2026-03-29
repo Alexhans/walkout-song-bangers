@@ -1,7 +1,7 @@
 {
   "fighter": "Terrence Mitchell",
   "slug": "terrence-mitchell",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Cult of Personality",
@@ -11,11 +11,20 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "Cult of Personality",
+      "artist": "Living Colour",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

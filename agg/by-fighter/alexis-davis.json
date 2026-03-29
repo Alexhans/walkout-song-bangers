@@ -1,0 +1,22 @@
+{
+  "fighter": "Alexis Davis",
+  "slug": "alexis-davis",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Bad Boyz",
+      "artist": "Shyne feat. Barrington Levvy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2MNQMtZbOb7rBWli3TSok0",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

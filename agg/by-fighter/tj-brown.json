@@ -1,7 +1,7 @@
 {
   "fighter": "TJ Brown",
   "slug": "tj-brown",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Rookie of the Year",
+      "artist": "Moneybagg Yo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Praise the Lord (Da Shine)",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    },
+    {
+      "song_title": "Right Now",
+      "artist": "Van Halen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6N1sNzq3CArC1pMSaZTxaT",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

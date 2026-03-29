@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Brundage",
   "slug": "cody-brundage",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "'9 TO 5",
@@ -40,6 +40,33 @@
       "date": "2026-03-07"
     },
     {
+      "song_title": "Fantasy",
+      "artist": "Marian Carey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3heK15PrG8NymlEOTDpf7S",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "9 To 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "9 to 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -50,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 8,
+    "with_song": 6,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Aiemann Zahabi",
   "slug": "aiemann-zahabi",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Still Crusin",
@@ -23,6 +23,15 @@
     },
     {
       "song_title": "Thug Luv",
+      "artist": "Bone Thugs-N-Harmony fear Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Thug Luv",
       "artist": "Bone Thugs-N-Harmony feat. Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

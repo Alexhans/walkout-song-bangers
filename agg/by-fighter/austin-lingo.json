@@ -1,7 +1,7 @@
 {
   "fighter": "Austin Lingo",
   "slug": "austin-lingo",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 247: Jones vs. Reyes",
       "event_slug": "ufc-247",
       "date": "2020-02-08"
+    },
+    {
+      "song_title": "Let's Go",
+      "artist": "Key Glock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

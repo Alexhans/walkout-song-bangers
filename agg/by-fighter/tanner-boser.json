@@ -1,0 +1,31 @@
+{
+  "fighter": "Tanner Boser",
+  "slug": "tanner-boser",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "We Care a Lot",
+      "artist": "Faith No More",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Get Better",
+      "artist": "Frank Turner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nQ9OZQI52vqOyVM7UDhVm",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

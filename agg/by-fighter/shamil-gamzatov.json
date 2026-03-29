@@ -1,0 +1,22 @@
+{
+  "fighter": "Shamil Gamzatov",
+  "slug": "shamil-gamzatov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

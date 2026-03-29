@@ -1,7 +1,7 @@
 {
   "fighter": "Matt Schnell",
   "slug": "matt-schnell",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Dancing in the Moonlight",
@@ -31,6 +31,15 @@
       "date": "2024-09-07"
     },
     {
+      "song_title": "Fancy",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
       "song_title": "Green River",
       "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
@@ -38,12 +47,21 @@
       "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
       "date": "2024-03-02"
+    },
+    {
+      "song_title": "Fancy",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

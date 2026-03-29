@@ -1,7 +1,7 @@
 {
   "fighter": "King Green",
   "slug": "king-green",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,33 @@
       "date": "2023-07-29"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
       "song_title": "Tuve Hermano",
       "artist": "Los Gemelos De Sinaloa",
       "confidence": "bronze",
@@ -50,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 8,
     "with_song": 1,
-    "missing": 4,
+    "missing": 7,
     "unique_songs": 1
   }
 }

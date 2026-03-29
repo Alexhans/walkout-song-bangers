@@ -1,0 +1,22 @@
+{
+  "fighter": "Alessio Di Chirico",
+  "slug": "alessio-di-chirico",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Re-Education Through Labor",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

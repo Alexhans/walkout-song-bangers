@@ -1,7 +1,7 @@
 {
   "fighter": "Alejandro Perez",
   "slug": "alejandro-perez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Un Puno De Tierra",
@@ -11,12 +11,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Vengo a Aclarar",
+      "artist": "El Fantasma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Mackenzie Dern",
   "slug": "mackenzie-dern",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -35,14 +35,23 @@
       "artist": "Hippie Sabotage",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 1
   }

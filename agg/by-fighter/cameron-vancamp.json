@@ -1,7 +1,7 @@
 {
   "fighter": "Cameron VanCamp",
   "slug": "cameron-vancamp",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "Rapstar",
+      "artist": "Polo G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -49,6 +49,15 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "Praise",
       "artist": "Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore",
       "confidence": "bronze",
@@ -56,12 +65,21 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
-    "missing": 0,
+    "events": 8,
+    "with_song": 7,
+    "missing": 1,
     "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Kyle Nelson",
   "slug": "kyle-nelson",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Hard Man",
@@ -13,6 +13,15 @@
       "date": "2023-06-10"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "Hard Man",
       "artist": "Paul Lagendyk",
       "confidence": "bronze",
@@ -22,6 +31,15 @@
       "date": "2024-03-30"
     },
     {
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,12 +47,21 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
-    "missing": 1,
+    "events": 6,
+    "with_song": 4,
+    "missing": 2,
     "unique_songs": 1
   }
 }

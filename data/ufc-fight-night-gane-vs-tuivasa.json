@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Gane vs. Tuivasa",
+  "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+  "date": "2022-09-03",
+  "location": "Paris, Ile-de-France, France",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/09/04/fight-tracks-the-walkout-songs-of-ufc-fight-night-209-in-paris/81136655007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Ciryl Gane",
+      "song_title": "Haine & Sex",
+      "artist": "Gazo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Haine%20%26%20Sex%20Gazo",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Lady Marmalade",
+      "artist": "Christina Aguilara, Mya, Pink, Lil' Kim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Whittaker",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Fratelli D'Itaalia",
+      "artist": "Inno di Mameli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rTMn6Cz9MsIqMDVnK9xtu",
+      "notes": ""
+    },
+    {
+      "fighter": "Nassourdine Imavov",
+      "song_title": "Tomorrow",
+      "artist": "Sadio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "N****s in Paris",
+      "artist": "Jay Z and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessio Di Chirico",
+      "song_title": "Re-Education Through Labor",
+      "artist": "Rise Against",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC",
+      "notes": ""
+    },
+    {
+      "fighter": "William Gomis",
+      "song_title": "0 to 100/The Catch",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7",
+      "notes": ""
+    },
+    {
+      "fighter": "Jarno Errens",
+      "song_title": "She Is Corrupted",
+      "artist": "Nico Moreno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BAr1qBoX4RGYl8hjrW8RL",
+      "notes": ""
+    },
+    {
+      "fighter": "Nathaniel Wood",
+      "song_title": "I'm a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Glaive",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr",
+      "notes": ""
+    },
+    {
+      "fighter": "Abus Magomedov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Stoltzfus",
+      "song_title": "Ca Plane Pour Moi",
+      "artist": "Plastic Bertrand",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g",
+      "notes": ""
+    },
+    {
+      "fighter": "Nasrat Haqparast",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "John Makdessi",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Fares Ziam",
+      "song_title": "On La Pas Choisi",
+      "artist": "Lacrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0c7p4FyZoNUiEQUCG1aKqq",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Figlak",
+      "song_title": "Shook Ones Pt. II",
+      "artist": "Mobb Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "notes": ""
+    },
+    {
+      "fighter": "Benoit Saint Denis",
+      "song_title": "Le Chant des Commandos/Saint Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Miranda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cristian Quinonez",
+      "song_title": "Nene Nene Que Vass Hacer Cuando Seas Grande",
+      "artist": "Miguel Mateos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalid Taha",
+      "song_title": "Xhelozia",
+      "artist": "Mozzik",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5kMTREHJjCj6jr04UEzyf9",
+      "notes": ""
+    },
+    {
+      "fighter": "Stephanie Egger",
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "notes": ""
+    },
+    {
+      "fighter": "Ailin Perez",
+      "song_title": "Bichota",
+      "artist": "Karol G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46zs1YLk3GlDCJ12VWf3of",
+      "notes": ""
+    }
+  ]
+}

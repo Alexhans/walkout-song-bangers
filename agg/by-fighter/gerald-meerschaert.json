@@ -1,7 +1,7 @@
 {
   "fighter": "Gerald Meerschaert",
   "slug": "gerald-meerschaert",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Ante Up",
@@ -56,12 +56,39 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "What's My Name?",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 9,
+    "with_song": 6,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

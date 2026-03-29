@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Sandhagen vs. Song",
+  "event_slug": "ufc-fight-night-sandhagen-vs-song",
+  "date": "2022-09-17",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/09/18/ufc-fight-night-210-walkout-songs-music-las-vegas-tupac-notorious-big-ice-cube-drake/81123277007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Cory Sandhagen",
+      "song_title": "Gimme the Loot",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "notes": ""
+    },
+    {
+      "fighter": "Song Yadong",
+      "song_title": "Dragon Fist",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "notes": ""
+    },
+    {
+      "fighter": "Chidi Njokuani",
+      "song_title": "Get 'Em (Dedication 2)",
+      "artist": "Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vAC5l2HBgjpSNOaTvQywd",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Holiday",
+      "artist": "Turnstile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7",
+      "notes": ""
+    },
+    {
+      "fighter": "Bill Algeo",
+      "song_title": "Don't Mess with Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Pyfer",
+      "song_title": "Last Breath",
+      "artist": "Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+      "notes": ""
+    },
+    {
+      "fighter": "Alen Amedovski",
+      "song_title": "Nella Tue Mani",
+      "artist": "Andrea Bocelli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YeBobNb7IunQE290uhGyE",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodrigo Nascimento",
+      "song_title": "Legend",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC",
+      "notes": ""
+    },
+    {
+      "fighter": "Tanner Boser",
+      "song_title": "Get Better",
+      "artist": "Frank Turner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nQ9OZQI52vqOyVM7UDhVm",
+      "notes": ""
+    },
+    {
+      "fighter": "Anthony Hernandez",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Fire On Up",
+      "artist": "Paper Kings",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23tBMn5oaTZfW8qJ6xjmH8",
+      "notes": ""
+    },
+    {
+      "fighter": "Damon Jackson",
+      "song_title": "Spirits Pt. 2",
+      "artist": "Party Favor Lil Gnar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8",
+      "notes": ""
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevin Giles",
+      "song_title": "Friday",
+      "artist": "Ice Cube",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13AvIMuWOBUWGBhWGIHb6N",
+      "notes": ""
+    },
+    {
+      "fighter": "Louis Cosce",
+      "song_title": "Devil Eyes",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL",
+      "notes": ""
+    },
+    {
+      "fighter": "Loma Lookboonmee",
+      "song_title": "Small Boats",
+      "artist": "Bodyslam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dmHNa6KpsyakWQsMOjHUx",
+      "notes": ""
+    },
+    {
+      "fighter": "Denise Gomes",
+      "song_title": "Prvt E Hora De Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Trey Ogden",
+      "song_title": "No Friends in the Industry",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "El Son de La Negra",
+      "artist": "Mariachi Vargas de Tecatitlan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6nqAsb4edrtNqpabRzJKcJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "notes": ""
+    },
+    {
+      "fighter": "Mariya Agapova",
+      "song_title": "Scryptonitis",
+      "artist": "Habit feat. Andy Panda, 104",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5M7hXdrMxDptSotJRZfq2l",
+      "notes": ""
+    },
+    {
+      "fighter": "Javid Basharat",
+      "song_title": "Kids",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Gravely",
+      "song_title": "Can't C Me",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikolas Motta",
+      "song_title": "Run Through the Jungle",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6J0AjzrYsPZrQtw6IjErhy",
+      "notes": ""
+    },
+    {
+      "fighter": "Cameron VanCamp",
+      "song_title": "Rapstar",
+      "artist": "Polo G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg",
+      "notes": ""
+    }
+  ]
+}

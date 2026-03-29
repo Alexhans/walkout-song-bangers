@@ -1,7 +1,7 @@
 {
   "fighter": "Jalin Turner",
   "slug": "jalin-turner",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "New Patek",
@@ -65,12 +65,21 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "The Climb Back",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

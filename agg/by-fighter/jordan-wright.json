@@ -1,7 +1,7 @@
 {
   "fighter": "Jordan Wright",
   "slug": "jordan-wright",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Good Death (Shogun 2)",
@@ -11,12 +11,30 @@
       "event": "UFC 269: Oliveira vs. Poirier",
       "event_slug": "ufc-269",
       "date": "2021-12-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 3,
     "with_song": 1,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 1
   }
 }

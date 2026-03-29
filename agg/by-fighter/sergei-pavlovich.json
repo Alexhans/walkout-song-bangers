@@ -1,7 +1,7 @@
 {
   "fighter": "Sergei Pavlovich",
   "slug": "sergei-pavlovich",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "Fly Away on the Wings of Wind",
+      "artist": "Kalevala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02FKaMjb1wQpdxcBqUJHEn",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Fly Away on the Wings of Wind",
+      "artist": "Kalevala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02FKaMjb1wQpdxcBqUJHEn",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Tony Gravely",
   "slug": "tony-gravely",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "CAN'T C ME",
@@ -11,6 +11,15 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "Can't C Me",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     },
     {
       "song_title": "Wish I Had It",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Ricky Turcios",
   "slug": "ricky-turcios",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "Champloo Forever",
+      "artist": "Rude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qbS5wftrONsF7PO44gZp6",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Jessica Andrade",
   "slug": "jessica-andrade",
-  "appearances": 9,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "Drag Me Down",
@@ -76,6 +76,15 @@
       "date": "2024-04-13"
     },
     {
+      "song_title": "Prvt E Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
       "song_title": "Efesios 6",
       "artist": "Anderson Freire",
       "confidence": "bronze",
@@ -83,12 +92,30 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Prvt E Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
+      "song_title": "Prvt E Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 6,
+    "events": 12,
+    "with_song": 9,
     "missing": 3,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

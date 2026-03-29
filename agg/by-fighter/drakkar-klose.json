@@ -1,7 +1,7 @@
 {
   "fighter": "Drakkar Klose",
   "slug": "drakkar-klose",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Devastated",
@@ -56,12 +56,30 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "What U See Is What U Get",
+      "artist": "Key Glock and Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gtcO05zF2TqQNx7jzm2Ur",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Win",
+      "artist": "Jay Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 8,
+    "with_song": 5,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

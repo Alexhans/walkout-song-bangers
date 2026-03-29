@@ -1,6 +1,6 @@
 # Karolina Kowalkiewicz
 
-6 event(s) | 4 song(s) found | 2 unique
+7 event(s) | 5 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2021-08-07 | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |
 | 2022-11-12 | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | T.N.T. | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | T.N.T. | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
+| 2023-10-07 | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | T.N.T. | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |

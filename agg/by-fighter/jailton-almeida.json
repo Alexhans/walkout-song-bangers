@@ -1,7 +1,7 @@
 {
   "fighter": "Jailton Almeida",
   "slug": "jailton-almeida",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Love Funk",
+      "artist": "MC Lipi, DJ Guh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Brandon Jenkins",
+  "slug": "brandon-jenkins",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind and Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Krzysztof Jotko",
   "slug": "krzysztof-jotko",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Streets of Siam",
@@ -11,12 +11,21 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
+    },
+    {
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

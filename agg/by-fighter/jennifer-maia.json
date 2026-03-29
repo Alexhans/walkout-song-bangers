@@ -1,7 +1,7 @@
 {
   "fighter": "Jennifer Maia",
   "slug": "jennifer-maia",
-  "appearances": 2,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,48 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

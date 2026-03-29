@@ -1,7 +1,7 @@
 {
   "fighter": "Trey Ogden",
   "slug": "trey-ogden",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Fire Squad",
@@ -20,12 +20,39 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Down as a Great",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1nOulxNWYu060f17Dzr277",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
+    {
+      "song_title": "No Friends in the Industry",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Merab Dvalishvili",
   "slug": "merab-dvalishvili",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 266: Volkanovski vs. Ortega",
       "event_slug": "ufc-266",
       "date": "2021-09-25"
+    },
+    {
+      "song_title": "Movidar",
+      "artist": "Midi Midi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     },
     {
       "song_title": "Am I Wrong",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
     "unique_songs": 2
   }

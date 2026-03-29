@@ -1,7 +1,7 @@
 {
   "fighter": "Kennedy Nzechukwu",
   "slug": "kennedy-nzechukwu",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "This Year (Blessing)",
@@ -11,12 +11,48 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "Holy Steppin",
+      "artist": "Emanuel Da Prophet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Kn4dooOoVgB85pFEGOwd9",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Overcome",
+      "artist": "Jeremy Camp",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "Lord Do It for Me",
+      "artist": "Zacardi Cortez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Hade Boss",
+      "artist": "DJ Lag & Mr. Nation Thingz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 5
   }
 }

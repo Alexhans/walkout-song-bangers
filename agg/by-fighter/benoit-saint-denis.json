@@ -1,8 +1,17 @@
 {
   "fighter": "Benoit Saint Denis",
   "slug": "benoit-saint-denis",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "Le Chant des Commandos a Saint Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Wih2CC5QsRG5TQgrK7mwL",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
     {
       "song_title": "Le Chant des Commandos/Saint Denis",
       "artist": "NTM",
@@ -29,12 +38,30 @@
       "event": "UFC 325: Volkanovski vs. Lopes 2",
       "event_slug": "ufc-325",
       "date": "2026-01-31"
+    },
+    {
+      "song_title": "Le Chant des Commandos/Saint Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "Le Chant des Commandos/Saint-Denis",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

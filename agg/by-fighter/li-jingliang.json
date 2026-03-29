@@ -1,7 +1,7 @@
 {
   "fighter": "Li Jingliang",
   "slug": "li-jingliang",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2020-03-07"
     },
     {
+      "song_title": "Call Me Wawa",
+      "artist": "Lil-Em",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
       "song_title": "Mit (First Round)",
       "artist": "Al Ge",
       "confidence": "bronze",
@@ -20,12 +29,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "The Lonely Brave",
+      "artist": "Eason Chan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txoFhzC6ENuJ7futJlEyh",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

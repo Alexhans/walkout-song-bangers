@@ -1,8 +1,17 @@
 {
   "fighter": "Victor Martinez",
   "slug": "victor-martinez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
     {
       "song_title": "Stomp",
       "artist": "Young Buck, T.I., The Game and Ludacris",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

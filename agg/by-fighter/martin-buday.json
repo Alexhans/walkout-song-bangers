@@ -1,7 +1,7 @@
 {
   "fighter": "Martin Buday",
   "slug": "martin-buday",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "New Level",
@@ -20,11 +20,38 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
     "unique_songs": 1
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Calvin Kattar",
   "slug": "calvin-kattar",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "I Won't Back Down",
@@ -38,12 +38,39 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "The House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

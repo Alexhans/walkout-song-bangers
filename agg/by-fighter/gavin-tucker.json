@@ -1,0 +1,22 @@
+{
+  "fighter": "Gavin Tucker",
+  "slug": "gavin-tucker",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "9 to 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

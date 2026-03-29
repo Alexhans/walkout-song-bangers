@@ -1,7 +1,7 @@
 {
   "fighter": "Johnny Munoz",
   "slug": "johnny-munoz",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
+    },
+    {
+      "song_title": "Words I Never Said",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5AcOdoDOQOKtPlAM1FqBO8",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "All Day",
+      "artist": "KRS-One",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

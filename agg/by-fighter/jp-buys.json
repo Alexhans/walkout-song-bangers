@@ -1,0 +1,31 @@
+{
+  "fighter": "JP Buys",
+  "slug": "jp-buys",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "I Am",
+      "artist": "Satsang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

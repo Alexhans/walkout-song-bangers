@@ -1,7 +1,7 @@
 {
   "fighter": "Tyson Pedro",
   "slug": "tyson-pedro",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Sexual",
@@ -11,6 +11,15 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "What's My Name",
+      "artist": "Fivio Foreign & Queen Naija",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     },
     {
       "song_title": "Cuff It",
@@ -31,6 +40,15 @@
       "date": "2023-09-09"
     },
     {
+      "song_title": "Sexual",
+      "artist": "Neikid feat. Dyo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
       "song_title": "Let’s Go",
       "artist": "Trick Daddy feat. Lil’ Jon & Twista",
       "confidence": "bronze",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

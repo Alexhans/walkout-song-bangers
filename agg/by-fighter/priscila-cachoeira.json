@@ -1,7 +1,7 @@
 {
   "fighter": "Priscila Cachoeira",
   "slug": "priscila-cachoeira",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,30 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Pedrita",
+      "artist": "MC Dom",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7iNudtSlL7coBWKGnbcHsq",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Zombie",
+      "artist": "The Cranberries",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

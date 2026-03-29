@@ -1,7 +1,7 @@
 {
   "fighter": "Thiago Moises",
   "slug": "thiago-moises",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Pais do Futebol",
+      "artist": "MC Guime & Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    },
+    {
+      "song_title": "Malandragem (Intro)",
+      "artist": "MC Kako",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Zc6f69uo4TJBBMmY5AczE",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 3
   }
 }

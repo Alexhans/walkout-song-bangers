@@ -1,0 +1,172 @@
+{
+  "event": "UFC Fight Night: Ladd vs. Dumont",
+  "event_slug": "ufc-fight-night-ladd-vs-dumont",
+  "date": "2021-10-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/17/ufc-fight-night-195-walkout-songs-music-las-vegas-tom-petty-black-sabbath-ac-dc-drake-star-wars/81436308007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "Rock N' Roll Part 2",
+      "artist": "Gary Glitter",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d",
+      "notes": ""
+    },
+    {
+      "fighter": "Aspen Ladd",
+      "song_title": "Promontory",
+      "artist": "Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Felipe",
+      "song_title": "Omni Black",
+      "artist": "Murro Na Cabeca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60x2Y44WprKso3CjA99UVi",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Erick Gonzalez",
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "notes": ""
+    },
+    {
+      "fighter": "Manon Fiorot",
+      "song_title": "En Mode 1",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
+      "notes": ""
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Landwehr",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Ludovit Klein",
+      "song_title": "Ain't Gonna Die Tonight",
+      "artist": "Macklemore feat. Eric Nally",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola da Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tJFYoxvFefmr8j0Czc4XD",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrew Sanchez",
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty and the Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Roberts",
+      "song_title": "The Payback",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "notes": ""
+    },
+    {
+      "fighter": "Ramazan Emeev",
+      "song_title": "Because I am a Highlander",
+      "artist": "Marat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Batgerel Danaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Davis",
+      "song_title": "Welcome Back",
+      "artist": "Mase",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4",
+      "notes": ""
+    },
+    {
+      "fighter": "Ariane Carnelossi",
+      "song_title": "Et Circenses",
+      "artist": "Rosa de Saron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XMcb4y6hH3xIoSlfTd0gU",
+      "notes": ""
+    },
+    {
+      "fighter": "Istela Nunes",
+      "song_title": "Vou Te Mostrar o Nenem Com Cara De Malvadao",
+      "artist": "DJ JL O Unico & DJ Elyce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sLpXAerf7zk8do20OxfJG",
+      "notes": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Ramazan Emeev",
   "slug": "ramazan-emeev",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 275: Teixeira vs. Prochazka",
       "event_slug": "ufc-275",
       "date": "2022-06-11"
+    },
+    {
+      "song_title": "Because I am a Highlander",
+      "artist": "Marat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

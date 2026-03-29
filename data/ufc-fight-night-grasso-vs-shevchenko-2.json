@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+  "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+  "date": "2023-09-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/09/17/noche-ufc-walkout-music-las-vegas-fight-tracks-ac-dc-real-american-no-jason-aldean/80518850007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
+      "notes": ""
+    },
+    {
+      "fighter": "Valentina Shevchenko",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Tell Me",
+      "artist": "MGF Bandit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Bekb2NCcVFVe7EKuMiogH",
+      "notes": ""
+    },
+    {
+      "fighter": "Raul Rosas Jr.",
+      "song_title": "Mexico Linda y Queirdo",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5bG6TnIYVmyz3yXAMnvVcX",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrence Mitchell",
+      "song_title": "Cult of Personality",
+      "artist": "Living Colour",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1E4r8aMHDP3j2tq8atKzzt",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Zellhuber",
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "notes": ""
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "Real American",
+      "artist": "Rick Derringer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Nelson",
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "notes": ""
+    },
+    {
+      "fighter": "Fernando Padilla",
+      "song_title": "Cabron y Vargo",
+      "artist": "El Fantasma & Los Dos Carnales",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jCZrRSqtZEYfQJxM1Aepl",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Homecoming",
+      "artist": "Ryan Caraveo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cnLho7dzoDLv837gm9Bn9",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Edgar Chairez",
+      "song_title": "Soy Un Mexicano, Lo Que Hay",
+      "artist": "Carlos Blanco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3pfqM4WfDMX7tORDanBSMD",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Lacerda",
+      "song_title": "Anderson Freire Com Letre",
+      "artist": "Efesios 6",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VxS08r8DapCfmj89Rcd59",
+      "notes": ""
+    },
+    {
+      "fighter": "Tracy Cortez",
+      "song_title": "Como la Flor",
+      "artist": "Selena",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
+      "notes": ""
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "What It's Like",
+      "artist": "Everlast",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Campbell",
+      "song_title": "Right Above It",
+      "artist": "Lil' Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Reyes",
+      "song_title": "Saint-Tropez",
+      "artist": "Post Malone and \"Serpientes y Eascaleras\" by Silar KDE",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S",
+      "notes": ""
+    },
+    {
+      "fighter": "Josefine Knutsson",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Marnic Mann",
+      "song_title": "Wake Me Up",
+      "artist": "2Cellos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
+      "notes": ""
+    }
+  ]
+}

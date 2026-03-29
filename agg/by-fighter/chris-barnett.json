@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Barnett",
   "slug": "chris-barnett",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "SPECIAL DELIVERY",
@@ -11,12 +11,21 @@
       "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
+    },
+    {
+      "song_title": "Iffy",
+      "artist": "Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54Ck9yFxxImJ2ONxcLFPZz",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

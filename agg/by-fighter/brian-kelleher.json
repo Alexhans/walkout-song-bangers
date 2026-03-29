@@ -1,7 +1,7 @@
 {
   "fighter": "Brian Kelleher",
   "slug": "brian-kelleher",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Blessed Up",
@@ -38,12 +38,30 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Rumble Young Man Rumble",
+      "artist": "Juelz Santana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/75cVyLquQE44NFI15VVobY",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Boom Boom Boom",
+      "artist": "The Outhere Brothers and “Glory” by Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yD9hgruivtAAZ7HrKPYmG",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "David Onama",
   "slug": "david-onama",
-  "appearances": 2,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,33 @@
       "date": "2024-11-16"
     },
     {
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled feat. Lil Baby and Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Every Change I Get",
+      "artist": "DJ Khaled feat. Lil Baby, Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Peace",
+      "artist": "Mohbad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
       "song_title": "Peace",
       "artist": "Mohbad",
       "confidence": "bronze",
@@ -20,12 +47,30 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Back To the Hotel",
+      "artist": "N2Deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
+    },
+    {
+      "song_title": "Unforgettable",
+      "artist": "French Montana feat. Swae Lee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0dKNXODgcbQtyDgEt6mw1A",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 5
   }
 }

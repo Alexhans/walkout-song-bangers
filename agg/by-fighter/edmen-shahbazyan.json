@@ -1,7 +1,7 @@
 {
   "fighter": "Edmen Shahbazyan",
   "slug": "edmen-shahbazyan",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Artsakh",
@@ -38,12 +38,21 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 1,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }

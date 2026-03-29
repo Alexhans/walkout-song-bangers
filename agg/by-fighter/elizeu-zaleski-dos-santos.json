@@ -1,8 +1,17 @@
 {
   "fighter": "Elizeu Zaleski dos Santos",
   "slug": "elizeu-zaleski-dos-santos",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
     {
       "song_title": "The Final Countdown",
       "artist": "Europe",
@@ -20,11 +29,20 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 1
   }

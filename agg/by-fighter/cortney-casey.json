@@ -1,7 +1,7 @@
 {
   "fighter": "Cortney Casey",
   "slug": "cortney-casey",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Living Dead Girl",
@@ -29,11 +29,29 @@
       "event": "UFC 218: Holloway vs. Aldo 2",
       "event_slug": "ufc-218",
       "date": "2017-12-02"
+    },
+    {
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 1
   }

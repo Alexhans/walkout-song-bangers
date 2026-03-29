@@ -1,7 +1,7 @@
 {
   "fighter": "Laureano Staropoli",
   "slug": "laureano-staropoli",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Ayer Deseo Hoy Realidad",
+      "artist": "Hermetica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6woKpva7Uwdpxr3tqhHbhD",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

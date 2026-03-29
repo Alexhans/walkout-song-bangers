@@ -1,7 +1,7 @@
 {
   "fighter": "Anthony Hernandez",
   "slug": "anthony-hernandez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Bladadah",
@@ -22,6 +22,15 @@
       "date": "2024-02-17"
     },
     {
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    },
+    {
       "song_title": "Por Ti Volaré",
       "artist": "Andrea Bocelli",
       "confidence": "bronze",
@@ -32,8 +41,8 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 3
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Maycee Barber",
   "slug": "maycee-barber",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Bad Guy",
@@ -29,12 +29,39 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "Somethin’ Bad",
+      "artist": "Miranda Lambert feat. Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "The Champion",
+      "artist": "Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
-    "missing": 1,
-    "unique_songs": 2
+    "events": 6,
+    "with_song": 4,
+    "missing": 2,
+    "unique_songs": 4
   }
 }

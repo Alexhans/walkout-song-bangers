@@ -1,7 +1,7 @@
 {
   "fighter": "Vicente Luque",
   "slug": "vicente-luque",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Baby Baby",
@@ -56,12 +56,39 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Long Way",
+      "artist": "Lathan Warlick feat. KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Troopkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 9,
+    "with_song": 6,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

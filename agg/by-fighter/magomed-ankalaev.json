@@ -1,7 +1,7 @@
 {
   "fighter": "Magomed Ankalaev",
   "slug": "magomed-ankalaev",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Krasivaja Lezginka",
+      "artist": "Muzyka and Masinu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aYOxcYhknnFFRKlYG0GNh",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 1,
+    "events": 6,
+    "with_song": 2,
     "missing": 4,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

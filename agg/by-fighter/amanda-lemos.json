@@ -1,7 +1,7 @@
 {
   "fighter": "Amanda Lemos",
   "slug": "amanda-lemos",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Deixa",
@@ -29,12 +29,30 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "De Dentro pra Fora",
+      "artist": "Julia Vitoria",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
+      "song_title": "De Dentro Pra Fora",
+      "artist": "Julia Vitoria",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

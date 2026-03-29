@@ -1,7 +1,7 @@
 {
   "fighter": "Jared Vanderaa",
   "slug": "jared-vanderaa",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,39 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "Hip To Be Scared",
+      "artist": "Ice Nine Kills feat. Jacoby Shaddix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "I've Been Hearing That You're Freaky",
+      "artist": "Jonny Craig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7k5DiJCqhW4Chbv7nLA9lH",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "This is Halloween",
+      "artist": "Marilyn Manson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/042Y7INHELtUGh8LRtl3X5",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Rafael Fiziev",
   "slug": "rafael-fiziev",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
+    },
+    {
+      "song_title": "Human",
+      "artist": "Rag’n’Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     },
     {
       "song_title": "Hurricane",
@@ -23,18 +32,36 @@
     },
     {
       "song_title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Human",
       "artist": "Rag’n’Bone Man",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

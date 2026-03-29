@@ -1,7 +1,7 @@
 {
   "fighter": "Isaac Dulgarian",
   "slug": "isaac-dulgarian",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Gangsta Bop",
@@ -11,12 +11,30 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "So Much More",
+      "artist": "Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mzQu9J4d90nyoBBfgniaK",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Gangsta Bop",
+      "artist": "Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

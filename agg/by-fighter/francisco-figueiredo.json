@@ -1,0 +1,31 @@
+{
+  "fighter": "Francisco Figueiredo",
+  "slug": "francisco-figueiredo",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Oitavo Anjo",
+      "artist": "509-E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18jeA7LiqGZK9ENA0KWVr1",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Oitavo Anjo",
+      "artist": "509-E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18jeA7LiqGZK9ENA0KWVr1",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

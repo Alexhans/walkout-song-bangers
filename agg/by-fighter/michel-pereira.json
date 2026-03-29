@@ -1,7 +1,7 @@
 {
   "fighter": "Michel Pereira",
   "slug": "michel-pereira",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "Canudinho Part. Ana Castela",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

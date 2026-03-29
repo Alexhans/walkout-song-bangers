@@ -1,7 +1,7 @@
 {
   "fighter": "Michelle Waterson-Gomez",
   "slug": "michelle-waterson-gomez",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 1,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }

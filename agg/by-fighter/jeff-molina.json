@@ -1,0 +1,22 @@
+{
+  "fighter": "Jeff Molina",
+  "slug": "jeff-molina",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Spit Your Game",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

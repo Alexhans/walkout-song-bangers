@@ -1,7 +1,7 @@
 {
   "fighter": "Claudio Puelles",
   "slug": "claudio-puelles",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Fear of the Dark",
@@ -17,14 +17,32 @@
       "artist": "Iron Maiden",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
+      "song_title": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 1
   }

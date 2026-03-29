@@ -1,7 +1,7 @@
 {
   "fighter": "Shayilan Nuerdanbieke",
   "slug": "shayilan-nuerdanbieke",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Perez vs. Taira",
       "event_slug": "ufc-fight-night-perez-vs-taira",
       "date": "2024-06-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 4,
     "with_song": 1,
-    "missing": 1,
+    "missing": 3,
     "unique_songs": 1
   }
 }

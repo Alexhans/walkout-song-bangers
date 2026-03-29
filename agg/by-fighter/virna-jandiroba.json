@@ -1,7 +1,7 @@
 {
   "fighter": "Virna Jandiroba",
   "slug": "virna-jandiroba",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2020-08-15"
     },
     {
+      "song_title": "Island Boy",
+      "artist": "The Kiffness and Island Boys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KQDDcp5ZDx372Y3kIVeA6",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
       "song_title": "Empire State of Mind",
       "artist": "Jay Z and Alicia Keys",
       "confidence": "bronze",
@@ -20,6 +29,15 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "Cavaleiro de Aruanda",
+      "artist": "Ronnnie Von",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JNBwLY2lYKtMqeuzY23PN",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
     },
     {
       "song_title": "That’s Life",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Sam Alvey",
   "slug": "sam-alvey",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "From Now On",
@@ -20,12 +20,30 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "Hey, Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Hey Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

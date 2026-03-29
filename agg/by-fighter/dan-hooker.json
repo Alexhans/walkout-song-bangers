@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Hooker",
   "slug": "dan-hooker",
-  "appearances": 9,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Runnin'",
@@ -49,6 +49,15 @@
       "date": "2021-09-25"
     },
     {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
       "song_title": "God Gave Me Style",
       "artist": "50 Cent",
       "confidence": "bronze",
@@ -83,12 +92,21 @@
       "event": "UFC 325: Volkanovski vs. Lopes 2",
       "event_slug": "ufc-325",
       "date": "2026-01-31"
+    },
+    {
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ncehUpJBvzVY5eXOKbSJv",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 8,
+    "events": 11,
+    "with_song": 10,
     "missing": 1,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

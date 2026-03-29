@@ -1,7 +1,7 @@
 {
   "fighter": "Adrian Yanez",
   "slug": "adrian-yanez",
-  "appearances": 1,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Oh La La",
@@ -11,12 +11,57 @@
       "event": "UFC 287: Pereira vs. Adesanya 2",
       "event_slug": "ufc-287",
       "date": "2023-04-08"
+    },
+    {
+      "song_title": "Oh La La",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "They Don't Know",
+      "artist": "Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3OyKWquwB2mVhBmI11u05e",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "Twinz",
+      "artist": "Big Pun feat. Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
+    },
+    {
+      "song_title": "Barrio",
+      "artist": "That Mexican OT feat. Lefty Sm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6QN6R0r1EaU1GjmYOBeeEW",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 6,
+    "with_song": 5,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

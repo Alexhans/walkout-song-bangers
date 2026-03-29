@@ -1,7 +1,7 @@
 {
   "fighter": "Karine Silva",
   "slug": "karine-silva",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Pantera Negra",
@@ -25,6 +25,15 @@
       "song_title": "Pantera Negra",
       "artist": "Emcida",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU",
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
@@ -32,8 +41,8 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 2
   }

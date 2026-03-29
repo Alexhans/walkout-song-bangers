@@ -1,7 +1,7 @@
 {
   "fighter": "Manon Fiorot",
   "slug": "manon-fiorot",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "En Mode 1",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Dirty Hous",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51fHtUi3oHovPgm5FokqiM",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "En Mode 1",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

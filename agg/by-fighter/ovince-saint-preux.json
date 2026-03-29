@@ -1,7 +1,7 @@
 {
   "fighter": "Ovince Saint Preux",
   "slug": "ovince-saint-preux",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Skrilla",
@@ -56,11 +56,29 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 6,
     "missing": 2,
     "unique_songs": 3
   }

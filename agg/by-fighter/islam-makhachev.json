@@ -1,7 +1,7 @@
 {
   "fighter": "Islam Makhachev",
   "slug": "islam-makhachev",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Cenroev",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "Dreams",
@@ -56,12 +65,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
-    "missing": 1,
-    "unique_songs": 1
+    "events": 8,
+    "with_song": 6,
+    "missing": 2,
+    "unique_songs": 2
   }
 }

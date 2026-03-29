@@ -1,7 +1,7 @@
 {
   "fighter": "Lukasz Brzeski",
   "slug": "lukasz-brzeski",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Mój Świat",
@@ -31,6 +31,15 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Lukasyno",
+      "artist": "Moj Swiat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/29MiIEevMyKpfEa5pAA77K",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
+    },
+    {
       "song_title": "Mój świat",
       "artist": "Lukasyno & Kriso feat. Miss God",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

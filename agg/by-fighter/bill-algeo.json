@@ -1,7 +1,7 @@
 {
   "fighter": "Bill Algeo",
   "slug": "bill-algeo",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Don’t Mess With Bill",
@@ -11,12 +11,48 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Don't Mess With Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ZntRLy883TGeACsg4bOOI",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "Don't Mess with Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Don't Mess with Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
+      "song_title": "Don't Mess with Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

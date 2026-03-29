@@ -1,7 +1,7 @@
 {
   "fighter": "Elise Reed",
   "slug": "elise-reed",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Homecoming",
@@ -11,12 +11,39 @@
       "event": "UFC 284: Makhachev vs. Volkanovski",
       "event_slug": "ufc-284",
       "date": "2023-02-11"
+    },
+    {
+      "song_title": "Homecoming",
+      "artist": "Ryan Caraveo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cnLho7dzoDLv837gm9Bn9",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
+    {
+      "song_title": "Homecoming",
+      "artist": "Ryan Caraveo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cnLho7dzoDLv837gm9Bn9",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Bang",
+      "artist": "AJR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Blaydes vs. Aspinall",
+  "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+  "date": "2022-07-23",
+  "location": "London, England, United Kingdom",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/07/24/ufc-fight-night-208-london-walkout-music-neil-diamond-acdc-paddy-pimblett-molly-mccann/81218644007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tom Aspinall",
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
+      "notes": ""
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry",
+      "artist": "Sunnery James and Ryan Marciano, \"Heads Will Roll\" by Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Leavitt",
+      "song_title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Gustafsson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Hannah Goldy",
+      "song_title": "Medicated",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OI48E8HqkN8fnTOu3Hfuf",
+      "notes": ""
+    },
+    {
+      "fighter": "Volkan Oezdemir",
+      "song_title": "Don't Waste My Time",
+      "artist": "Krept & Konan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/340NhlJst6qemAoMq34BuA",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Quiet Little Voices",
+      "artist": "We Were Promised Jetpacks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TQJGu7KoqOFvjvopA8fx2",
+      "notes": ""
+    },
+    {
+      "fighter": "Ludovit Klein",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Mason Jones",
+      "song_title": "Logic",
+      "artist": "Broken People",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "notes": ""
+    },
+    {
+      "fighter": "Damir Hadzovic",
+      "song_title": "Fight to Survive",
+      "artist": "Paul Hertzog and Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2y8pG9CF0HC4cttJ50Pufk",
+      "notes": ""
+    },
+    {
+      "fighter": "Nathaniel Wood",
+      "song_title": "I'm a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Rosa",
+      "song_title": "Red Nation",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2sYUGgzQfHQ6lOWzbrny8Z",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Shooting Star",
+      "artist": "Bad Company",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NSZz3qzNESLWfCqglnylo",
+      "notes": ""
+    },
+    {
+      "fighter": "Makwan Amirkhani",
+      "song_title": "Yazn",
+      "artist": "Mikail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Qagd6kJEbLDdsDzvmRCav",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "Mokaev",
+      "artist": "Zoya Chunaeva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Johnson",
+      "song_title": "Other Side of America",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
+      "notes": ""
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Chronic Law",
+      "artist": "Rolling Calf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1hfrTJNyCr6DNk593dvfdw",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Nelson",
+      "song_title": "Hard Man",
+      "artist": "Paul Lagendyk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/480bgITiwheUmEiwuHOqIR",
+      "notes": ""
+    },
+    {
+      "fighter": "Victoria Leonardo",
+      "song_title": "You Shook Me All Night Long",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo",
+      "notes": ""
+    },
+    {
+      "fighter": "Mandy Bohm",
+      "song_title": "Der Druck Steight",
+      "artist": "Casper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lXoKZtDpj9cwcUbijkDbo",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolas Dalby",
+      "song_title": "Get Up Offa That Thing",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XeSAezNDk9tuw3viiCbZ3",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Silva",
+      "song_title": "(Rock) Superstar",
+      "artist": "Cypress Hill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hYr8yRbQLFE20oS7Mi3T2",
+      "notes": ""
+    }
+  ]
+}

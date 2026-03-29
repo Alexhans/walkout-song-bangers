@@ -1,7 +1,7 @@
 {
   "fighter": "Jake Collier",
   "slug": "jake-collier",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Are You Ready",
@@ -11,12 +11,30 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "I Like These Odds",
+      "artist": "Jay Kill and The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "I Like These Odds",
+      "artist": "Jay Kill & The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vA00G6RJAR6XAZB4SOPKV",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

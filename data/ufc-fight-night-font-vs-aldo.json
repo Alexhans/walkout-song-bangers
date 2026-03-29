@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Font vs. Aldo",
+  "event_slug": "ufc-fight-night-font-vs-aldo",
+  "date": "2021-12-04",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/12/05/fight-tracks-the-walkout-songs-ufc-on-espn-31-with-bon-jovi-ac-dc-motorhead-and-christina-aguilera/81377806007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Jose Aldo",
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "notes": ""
+    },
+    {
+      "fighter": "Brad Riddell",
+      "song_title": "Death Row East",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IZwjpLSvABzr1E7xeBaRJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamahal Hill",
+      "song_title": "100 Shots",
+      "artist": "Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jimmy Crute",
+      "song_title": "Ace of Spades",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+      "notes": ""
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "Stupid Kid",
+      "artist": "Alkaline Trio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT",
+      "notes": ""
+    },
+    {
+      "fighter": "Leonardo Santos",
+      "song_title": "Runnin'",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "Could Have Been Me",
+      "artist": "The Struts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Something Special",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4auQ4t0A75PANr9b51u7U2",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "I E A I A I O",
+      "artist": "System of a Down",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5",
+      "notes": ""
+    },
+    {
+      "fighter": "Mickey Gall",
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil, \"Woke Up This Morning\" by Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kKzQXuX1VxFFgzLovC8wx",
+      "notes": ""
+    },
+    {
+      "fighter": "Dusko Todorovic",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Maki Pitolo",
+      "song_title": "Samoana",
+      "artist": "Lole Usoalii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kSLZvIlEfCEo8SPu8nvzI",
+      "notes": ""
+    },
+    {
+      "fighter": "Manel Kape",
+      "song_title": "Trumuno",
+      "artist": "Os Garimpeiros",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VsBrgueZDf8HHJHPim9up",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhalgas Zhumagulov",
+      "song_title": "Alash Urany",
+      "artist": "Bekbolat Tleuhan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Wo4VXjYc3TwQZ7YlClL7E",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Darian Weeks",
+      "song_title": "Prosper",
+      "artist": "David Michael Wyatt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Tp06Bm3KnWQIzm1zNLZqH",
+      "notes": ""
+    },
+    {
+      "fighter": "Cheyanne Vlismas",
+      "song_title": "Fighter",
+      "artist": "Christina Aguilera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5",
+      "notes": ""
+    },
+    {
+      "fighter": "Mallory Martin",
+      "song_title": "Knife Talk",
+      "artist": "Drake feat. 21 Savage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UJuzJiiSD4BSASdy4j1IL",
+      "notes": ""
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "Nuh Fraid A Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
+      "notes": ""
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "notes": ""
+    },
+    {
+      "fighter": "Claudio Puelles",
+      "song_title": "Fear of the Dark",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gruetzemacher",
+      "song_title": "Lazer Focused",
+      "artist": "ShineWrite",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx",
+      "notes": ""
+    },
+    {
+      "fighter": "Vince Morales",
+      "song_title": "Help Yourself",
+      "artist": "King Iso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f5JEPmoaaA11nAvsAMm39",
+      "notes": ""
+    },
+    {
+      "fighter": "Louis Smolka",
+      "song_title": "Lord Knows",
+      "artist": "Meek Mill feat. Tory Lanez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57hCSu4zMTdnSum7NBL1Ye",
+      "notes": ""
+    }
+  ]
+}

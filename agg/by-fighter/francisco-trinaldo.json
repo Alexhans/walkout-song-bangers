@@ -1,7 +1,7 @@
 {
   "fighter": "Francisco Trinaldo",
   "slug": "francisco-trinaldo",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr. and \"Promontory\" by Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

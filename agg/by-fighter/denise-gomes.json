@@ -1,7 +1,7 @@
 {
   "fighter": "Denise Gomes",
   "slug": "denise-gomes",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Prvt e Hora de Vencer",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "Prvt E Hora De Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

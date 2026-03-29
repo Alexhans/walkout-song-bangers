@@ -1,7 +1,7 @@
 {
   "fighter": "Kyle Daukaus",
   "slug": "kyle-daukaus",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "The Man",
@@ -11,12 +11,39 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Saturday Night's Alright for Fighting",
+      "artist": "Elton John",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
+      "song_title": "The Rain",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "The Boys are Back in Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

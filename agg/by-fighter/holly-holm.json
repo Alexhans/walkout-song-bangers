@@ -1,7 +1,7 @@
 {
   "fighter": "Holly Holm",
   "slug": "holly-holm",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "The Landlord's Walk",
@@ -38,11 +38,20 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Scott Holtzman",
   "slug": "scott-holtzman",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Nothin' but a Good Time",
@@ -11,12 +11,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

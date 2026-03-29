@@ -1,7 +1,7 @@
 {
   "fighter": "Devin Clark",
   "slug": "devin-clark",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Die Tonight",
@@ -29,12 +29,30 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun and Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4qT1t3Ot2DaoN4VYzgWGlA",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

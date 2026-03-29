@@ -1,7 +1,7 @@
 {
   "fighter": "Jonathan Pearce",
   "slug": "jonathan-pearce",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "Shooting Star",
+      "artist": "Bad Company",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NSZz3qzNESLWfCqglnylo",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "Thunderstruck",
       "artist": "AC/DC",
       "confidence": "bronze",
@@ -29,12 +38,30 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

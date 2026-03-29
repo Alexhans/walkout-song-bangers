@@ -1,7 +1,7 @@
 {
   "fighter": "Rongzhu",
   "slug": "rongzhu",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "I Know?",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Franchise",
+      "artist": "Travis Scott feat. Young Thug and M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Joel Alvarez",
   "slug": "joel-alvarez",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -14,6 +14,24 @@
     },
     {
       "song_title": "Cancion del Mariachi",
+      "artist": "Los Lobos & Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "Cancion del Mariachi",
+      "artist": "Los Lobos and Antonio Banderas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Cancion del Mariachi",
       "artist": "Antonio Banderas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Harry Hunsucker",
+  "slug": "harry-hunsucker",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Cowboys",
+      "artist": "Jellyroll & Struggle Jennings",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

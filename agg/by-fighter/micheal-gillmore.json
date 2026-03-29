@@ -1,0 +1,22 @@
+{
+  "fighter": "Micheal Gillmore",
+  "slug": "micheal-gillmore",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Champion",
+      "artist": "Barns Courtney",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

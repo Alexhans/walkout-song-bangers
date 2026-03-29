@@ -1,7 +1,7 @@
 {
   "fighter": "Julian Marquez",
   "slug": "julian-marquez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Dance Monkey",
@@ -11,12 +11,21 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

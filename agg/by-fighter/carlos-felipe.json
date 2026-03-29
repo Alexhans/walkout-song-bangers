@@ -1,0 +1,22 @@
+{
+  "fighter": "Carlos Felipe",
+  "slug": "carlos-felipe",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Omni Black",
+      "artist": "Murro Na Cabeca",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60x2Y44WprKso3CjA99UVi",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

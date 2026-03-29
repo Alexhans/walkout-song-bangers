@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Hermansson vs. Strickland",
+  "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+  "date": "2022-02-05",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/02/06/ufc-fight-night-200-walkout-songs-music-las-vegas-motley-crue-motorhead-train/81336047007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Maximov",
+      "song_title": "Digital Bath",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "Streets of Siam",
+      "artist": "Paul Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "notes": ""
+    },
+    {
+      "fighter": "Shavkat Rakhmonov",
+      "song_title": "Talent Zhumabaev",
+      "artist": "Bizdin Eldin Zhigitteri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zEK1DArZtBK6rHIQP3I4r",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Flexin",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5t7m9aBw4iaIdxvU9Ki0qy",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Alvey",
+      "song_title": "Hey, Soul Sister",
+      "artist": "Train",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Battle",
+      "song_title": "The Game",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH",
+      "notes": ""
+    },
+    {
+      "fighter": "Tresean Gore",
+      "song_title": "Tough",
+      "artist": "King Quick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Julian Erosa",
+      "song_title": "Jungle",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2",
+      "notes": ""
+    },
+    {
+      "fighter": "Steven Peterson",
+      "song_title": "McQueen Fiend",
+      "artist": "Caskey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2fzk0ZcdE1YDd2prmjnkAH",
+      "notes": ""
+    },
+    {
+      "fighter": "John Castaneda",
+      "song_title": "I'll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "notes": ""
+    },
+    {
+      "fighter": "Miles Johns",
+      "song_title": "Cold Blood",
+      "artist": "Dave Not Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UeE8WZ4NPrfIfSublcyta",
+      "notes": ""
+    },
+    {
+      "fighter": "Hakeem Dawodu",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Trizano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chidi Njokuani",
+      "song_title": "Me or Sum",
+      "artist": "Nardo Wick feat. Future & Lil Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc-Andre Barriault",
+      "song_title": "Grateful",
+      "artist": "Neffex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexis Davis",
+      "song_title": "Bad Boyz",
+      "artist": "Shyne feat. Barrington Levvy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2MNQMtZbOb7rBWli3TSok0",
+      "notes": ""
+    },
+    {
+      "fighter": "Julija Stoliarenko",
+      "song_title": "Voodoo People",
+      "artist": "The Prodigy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H0MOWplwc6gf2AD1vTSYi",
+      "notes": ""
+    },
+    {
+      "fighter": "Jailton Almeida",
+      "song_title": "Love Funk",
+      "artist": "MC Lipi, DJ Guh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW",
+      "notes": ""
+    },
+    {
+      "fighter": "Danilo Marques",
+      "song_title": "Uma Vida Do",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OibVbUVn9ZRpPZAP2kjhg",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Rowe",
+      "song_title": "Can't Take My Eyes Off You",
+      "artist": "Lauryn Hill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt",
+      "notes": ""
+    },
+    {
+      "fighter": "Jason Witt",
+      "song_title": "Get Down",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3UYuDTslR35thjQzaVwRMe",
+      "notes": ""
+    },
+    {
+      "fighter": "Malcolm Gordon",
+      "song_title": "X Gon' Give It To You",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O9ICXbrUTAVR5kkx6xANJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Denys Bondar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

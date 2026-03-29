@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Durden",
   "slug": "cody-durden",
-  "appearances": 3,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Hail Mary",
@@ -29,11 +29,56 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
     "unique_songs": 1
   }

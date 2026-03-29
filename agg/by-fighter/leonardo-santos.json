@@ -1,7 +1,7 @@
 {
   "fighter": "Leonardo Santos",
   "slug": "leonardo-santos",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Vida Loka",
+      "artist": "MC Menor do Chapa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1i5Xsz3klpJLotYXj6JFxm",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Runnin'",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

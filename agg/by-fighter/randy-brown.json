@@ -1,7 +1,7 @@
 {
   "fighter": "Randy Brown",
   "slug": "randy-brown",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Broad Daylight",
@@ -40,6 +40,15 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "No Suburban Pt. 2",
+      "artist": "Sheff G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
       "song_title": "Lime Light",
       "artist": "Masicka",
       "confidence": "bronze",
@@ -47,12 +56,21 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "Energy",
+      "artist": "Tommy Lee Sparta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BxiaQIDjAr2ltsUEMB9r8",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

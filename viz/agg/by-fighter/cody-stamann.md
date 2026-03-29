@@ -1,6 +1,6 @@
 # Cody Stamann
 
-5 event(s) | 5 song(s) found | 2 unique
+6 event(s) | 6 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2020-06-06 | [UFC 250: Nunes vs. Spencer](../../ufc-250.md) | Simple Man | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |
 | 2022-01-22 | [UFC 270: Ngannou vs. Gane](../../ufc-270.md) | STAYING ALIVE | Bee Gees | [Listen](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) |
 | 2023-01-21 | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | Simple Man | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |
+| 2022-06-18 | [UFC Fight Night: Kattar vs. Emmett](../../ufc-fight-night-kattar-vs-emmett.md) | Simple Man | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |

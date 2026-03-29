@@ -1,8 +1,17 @@
 {
   "fighter": "Jared Gordon",
   "slug": "jared-gordon",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
     {
       "song_title": "Edge of Seventeen",
       "artist": "Stevie Nicks",
@@ -20,12 +29,21 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "Lux Aeterna",
+      "artist": "Clint Mansell and Kronos Quartet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pm0f5nyrclUt3JkpgciJ2",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

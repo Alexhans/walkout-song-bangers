@@ -1,7 +1,7 @@
 {
   "fighter": "Lauren Murphy",
   "slug": "lauren-murphy",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Bad to the Bone",
@@ -38,12 +38,21 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood and the Destroyers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

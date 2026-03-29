@@ -1,7 +1,7 @@
 {
   "fighter": "Court McGee",
   "slug": "court-mcgee",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Iron Man",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

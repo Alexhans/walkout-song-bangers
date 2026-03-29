@@ -1,7 +1,7 @@
 {
   "fighter": "Rob Font",
   "slug": "rob-font",
-  "appearances": 4,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Welcome to Jamrock",
@@ -38,12 +38,48 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damien Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damien Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

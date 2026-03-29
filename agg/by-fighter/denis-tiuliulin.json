@@ -1,7 +1,7 @@
 {
   "fighter": "Denis Tiuliulin",
   "slug": "denis-tiuliulin",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "ДЕЛЕ",
@@ -22,6 +22,15 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
       "song_title": "One Truth Per Year",
       "artist": "Military Clan",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

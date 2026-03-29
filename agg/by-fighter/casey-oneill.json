@@ -1,7 +1,7 @@
 {
   "fighter": "Casey O'Neill",
   "slug": "casey-oneill",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "AMBITIONZ AZ A RIDAH",
@@ -11,6 +11,15 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "Loch Lomond (Tartan Army Version)",
+      "artist": "Runrig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/597UVCXrY8CcZS46urIuFc",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     },
     {
       "song_title": "Still Here",
@@ -29,12 +38,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
-    "missing": 0,
-    "unique_songs": 3
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

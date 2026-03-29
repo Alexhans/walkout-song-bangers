@@ -1,6 +1,6 @@
 # Derrick Lewis
 
-11 event(s) | 6 song(s) found | 4 unique
+12 event(s) | 7 song(s) found | 4 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -15,3 +15,4 @@
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | — | — | |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |
 | 2023-11-04 | [UFC Fight Night: Almeida vs. Lewis](../../ufc-fight-night-almeida-vs-lewis.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |
+| 2024-05-11 | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | Tops Drop | Fat Pat | [Listen](https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5) |

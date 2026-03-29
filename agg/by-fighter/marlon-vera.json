@@ -1,7 +1,7 @@
 {
   "fighter": "Marlon Vera",
   "slug": "marlon-vera",
-  "appearances": 8,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "That's All I Need",
@@ -58,6 +58,15 @@
       "date": "2018-11-17"
     },
     {
+      "song_title": "Subzero",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cYmCxFGza4zrc9vfs9PMV",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
       "song_title": "Tripolar",
       "artist": "Canserbero",
       "confidence": "bronze",
@@ -74,12 +83,21 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Spanish Town Rockin'",
+      "artist": "Chronixx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 10,
+    "with_song": 10,
     "missing": 0,
-    "unique_songs": 8
+    "unique_songs": 10
   }
 }

@@ -1,8 +1,35 @@
 {
   "fighter": "Victor Altamirano",
   "slug": "victor-altamirano",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Dagombas en Tamale",
+      "artist": "Residente",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Dagombas en Tamale",
+      "artist": "Residente",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Norupo",
+      "artist": "Heilung",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7oGwKNBX90dXL53ZbhPxJk",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
     {
       "song_title": "Como Te Voy A Olvidar",
       "artist": "Los Angeles Azules",
@@ -14,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,40 @@
+{
+  "fighter": "Evan Elder",
+  "slug": "evan-elder",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay Z and Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "Put On",
+      "artist": "Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3OePAyHePd68TTKmy2hjq0",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

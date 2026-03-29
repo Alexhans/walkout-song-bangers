@@ -1,0 +1,40 @@
+{
+  "fighter": "Ange Loosa",
+  "slug": "ange-loosa",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Intro",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EQ9QP2E7wjYQba8OSPBst",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Intro",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EQ9QP2E7wjYQba8OSPBst",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "Ready Or Not",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43vdIE5mIcjhJaleE3FIkd",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

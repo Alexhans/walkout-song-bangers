@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Aldo",
   "slug": "jose-aldo",
-  "appearances": 8,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "Run This Town",
@@ -59,6 +59,15 @@
     },
     {
       "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Run This Town",
       "artist": "JAY-Z, Rihanna, Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
@@ -74,12 +83,21 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay-Z feat. Rihanna and Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 10,
+    "with_song": 10,
     "missing": 0,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

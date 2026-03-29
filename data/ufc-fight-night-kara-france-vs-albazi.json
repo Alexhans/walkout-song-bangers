@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Kara-France vs. Albazi",
+  "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+  "date": "2023-06-03",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120032464.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Amir Albazi",
+      "song_title": "Takat Wala Mataket",
+      "artist": "Salah Al Bahar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tfZUCcMmQWeqFPUV4fkwg",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Not Many",
+      "artist": "Scribe feat. Savage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4MYPhAqmZxyBMBFknBhZHl",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Caceres",
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Pineda",
+      "song_title": "It’s a Fight",
+      "artist": "Three 6 Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Bad Moon Rising",
+      "artist": "Credence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesse Butler",
+      "song_title": "Ain’t No Grave",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "The Big Payback",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "notes": ""
+    },
+    {
+      "fighter": "Victor Altamirano",
+      "song_title": "Dagombas en Tamale",
+      "artist": "Residente",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
+      "notes": ""
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
+      "notes": ""
+    },
+    {
+      "fighter": "Ketlen Souza",
+      "song_title": "Muleque de Vila (Ao Vivo)",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kGoQLmgPxVcDzhdeqvlOp",
+      "notes": ""
+    },
+    {
+      "fighter": "Elizeu Zaleski dos Santos",
+      "song_title": "The Final Countdown",
+      "artist": "Europe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK",
+      "notes": ""
+    },
+    {
+      "fighter": "Abubakar Nurmagomedov",
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Santos",
+      "song_title": "Rei Dos Reis",
+      "artist": "MC Paulin de Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Munoz",
+      "song_title": "All Day",
+      "artist": "KRS-One",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "notes": ""
+    },
+    {
+      "fighter": "Don'Tale Mayes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "God’s Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": ""
+    },
+    {
+      "fighter": "John Castaneda",
+      "song_title": "I’ll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "notes": ""
+    },
+    {
+      "fighter": "Muin Gafurov",
+      "song_title": "Ariaee",
+      "artist": "Marym",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Naimov",
+      "song_title": "Plevne",
+      "artist": "Crvtoon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5txXnz3ogokxbfkmi6Xkaf",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Mullarkey",
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "notes": ""
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Homecoming",
+      "artist": "Ryan Caraveo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cnLho7dzoDLv837gm9Bn9",
+      "notes": ""
+    },
+    {
+      "fighter": "Jinh Yu Frey",
+      "song_title": "Sloth’s Revenge",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "notes": ""
+    },
+    {
+      "fighter": "Da'Mon Blackshear",
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "notes": ""
+    },
+    {
+      "fighter": "Luan Lacerda",
+      "song_title": "Legendary",
+      "artist": "Welshly Arms",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
+      "notes": ""
+    },
+    {
+      "fighter": "Philipe Lins",
+      "song_title": "The Dawning",
+      "artist": "Days Like These",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zeKYWzZJHHR0PtRv2CN2",
+      "notes": ""
+    },
+    {
+      "fighter": "Maxim Grishin",
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "notes": ""
+    }
+  ]
+}

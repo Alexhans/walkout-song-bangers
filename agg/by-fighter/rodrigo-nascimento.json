@@ -1,7 +1,7 @@
 {
   "fighter": "Rodrigo Nascimento",
   "slug": "rodrigo-nascimento",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Capitulo 4, Versiculo 3",
@@ -13,6 +13,15 @@
       "date": "2023-11-04"
     },
     {
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
       "song_title": "FE!N",
       "artist": "Travis Scott feat. Playboi Carti",
       "confidence": "bronze",
@@ -20,12 +29,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Legend",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

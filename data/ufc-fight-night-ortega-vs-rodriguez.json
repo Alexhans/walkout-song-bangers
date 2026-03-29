@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Ortega vs. Rodriguez",
+  "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+  "date": "2022-07-16",
+  "location": "Elmont, New York, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/07/17/ufc-abc-3-long-island-walkout-songs-white-stripes-tom-petty-tupac-reba-mcentire/81228645007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Yair Rodriguez",
+      "song_title": "El Corrido de Chihuahua",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/48i3IpPxpxuhVLQCtnNtev",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Ortega",
+      "song_title": "Sangre Caliente",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7kxzYxgEnjQ13qsghM28Sm",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Lemos",
+      "song_title": "De Dentro Pra Fora",
+      "artist": "Julia Vitoria",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa",
+      "notes": ""
+    },
+    {
+      "fighter": "Michelle Waterson-Gomez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Li Jingliang",
+      "song_title": "The Lonely Brave",
+      "artist": "Eason Chan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txoFhzC6ENuJ7futJlEyh",
+      "notes": ""
+    },
+    {
+      "fighter": "Muslim Salikhov",
+      "song_title": "Uppercut",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1SgENhaSaWJ9OWci6zRAvD",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Fancy",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "notes": ""
+    },
+    {
+      "fighter": "Sumudaerji",
+      "song_title": "Akebanma",
+      "artist": "Zhaxinima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4J3DGmfkkZ7GWxoxSxxxpZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Shane Burgos",
+      "song_title": "Way Down We Go",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Jourdain",
+      "song_title": "Born for This",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Sco7mbJy7p7vdDtJW10fZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Lauren Murphy",
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood and the Destroyers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk",
+      "notes": ""
+    },
+    {
+      "fighter": "Miesha Tate",
+      "song_title": "Seven Nation Army (Glitch Mob Remix)",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
+      "notes": ""
+    },
+    {
+      "fighter": "Punahele Soriano",
+      "song_title": "Highwayman",
+      "artist": "The Highwaymen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5",
+      "notes": ""
+    },
+    {
+      "fighter": "Dalcha Lungiambula",
+      "song_title": "Buffalo Soldier",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Simon",
+      "song_title": "Italy",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3x1klOiEzRSExyfDpLZzZi",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent and \"Seven Nation Army\" by the White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Bill Algeo",
+      "song_title": "Don't Mess with Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
+      "notes": ""
+    },
+    {
+      "fighter": "Herbert Burns",
+      "song_title": "Desabafo Deixa Eu Dizer",
+      "artist": "Marcelo D2 Claudia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCz9BOkt17aI6ZOR3EiUl",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "Runnin' Down a Dream",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "notes": ""
+    },
+    {
+      "fighter": "Da Woon Jung",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Stoltzfus",
+      "song_title": "July",
+      "artist": "Betcha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2b0G006xcIUoqvRDDaCT8E",
+      "notes": ""
+    },
+    {
+      "fighter": "Dwight Grant",
+      "song_title": "Don't Push Me",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
+      "notes": ""
+    },
+    {
+      "fighter": "Emily Ducote",
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Penne",
+      "song_title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg",
+      "notes": ""
+    }
+  ]
+}

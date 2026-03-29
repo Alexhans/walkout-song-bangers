@@ -1,7 +1,7 @@
 {
   "fighter": "Luke Rockhold",
   "slug": "luke-rockhold",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Live is Life",
@@ -11,12 +11,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "The Point of No Return",
+      "artist": "Immortal Technique",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qDpYCA6FoVvODVaZWScXO",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

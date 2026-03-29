@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Luque vs. Muhammad",
+  "event_slug": "ufc-fight-night-luque-vs-muhammad",
+  "date": "2022-04-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/04/17/ufc-espn-34-walkout-songs-music-las-vegas-red-hot-chili-peppers/81319435007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Belal Muhammad",
+      "song_title": "Man Listen",
+      "artist": "Belly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws",
+      "notes": ""
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Troopkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
+      "notes": ""
+    },
+    {
+      "fighter": "Caio Borralho",
+      "song_title": "Ultimo Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "notes": ""
+    },
+    {
+      "fighter": "Gadzhi Omargadzhiev",
+      "song_title": "Longing for the Motherland",
+      "artist": "Gamzalaev Gamzalov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2q4faYQZQS3UK2eCxMQ54G",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fialho",
+      "song_title": "Amor a Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "notes": ""
+    },
+    {
+      "fighter": "Miguel Baeza",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. and Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "Esperanca",
+      "artist": "MC V7",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jG1MQVWwK08P7C7eNLoFr",
+      "notes": ""
+    },
+    {
+      "fighter": "Wu Yanan",
+      "song_title": "Stubborn",
+      "artist": "May Day",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jVX6VjKXwDDkesVXzjReY",
+      "notes": ""
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Laramie",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Mounir Lazzez",
+      "song_title": "1, 2, 3 Soleil",
+      "artist": "Abdel Kader",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PNqtQFVeULgHm7Cs7Yofd",
+      "notes": ""
+    },
+    {
+      "fighter": "Ange Loosa",
+      "song_title": "Intro",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EQ9QP2E7wjYQba8OSPBst",
+      "notes": ""
+    },
+    {
+      "fighter": "Devin Clark",
+      "song_title": "Die Tonight",
+      "artist": "Adam Calhoun and Ryan Upchurch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4qT1t3Ot2DaoN4VYzgWGlA",
+      "notes": ""
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "We Nuh Fraid A Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wRA4ZODTUFBAX61GuBfla",
+      "notes": ""
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Saturday Night – Whigfield",
+      "artist": "Radio Edit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9",
+      "notes": ""
+    },
+    {
+      "fighter": "Lina Lansberg",
+      "song_title": "Bullwinkle Part II",
+      "artist": "The Centurians",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Hn7uZqDarw5VTNX1XluV3",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "Win",
+      "artist": "Jay Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J",
+      "notes": ""
+    },
+    {
+      "fighter": "Brandon Jenkins",
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind and Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafa Garcia",
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote and Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1",
+      "notes": ""
+    },
+    {
+      "fighter": "Jesse Ronson",
+      "song_title": "Boom Bye Yeah",
+      "artist": "Sean Price",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/545cKgvj9c85Umv1FHG6l2",
+      "notes": ""
+    },
+    {
+      "fighter": "Martin Buday",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Barnett",
+      "song_title": "Iffy",
+      "artist": "Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54Ck9yFxxImJ2ONxcLFPZz",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Leavitt",
+      "song_title": "All Star",
+      "artist": "Smash Mouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
+      "notes": ""
+    },
+    {
+      "fighter": "Trey Ogden",
+      "song_title": "Down as a Great",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1nOulxNWYu060f17Dzr277",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Hughes",
+      "song_title": "Also Sprach Zarathustra\" from \"2001: A Space Odyssey",
+      "artist": "Daniel Strauss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43YwOmGUOS3zzGvj1Feszb",
+      "notes": ""
+    },
+    {
+      "fighter": "Istela Nunes",
+      "song_title": "Dancarina Pedro Sampaio",
+      "artist": "MC Pedrinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
+      "notes": ""
+    },
+    {
+      "fighter": "Alatengheili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Croom",
+      "song_title": "Medieval Times",
+      "artist": "CeeLo Green",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/768jchcQYZgOPI1fHQ0YG8",
+      "notes": ""
+    }
+  ]
+}

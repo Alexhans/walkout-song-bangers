@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Kattar vs. Allen",
+  "event_slug": "ufc-fight-night-kattar-vs-allen",
+  "date": "2022-10-29",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-fight-night-213-with-the-clash-tom-petty-and-the-return-of-the-eminem-curse-5b941642-7c32-471b-9075-3ad9fe080b06"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "London Calling",
+      "artist": "The Clash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/124Y9LPRCAz3q2OP0iCvcJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "The Luniz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "notes": ""
+    },
+    {
+      "fighter": "Waldo Cortes Acosta",
+      "song_title": "Soy Dominicano",
+      "artist": "Redimi2",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xshS73mMPXNX8XshbwIxN",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "This is Halloween",
+      "artist": "Marilyn Manson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/042Y7INHELtUGh8LRtl3X5",
+      "notes": ""
+    },
+    {
+      "fighter": "Tresean Gore",
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Da Rockwilder",
+      "artist": "Method Man and Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
+      "notes": ""
+    },
+    {
+      "fighter": "Dustin Jacoby",
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty & The Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "Georgian Dances",
+      "artist": "The Eighth Wonder of the World",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcos Rogerio de Lima",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "notes": ""
+    },
+    {
+      "fighter": "JunYong Park",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Joseph Holmes",
+      "song_title": "I Ain’t Worried",
+      "artist": "One Republic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "Armies",
+      "artist": "KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "Rock Shyt",
+      "artist": "D.I.T.C.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1mPAUh3U8BC4iCTK6UzhgB",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Mota",
+      "song_title": "Til I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "Guasa, Guasa",
+      "artist": "Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O",
+      "notes": ""
+    },
+    {
+      "fighter": "Joshua Weems",
+      "song_title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "notes": ""
+    }
+  ]
+}

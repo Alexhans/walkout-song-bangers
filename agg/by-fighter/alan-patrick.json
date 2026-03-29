@@ -1,7 +1,7 @@
 {
   "fighter": "Alan Patrick",
   "slug": "alan-patrick",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "12 Ate o Fim",
@@ -11,12 +11,21 @@
       "event": "UFC 229: Khabib vs McGregor",
       "event_slug": "ufc-229",
       "date": "2018-10-06"
+    },
+    {
+      "song_title": "Gratidao",
+      "artist": "L7nnon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6XcJVqHL6CA3yabSnYezsD",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

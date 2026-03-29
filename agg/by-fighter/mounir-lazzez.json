@@ -1,7 +1,7 @@
 {
   "fighter": "Mounir Lazzez",
   "slug": "mounir-lazzez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "1, 2, 3 Soleil",
+      "artist": "Abdel Kader",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PNqtQFVeULgHm7Cs7Yofd",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

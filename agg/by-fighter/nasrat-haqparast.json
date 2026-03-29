@@ -1,7 +1,7 @@
 {
   "fighter": "Nasrat Haqparast",
   "slug": "nasrat-haqparast",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -38,12 +38,30 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 6,
     "with_song": 1,
-    "missing": 3,
+    "missing": 5,
     "unique_songs": 1
   }
 }

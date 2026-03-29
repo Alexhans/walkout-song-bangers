@@ -1,7 +1,7 @@
 {
   "fighter": "Max Griffin",
   "slug": "max-griffin",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "What's Up, What's Haapnin'",
@@ -49,6 +49,15 @@
       "date": "2021-07-10"
     },
     {
+      "song_title": "The Luniz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
       "song_title": "I Got 5 On It",
       "artist": "Luniz",
       "confidence": "bronze",
@@ -56,12 +65,30 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "The Luniz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Gunz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LeaM0nUdf1uFL1dv2XVo7",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
-    "unique_songs": 4
+    "unique_songs": 6
   }
 }

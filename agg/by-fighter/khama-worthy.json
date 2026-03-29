@@ -1,7 +1,7 @@
 {
   "fighter": "Khama Worthy",
   "slug": "khama-worthy",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Humble and Kind",
@@ -11,12 +11,21 @@
       "event": "UFC 241: Cormier vs. Miocic 2",
       "event_slug": "ufc-241",
       "date": "2019-08-17"
+    },
+    {
+      "song_title": "Still Here",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

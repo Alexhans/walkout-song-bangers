@@ -1,7 +1,7 @@
 {
   "fighter": "Sabina Mazo",
   "slug": "sabina-mazo",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Fu-Gee-La",
@@ -20,12 +20,21 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "Don't Stop Til You Get Enough",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Molly McCann",
   "slug": "molly-mccann",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "This Place",
@@ -22,6 +22,15 @@
       "date": "2024-07-27"
     },
     {
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "Run This Town",
       "artist": "Jay-Z feat. Rihanna",
       "confidence": "bronze",
@@ -29,11 +38,20 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 2
   }

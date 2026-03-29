@@ -1,6 +1,6 @@
 # Curtis Blaydes
 
-6 event(s) | 3 song(s) found | 3 unique
+8 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,5 @@
 | 2021-09-25 | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | — | — | |
 | 2024-03-09 | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Techno Syndrome (Mortal Kombat) | The Immortals | [Listen](https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr) |
+| 2022-07-23 | [UFC Fight Night: Blaydes vs. Aspinall](../../ufc-fight-night-blaydes-vs-aspinall.md) | — | — | |
+| 2022-03-26 | [UFC Fight Night: Blaydes vs. Daukaus](../../ufc-fight-night-blaydes-vs-daukaus.md) | — | — | |

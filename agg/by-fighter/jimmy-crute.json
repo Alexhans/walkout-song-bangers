@@ -1,7 +1,7 @@
 {
   "fighter": "Jimmy Crute",
   "slug": "jimmy-crute",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Lights Go Down",
@@ -29,12 +29,21 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "Ace of Spades",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

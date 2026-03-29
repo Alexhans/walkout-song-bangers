@@ -1,7 +1,7 @@
 {
   "fighter": "Angela Hill",
   "slug": "angela-hill",
-  "appearances": 4,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Skulls",
@@ -38,12 +38,48 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "I Look Real Good Today",
+      "artist": "OT Genasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cCbLxXiNloqwAdqLaXoMe",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "Shut ‘Em Up",
+      "artist": "Prodigy with Public Enemy, Manfred Mann",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2JCfiNog8XQIOHFcxZoRo6",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Ain’t No Stopping Me",
+      "artist": "Al Kapone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
-    "missing": 0,
-    "unique_songs": 4
+    "events": 8,
+    "with_song": 7,
+    "missing": 1,
+    "unique_songs": 7
   }
 }

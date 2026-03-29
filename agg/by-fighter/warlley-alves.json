@@ -1,7 +1,7 @@
 {
   "fighter": "Warlley Alves",
   "slug": "warlley-alves",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

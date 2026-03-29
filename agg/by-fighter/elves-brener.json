@@ -1,7 +1,7 @@
 {
   "fighter": "Elves Brener",
   "slug": "elves-brener",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -38,11 +38,20 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Levante e Ande",
+      "artist": "Emicida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ggiwV8BiirsCeg2ORWac9",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
     "unique_songs": 1
   }

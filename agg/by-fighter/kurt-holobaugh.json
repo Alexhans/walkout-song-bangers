@@ -1,7 +1,7 @@
 {
   "fighter": "Kurt Holobaugh",
   "slug": "kurt-holobaugh",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

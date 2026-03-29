@@ -1,7 +1,7 @@
 {
   "fighter": "Leon Edwards",
   "slug": "leon-edwards",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Mo Money Mo Problems",
@@ -11,6 +11,24 @@
       "event": "UFC 204: Bisping vs. Henderson 2",
       "event_slug": "ufc-204",
       "date": "2016-10-08"
+    },
+    {
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     },
     {
       "song_title": "Shabba Madda Pot",
@@ -41,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 3
   }

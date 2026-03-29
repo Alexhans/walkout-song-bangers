@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Costa vs. Vettori",
+  "event_slug": "ufc-fight-night-costa-vs-vettori",
+  "date": "2021-10-23",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/24/ufc-fight-night-196-walkout-songs-las-vegas-music-beatles-jaws-rocky-last-mohicans-movies/81428109007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "The Italian Dream",
+      "artist": "Greg Willen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Balenciaga",
+      "artist": "fewtile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gYGFZS1xKOOg1a2omx0pC",
+      "notes": ""
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "Ain't No Mountain High Enough",
+      "artist": "Marvin Gaye and Tammi Terrell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica-Rose Clark",
+      "song_title": "Only One",
+      "artist": "John Butler Trio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4cchZR8pao5z9dfyqk9hpW",
+      "notes": ""
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "Guerra(War)",
+      "artist": "Residente",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23TgLMcZYd9BIe66ob4fr6",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Caceres",
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "notes": ""
+    },
+    {
+      "fighter": "SeungWoo Choi",
+      "song_title": "Team$nyper",
+      "artist": "Rhythm Power",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gHhcVxulXQ6S007EQ41a7",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Trinaldo",
+      "song_title": "Can't Be Touched",
+      "artist": "Roy Jones Jr. and \"Promontory\" by Trevor Jones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Dwight Grant",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. and Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Nicolae Negumereanu",
+      "song_title": "Pe Cai",
+      "artist": "Trap Romanesc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75",
+      "notes": ""
+    },
+    {
+      "fighter": "Ike Villanueva",
+      "song_title": "Jefe de Jefes",
+      "artist": "Los Tigres del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "notes": ""
+    },
+    {
+      "fighter": "JunYong Park",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Mason Jones",
+      "song_title": "Broken People",
+      "artist": "Logic & Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled feat. Lil Baby and Lil Durk",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "notes": ""
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Maria Oliveira",
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Wolves",
+      "artist": "Big Sean feat. Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Laureano Staropoli",
+      "song_title": "Ayer Deseo Hoy Realidad",
+      "artist": "Hermetica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6woKpva7Uwdpxr3tqhHbhD",
+      "notes": ""
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Face the World",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi",
+      "notes": ""
+    },
+    {
+      "fighter": "Khama Worthy",
+      "song_title": "Still Here",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI",
+      "notes": ""
+    },
+    {
+      "fighter": "Jeff Molina",
+      "song_title": "Spit Your Game",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Lacerda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Randa Markos",
+      "song_title": "The Red",
+      "artist": "Chevelle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "notes": ""
+    },
+    {
+      "fighter": "Livinha Souza",
+      "song_title": "Pandemia",
+      "artist": "MC Kevin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5UGKVzE5Vhd9EVC38xIIYX",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "Have You Ever Seen the Rain?",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
+      "notes": ""
+    },
+    {
+      "fighter": "Zviad Lazishvili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

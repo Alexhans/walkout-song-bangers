@@ -1,7 +1,7 @@
 {
   "fighter": "Takashi Sato",
   "slug": "takashi-sato",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Oh Ashes/Ash King",
+      "artist": "Susumu Hirasawa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HVtievovXpQgsQJciZJwv",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    },
+    {
+      "song_title": "Ash King",
+      "artist": "Susumu Hirasawa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

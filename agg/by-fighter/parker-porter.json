@@ -1,7 +1,7 @@
 {
   "fighter": "Parker Porter",
   "slug": "parker-porter",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,11 +29,20 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
     "unique_songs": 2
   }

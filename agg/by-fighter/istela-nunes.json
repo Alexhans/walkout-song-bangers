@@ -1,0 +1,49 @@
+{
+  "fighter": "Istela Nunes",
+  "slug": "istela-nunes",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Renasci Das Cinzas",
+      "artist": "MC Daniel, MC Paulin da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "Vou Te Mostrar o Nenem Com Cara De Malvadao",
+      "artist": "DJ JL O Unico & DJ Elyce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sLpXAerf7zk8do20OxfJG",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "Dancarina Pedro Sampaio",
+      "artist": "MC Pedrinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

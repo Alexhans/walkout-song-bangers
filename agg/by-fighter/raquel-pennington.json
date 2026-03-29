@@ -1,7 +1,7 @@
 {
   "fighter": "Raquel Pennington",
   "slug": "raquel-pennington",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Can't Hold Us",
@@ -56,11 +56,20 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 4
   }

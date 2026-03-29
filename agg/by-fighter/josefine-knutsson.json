@@ -1,8 +1,17 @@
 {
   "fighter": "Josefine Knutsson",
   "slug": "josefine-knutsson",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
     {
       "song_title": "Thunderstruck",
       "artist": "AC/DC",
@@ -14,8 +23,8 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

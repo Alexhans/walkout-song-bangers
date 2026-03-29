@@ -1,8 +1,17 @@
 {
   "fighter": "Francis Marshall",
   "slug": "francis-marshall",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Without Me",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
     {
       "song_title": "Thunderstruck",
       "artist": "AC/DC",
@@ -11,12 +20,21 @@
       "event": "UFC Fight Night: Moreno vs. Kavanagh",
       "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
       "date": "2026-02-28"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

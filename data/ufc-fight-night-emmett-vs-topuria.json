@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Emmett vs. Topuria",
+  "event_slug": "ufc-fight-night-emmett-vs-topuria",
+  "date": "2023-06-24",
+  "location": "Jacksonville, Florida, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120043587.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "Love Tonight",
+      "artist": "Shouse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky’s the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "Somethin’ Bad",
+      "artist": "Miranda Lambert feat. Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Fee Ra Huri",
+      "artist": "Omnia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+      "notes": ""
+    },
+    {
+      "fighter": "Austen Lane",
+      "song_title": "Because I’m Me",
+      "artist": "The Avalanches",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Tafa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "David Onama",
+      "song_title": "Peace",
+      "artist": "Mohbad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Santos",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendan Allen",
+      "song_title": "Go for Broke",
+      "artist": "Machine Gun Kelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Silva",
+      "song_title": "Escola de Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Rowe",
+      "song_title": "Can We Talk",
+      "artist": "Tevin Campbell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Energy",
+      "artist": "Tommy Lee Sparta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BxiaQIDjAr2ltsUEMB9r8",
+      "notes": ""
+    },
+    {
+      "fighter": "Wellington Turman",
+      "song_title": "Bodies",
+      "artist": "Drowning Pool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateusz Rebecki",
+      "song_title": "Lubie Jeansy",
+      "artist": "Veegas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3PGn4KMMx4SX1wHa626qPf",
+      "notes": ""
+    },
+    {
+      "fighter": "Loik Radzhabov",
+      "song_title": "M. One",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
+      "notes": ""
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "Tell ‘Em That I’m Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "notes": ""
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "P.I.M.P.",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "notes": ""
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "I Don’t Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+      "notes": ""
+    },
+    {
+      "fighter": "Zhalgas Zhumagulov",
+      "song_title": "Don’t Worry, Be Happy",
+      "artist": "Bobby McFerrin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD",
+      "notes": ""
+    },
+    {
+      "fighter": "Chepe Mariscal",
+      "song_title": "Porbre Diablo",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pEpQPOjFsHVrkC4yy501I",
+      "notes": ""
+    },
+    {
+      "fighter": "Trevor Peek",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Jenkins",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "Kant Nobody",
+      "artist": "Lil’ Wayne feat. DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM",
+      "notes": ""
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "Orange Village",
+      "artist": "Larry June, The Alchemist and Slum Village",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "9 to 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "notes": ""
+    }
+  ]
+}

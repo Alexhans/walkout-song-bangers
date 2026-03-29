@@ -1,8 +1,17 @@
 {
   "fighter": "Karl Williams",
   "slug": "karl-williams",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    },
     {
       "song_title": "Big Jam",
       "artist": "Kylo & Monea",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

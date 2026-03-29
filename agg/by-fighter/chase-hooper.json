@@ -1,7 +1,7 @@
 {
   "fighter": "Chase Hooper",
   "slug": "chase-hooper",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Visionz",
@@ -22,6 +22,15 @@
       "date": "2020-06-06"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "The Al Capone Suite",
       "artist": "Andre Nickatina",
       "confidence": "bronze",
@@ -29,12 +38,30 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Rock Shyt",
+      "artist": "D.I.T.C.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1mPAUh3U8BC4iCTK6UzhgB",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
-    "missing": 0,
-    "unique_songs": 3
+    "events": 6,
+    "with_song": 4,
+    "missing": 2,
+    "unique_songs": 4
   }
 }

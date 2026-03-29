@@ -1,7 +1,7 @@
 {
   "fighter": "Jordan Leavitt",
   "slug": "jordan-leavitt",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Bootylicious",
@@ -11,6 +11,24 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "All Star",
+      "artist": "Smash Mouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     },
     {
       "song_title": "Grind with Me",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

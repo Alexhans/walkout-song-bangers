@@ -1,7 +1,7 @@
 {
   "fighter": "Sam Hughes",
   "slug": "sam-hughes",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "The Next Episode",
@@ -22,6 +22,15 @@
       "date": "2026-03-14"
     },
     {
+      "song_title": "Also Sprach Zarathustra\" from \"2001: A Space Odyssey",
+      "artist": "Daniel Strauss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43YwOmGUOS3zzGvj1Feszb",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
       "song_title": "Chambea",
       "artist": "Bad Bunny",
       "confidence": "bronze",
@@ -38,12 +47,21 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "2001: A Space Odyssey",
+      "artist": "John Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5llCIz1U9DoI03Hit31wna",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

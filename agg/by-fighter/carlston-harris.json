@@ -1,8 +1,35 @@
 {
   "fighter": "Carlston Harris",
   "slug": "carlston-harris",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Real Champion",
+      "artist": "Mobflames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2825s272kABjzmX1hgDCpl",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
     {
       "song_title": "Champion",
       "artist": "Mobflames",
@@ -14,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

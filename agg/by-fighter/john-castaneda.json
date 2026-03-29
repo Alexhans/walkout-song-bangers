@@ -1,7 +1,7 @@
 {
   "fighter": "John Castaneda",
   "slug": "john-castaneda",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "I’ll Whip Ya Head Boy",
@@ -11,12 +11,30 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "I'll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "I’ll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

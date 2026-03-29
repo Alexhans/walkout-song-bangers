@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Fialho",
   "slug": "andre-fialho",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "AMOR A PORTUGAL",
@@ -38,11 +38,20 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "Amor a Portugal",
+      "artist": "Dulce Pontes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2iiFZfGnMDfFe6vITAylab",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 3
   }

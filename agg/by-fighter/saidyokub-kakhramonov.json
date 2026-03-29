@@ -1,0 +1,22 @@
+{
+  "fighter": "Saidyokub Kakhramonov",
+  "slug": "saidyokub-kakhramonov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay Z & Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

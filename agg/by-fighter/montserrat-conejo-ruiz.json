@@ -1,7 +1,7 @@
 {
   "fighter": "Montserrat Conejo Ruiz",
   "slug": "montserrat-conejo-ruiz",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 0,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 0
   }
 }

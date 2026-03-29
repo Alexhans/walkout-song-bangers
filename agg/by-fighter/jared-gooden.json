@@ -1,8 +1,26 @@
 {
   "fighter": "Jared Gooden",
   "slug": "jared-gooden",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "James Brown – It’s A Man’s Man’s Man’s World",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcH252CGECgOWfKBjAaBC",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind & Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
     {
       "song_title": "If I Can Dream",
       "artist": "Elvis Presley",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

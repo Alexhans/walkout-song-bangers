@@ -1,7 +1,7 @@
 {
   "fighter": "Alexander Volkov",
   "slug": "alexander-volkov",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Zima Mama",
@@ -22,6 +22,15 @@
       "date": "2020-10-24"
     },
     {
+      "song_title": "Zima Mama",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
       "song_title": "Mama Mi Vse Tiagelo Bolni",
       "artist": "25/17",
       "confidence": "bronze",
@@ -29,6 +38,15 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "Mama Mi Vse Tiago Bolni",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0HZJr4mgB4m5q9QDH0RPk8",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     },
     {
       "song_title": "Mama Mi Vse Tiagelo Bolni",
@@ -41,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,31 @@
+{
+  "fighter": "Fernando Padilla",
+  "slug": "fernando-padilla",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Cabron y Vargo",
+      "artist": "El Fantasma & Los Dos Carnales",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jCZrRSqtZEYfQJxM1Aepl",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

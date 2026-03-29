@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Shore",
   "slug": "jack-shore",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes and “Supersonic” by Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
     {
       "song_title": "Seven Nation Army",
       "artist": "The White Stripes",
@@ -20,12 +29,30 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent and \"Seven Nation Army\" by the White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes and \"Supersonic\" by Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2TF4PgOMbINYKMdQpCO1bm",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Mateus Mendonca",
   "slug": "mateus-mendonca",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Mesmmo Sem Entender",
+      "artist": "Thallas Roberto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hzDEYPd6JMzxSMOGYCQRP",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
     {
       "song_title": "Never Safe",
       "artist": "Frannk Whitte",
@@ -11,12 +20,21 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "Tubarao Te Amo",
+      "artist": "DJ LK da Escocia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

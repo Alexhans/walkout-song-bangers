@@ -1,0 +1,22 @@
+{
+  "fighter": "Mallory Martin",
+  "slug": "mallory-martin",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Knife Talk",
+      "artist": "Drake feat. 21 Savage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UJuzJiiSD4BSASdy4j1IL",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

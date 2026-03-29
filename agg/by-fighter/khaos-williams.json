@@ -1,7 +1,7 @@
 {
   "fighter": "Khaos Williams",
   "slug": "khaos-williams",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,30 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
-    "missing": 2,
+    "events": 5,
+    "with_song": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

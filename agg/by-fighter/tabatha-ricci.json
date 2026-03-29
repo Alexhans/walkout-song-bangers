@@ -1,7 +1,7 @@
 {
   "fighter": "Tabatha Ricci",
   "slug": "tabatha-ricci",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Tellem That I'm Comin'",
@@ -20,12 +20,39 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Tell ‘Em That I’m Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 5,
+    "with_song": 3,
+    "missing": 2,
+    "unique_songs": 3
   }
 }

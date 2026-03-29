@@ -1,7 +1,7 @@
 {
   "fighter": "Fares Ziam",
   "slug": "fares-ziam",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Never Personal",
@@ -11,6 +11,24 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "On La Pas Choisi",
+      "artist": "Lacrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0c7p4FyZoNUiEQUCG1aKqq",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "L'Immortale",
+      "artist": "Lacrim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PRinnnAtqtlWQuajCYltg",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     },
     {
       "song_title": "Toda La Noche",
@@ -23,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

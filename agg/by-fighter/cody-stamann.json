@@ -1,7 +1,7 @@
 {
   "fighter": "Cody Stamann",
   "slug": "cody-stamann",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Simple Man",
@@ -47,11 +47,20 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 2
   }

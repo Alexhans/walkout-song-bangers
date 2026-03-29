@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Yusuff vs. Barboza",
+  "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+  "date": "2023-10-14",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120029348.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "Pelos Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Icn3X57tzVMxg6gjOUtoa",
+      "notes": ""
+    },
+    {
+      "fighter": "Sodiq Yusuff",
+      "song_title": "Power",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "Ta OK",
+      "artist": "Dennnins, MC Kevin o Chris, Maluma, Karol G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CbzOUi8hm8UTQoG6kYmtp",
+      "notes": ""
+    },
+    {
+      "fighter": "Jennifer Maia",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Martinez",
+      "song_title": "El Papa de los Pollitos",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
+      "notes": ""
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "Barrio",
+      "artist": "That Mexican OT feat. Lefty Sm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6QN6R0r1EaU1GjmYOBeeEW",
+      "notes": ""
+    },
+    {
+      "fighter": "Michel Pereira",
+      "song_title": "Canudinho Part. Ana Castela",
+      "artist": "Gusttavo Lima",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "Am I Dreaming",
+      "artist": "Metro Boomin, A$AP Rocky, Roisee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "notes": ""
+    },
+    {
+      "fighter": "Cameron Saaiman",
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "Right Now",
+      "artist": "Van Halen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6N1sNzq3CArC1pMSaZTxaT",
+      "notes": ""
+    },
+    {
+      "fighter": "Tainara Lisboa",
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "notes": ""
+    },
+    {
+      "fighter": "Ravena Oliveira",
+      "song_title": "Letodie",
+      "artist": "Memento Mori",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jTSR9GYY8zPeRNWuMBtB7",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "Right Hand To God",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendon Marotte",
+      "song_title": "Sail",
+      "artist": "AWOLNation",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Mullins",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Irina Alekseeva",
+      "song_title": "What Have You Lost Here?",
+      "artist": "Janaga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TefJ43egrnGQfvBvAcZvQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gutierrez",
+      "song_title": "Bandolero",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Alatengheili",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Emily Ducote",
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "notes": ""
+    },
+    {
+      "fighter": "Ashley Yoder",
+      "song_title": "It’s Good",
+      "artist": "Lil’ Wayne feat. Jadakiss and Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zRnQCF26KYUkZt2Qxrpw",
+      "notes": ""
+    }
+  ]
+}

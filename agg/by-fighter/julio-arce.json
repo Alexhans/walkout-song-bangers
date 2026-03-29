@@ -1,7 +1,7 @@
 {
   "fighter": "Julio Arce",
   "slug": "julio-arce",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Vivir Mi Vida",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Vivir mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

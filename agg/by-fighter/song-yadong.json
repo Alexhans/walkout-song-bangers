@@ -1,7 +1,7 @@
 {
   "fighter": "Song Yadong",
   "slug": "song-yadong",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Kung Fu Fighting",
@@ -38,12 +38,39 @@
       "event": "UFC 324: Gaethje vs. Pimblett",
       "event_slug": "ufc-324",
       "date": "2026-01-24"
+    },
+    {
+      "song_title": "Journey To the West",
+      "artist": "Jingqing Xu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78J70fi5DbFAGN8F5zerTY",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "Dragon Fist",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    },
+    {
+      "song_title": "Dragon Fist",
+      "artist": "Jay Chou",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

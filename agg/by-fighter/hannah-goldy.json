@@ -1,8 +1,17 @@
 {
   "fighter": "Hannah Goldy",
   "slug": "hannah-goldy",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Medicated",
+      "artist": "Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OI48E8HqkN8fnTOu3Hfuf",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
     {
       "song_title": "Woman",
       "artist": "Raheem DeVaughn",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

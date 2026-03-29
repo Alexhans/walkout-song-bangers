@@ -1,7 +1,7 @@
 {
   "fighter": "Serghei Spivac",
   "slug": "serghei-spivac",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 243: Whittaker vs. Adesanya",
       "event_slug": "ufc-243",
       "date": "2019-10-05"
+    },
+    {
+      "song_title": "Shiroka Reka",
+      "artist": "Nadezhda Kadysheva",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     },
     {
       "song_title": "Широка река (Shiroka Reka)",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

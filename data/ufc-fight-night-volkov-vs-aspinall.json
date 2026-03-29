@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Volkov vs. Aspinall",
+  "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+  "date": "2022-03-19",
+  "location": "London, England, United Kingdom",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/03/20/ufc-fight-night-204-walkout-songs-music-london-white-stripes-whitesnake-tupac-fratellis-queen/81325510007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Tom Aspinall",
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Mama Mi Vse Tiago Bolni",
+      "artist": "25/17",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0HZJr4mgB4m5q9QDH0RPk8",
+      "notes": ""
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "notes": ""
+    },
+    {
+      "fighter": "Dan Hooker",
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ncehUpJBvzVY5eXOKbSJv",
+      "notes": ""
+    },
+    {
+      "fighter": "Paddy Pimblett",
+      "song_title": "Lethal Industry",
+      "artist": "Sunnary James and Ryan Maraciano and \"Heads Will Roll\" by Yeah Yeah Yeahs (A Trak remix)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Kazula Vargas",
+      "song_title": "Kazula Vargas",
+      "artist": "Corrido para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6uoFnQSOxmFEnPLuPjUgk8",
+      "notes": ""
+    },
+    {
+      "fighter": "Gunnar Nelson",
+      "song_title": "Leidin Okkar Allra",
+      "artist": "Hjalmar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
+      "notes": ""
+    },
+    {
+      "fighter": "Takashi Sato",
+      "song_title": "Ash King",
+      "artist": "Susumu Hirasawa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI",
+      "notes": ""
+    },
+    {
+      "fighter": "Molly McCann",
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "notes": ""
+    },
+    {
+      "fighter": "Ilia Topuria",
+      "song_title": "Una Palabra",
+      "artist": "Anuel AA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0RP5vC6fzwr15mSAotXJEo",
+      "notes": ""
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Face the World",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi",
+      "notes": ""
+    },
+    {
+      "fighter": "Makwan Amirkhani",
+      "song_title": "Dlakam",
+      "artist": "Marta Hawrami",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6A2swCV80Yu230xkYTPnlN",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Grundy",
+      "song_title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "Fly Away on the Wings of Wind",
+      "artist": "Kalevala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02FKaMjb1wQpdxcBqUJHEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Shamil Abdurakhimov",
+      "song_title": "Alugho",
+      "artist": "Youth of Dagestan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Paul Craig",
+      "song_title": "Quiet Little Voices",
+      "artist": "We Were Promised Jetpacks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TQJGu7KoqOFvjvopA8fx2",
+      "notes": ""
+    },
+    {
+      "fighter": "Nikita Krylov",
+      "song_title": "April",
+      "artist": "Kino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XOyUKEwonr3MbAh2Y4JVW",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes and \"Supersonic\" by Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2TF4PgOMbINYKMdQpCO1bm",
+      "notes": ""
+    },
+    {
+      "fighter": "Timur Valiev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Elise Reed",
+      "song_title": "Bang",
+      "artist": "AJR",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0m7TguDgLue2LCaDF7B4qx",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory McKenna",
+      "song_title": "Chelsea Dagger",
+      "artist": "The Fratellis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    }
+  ]
+}

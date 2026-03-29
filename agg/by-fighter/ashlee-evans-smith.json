@@ -1,0 +1,22 @@
+{
+  "fighter": "Ashlee Evans-Smith",
+  "slug": "ashlee-evans-smith",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

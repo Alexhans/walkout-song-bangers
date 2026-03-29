@@ -1,6 +1,6 @@
 # Beneil Dariush
 
-5 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | — | — | |
 | 2025-11-15 | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | A Beautiful Exchange | Hillsong Worship | [Listen](https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq) |
+| 2023-12-02 | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | Still Rolling Stones | Lauren Daigle | [Listen](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) |

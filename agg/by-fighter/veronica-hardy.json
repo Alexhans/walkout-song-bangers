@@ -1,8 +1,17 @@
 {
   "fighter": "Veronica Hardy",
   "slug": "veronica-hardy",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Censor",
+      "artist": "Chase and Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -11,12 +20,30 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
+    },
+    {
+      "song_title": "Baddadan",
+      "artist": "Chase & Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "events": 4,
+    "with_song": 2,
+    "missing": 2,
+    "unique_songs": 2
   }
 }

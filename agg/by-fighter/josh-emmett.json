@@ -1,7 +1,7 @@
 {
   "fighter": "Josh Emmett",
   "slug": "josh-emmett",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Sky is the Limit",
@@ -31,6 +31,15 @@
       "date": "2023-12-16"
     },
     {
+      "song_title": "Sky’s the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
       "song_title": "Sky\"s the Limit",
       "artist": "Rebelution",
       "confidence": "bronze",
@@ -38,12 +47,21 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Sky's the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

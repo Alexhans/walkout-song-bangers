@@ -1,7 +1,7 @@
 {
   "fighter": "Caio Borralho",
   "slug": "caio-borralho",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Ultimos Dias",
@@ -38,11 +38,29 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "Últimos Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Ultimo Dias",
+      "artist": "Kiara Rocks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2goJDjJCn49Ti8HMla9vdt",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 3
   }

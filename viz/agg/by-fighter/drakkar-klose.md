@@ -1,6 +1,6 @@
 # Drakkar Klose
 
-6 event(s) | 3 song(s) found | 3 unique
+8 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,5 @@
 | 2020-03-07 | [UFC 248: Adesanya vs. Romero](../../ufc-248.md) | — | — | |
 | 2022-07-30 | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | — | — | |
 | 2024-05-04 | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | X Gon' Give It to Ya | DMX | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
+| 2023-12-02 | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | What U See Is What U Get | Key Glock and Young Dolph | [Listen](https://open.spotify.com/track/1gtcO05zF2TqQNx7jzm2Ur) |
+| 2022-04-16 | [UFC Fight Night: Luque vs. Muhammad](../../ufc-fight-night-luque-vs-muhammad.md) | Win | Jay Rock | [Listen](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) |

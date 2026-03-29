@@ -1,0 +1,252 @@
+{
+  "event": "UFC 286: Edwards vs. Usman 3",
+  "event_slug": "ufc-286-edwards-vs-usman-3",
+  "date": "2023-03-18",
+  "location": "London, England, United Kingdom",
+  "source_urls": [
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-286-with-ac-dc-x-3-queen-and-venbee-x-goddard"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Leon Edwards",
+      "song_title": "Shabba Madda Pot",
+      "artist": "Dexta Daps",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6S9QZ8QTN5oOUChcYWChnK",
+      "notes": ""
+    },
+    {
+      "fighter": "Kamaru Usman",
+      "song_title": "Yaba Buluku",
+      "artist": "DJ Tarico, Burna Boy, Preck and Nelson Tivane",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2SixiPBeIDdSlKB6HTvaMq",
+      "notes": ""
+    },
+    {
+      "fighter": "Justin Gaethje",
+      "song_title": "Ready",
+      "artist": "Alborosie feat. Jo Mersa Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vaGu8AiPZUQCb7gAeNXKG",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Fiziev",
+      "song_title": "Human",
+      "artist": "Rag’n’Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "notes": ""
+    },
+    {
+      "fighter": "Gunnar Nelson",
+      "song_title": "Leidin Okkar Allra",
+      "artist": "Hjalmar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "Let’s Hear it for the Boy",
+      "artist": "Deniece Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u",
+      "notes": ""
+    },
+    {
+      "fighter": "Jennifer Maia",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Casey O'Neill",
+      "song_title": "Loch Lomond (Tartan Army Version)",
+      "artist": "Runrig",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/597UVCXrY8CcZS46urIuFc",
+      "notes": ""
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "Victory",
+      "artist": "Diddy feat. Notorious B.I.G. and Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "The Eighth Wonder of the World",
+      "artist": "Georgian Dances",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Shore",
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes and “Supersonic” by Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Makwan Amirkhani",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Duncan",
+      "song_title": "Braveheart",
+      "artist": "Ryan O’Donnell and Rachel O’Donnell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JSr07A5li5YHo9xUP5KQH",
+      "notes": ""
+    },
+    {
+      "fighter": "Omar Morales",
+      "song_title": "Blind",
+      "artist": "Korn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R",
+      "notes": ""
+    },
+    {
+      "fighter": "Yanal Ashmouz",
+      "song_title": "Knight’s Steed",
+      "artist": "Amir LLabay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4puWEgTbQFHu98cYmzEpqL",
+      "notes": ""
+    },
+    {
+      "fighter": "Sam Patterson",
+      "song_title": "Messy in Heaven",
+      "artist": "venbee x goddard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yTWL3JF91IERIHPn6yqQb",
+      "notes": ""
+    },
+    {
+      "fighter": "Muhammad Mokaev",
+      "song_title": "My People",
+      "artist": "Zagir Magomedov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp",
+      "notes": ""
+    },
+    {
+      "fighter": "Jafel Filho",
+      "song_title": "Grandao da Galileia",
+      "artist": "Max do Corinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4QPdd1c17ywc4RmS83uC0R",
+      "notes": ""
+    },
+    {
+      "fighter": "Lerone Murphy",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabriel Santos",
+      "song_title": "Eu Tenho a Senha",
+      "artist": "Joao Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xuxSHR0e0JVTQeOmevluS",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Leroy Duncan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dusko Todorovic",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Hadley",
+      "song_title": "Dangerous",
+      "artist": "Conroy Smith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
+      "notes": ""
+    },
+    {
+      "fighter": "Malcolm Gordon",
+      "song_title": "X Gon’ Give it To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "Protect Your Mind (For the Love of a Princess)",
+      "artist": "DJ Sakin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11Ey2KUrXuMHwgVbKn3BSg",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Carolina",
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
+      "notes": ""
+    },
+    {
+      "fighter": "Jai Herbert",
+      "song_title": "Morals and Principles",
+      "artist": "Rimzeee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
+      "notes": ""
+    },
+    {
+      "fighter": "Ludovit Klein",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Veronica Hardy",
+      "song_title": "Censor",
+      "artist": "Chase and Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC",
+      "notes": ""
+    },
+    {
+      "fighter": "Juliana Miller",
+      "song_title": "Don’t Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7",
+      "notes": ""
+    }
+  ]
+}

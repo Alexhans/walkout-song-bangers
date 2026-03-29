@@ -1,7 +1,7 @@
 {
   "fighter": "Christos Giagos",
   "slug": "christos-giagos",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "Real American",
+      "artist": "Rick Derringer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
+    {
+      "song_title": "Natural",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Loma Lookboonmee",
   "slug": "loma-lookboonmee",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "Small Boats",
+      "artist": "Bodyslam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dmHNa6KpsyakWQsMOjHUx",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    },
+    {
+      "song_title": "Silly Fools",
+      "artist": "Lala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4iENGD3gf8INZbGLArL1iB",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

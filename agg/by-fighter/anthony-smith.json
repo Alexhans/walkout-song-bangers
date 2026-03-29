@@ -1,7 +1,7 @@
 {
   "fighter": "Anthony Smith",
   "slug": "anthony-smith",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "Return of the Mack",
+      "artist": "Mark Ronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Shannon Ross",
   "slug": "shannon-ross",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Down Under",
@@ -20,12 +20,21 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "Layers",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ipUYshiPzzUs9EdeOsBFO",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

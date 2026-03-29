@@ -1,7 +1,7 @@
 {
   "fighter": "Volkan Oezdemir",
   "slug": "volkan-oezdemir",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Pinocchio",
@@ -13,6 +13,15 @@
       "date": "2017-07-29"
     },
     {
+      "song_title": "Plugged in Freestyle",
+      "artist": "A92 and Fumez the Engineer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tlpI4YkFR0ECRX9vf5QDE",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,12 +29,21 @@
       "event": "UFC 280: Oliveira vs. Makhachev",
       "event_slug": "ufc-280",
       "date": "2022-10-22"
+    },
+    {
+      "song_title": "Don't Waste My Time",
+      "artist": "Krept & Konan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/340NhlJst6qemAoMq34BuA",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

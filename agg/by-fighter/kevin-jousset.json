@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Jousset",
   "slug": "kevin-jousset",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "I’m Not Afraid",
@@ -11,12 +11,21 @@
       "event": "UFC 293: Adesanya vs. Strickland",
       "event_slug": "ufc-293",
       "date": "2023-09-09"
+    },
+    {
+      "song_title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/76jbmmHFSCSvycFCgcmKCP",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

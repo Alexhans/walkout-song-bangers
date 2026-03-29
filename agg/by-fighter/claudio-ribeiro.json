@@ -1,7 +1,7 @@
 {
   "fighter": "Claudio Ribeiro",
   "slug": "claudio-ribeiro",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Audio Que Te Entrega",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
       "date": "2024-03-02"
+    },
+    {
+      "song_title": "Panda",
+      "artist": "Desiigner",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

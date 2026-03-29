@@ -1,0 +1,40 @@
+{
+  "fighter": "Tresean Gore",
+  "slug": "tresean-gore",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "This Is How We Do It",
+      "artist": "Montell Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Tough",
+      "artist": "King Quick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

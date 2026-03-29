@@ -1,7 +1,7 @@
 {
   "fighter": "Daniel Santos",
   "slug": "daniel-santos",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "Rei Dos Reis",
+      "artist": "MC Paulin de Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Chad Anheliger",
   "slug": "chad-anheliger",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Time 4 Sum Aksion",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Got It on Me",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5v75PO9JK0vCQ1stmq6hSc",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "Shut 'em Down",
+      "artist": "Public Enemy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Zm9vkQ65RowiZEMAJzNV9",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

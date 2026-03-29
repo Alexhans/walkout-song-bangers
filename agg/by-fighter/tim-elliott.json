@@ -1,7 +1,7 @@
 {
   "fighter": "Tim Elliott",
   "slug": "tim-elliott",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Karate",
@@ -29,12 +29,39 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "Pusherman",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "The Big Payback",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

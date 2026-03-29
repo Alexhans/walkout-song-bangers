@@ -1,7 +1,7 @@
 {
   "fighter": "Tom Aspinall",
   "slug": "tom-aspinall",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Englishman in New York",
@@ -20,12 +20,30 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "Move On Up",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

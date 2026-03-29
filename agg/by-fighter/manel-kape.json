@@ -1,7 +1,7 @@
 {
   "fighter": "Manel Kape",
   "slug": "manel-kape",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Festa Da Paz",
@@ -29,12 +29,21 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "Trumuno",
+      "artist": "Os Garimpeiros",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VsBrgueZDf8HHJHPim9up",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

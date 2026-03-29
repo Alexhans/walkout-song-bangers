@@ -1,7 +1,7 @@
 {
   "fighter": "Deron Winn",
   "slug": "deron-winn",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "In Vein",
@@ -11,12 +11,21 @@
       "event": "UFC 248: Adesanya vs. Romero",
       "event_slug": "ufc-248",
       "date": "2020-03-07"
+    },
+    {
+      "song_title": "Front, Back and Side to Side",
+      "artist": "UKG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

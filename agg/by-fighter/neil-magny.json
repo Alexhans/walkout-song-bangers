@@ -1,7 +1,7 @@
 {
   "fighter": "Neil Magny",
   "slug": "neil-magny",
-  "appearances": 9,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "No Regrets",
@@ -83,12 +83,39 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "No Regrets",
+      "artist": "Lecrae",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 9,
+    "events": 12,
+    "with_song": 12,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

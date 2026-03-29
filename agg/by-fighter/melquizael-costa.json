@@ -1,7 +1,7 @@
 {
   "fighter": "Melquizael Costa",
   "slug": "melquizael-costa",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2023-01-21"
     },
     {
+      "song_title": "Nunca Foi Sorte, Sempre Doi Deus",
+      "artist": "Banda Som e Louvor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XAvskHfw2D4yrMfkjSQsH",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
       "song_title": "Funk Do Patinho",
       "artist": "Bento E Toto",
       "confidence": "bronze",
@@ -20,6 +29,15 @@
       "event": "UFC Fight Night: Perez vs. Taira",
       "event_slug": "ufc-fight-night-perez-vs-taira",
       "date": "2024-06-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "Bladadah",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
-    "missing": 1,
-    "unique_songs": 2
+    "events": 5,
+    "with_song": 3,
+    "missing": 2,
+    "unique_songs": 3
   }
 }

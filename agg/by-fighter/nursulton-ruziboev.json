@@ -1,7 +1,7 @@
 {
   "fighter": "Nursulton Ruziboev",
   "slug": "nursulton-ruziboev",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Bu Vatan",
@@ -11,12 +11,30 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "song_title": "O’Zbegim",
+      "artist": "SHoxrux",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4y1iJljq1LedT5T43LeoUN",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 3,
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

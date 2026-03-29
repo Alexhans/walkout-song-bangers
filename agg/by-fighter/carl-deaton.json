@@ -1,8 +1,17 @@
 {
   "fighter": "Carl Deaton",
   "slug": "carl-deaton",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Electric Pow Wow Drum",
+      "artist": "A Tribe Called Red",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
     {
       "song_title": "Electric Pow Wow Drum",
       "artist": "A Tribe Called Red",
@@ -14,8 +23,8 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

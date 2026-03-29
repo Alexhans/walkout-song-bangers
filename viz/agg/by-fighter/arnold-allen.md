@@ -1,6 +1,6 @@
 # Arnold Allen
 
-4 event(s) | 4 song(s) found | 2 unique
+6 event(s) | 6 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,3 +8,5 @@
 | 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
 | 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
+| 2022-10-29 | [UFC Fight Night: Kattar vs. Allen](../../ufc-fight-night-kattar-vs-allen.md) | London Calling | The Clash | [Listen](https://open.spotify.com/track/124Y9LPRCAz3q2OP0iCvcJ) |
+| 2022-03-19 | [UFC Fight Night: Volkov vs. Aspinall](../../ufc-fight-night-volkov-vs-aspinall.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |

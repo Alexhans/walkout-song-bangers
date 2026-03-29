@@ -1,8 +1,26 @@
 {
   "fighter": "Tyson Nam",
   "slug": "tyson-nam",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Ragtime Interlude/I'm Really Hot",
+      "artist": "Missy Elliott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yei0S35YFOEBOiKN287MW",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "RITMO",
+      "artist": "Black Eyed Peas feat. J. Balvin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
+    },
     {
       "song_title": "RITMO (Bad Boys for Life)",
       "artist": "Black Eyed Peas",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Petr Yan",
   "slug": "petr-yan",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Corbel Trunk",
@@ -20,6 +20,15 @@
       "event": "UFC 245: Usman vs. Covington",
       "event_slug": "ufc-245",
       "date": "2019-12-14"
+    },
+    {
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "Стволок за поясок",
@@ -59,8 +68,8 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 6,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
     "unique_songs": 4
   }

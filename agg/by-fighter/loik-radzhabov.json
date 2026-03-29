@@ -1,7 +1,7 @@
 {
   "fighter": "Loik Radzhabov",
   "slug": "loik-radzhabov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Assalam Aleykum",
@@ -11,6 +11,15 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "M. One",
+      "artist": "Master Ismail",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     },
     {
       "song_title": "M.One",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

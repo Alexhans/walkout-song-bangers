@@ -1,7 +1,7 @@
 {
   "fighter": "Maxim Grishin",
   "slug": "maxim-grishin",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "UNSTOPPABLE",
@@ -11,12 +11,21 @@
       "event": "UFC 271: Adesanya vs. Whittaker 2",
       "event_slug": "ufc-271",
       "date": "2022-02-12"
+    },
+    {
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

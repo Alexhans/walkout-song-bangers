@@ -1,7 +1,7 @@
 {
   "fighter": "Jonathan Martinez",
   "slug": "jonathan-martinez",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,24 @@
       "date": "2024-11-16"
     },
     {
+      "song_title": "Have You Ever Seen the Rain?",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "El Papa de Los Pollitos",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
       "song_title": "El Papá De Los Pollitos",
       "artist": "Los Tucanes De Tijuana",
       "confidence": "bronze",
@@ -38,12 +56,21 @@
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "El Papa de los Pollitos",
+      "artist": "Los Tucanes De Tijuana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 7,
+    "with_song": 5,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Dean Barry",
+  "slug": "dean-barry",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Eagle Lands",
+      "artist": "Paul Hertzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fbf7wuEC6RsGo5XwMuNWp",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

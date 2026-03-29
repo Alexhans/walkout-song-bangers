@@ -1,7 +1,7 @@
 {
   "fighter": "Philipe Lins",
   "slug": "philipe-lins",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Thedawning",
@@ -11,12 +11,39 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "The Dawning",
+      "artist": "Days Like These",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zeKYWzZJHHR0PtRv2CN2",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "The Dawning",
+      "artist": "Days Like These",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zeKYWzZJHHR0PtRv2CN2",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Monster",
+      "artist": "Skillet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

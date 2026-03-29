@@ -1,7 +1,7 @@
 {
   "fighter": "Tecia Pennington",
   "slug": "tecia-pennington",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

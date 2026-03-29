@@ -1,7 +1,7 @@
 {
   "fighter": "Ricky Simon",
   "slug": "ricky-simon",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Italy",
@@ -13,6 +13,15 @@
       "date": "2024-06-29"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "Ricky",
       "artist": "Denzel Curry",
       "confidence": "bronze",
@@ -20,12 +29,21 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "song_title": "Italy",
+      "artist": "Russ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3x1klOiEzRSExyfDpLZzZi",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
     "unique_songs": 2
   }
 }

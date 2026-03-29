@@ -1,7 +1,7 @@
 {
   "fighter": "Lerone Murphy",
   "slug": "lerone-murphy",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -14,6 +14,33 @@
     },
     {
       "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Ambitionz As a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Ambitionz Az a Ridah",
       "artist": "2Pac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
@@ -23,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

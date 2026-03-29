@@ -1,7 +1,7 @@
 {
   "fighter": "Ignacio Bahamondes",
   "slug": "ignacio-bahamondes",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2023-04-08"
     },
     {
+      "song_title": "El Taller del Maestro",
+      "artist": "Alex Campos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "Paz En La Tormenta",
       "artist": "Marcos Yaroide",
       "confidence": "bronze",
@@ -20,12 +29,30 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "El Taller del Maestro",
+      "artist": "Alex Campos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Me Siento Bien",
+      "artist": "Movimiento Original",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xRddqTzZmo68InnCuAoN0",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

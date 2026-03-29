@@ -1,7 +1,7 @@
 {
   "fighter": "Andre Lima",
   "slug": "andre-lima",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 1,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

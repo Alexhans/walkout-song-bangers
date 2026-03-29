@@ -1,7 +1,7 @@
 {
   "fighter": "Raul Rosas Jr.",
   "slug": "raul-rosas-jr",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "El Mariachi Loco",
@@ -29,12 +29,21 @@
       "event": "UFC 326: Holloway vs. Oliveira 2",
       "event_slug": "ufc-326",
       "date": "2026-03-07"
+    },
+    {
+      "song_title": "Mexico Linda y Queirdo",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5bG6TnIYVmyz3yXAMnvVcX",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

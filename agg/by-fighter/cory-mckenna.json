@@ -1,0 +1,40 @@
+{
+  "fighter": "Cory McKenna",
+  "slug": "cory-mckenna",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Alright",
+      "artist": "Supergrass",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    },
+    {
+      "song_title": "Dancing With Myself",
+      "artist": "Billy Idol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "Chelsea Dagger",
+      "artist": "The Fratellis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
+  }
+}

@@ -1,7 +1,8 @@
 # Chris Barnett
 
-1 event(s) | 1 song(s) found | 1 unique
+2 event(s) | 2 song(s) found | 2 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | SPECIAL DELIVERY |  | [Listen](https://open.spotify.com/track/5Wb5k3t9SJvyHhulD8JSjv) |
+| 2022-04-16 | [UFC Fight Night: Luque vs. Muhammad](../../ufc-fight-night-luque-vs-muhammad.md) | Iffy | Chris Brown | [Listen](https://open.spotify.com/track/54Ck9yFxxImJ2ONxcLFPZz) |

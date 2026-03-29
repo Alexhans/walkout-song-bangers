@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Lee",
   "slug": "kevin-lee",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "First Day Out",
@@ -20,12 +20,21 @@
       "event": "UFC 244: Masvidal vs. Diaz",
       "event_slug": "ufc-244",
       "date": "2019-11-02"
+    },
+    {
+      "song_title": "Y’all Must’ve Forgot II",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/16X8TGhAzNUbKrwPVNWL9w",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

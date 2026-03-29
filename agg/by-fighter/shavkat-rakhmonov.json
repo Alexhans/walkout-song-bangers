@@ -1,7 +1,7 @@
 {
   "fighter": "Shavkat Rakhmonov",
   "slug": "shavkat-rakhmonov",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,30 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Talent Zhumabaev",
+      "artist": "Bizdin Eldin Zhigitteri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7zEK1DArZtBK6rHIQP3I4r",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Tam Tau Adam",
+      "artist": "Olzhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

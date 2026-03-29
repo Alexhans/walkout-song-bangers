@@ -1,6 +1,6 @@
 # Drew Dober
 
-8 event(s) | 7 song(s) found | 6 unique
+9 event(s) | 8 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,5 @@
 | 2022-07-30 | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | This is How We Do It | Montel Jordan | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | This is How We Do It | Montel Jordan | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
 | 2026-03-07 | [UFC 326: Holloway vs. Oliveira 2](../../ufc-326.md) | This Is How We Do It | Montell Jordan | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
+| 2023-10-07 | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | This Is How We Do It | Montel Jordan | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
 | 2024-02-03 | [UFC Fight Night: Dolidze vs. Imavov](../../ufc-fight-night-dolidze-vs-imavov.md) | This Is How We Do It | Montel Jordan | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |

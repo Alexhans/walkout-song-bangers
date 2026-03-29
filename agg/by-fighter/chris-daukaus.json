@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Daukaus",
   "slug": "chris-daukaus",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,30 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Highway Tune",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "Spoiler",
+      "artist": "Hyper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

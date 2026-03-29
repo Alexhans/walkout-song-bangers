@@ -1,0 +1,31 @@
+{
+  "fighter": "Wu Yanan",
+  "slug": "wu-yanan",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Stubborn",
+      "artist": "May Day",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jVX6VjKXwDDkesVXzjReY",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Stubborn",
+      "artist": "May Day",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jVX6VjKXwDDkesVXzjReY",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

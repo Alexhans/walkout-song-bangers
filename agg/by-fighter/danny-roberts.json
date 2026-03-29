@@ -1,7 +1,7 @@
 {
   "fighter": "Danny Roberts",
   "slug": "danny-roberts",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Rise & Fall",
@@ -20,12 +20,21 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "The Payback",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

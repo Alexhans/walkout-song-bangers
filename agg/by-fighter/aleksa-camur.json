@@ -1,7 +1,7 @@
 {
   "fighter": "Aleksa Camur",
   "slug": "aleksa-camur",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 246: McGregor vs. Cowboy",
       "event_slug": "ufc-246",
       "date": "2020-01-18"
+    },
+    {
+      "song_title": "Mr. Rager",
+      "artist": "Kid Cudi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

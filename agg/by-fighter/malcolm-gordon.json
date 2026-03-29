@@ -1,7 +1,7 @@
 {
   "fighter": "Malcolm Gordon",
   "slug": "malcolm-gordon",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -13,6 +13,15 @@
       "date": "2022-10-22"
     },
     {
+      "song_title": "X Gon’ Give it To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "Kant Nobody",
       "artist": "Lil Wayne feat. DMX",
       "confidence": "bronze",
@@ -20,12 +29,21 @@
       "event": "UFC 297: Strickland vs. Du Plessis",
       "event_slug": "ufc-297",
       "date": "2024-01-20"
+    },
+    {
+      "song_title": "X Gon' Give It To You",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O9ICXbrUTAVR5kkx6xANJ",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

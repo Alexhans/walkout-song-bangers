@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Tuivasa vs. Tybura",
+  "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+  "date": "2024-03-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2024/03/17/fight-night-walkout-songs-las-vegas-music-billy-idol-motley-crue-queen-jimi-hendrix-chili-peppers/79970341007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Marcin Tybura",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Battle",
+      "song_title": "Man of the Year",
+      "artist": "ScHoolboy Q",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm",
+      "notes": ""
+    },
+    {
+      "fighter": "Ange Loosa",
+      "song_title": "Ready Or Not",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43vdIE5mIcjhJaleE3FIkd",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "notes": ""
+    },
+    {
+      "fighter": "Kennedy Nzechukwu",
+      "song_title": "Hade Boss",
+      "artist": "DJ Lag & Mr. Nation Thingz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG",
+      "notes": ""
+    },
+    {
+      "fighter": "Christian Rodriguez",
+      "song_title": "Quema",
+      "artist": "Ryan Castro, Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL",
+      "notes": ""
+    },
+    {
+      "fighter": "Isaac Dulgarian",
+      "song_title": "Gangsta Bop",
+      "artist": "Akon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE",
+      "notes": ""
+    },
+    {
+      "fighter": "Macy Chiasson",
+      "song_title": "Fire Squad",
+      "artist": "J Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "notes": ""
+    },
+    {
+      "fighter": "Pannie Kianzad",
+      "song_title": "Bakhtiari",
+      "artist": "Behrooz Sektor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LW9patAcIHbTlVUWrOuuU",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Davis",
+      "song_title": "Yeah Glo!",
+      "artist": "GloRilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI",
+      "notes": ""
+    },
+    {
+      "fighter": "Natan Levy",
+      "song_title": "Subliminal",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY",
+      "notes": ""
+    },
+    {
+      "fighter": "Chelsea Chandler",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Josiane Nunes",
+      "song_title": "Grande Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "notes": ""
+    },
+    {
+      "fighter": "Jafel Filho",
+      "song_title": "Harpa Cristã 476",
+      "artist": "Max Do Corinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ukD84JtzRM8w47K1nYgwv",
+      "notes": ""
+    },
+    {
+      "fighter": "Ode Osbourne",
+      "song_title": "Monster",
+      "artist": "Jacob Banks feat. Avelino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Silva",
+      "song_title": "Back to the Hotel",
+      "artist": "N2deep",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Culibao",
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk",
+      "notes": ""
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Cory McKenna",
+      "song_title": "Dancing With Myself",
+      "artist": "Billy Idol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Moises",
+      "song_title": "Malandragem (Intro)",
+      "artist": "MC Kako",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Zc6f69uo4TJBBMmY5AczE",
+      "notes": ""
+    },
+    {
+      "fighter": "Mitch Ramirez",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "notes": ""
+    },
+    {
+      "fighter": "Chad Anheliger",
+      "song_title": "Got It on Me",
+      "artist": "Pop Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5v75PO9JK0vCQ1stmq6hSc",
+      "notes": ""
+    },
+    {
+      "fighter": "Charalampos Grigoriou",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

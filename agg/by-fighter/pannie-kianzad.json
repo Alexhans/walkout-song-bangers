@@ -1,7 +1,7 @@
 {
   "fighter": "Pannie Kianzad",
   "slug": "pannie-kianzad",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Be My Lover",
@@ -11,12 +11,30 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Saturday Night – Whigfield",
+      "artist": "Radio Edit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "Bakhtiari",
+      "artist": "Behrooz Sektor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LW9patAcIHbTlVUWrOuuU",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Font vs. Vera",
+  "event_slug": "ufc-fight-night-font-vs-vera",
+  "date": "2022-04-30",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/05/01/ufc-espn-35-las-walkout-music-las-vegas-ll-cool-j-acdc-ozzy-osbourne/81310557007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Marlon Vera",
+      "song_title": "Subzero",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cYmCxFGza4zrc9vfs9PMV",
+      "notes": ""
+    },
+    {
+      "fighter": "Rob Font",
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrei Arlovski",
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Collier",
+      "song_title": "I Like These Odds",
+      "artist": "Jay Kill and The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanderson Brito",
+      "song_title": "Joanderson Brito UFC Cage",
+      "artist": "Endrah",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Fili",
+      "song_title": "Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct",
+      "notes": ""
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "Lux Aeterna",
+      "artist": "Clint Mansell and Kronos Quartet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pm0f5nyrclUt3JkpgciJ2",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Tristan Connelly",
+      "song_title": "The Blood of Cu Chulainn",
+      "artist": "Jeff Danna and Mychael Danna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7EiUFDrWXWOBCfMG80vY4M",
+      "notes": ""
+    },
+    {
+      "fighter": "Krzysztof Jotko",
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "What's My Name?",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Sherman",
+      "song_title": "No Good",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Figueiredo",
+      "song_title": "Oitavo Anjo",
+      "artist": "509-E",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18jeA7LiqGZK9ENA0KWVr1",
+      "notes": ""
+    },
+    {
+      "fighter": "Daniel Lacerda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gabe Green",
+      "song_title": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "notes": ""
+    },
+    {
+      "fighter": "Yohan Lainesse",
+      "song_title": "Gortoz a Ran",
+      "artist": "Denez Prigent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00suglGfe7WNFpS1YyCTt6",
+      "notes": ""
+    },
+    {
+      "fighter": "Natan Levy",
+      "song_title": "Industry Baby",
+      "artist": "Lil Nas x feat. Jack Harlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Breeden",
+      "song_title": "I'm Back",
+      "artist": "Lil Scrappy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1mLAG4qbj5bpjYipuNfdti",
+      "notes": ""
+    },
+    {
+      "fighter": "Shanna Young",
+      "song_title": "I Don't Wanna Stop",
+      "artist": "Ozzy Osbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i",
+      "notes": ""
+    },
+    {
+      "fighter": "Gina Mazany",
+      "song_title": "Danger (Been So Long)",
+      "artist": "Mystikal feat. Nivea",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg",
+      "notes": ""
+    }
+  ]
+}

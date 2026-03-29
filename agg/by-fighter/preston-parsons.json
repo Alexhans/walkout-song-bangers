@@ -1,7 +1,7 @@
 {
   "fighter": "Preston Parsons",
   "slug": "preston-parsons",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Live Wire",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "song_title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

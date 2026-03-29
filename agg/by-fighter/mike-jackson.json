@@ -1,0 +1,22 @@
+{
+  "fighter": "Mike Jackson",
+  "slug": "mike-jackson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I'm a G",
+      "artist": "Lil Keke and Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46doW809JDFN9zOGswZ22U",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

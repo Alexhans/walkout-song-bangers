@@ -1,0 +1,22 @@
+{
+  "fighter": "Rayanne dos Santos",
+  "slug": "rayanne-dos-santos",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

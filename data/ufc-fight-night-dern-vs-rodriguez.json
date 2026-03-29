@@ -1,0 +1,156 @@
+{
+  "event": "UFC Fight Night: Dern vs. Rodriguez",
+  "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+  "date": "2021-10-09",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/10/ufc-fight-night-194-walkout-music-las-vegas-dropkick-murphys-michael-jackson/81444644007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Marina Rodriguez",
+      "song_title": "I'm Shipping Up To Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "notes": ""
+    },
+    {
+      "fighter": "Mackenzie Dern",
+      "song_title": "Righteous",
+      "artist": "Hippie Sabotage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4E8pY7RmcGQl4K18yrBaI2",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "No Suburban Pt. 2",
+      "artist": "Sheff G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Gooden",
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind & Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorius & Weather Report",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50BojD1dtRNVQValaFta1k",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "Pusherman",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+      "notes": ""
+    },
+    {
+      "fighter": "Mariya Agapova",
+      "song_title": "Where Is Your Love",
+      "artist": "Scriptonite feat. Major Lazer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nD4qH2E2cGwf4E99aNjKz",
+      "notes": ""
+    },
+    {
+      "fighter": "Sabina Mazo",
+      "song_title": "Don't Stop Til You Get Enough",
+      "artist": "Michael Jackson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gutierrez",
+      "song_title": "Bandoleros",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Felipe Colares",
+      "song_title": "Oceans (Where Feet May Fail)",
+      "artist": "Hillsong United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Bn1DSXfisvfKjGUwI6rzW",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexandr Romanov",
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Vanderaa",
+      "song_title": "Hip To Be Scared",
+      "artist": "Ice Nine Kills feat. Jacoby Shaddix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy",
+      "notes": ""
+    },
+    {
+      "fighter": "Damon Jackson",
+      "song_title": "Feeling Gud",
+      "artist": "Nghtmare & Slander",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ZqygmDzN0DGwgsOi6gofo",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Rosa",
+      "song_title": "Red Nation",
+      "artist": "The Game feat. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0faPimFGBoU2zt690uPHed",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Silvana Gomez Juarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Steve Garcia",
+      "song_title": "God's Country",
+      "artist": "Blake Shelton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
+      "notes": ""
+    },
+    {
+      "fighter": "Charlie Ontiveros",
+      "song_title": "Kung Fu Fighting",
+      "artist": "Ceelo Green feat. Jack Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0",
+      "notes": ""
+    }
+  ]
+}

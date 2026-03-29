@@ -1,0 +1,22 @@
+{
+  "fighter": "Shanna Young",
+  "slug": "shanna-young",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "I Don't Wanna Stop",
+      "artist": "Ozzy Osbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

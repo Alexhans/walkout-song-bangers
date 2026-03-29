@@ -1,7 +1,7 @@
 {
   "fighter": "Josiane Nunes",
   "slug": "josiane-nunes",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "Grande Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Grande Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

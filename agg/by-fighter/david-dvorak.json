@@ -1,7 +1,7 @@
 {
   "fighter": "David Dvorak",
   "slug": "david-dvorak",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Too Old To Die Young",
@@ -11,12 +11,21 @@
       "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
+    },
+    {
+      "song_title": "Too Old to Die Young",
+      "artist": "Brother Dege",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

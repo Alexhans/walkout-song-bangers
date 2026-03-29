@@ -1,7 +1,7 @@
 {
   "fighter": "Yair Rodriguez",
   "slug": "yair-rodriguez",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "El Corrido de Chuhuahua",
@@ -31,6 +31,15 @@
       "date": "2023-07-08"
     },
     {
+      "song_title": "El Corrido de Chihuahua",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/48i3IpPxpxuhVLQCtnNtev",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
       "song_title": "El Corrido De Chihuahua",
       "artist": "Los Reileros Del Norte",
       "confidence": "bronze",
@@ -38,12 +47,21 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "El Corrido de Chihuahua",
+      "artist": "Los Rieleros del Norte",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/48i3IpPxpxuhVLQCtnNtev",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

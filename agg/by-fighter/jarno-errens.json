@@ -1,0 +1,31 @@
+{
+  "fighter": "Jarno Errens",
+  "slug": "jarno-errens",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "She Is Corrupted",
+      "artist": "Nico Moreno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BAr1qBoX4RGYl8hjrW8RL",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 1,
+    "missing": 1,
+    "unique_songs": 1
+  }
+}

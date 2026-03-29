@@ -1,7 +1,7 @@
 {
   "fighter": "Darren Elkins",
   "slug": "darren-elkins",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Get Ready",
@@ -20,12 +20,39 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

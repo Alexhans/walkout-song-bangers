@@ -1,8 +1,17 @@
 {
   "fighter": "Jay Perrin",
   "slug": "jay-perrin",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Seen It All",
+      "artist": "Young Jeezy feat. Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0jkeRqlWciqKxU3iHQfdWj",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
     {
       "song_title": "Miracle",
       "artist": "A Day to Remember",
@@ -11,12 +20,21 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Last Time I Checked",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

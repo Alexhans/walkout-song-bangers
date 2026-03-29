@@ -1,7 +1,7 @@
 {
   "fighter": "Justin Gaethje",
   "slug": "justin-gaethje",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Champion",
@@ -49,6 +49,15 @@
       "date": "2022-05-07"
     },
     {
+      "song_title": "Ready",
+      "artist": "Alborosie feat. Jo Mersa Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vaGu8AiPZUQCb7gAeNXKG",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 4,
+    "events": 9,
+    "with_song": 5,
     "missing": 4,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

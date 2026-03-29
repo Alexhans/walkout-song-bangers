@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Blachowicz vs. Rakic",
+  "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+  "date": "2022-05-14",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/05/15/ufc-espn-36-las-vegas-walkout-songs-music-john-lennon-ll-cool-j-bon-jovi-eminem/81294344007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "Anvil of Crom",
+      "artist": "Basil Poledouris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5mxTww2EuHbK0txi7U5C0A",
+      "notes": ""
+    },
+    {
+      "fighter": "Aleksandar Rakic",
+      "song_title": "Ready for War",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PI7WuS9BHi7ZUGykLDFWS",
+      "notes": ""
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "It's Time for War",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dgJL7ysEGYgFXndee5sSa",
+      "notes": ""
+    },
+    {
+      "fighter": "Ion Cutelaba",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Davey Grant",
+      "song_title": "Concrete Angel",
+      "artist": "Gareth Emery",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SIGrKr2xgpqlGniEjjfY9",
+      "notes": ""
+    },
+    {
+      "fighter": "Louis Smolka",
+      "song_title": "Your Smile",
+      "artist": "Fogottenage, Solizy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DRFqcpIn6lH267u3pIMnF",
+      "notes": ""
+    },
+    {
+      "fighter": "Katlyn Cerminara",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Amanda Ribas",
+      "song_title": "Fee Ra Huri",
+      "artist": "Omnia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BinuqowXzqQO2fEsYK5yN",
+      "notes": ""
+    },
+    {
+      "fighter": "Manuel Torres",
+      "song_title": "Last Kings",
+      "artist": "Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
+      "notes": ""
+    },
+    {
+      "fighter": "Frank Camacho",
+      "song_title": "Frank the Crank",
+      "artist": "Jed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC",
+      "notes": ""
+    },
+    {
+      "fighter": "Allan Nascimento",
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Jake Hadley",
+      "song_title": "Dangerous",
+      "artist": "Conroy Smith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
+      "notes": ""
+    },
+    {
+      "fighter": "Viviane Araujo",
+      "song_title": "E o Terror",
+      "artist": "Gog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FAzDuJVmPAx5dxZnN4dmv",
+      "notes": ""
+    },
+    {
+      "fighter": "Andrea Lee",
+      "song_title": "One Bad Bitch",
+      "artist": "Carroll Baker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5zCZ0P1ASe4ucjPO8p54lv",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "Juice (Know the Ledge)",
+      "artist": "Eric B. & Rakim",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4LXsPdBcHAuttD9mKyhA8a",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Patrick",
+      "song_title": "Gratidao",
+      "artist": "L7nnon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6XcJVqHL6CA3yabSnYezsD",
+      "notes": ""
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "Cavaleiro de Aruanda",
+      "artist": "Ronnnie Von",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JNBwLY2lYKtMqeuzY23PN",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "I Look Real Good Today",
+      "artist": "OT Genasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cCbLxXiNloqwAdqLaXoMe",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Candelario",
+      "song_title": "Cannon Remix",
+      "artist": "Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ARVztksKgBK3yGUDw9NO1",
+      "notes": ""
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "This Is the New Sh*t",
+      "artist": "Marilyn Manson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BD4AgZ1seuWauxzbCcDEw",
+      "notes": ""
+    },
+    {
+      "fighter": "Nick Maximov",
+      "song_title": "Digital Bath",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "notes": ""
+    }
+  ]
+}

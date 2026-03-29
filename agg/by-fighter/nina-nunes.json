@@ -1,7 +1,7 @@
 {
   "fighter": "Nina Nunes",
   "slug": "nina-nunes",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 238: Cejudo vs. Moraes",
       "event_slug": "ufc-238",
       "date": "2019-06-08"
+    },
+    {
+      "song_title": "Don’t Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

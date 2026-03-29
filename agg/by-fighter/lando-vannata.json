@@ -1,7 +1,7 @@
 {
   "fighter": "Lando Vannata",
   "slug": "lando-vannata",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Actin Crazy",
@@ -47,12 +47,21 @@
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
+    },
+    {
+      "song_title": "Viva la Revolution",
+      "artist": "The Adicts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PMaqWwW6hilTls8202lHE",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

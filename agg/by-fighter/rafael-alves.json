@@ -1,7 +1,7 @@
 {
   "fighter": "Rafael Alves",
   "slug": "rafael-alves",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Believe (DJ Jefinho Remix)",
@@ -11,6 +11,15 @@
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
+    },
+    {
+      "song_title": "Nao Va",
+      "artist": "DJ Lorran feat. Rebecca Lindsay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6rLFT04NfjjEuPgQ4xVObI",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     },
     {
       "song_title": "Jesus is King",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

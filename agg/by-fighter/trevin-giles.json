@@ -1,7 +1,7 @@
 {
   "fighter": "Trevin Giles",
   "slug": "trevin-giles",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Wait a Minute",
@@ -65,12 +65,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Friday",
+      "artist": "Ice Cube",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/13AvIMuWOBUWGBhWGIHb6N",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

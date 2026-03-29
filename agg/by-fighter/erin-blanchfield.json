@@ -1,7 +1,7 @@
 {
   "fighter": "Erin Blanchfield",
   "slug": "erin-blanchfield",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Remember the Name",
@@ -35,6 +35,15 @@
       "artist": "Fort Minor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 2
   }

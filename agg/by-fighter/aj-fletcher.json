@@ -1,8 +1,26 @@
 {
   "fighter": "AJ Fletcher",
   "slug": "aj-fletcher",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "I'm Bad",
+      "artist": "L.L. Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Bank of the River",
+      "artist": "Bishop Gunn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Toff8R5GgQfU008uwBV7o",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
     {
       "song_title": "Bank of the River",
       "artist": "Bishop Gunn",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

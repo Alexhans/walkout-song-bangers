@@ -1,7 +1,7 @@
 {
   "fighter": "Curtis Blaydes",
   "slug": "curtis-blaydes",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Mortal Combat Theme Song",
@@ -56,12 +56,30 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 8,
     "with_song": 3,
-    "missing": 3,
+    "missing": 5,
     "unique_songs": 3
   }
 }

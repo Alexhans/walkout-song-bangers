@@ -1,7 +1,7 @@
 {
   "fighter": "Ryan Spann",
   "slug": "ryan-spann",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Desperados",
@@ -49,6 +49,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "It's Time for War",
+      "artist": "LL Cool J",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dgJL7ysEGYgFXndee5sSa",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
       "song_title": "1st of tha Month",
       "artist": "Bone Thugs N Harmony",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 7,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

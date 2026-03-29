@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Johnson",
   "slug": "charles-johnson",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "A Tale Of 2 Citiez",
@@ -22,6 +22,15 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "Other Side of America",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -40,6 +49,15 @@
       "date": "2026-03-14"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
       "song_title": "It’s a Beautiful Day",
       "artist": "The Kiffness x Rushawn and “Who Run It” by Three-Six Mafia",
       "confidence": "bronze",
@@ -47,12 +65,21 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Move B*tch",
+      "artist": "Ludacris feat. Mystikal",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 4
+    "events": 8,
+    "with_song": 6,
+    "missing": 2,
+    "unique_songs": 6
   }
 }

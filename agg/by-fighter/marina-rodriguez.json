@@ -1,7 +1,7 @@
 {
   "fighter": "Marina Rodriguez",
   "slug": "marina-rodriguez",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2024-10-05"
     },
     {
+      "song_title": "I'm Shipping Up To Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Stephen Thompson",
   "slug": "stephen-thompson",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Wonderboy",
@@ -65,11 +65,20 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
     "unique_songs": 3
   }

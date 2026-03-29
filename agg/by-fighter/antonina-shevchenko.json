@@ -1,0 +1,22 @@
+{
+  "fighter": "Antonina Shevchenko",
+  "slug": "antonina-shevchenko",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fighter": "Mike Grundy",
+  "slug": "mike-grundy",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

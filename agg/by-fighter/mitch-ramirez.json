@@ -1,0 +1,22 @@
+{
+  "fighter": "Mitch Ramirez",
+  "slug": "mitch-ramirez",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

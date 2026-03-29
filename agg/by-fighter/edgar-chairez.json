@@ -1,7 +1,7 @@
 {
   "fighter": "Edgar Chairez",
   "slug": "edgar-chairez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "El Rey",
@@ -11,6 +11,15 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "Soy Un Mexicano, Lo Que Hay",
+      "artist": "Carlos Blanco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3pfqM4WfDMX7tORDanBSMD",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     },
     {
       "song_title": "Hoo-Bangin'",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

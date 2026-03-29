@@ -1,7 +1,7 @@
 {
   "fighter": "Robelis Despaigne",
   "slug": "robelis-despaigne",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "El Campeon",
@@ -11,12 +11,21 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

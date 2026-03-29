@@ -1,7 +1,7 @@
 {
   "fighter": "Ode Osbourne",
   "slug": "ode-osbourne",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2023-02-25"
     },
     {
+      "song_title": "Kwaku the Traveler",
+      "artist": "Black Sherf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -47,12 +56,30 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "Monster",
+      "artist": "Jacob Banks feat. Avelino",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
-    "missing": 2,
-    "unique_songs": 3
+    "events": 8,
+    "with_song": 5,
+    "missing": 3,
+    "unique_songs": 5
   }
 }

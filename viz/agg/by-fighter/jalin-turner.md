@@ -1,6 +1,6 @@
 # Jalin Turner
 
-7 event(s) | 7 song(s) found | 6 unique
+8 event(s) | 8 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2023-03-04 | [UFC 285: Jones vs. Gane](../../ufc-285.md) | My Life | J. Cole | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
 | 2023-07-08 | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | My Life | J. Cole | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Zendaya | Cozz, J. Cole | [Listen](https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF) |
+| 2023-12-02 | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | The Climb Back | J. Cole | [Listen](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) |

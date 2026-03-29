@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+  "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+  "date": "2022-06-25",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120042361.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "I Know What You Did In the Dark (Light ‘Em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "notes": ""
+    },
+    {
+      "fighter": "Arman Tsarukyan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Shavkat Rakhmonov",
+      "song_title": "Tam Tau Adam",
+      "artist": "Olzhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Parisian",
+      "song_title": "Hey Ma, I Made It",
+      "artist": "Panic! At the Disco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22oEJW6r2rMb9z4IntfyEa",
+      "notes": ""
+    },
+    {
+      "fighter": "Alan Baudot",
+      "song_title": "Frere D’Armes Feat Lyricist",
+      "artist": "Pousse Toi D’La",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0u9zPSQpdAiNBJjfAMLxoZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Thiago Moises",
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "notes": ""
+    },
+    {
+      "fighter": "Christos Giagos",
+      "song_title": "Natural",
+      "artist": "Imagine Dragons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT",
+      "notes": ""
+    },
+    {
+      "fighter": "Umar Nurmagomedov",
+      "song_title": "Lezginka",
+      "artist": "Djigitovka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JY0nguP0JUq5wV5WtfEXP",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Maness",
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Curtis",
+      "song_title": "Champion",
+      "artist": "Barns Courtney",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv",
+      "notes": ""
+    },
+    {
+      "fighter": "Rodolfo Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "Pusherman",
+      "artist": "Curtis Mayfield",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+      "notes": ""
+    },
+    {
+      "fighter": "Tafon Nchukwi",
+      "song_title": "Mr. Morale",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M",
+      "notes": ""
+    },
+    {
+      "fighter": "Shayilan Nuerdanbieke",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "TJ Brown",
+      "song_title": "Praise the Lord (Da Shine)",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergey Morozov",
+      "song_title": "Bekbolat Tleuhan",
+      "artist": "Alash Urany",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA",
+      "notes": ""
+    },
+    {
+      "fighter": "Raulian Paiva",
+      "song_title": "Muleque de Vila",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "notes": ""
+    },
+    {
+      "fighter": "JP Buys",
+      "song_title": "I Am",
+      "artist": "Satsang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
+      "notes": ""
+    },
+    {
+      "fighter": "Mario Bautista",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Brian Kelleher",
+      "song_title": "Boom Boom Boom",
+      "artist": "The Outhere Brothers and “Glory” by Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yD9hgruivtAAZ7HrKPYmG",
+      "notes": ""
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "All I Have",
+      "artist": "NF",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mnoPyJHlmMYPJsib5tfn0",
+      "notes": ""
+    },
+    {
+      "fighter": "Jinh Yu Frey",
+      "song_title": "Sloth’s Revenge",
+      "artist": "The Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "notes": ""
+    }
+  ]
+}

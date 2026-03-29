@@ -1,8 +1,17 @@
 {
   "fighter": "Tagir Ulanbekov",
   "slug": "tagir-ulanbekov",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Vse Zvezdy",
+      "artist": "Gimi Dagestana",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
     {
       "song_title": "Vse Zvezdy",
       "artist": "Gimi Dagestana",
@@ -14,8 +23,8 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
     "unique_songs": 1
   }

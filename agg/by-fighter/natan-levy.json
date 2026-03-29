@@ -1,0 +1,49 @@
+{
+  "fighter": "Natan Levy",
+  "slug": "natan-levy",
+  "appearances": 4,
+  "walkouts": [
+    {
+      "song_title": "Industry Baby",
+      "artist": "Lil Nas x feat. Jack Harlow",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Subliminal",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "One Day",
+      "artist": "Matisyahu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2r4wtvZztMhDTIXlOF5ZYa",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
+    }
+  ],
+  "stats": {
+    "events": 4,
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
+  }
+}

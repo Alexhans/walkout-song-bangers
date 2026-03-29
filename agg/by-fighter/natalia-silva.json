@@ -1,7 +1,7 @@
 {
   "fighter": "Natalia Silva",
   "slug": "natalia-silva",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Nothing Is Impossible - Planet Shakers\nLive",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "Nothing is Impossible",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uj2wWw0gnNqkVqGNWbGrf",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

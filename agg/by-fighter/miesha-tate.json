@@ -1,7 +1,7 @@
 {
   "fighter": "Miesha Tate",
   "slug": "miesha-tate",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Warrior",
@@ -20,12 +20,39 @@
       "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
+    },
+    {
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Seven Nation Army (Glitch Mob Remix)",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

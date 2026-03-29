@@ -1,7 +1,7 @@
 {
   "fighter": "Mateusz Gamrot",
   "slug": "mateusz-gamrot",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "I Know What You Did In the Dark (Light ‘Em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

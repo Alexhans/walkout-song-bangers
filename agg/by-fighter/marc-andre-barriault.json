@@ -1,7 +1,7 @@
 {
   "fighter": "Marc-Andre Barriault",
   "slug": "marc-andre-barriault",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Monster",
@@ -49,6 +49,24 @@
       "date": "2026-02-07"
     },
     {
+      "song_title": "Grateful",
+      "artist": "Neffex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Another Level",
+      "artist": "Oh the Larceny",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52yUIbj0YVqxyz9cA0WSPA",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
       "song_title": "Power",
       "artist": "The Score",
       "confidence": "bronze",
@@ -56,12 +74,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Fire On Up",
+      "artist": "Paper Kings",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/23tBMn5oaTZfW8qJ6xjmH8",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 4,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
-    "unique_songs": 4
+    "unique_songs": 7
   }
 }

@@ -1,6 +1,6 @@
 # Rose Namajunas
 
-6 event(s) | 5 song(s) found | 5 unique
+7 event(s) | 6 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | 2022-05-07 | [UFC 274: Oliveira vs. Gaethje](../../ufc-274.md) | PROLIFIC PRAISE | Trey McLaughlin & The Sounds of Zamar | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
 | 2026-01-24 | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | — | — | |
 | 2024-11-02 | [UFC Fight Night: Moreno vs. Albazi](../../ufc-fight-night-moreno-vs-albazi.md) | Prolific Praise | Trey Mclaughlin | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
+| 2024-03-23 | [UFC Fight Night: Ribas vs. Namajunas](../../ufc-fight-night-ribas-vs-namajunas.md) | Prolific Praise | Trey McLaughlin & The Sounds of Zamar | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |

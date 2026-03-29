@@ -1,7 +1,7 @@
 {
   "fighter": "Ismael Bonfim",
   "slug": "ismael-bonfim",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Vitorioso Es",
@@ -20,12 +20,21 @@
       "event": "UFC 301: Pantoja vs. Erceg",
       "event_slug": "ufc-301",
       "date": "2024-05-04"
+    },
+    {
+      "song_title": "Chegou o Tempo",
+      "artist": "Leandro Borges",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nL91974zK2xj7Pn0VKUmD",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

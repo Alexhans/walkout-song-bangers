@@ -1,7 +1,7 @@
 {
   "fighter": "Jamall Emmers",
   "slug": "jamall-emmers",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "In the Field",
@@ -22,6 +22,15 @@
       "date": "2023-11-11"
     },
     {
+      "song_title": "Can't Punk Me",
+      "artist": "JID feat. Earthgang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
       "song_title": "Nee-nah",
       "artist": "21 Savage, Travis Scott, Metro Boomin",
       "confidence": "bronze",
@@ -29,12 +38,21 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "Kant Nobody",
+      "artist": "Lil’ Wayne feat. DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

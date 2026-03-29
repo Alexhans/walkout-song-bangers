@@ -1,7 +1,7 @@
 {
   "fighter": "Belal Muhammad",
   "slug": "belal-muhammad",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Ruff Ryders' Anthem",
@@ -65,12 +65,21 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "Man Listen",
+      "artist": "Belly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 5,
     "missing": 3,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

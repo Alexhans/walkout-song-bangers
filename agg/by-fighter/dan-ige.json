@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Ige",
   "slug": "dan-ige",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Digging for Windows",
@@ -74,11 +74,20 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "Everybody",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
     "unique_songs": 6
   }

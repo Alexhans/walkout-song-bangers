@@ -1,7 +1,7 @@
 {
   "fighter": "Jack Jenkins",
   "slug": "jack-jenkins",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "8 Mile Final Rap Battle",
@@ -29,12 +29,21 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

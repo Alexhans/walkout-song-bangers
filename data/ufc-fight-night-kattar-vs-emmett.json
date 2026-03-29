@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Kattar vs. Emmett",
+  "event_slug": "ufc-fight-night-kattar-vs-emmett",
+  "date": "2022-06-18",
+  "location": "Austin, Texas, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/06/19/ufc-austin-walkout-songs-music-elton-john-lynyrd-skynyrd-miley-cyrus/81260976007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Josh Emmett",
+      "song_title": "Sky's the Limit",
+      "artist": "Rebelution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1muBgxptPazczI9og3tOZG",
+      "notes": ""
+    },
+    {
+      "fighter": "Calvin Kattar",
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Goals",
+      "artist": "NBA Youngboy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KpuNcuR0KBVgHdO1IRwYA",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Means",
+      "song_title": "Slippin'",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Bad Man",
+      "artist": "Kevin Gates",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2cDq2RpbcpnPxZ5kGOIys1",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Duraev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Damir Ismagulov",
+      "song_title": "Attan Tuspe Paluan",
+      "artist": "Abdizhappar Alkozha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Guram Kutateladze",
+      "song_title": "Traditional Samegrelo",
+      "artist": "Makharia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0GfpXavNLCrfptKPRvIDwA",
+      "notes": ""
+    },
+    {
+      "fighter": "Gregory Rodrigues",
+      "song_title": "War Drums",
+      "artist": "Jake Hamilton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XNGB1gfHB4rHxLHViOGEz",
+      "notes": ""
+    },
+    {
+      "fighter": "Julian Marquez",
+      "song_title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH",
+      "notes": ""
+    },
+    {
+      "fighter": "Adrian Yanez",
+      "song_title": "They Don't Know",
+      "artist": "Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3OyKWquwB2mVhBmI11u05e",
+      "notes": ""
+    },
+    {
+      "fighter": "Tony Kelley",
+      "song_title": "Bye Haters",
+      "artist": "Hi-Rez with Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WRy2fFDJWL6XB8kwaakez",
+      "notes": ""
+    },
+    {
+      "fighter": "Natalia Silva",
+      "song_title": "Nothing is Impossible",
+      "artist": "Bethel Church",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uj2wWw0gnNqkVqGNWbGrf",
+      "notes": ""
+    },
+    {
+      "fighter": "Jasmine Jasudavicius",
+      "song_title": "Still Dre",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "notes": ""
+    },
+    {
+      "fighter": "Jeremiah Wells",
+      "song_title": "Arise",
+      "artist": "The Seige",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4HBeFPyRXetnR6QrSa06LS",
+      "notes": ""
+    },
+    {
+      "fighter": "Court McGee",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricardo Ramos",
+      "song_title": "O Terror Carcacinha",
+      "artist": "MC Marquinho Omg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sqanPdZoe2LJ2kk531whx",
+      "notes": ""
+    },
+    {
+      "fighter": "Danny Chavez",
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "notes": ""
+    },
+    {
+      "fighter": "Maria Oliveira",
+      "song_title": "Prvt e Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Gloria de Paula",
+      "song_title": "Texas on a Saturday Night",
+      "artist": "Willie Nelson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wpc1Q1DMCNYEGhC08qxMR",
+      "notes": ""
+    },
+    {
+      "fighter": "Cody Stamann",
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": ""
+    },
+    {
+      "fighter": "Eddie Wineland",
+      "song_title": "If You're Gonna Play in Texas",
+      "artist": "Alabama",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4lDHpM8kYUjVScfD8nfQ7A",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Hawes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Deron Winn",
+      "song_title": "Front, Back and Side to Side",
+      "artist": "UKG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "The Eighth Wonder of the World",
+      "artist": "Georgian dances",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "Saturday Night's Alright for Fighting",
+      "artist": "Elton John",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu",
+      "notes": ""
+    }
+  ]
+}

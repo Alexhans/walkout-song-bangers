@@ -1,0 +1,22 @@
+{
+  "fighter": "Khusein Askhabov",
+  "slug": "khusein-askhabov",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

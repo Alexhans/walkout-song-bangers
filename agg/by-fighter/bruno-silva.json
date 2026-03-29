@@ -1,7 +1,7 @@
 {
   "fighter": "Bruno Silva",
   "slug": "bruno-silva",
-  "appearances": 6,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Can’t Be Touched",
@@ -40,6 +40,15 @@
       "date": "2024-03-30"
     },
     {
+      "song_title": "Escola de Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
       "song_title": "Escola De Vida",
       "artist": "Black Style",
       "confidence": "bronze",
@@ -47,6 +56,24 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "Escola da Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tJFYoxvFefmr8j0Czc4XD",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "Escola de Vida",
+      "artist": "Black Style",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ifmkrv8oHaZtLfXezoMFI",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     },
     {
       "song_title": "TNT",
@@ -59,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 8,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

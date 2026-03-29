@@ -1,7 +1,7 @@
 {
   "fighter": "Ivana Petrovic",
   "slug": "ivana-petrovic",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Paint It Black",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Paint It, Black",
+      "artist": "the Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

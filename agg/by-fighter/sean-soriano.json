@@ -1,0 +1,22 @@
+{
+  "fighter": "Sean Soriano",
+  "slug": "sean-soriano",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Ready Or Not",
+      "artist": "Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

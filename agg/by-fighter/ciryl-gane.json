@@ -1,7 +1,7 @@
 {
   "fighter": "Ciryl Gane",
   "slug": "ciryl-gane",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Still Tippin",
@@ -29,12 +29,21 @@
       "event": "UFC 285: Jones vs. Gane",
       "event_slug": "ufc-285",
       "date": "2023-03-04"
+    },
+    {
+      "song_title": "Haine & Sex",
+      "artist": "Gazo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Haine%20%26%20Sex%20Gazo",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

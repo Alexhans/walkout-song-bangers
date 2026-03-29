@@ -1,7 +1,7 @@
 {
   "fighter": "Marvin Vettori",
   "slug": "marvin-vettori",
-  "appearances": 4,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2017-12-30"
     },
     {
+      "song_title": "Victory",
+      "artist": "Diddy feat. Notorious B.I.G. and Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "Eye of the Tiger",
       "artist": "Survivor",
       "confidence": "bronze",
@@ -38,12 +47,30 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "The Italian Dream",
+      "artist": "Greg Willen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Fratelli D'Itaalia",
+      "artist": "Inno di Mameli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rTMn6Cz9MsIqMDVnK9xtu",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 6
   }
 }

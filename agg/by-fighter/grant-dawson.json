@@ -1,7 +1,7 @@
 {
   "fighter": "Grant Dawson",
   "slug": "grant-dawson",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Hellfire",
@@ -11,11 +11,47 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 1
   }

@@ -1,7 +1,7 @@
 {
   "fighter": "Alex Caceres",
   "slug": "alex-caceres",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "This is America",
@@ -11,12 +11,39 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
-    "unique_songs": 1
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

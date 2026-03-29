@@ -1,0 +1,22 @@
+{
+  "fighter": "Rogerio Bontorin",
+  "slug": "rogerio-bontorin",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Saco de Ouro",
+      "artist": "Eduardo Costa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5D4LjcE3KLEUVuJTQxqqTm",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

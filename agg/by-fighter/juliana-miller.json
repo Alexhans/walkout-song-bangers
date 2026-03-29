@@ -1,8 +1,35 @@
 {
   "fighter": "Juliana Miller",
   "slug": "juliana-miller",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Don’t Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Bigger",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 3
   }
 }

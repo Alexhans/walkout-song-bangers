@@ -1,7 +1,7 @@
 {
   "fighter": "Jasmine Jasudavicius",
   "slug": "jasmine-jasudavicius",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,24 @@
       "date": "2024-01-20"
     },
     {
+      "song_title": "What It's Like",
+      "artist": "Everlast",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
+    },
+    {
+      "song_title": "Still Dre",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -50,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 2,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

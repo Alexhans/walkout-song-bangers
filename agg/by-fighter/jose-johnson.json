@@ -1,7 +1,7 @@
 {
   "fighter": "Jose Johnson",
   "slug": "jose-johnson",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Saved",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Saved",
+      "artist": "Jac Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMys7Jba5LrNclvPO1fyJ",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     },
     {
       "song_title": "Pay for It",
@@ -23,8 +32,8 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 2
   }

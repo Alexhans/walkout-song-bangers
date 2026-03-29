@@ -1,6 +1,6 @@
 # Alex Morono
 
-6 event(s) | 5 song(s) found | 4 unique
+8 event(s) | 7 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,5 @@
 | 2024-06-01 | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Enemies | Eleine | [Listen](https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz) |
 | 2024-04-06 | [UFC Fight Night: Allen vs. Curtis 2](../../ufc-fight-night-allen-vs-curtis-2.md) | Enemies | Eleine | [Listen](https://open.spotify.com/track/1yFmGyOnAcYolkOoC66Caz) |
 | 2026-02-07 | [UFC Fight Night: Bautista vs. Oliveira](../../ufc-fight-night-bautista-vs-oliveira.md) | Blue on Black | Five Finger Death Punch | [Listen](https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw) |
+| 2023-10-07 | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | Snap Your Finger, Snap Your Neck | Prong | [Listen](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) |
+| 2021-12-04 | [UFC Fight Night: Font vs. Aldo](../../ufc-fight-night-font-vs-aldo.md) | I E A I A I O | System of a Down | [Listen](https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5) |

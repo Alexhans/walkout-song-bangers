@@ -1,7 +1,7 @@
 {
   "fighter": "Dalcha Lungiambula",
   "slug": "dalcha-lungiambula",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 282: Blachowicz vs. Ankalaev",
       "event_slug": "ufc-282",
       "date": "2022-12-10"
+    },
+    {
+      "song_title": "Buffalo Soldier",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

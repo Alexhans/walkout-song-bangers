@@ -1,8 +1,26 @@
 {
   "fighter": "Montana De La Rosa",
   "slug": "montana-de-la-rosa",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Sunshine",
+      "artist": "One Republic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
+      "song_title": "Together",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
     {
       "song_title": "Sunshine",
       "artist": "One Republic",
@@ -14,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

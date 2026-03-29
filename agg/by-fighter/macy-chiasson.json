@@ -1,7 +1,7 @@
 {
   "fighter": "Macy Chiasson",
   "slug": "macy-chiasson",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "FIRE SQUAD",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Moreno vs. Kavanagh",
       "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
       "date": "2026-02-28"
+    },
+    {
+      "song_title": "Fire Squad",
+      "artist": "J Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

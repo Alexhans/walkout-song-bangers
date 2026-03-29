@@ -1,7 +1,7 @@
 {
   "fighter": "Marc Diakiese",
   "slug": "marc-diakiese",
-  "appearances": 3,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "My Moment",
@@ -29,12 +29,48 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "Nkolo Akosunga",
+      "artist": "Lokua Kanza",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7cC1bhZcZ3oDCn2Cnvnwvm",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Brandon Royval",
   "slug": "brandon-royval",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2023-12-16"
     },
     {
+      "song_title": "Shimmy Shimmy Ya",
+      "artist": "Ole Dirty Bastard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "SeungWoo Choi",
   "slug": "seungwoo-choi",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,12 +20,21 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "Team$nyper",
+      "artist": "Rhythm Power",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gHhcVxulXQ6S007EQ41a7",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

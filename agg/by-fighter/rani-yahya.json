@@ -1,7 +1,7 @@
 {
   "fighter": "Rani Yahya",
   "slug": "rani-yahya",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Sirius",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Aeroplane",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

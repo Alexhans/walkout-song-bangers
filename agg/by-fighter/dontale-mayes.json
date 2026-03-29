@@ -1,7 +1,7 @@
 {
   "fighter": "Don'Tale Mayes",
   "slug": "dontale-mayes",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     },
     {
       "song_title": "Riata Dada",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 3,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 3
   }
 }

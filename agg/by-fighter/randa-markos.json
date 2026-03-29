@@ -1,7 +1,7 @@
 {
   "fighter": "Randa Markos",
   "slug": "randa-markos",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Shake It Out",
@@ -20,12 +20,21 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "The Red",
+      "artist": "Chevelle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "fighter": "Frank Camacho",
+  "slug": "frank-camacho",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Frank the Crank",
+      "artist": "Jed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

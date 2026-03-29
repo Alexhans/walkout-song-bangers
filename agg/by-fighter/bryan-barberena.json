@@ -1,7 +1,7 @@
 {
   "fighter": "Bryan Barberena",
   "slug": "bryan-barberena",
-  "appearances": 1,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,57 @@
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
+    },
+    {
+      "song_title": "Let’s Hear it for the Boy",
+      "artist": "Deniece Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Twist and Shout",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "It's My Life",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "It’s Tricky",
+      "artist": "Run-D.M.C.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 5
   }
 }

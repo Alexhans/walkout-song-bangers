@@ -1,6 +1,6 @@
 # Chris Curtis
 
-7 event(s) | 6 song(s) found | 6 unique
+10 event(s) | 9 song(s) found | 9 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,4 +10,7 @@
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | Industry Baby | Lil Nas X | [Listen](https://open.spotify.com/track/4BI4iNZigfF4SUq13TcFPh) |
 | 2024-01-20 | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | Metalingus | Edge |  |
 | 2024-04-06 | [UFC Fight Night: Allen vs. Curtis 2](../../ufc-fight-night-allen-vs-curtis-2.md) | — | — | |
+| 2022-07-23 | [UFC Fight Night: Blaydes vs. Aspinall](../../ufc-fight-night-blaydes-vs-aspinall.md) | Sweet Caroline | Neil Diamond | [Listen](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) |
 | 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | Bad Boy For Life | P. Diddy | [Listen](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) |
+| 2021-12-04 | [UFC Fight Night: Font vs. Aldo](../../ufc-fight-night-font-vs-aldo.md) | Could Have Been Me | The Struts | [Listen](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) |
+| 2022-06-25 | [UFC Fight Night: Tsarukyan vs. Gamrot](../../ufc-fight-night-tsarukyan-vs-gamrot.md) | Champion | Barns Courtney | [Listen](https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv) |

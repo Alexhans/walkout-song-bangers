@@ -1,7 +1,7 @@
 {
   "fighter": "Jinh Yu Frey",
   "slug": "jinh-yu-frey",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Sloth’s Revenge",
@@ -11,12 +11,30 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "Sloth’s Revenge",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Sloth’s Revenge",
+      "artist": "The Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tR7np6m75bolEcsJa8sQf",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

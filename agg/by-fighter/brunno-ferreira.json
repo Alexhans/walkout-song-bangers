@@ -1,7 +1,7 @@
 {
   "fighter": "Brunno Ferreira",
   "slug": "brunno-ferreira",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

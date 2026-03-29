@@ -1,0 +1,22 @@
+{
+  "fighter": "Charalampos Grigoriou",
+  "slug": "charalampos-grigoriou",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

@@ -1,7 +1,7 @@
 {
   "fighter": "Waldo Cortes Acosta",
   "slug": "waldo-cortes-acosta",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "K PARA DE QUÉ",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "song_title": "Soy Dominicano",
+      "artist": "Redimi2",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xshS73mMPXNX8XshbwIxN",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
-    "missing": 0,
-    "unique_songs": 2
+    "events": 4,
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

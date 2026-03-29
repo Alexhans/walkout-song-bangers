@@ -1,0 +1,172 @@
+{
+  "event": "UFC Fight Night: Dawson vs. Green",
+  "event_slug": "ufc-fight-night-dawson-vs-green",
+  "date": "2023-10-07",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/10/08/fight-tracks-walkout-songs-fight-night-where-jason-aldean-skunked-again-unless-you-count-the-stroke/80442512007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "Hellfire",
+      "artist": "Jonathan Young",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ajar7wvwmo0GabVdZnmrF",
+      "notes": ""
+    },
+    {
+      "fighter": "Joe Pyfer",
+      "song_title": "Break the Law",
+      "artist": "Mac Miller",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7qfur8OfEOABgenV3Wf0JK",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul Razak Alhassan",
+      "song_title": "Shu",
+      "artist": "Diamond Platnumz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/442DDArcRLNRxEeF75jRVk",
+      "notes": ""
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "Cuff It",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS",
+      "notes": ""
+    },
+    {
+      "fighter": "Alex Morono",
+      "song_title": "Snap Your Finger, Snap Your Neck",
+      "artist": "Prong",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx",
+      "notes": ""
+    },
+    {
+      "fighter": "Drew Dober",
+      "song_title": "This Is How We Do It",
+      "artist": "Montel Jordan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "notes": ""
+    },
+    {
+      "fighter": "Ricky Glenn",
+      "song_title": "The Stroke",
+      "artist": "Billy Squier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
+      "notes": ""
+    },
+    {
+      "fighter": "Bill Algeo",
+      "song_title": "Don't Mess With Bill",
+      "artist": "The Marvelettes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ZntRLy883TGeACsg4bOOI",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "Por Ti Volare",
+      "artist": "Endo Rivera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu",
+      "notes": ""
+    },
+    {
+      "fighter": "Karolina Kowalkiewicz",
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Diana Belbita",
+      "song_title": "Cat Poti Tu De Tare",
+      "artist": "B.U.G. Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Xj4VUArMLXZ269dR7DDNN",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Maness",
+      "song_title": "Mayhem",
+      "artist": "YJ DonStatus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24LFJx1kGvDua4mvLq4n7D",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateus Mendonca",
+      "song_title": "Mesmmo Sem Entender",
+      "artist": "Thallas Roberto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0hzDEYPd6JMzxSMOGYCQRP",
+      "notes": ""
+    },
+    {
+      "fighter": "Vanessa Demopoulos",
+      "song_title": "Knuck If You Buck",
+      "artist": "Crime Mob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT",
+      "notes": ""
+    },
+    {
+      "fighter": "Kanako Murata",
+      "song_title": "Speed TK Remix",
+      "artist": "Tetsuya Komuro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ieFw0U6Oq5RvfYhAAYN0V",
+      "notes": ""
+    },
+    {
+      "fighter": "Aoriqileng",
+      "song_title": "This is Mongol",
+      "artist": "The Hu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Ixrk75DWoH1rfQwI5yhwu",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Munoz",
+      "song_title": "Words I Never Said",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5AcOdoDOQOKtPlAM1FqBO8",
+      "notes": ""
+    },
+    {
+      "fighter": "JJ Aldrich",
+      "song_title": "The Otherside",
+      "artist": "The Roots",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TdPHbWSEIgqrI04MjMENl",
+      "notes": ""
+    },
+    {
+      "fighter": "Montana De La Rosa",
+      "song_title": "Sunshine",
+      "artist": "One Republic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B",
+      "notes": ""
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Stephen Thompson
 
-7 event(s) | 6 song(s) found | 3 unique
+8 event(s) | 7 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2021-07-10 | [UFC 264: Poirier vs. McGregor 3](../../ufc-264.md) | Blinding Lights | The Weeknd | [Listen](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
 | 2023-12-16 | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |
 | 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Never Get Used to This | Forest Frank | [Listen](https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM) |
+| 2022-12-03 | [UFC Fight Night: Thompson vs. Holland](../../ufc-fight-night-thompson-vs-holland.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |

@@ -1,6 +1,6 @@
 # Ryan Spann
 
-7 event(s) | 7 song(s) found | 7 unique
+8 event(s) | 8 song(s) found | 8 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,5 +9,6 @@
 | 2022-11-12 | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | I’m a Go Getta | Lil Wayne | [Listen](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
 | 2024-10-05 | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Stronger Than Ever | Alex Jean | [Listen](https://open.spotify.com/track/5voW3yr7n2aFZpZb722b2g) |
 | 2025-07-19 | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | I'm a Go Getta | Lil Wayne |  |
+| 2022-05-14 | [UFC Fight Night: Blachowicz vs. Rakic](../../ufc-fight-night-blachowicz-vs-rakic.md) | It's Time for War | LL Cool J | [Listen](https://open.spotify.com/track/1dgJL7ysEGYgFXndee5sSa) |
 | 2024-04-27 | [UFC Fight Night: Nicolau vs. Perez](../../ufc-fight-night-nicolau-vs-perez.md) | 1st of tha Month | Bone Thugs N Harmony | [Listen](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) |
 | 2023-03-11 | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | Ready or Not | The Fugees | [Listen](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) |

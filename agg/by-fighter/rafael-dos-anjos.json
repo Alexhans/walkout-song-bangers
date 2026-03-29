@@ -1,7 +1,7 @@
 {
   "fighter": "Rafael Dos Anjos",
   "slug": "rafael-dos-anjos",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Boladão (Grito de Um Guerreiro)",
@@ -11,12 +11,39 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "O Grito De Um Guerreiro",
+      "artist": "Mc Sapão",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Ez7z8blULlHjamLh9XZyN",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Hope in Front of Me",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Hope in Front of Me",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

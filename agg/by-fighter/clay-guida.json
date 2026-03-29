@@ -1,7 +1,7 @@
 {
   "fighter": "Clay Guida",
   "slug": "clay-guida",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "My Hero",
@@ -11,12 +11,48 @@
       "event": "UFC 237: Namajunas vs. Andrade",
       "event_slug": "ufc-237",
       "date": "2019-05-11"
+    },
+    {
+      "song_title": "Walk",
+      "artist": "Pantera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Stupid Kid",
+      "artist": "Alkaline Trio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "My Hero",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
+      "song_title": "My Hero",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

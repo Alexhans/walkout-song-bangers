@@ -1,7 +1,7 @@
 {
   "fighter": "Jan Blachowicz",
   "slug": "jan-blachowicz",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "House of the Rising Sun",
@@ -11,6 +11,15 @@
       "event": "UFC 239: Jones vs. Santos",
       "event_slug": "ufc-239",
       "date": "2019-07-06"
+    },
+    {
+      "song_title": "Ballada o Pancernych",
+      "artist": "Edmund Fetting",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7fk2w2RANRpiAuCxcnWzgT",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "The Song Of The Dragonborn",
@@ -29,12 +38,21 @@
       "event": "UFC 291: Poirier vs. Gaethje 2",
       "event_slug": "ufc-291",
       "date": "2023-07-29"
+    },
+    {
+      "song_title": "Anvil of Crom",
+      "artist": "Basil Poledouris",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5mxTww2EuHbK0txi7U5C0A",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

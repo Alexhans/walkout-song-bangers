@@ -1,7 +1,7 @@
 {
   "fighter": "Luana Santos",
   "slug": "luana-santos",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Fall Out Boy & Alicia Keys",
@@ -11,11 +11,29 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "Fall Out Boy & Alicia Keys",
+      "artist": "Christina Grimmie & Mike Tompkins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Fall Out Boy & Alicia Keys",
+      "artist": "Christina Grimmie & Mike Tompkins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
     "unique_songs": 1
   }

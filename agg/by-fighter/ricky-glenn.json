@@ -1,7 +1,7 @@
 {
   "fighter": "Ricky Glenn",
   "slug": "ricky-glenn",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Whoomp! (There It Is)",
@@ -20,12 +20,30 @@
       "event": "UFC 305: Du Plessis vs. Adesanya",
       "event_slug": "ufc-305",
       "date": "2024-08-17"
+    },
+    {
+      "song_title": "Ain't No Mountain High Enough",
+      "artist": "Marvin Gaye and Tammi Terrell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "The Stroke",
+      "artist": "Billy Squier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

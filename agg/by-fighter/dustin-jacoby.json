@@ -1,7 +1,7 @@
 {
   "fighter": "Dustin Jacoby",
   "slug": "dustin-jacoby",
-  "appearances": 3,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "RUNNIN' DOWN A DREAM",
@@ -29,12 +29,39 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty & The Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Runnin' Down a Dream",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
+    },
+    {
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty and the Heartbreakers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 5
   }
 }

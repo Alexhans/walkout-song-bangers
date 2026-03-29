@@ -1,7 +1,7 @@
 {
   "fighter": "Genaro Valdez",
   "slug": "genaro-valdez",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 270: Ngannou vs. Gane",
       "event_slug": "ufc-270",
       "date": "2022-01-22"
+    },
+    {
+      "song_title": "El Rayadito",
+      "artist": "Groupo Tempo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GFQgirERj23zEIuk6MLV2",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "Genado Valdez el Rayadito",
+      "artist": "Groupo Tempo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fJ5SlhaMxmD5n8FOT5kfz",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 2
   }
 }

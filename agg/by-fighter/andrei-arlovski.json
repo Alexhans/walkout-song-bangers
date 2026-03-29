@@ -1,7 +1,7 @@
 {
   "fighter": "Andrei Arlovski",
   "slug": "andrei-arlovski",
-  "appearances": 4,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Watchdog",
@@ -38,11 +38,47 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
+    },
+    {
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "God’s Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 8,
     "missing": 0,
     "unique_songs": 4
   }

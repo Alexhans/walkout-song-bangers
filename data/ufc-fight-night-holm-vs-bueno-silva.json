@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Holm vs. Bueno Silva",
+  "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+  "date": "2023-07-15",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/07/16/ufc-espn-49-las-vegas-walkout-songs-music-stevie-nicks-rihanna-tupac/80696908007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Holly Holm",
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "notes": ""
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "Tente Outra Vez",
+      "artist": "Chitaozinho & Xororo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3fYhP607DwgstHB789mOpS",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "Shimmy Shimmy Ya",
+      "artist": "Ol Dirty Bastard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi",
+      "notes": ""
+    },
+    {
+      "fighter": "Bassil Hafez",
+      "song_title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "El Nuevo Campeon",
+      "artist": "Ali Dimaev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3DeOJI1E0iIlWGfuTTFomF",
+      "notes": ""
+    },
+    {
+      "fighter": "Ottman Azaitar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "JunYong Park",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "notes": ""
+    },
+    {
+      "fighter": "Albert Duraev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "Techno Boxe",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz",
+      "notes": ""
+    },
+    {
+      "fighter": "Chelsea Chandler",
+      "song_title": "FR",
+      "artist": "Lil' Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9",
+      "notes": ""
+    },
+    {
+      "fighter": "Nazim Sadykhov",
+      "song_title": "All Eyez On Me",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "Can't Tell Me Nothing",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "notes": ""
+    },
+    {
+      "fighter": "Melsik Baghdasaryan",
+      "song_title": "Master Klass 2020 Hzor Katarum",
+      "artist": "Joni Dhol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Tucker Lutz",
+      "song_title": "Lifetime Income",
+      "artist": "Larry June",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3laRfiX9iph8kNTAHZIY3N",
+      "notes": ""
+    },
+    {
+      "fighter": "Viktoriia Dudakova",
+      "song_title": "Ich Will",
+      "artist": "Rammstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
+      "notes": ""
+    },
+    {
+      "fighter": "Istela Nunes",
+      "song_title": "Renasci Das Cinzas",
+      "artist": "MC Daniel, MC Paulin da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "notes": ""
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "Nunca Foi Sorte, Sempre Doi Deus",
+      "artist": "Banda Som e Louvor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0XAvskHfw2D4yrMfkjSQsH",
+      "notes": ""
+    },
+    {
+      "fighter": "Austin Lingo",
+      "song_title": "Let's Go",
+      "artist": "Key Glock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z",
+      "notes": ""
+    },
+    {
+      "fighter": "Evan Elder",
+      "song_title": "Run This Town",
+      "artist": "Jay Z and Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Genaro Valdez",
+      "song_title": "El Rayadito",
+      "artist": "Groupo Tempo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GFQgirERj23zEIuk6MLV2",
+      "notes": ""
+    },
+    {
+      "fighter": "Azat Maksum",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tyson Nam",
+      "song_title": "Ragtime Interlude/I'm Really Hot",
+      "artist": "Missy Elliott",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yei0S35YFOEBOiKN287MW",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Munoz",
+      "song_title": "Work",
+      "artist": "Gang Starr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi",
+      "notes": ""
+    },
+    {
+      "fighter": "Carl Deaton",
+      "song_title": "Electric Pow Wow Drum",
+      "artist": "A Tribe Called Red",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ",
+      "notes": ""
+    },
+    {
+      "fighter": "Ailin Perez",
+      "song_title": "BZRP Music Sessions #36",
+      "artist": "Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI",
+      "notes": ""
+    },
+    {
+      "fighter": "Ashlee Evans-Smith",
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "notes": ""
+    }
+  ]
+}

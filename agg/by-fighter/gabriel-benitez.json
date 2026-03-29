@@ -1,7 +1,7 @@
 {
   "fighter": "Gabriel Benitez",
   "slug": "gabriel-benitez",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Mejor Morir En Pie",
@@ -38,12 +38,30 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir en Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
+    },
+    {
+      "song_title": "Tierra Santa",
+      "artist": "Mejor Morir en Pie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

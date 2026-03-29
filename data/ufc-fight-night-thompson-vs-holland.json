@@ -1,0 +1,236 @@
+{
+  "event": "UFC Fight Night: Thompson vs. Holland",
+  "event_slug": "ufc-fight-night-thompson-vs-holland",
+  "date": "2022-12-03",
+  "location": "Orlando, Florida, USA",
+  "source_urls": [
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130056925.html?fr=sycsrp_catchall"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Stephen Thompson",
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Ghost",
+      "artist": "NBA Youngboy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "Hope in Front of Me",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "It’s Tricky",
+      "artist": "Run-D.M.C.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorious",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mx866dtWgtR0WUDRLqnrY",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Schnell",
+      "song_title": "Fancy",
+      "artist": "Reba McEntire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wF0S5ORJ5rMcWZICC46Fb",
+      "notes": ""
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "Fly Away on the Wings of Wind",
+      "artist": "Kalevala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/02FKaMjb1wQpdxcBqUJHEn",
+      "notes": ""
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "I’m Like a Bird",
+      "artist": "Nelly Furtado",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi",
+      "notes": ""
+    },
+    {
+      "fighter": "Roman Dolidze",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jack Hermansson",
+      "song_title": "The Joker",
+      "artist": "Damien",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0YxanLhhIVAFsO25IErwYh",
+      "notes": ""
+    },
+    {
+      "fighter": "Eryk Anders",
+      "song_title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+      "notes": ""
+    },
+    {
+      "fighter": "Kyle Daukaus",
+      "song_title": "The Rain",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr",
+      "notes": ""
+    },
+    {
+      "fighter": "Phil Rowe",
+      "song_title": "Til the Sun Goes Down",
+      "artist": "Five the Fresh",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ChJvljTEUp9b7lEnKXl51",
+      "notes": ""
+    },
+    {
+      "fighter": "Niko Price",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "notes": ""
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "Shut ‘Em Up",
+      "artist": "Prodigy with Public Enemy, Manfred Mann",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2JCfiNog8XQIOHFcxZoRo6",
+      "notes": ""
+    },
+    {
+      "fighter": "Emily Ducote",
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "notes": ""
+    },
+    {
+      "fighter": "Clay Guida",
+      "song_title": "My Hero",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN",
+      "notes": ""
+    },
+    {
+      "fighter": "Scott Holtzman",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Johnson",
+      "song_title": "Blunt Blowing",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "notes": ""
+    },
+    {
+      "fighter": "Jonathan Pearce",
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "notes": ""
+    },
+    {
+      "fighter": "Darren Elkins",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "notes": ""
+    },
+    {
+      "fighter": "Natan Levy",
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "notes": ""
+    },
+    {
+      "fighter": "Genaro Valdez",
+      "song_title": "Genado Valdez el Rayadito",
+      "artist": "Groupo Tempo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fJ5SlhaMxmD5n8FOT5kfz",
+      "notes": ""
+    },
+    {
+      "fighter": "Francis Marshall",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcelo Rojo",
+      "song_title": "Llegamos los Pibes Chorres",
+      "artist": "Pibes Chorros",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj",
+      "notes": ""
+    },
+    {
+      "fighter": "Yazmin Jauregui",
+      "song_title": "Mi Corrido",
+      "artist": "Hadrian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NxAoIrGwgfZdWFUS7MOFh",
+      "notes": ""
+    },
+    {
+      "fighter": "Istela Nunes",
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "notes": ""
+    }
+  ]
+}

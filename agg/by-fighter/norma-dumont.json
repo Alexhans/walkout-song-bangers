@@ -1,7 +1,7 @@
 {
   "fighter": "Norma Dumont",
   "slug": "norma-dumont",
-  "appearances": 2,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "ROCK AND ROLL PART 2",
@@ -20,12 +20,30 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "Techno Boxe",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "Rock N' Roll Part 2",
+      "artist": "Gary Glitter",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

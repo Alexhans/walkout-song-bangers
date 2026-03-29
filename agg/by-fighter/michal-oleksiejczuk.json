@@ -1,7 +1,7 @@
 {
   "fighter": "Michal Oleksiejczuk",
   "slug": "michal-oleksiejczuk",
-  "appearances": 5,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Husaria Ginie",
@@ -11,6 +11,15 @@
       "event": "UFC 219: Cyborg vs. Holm",
       "event_slug": "ufc-219",
       "date": "2017-12-30"
+    },
+    {
+      "song_title": "Potop Muzyka z Filmu Choragwie Rzeczpospolitej",
+      "artist": "Kazimierz Serocki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "Husaria Ginie",
@@ -47,12 +56,21 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Potop muzyka z filmu Chorągwie Rzeczpospolitej",
+      "artist": "Kazimierz Serocki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYb42ZbuXnBMrvrYnc1rG",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 7,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

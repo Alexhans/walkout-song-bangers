@@ -1,0 +1,188 @@
+{
+  "event": "UFC Fight Night: Andrade vs. Blanchfield",
+  "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+  "date": "2023-02-18",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/02/19/ufc-fight-night-219-walkout-songs-music-las-vegas-black-sabbath-jimi-hendrix-rihanna/80955392007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Erin Blanchfield",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "Prvt E Hora de Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
+      "notes": ""
+    },
+    {
+      "fighter": "Zac Pauga",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jordan Wright",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamal Pogues",
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Parisian",
+      "song_title": "Magic",
+      "artist": "B.o.B. feat. Rivers Cuomo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcin Prachnio",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    },
+    {
+      "fighter": "William Knight",
+      "song_title": "We Nuh Fraid Ahh Nobody",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6wRA4ZODTUFBAX61GuBfla",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "notes": ""
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "notes": ""
+    },
+    {
+      "fighter": "Nazim Sadykhov",
+      "song_title": "Bayati Shiraz",
+      "artist": "Jah Khalib",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "notes": ""
+    },
+    {
+      "fighter": "Evan Elder",
+      "song_title": "Run This Town",
+      "artist": "Jay Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": ""
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "Diferenciado",
+      "artist": "MC Neguinho do Kaxeta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UobpfzxcDNBplXZ4rQwpm",
+      "notes": ""
+    },
+    {
+      "fighter": "Lina Lansberg",
+      "song_title": "Bullwinkle Pt. II",
+      "artist": "The Centurians",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Hn7uZqDarw5VTNX1XluV3",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamall Emmers",
+      "song_title": "Can't Punk Me",
+      "artist": "JID feat. Earthgang",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg",
+      "notes": ""
+    },
+    {
+      "fighter": "Khusein Askhabov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Philipe Lins",
+      "song_title": "The Dawning",
+      "artist": "Days Like These",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/24zeKYWzZJHHR0PtRv2CN2",
+      "notes": ""
+    },
+    {
+      "fighter": "Ovince Saint Preux",
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "notes": ""
+    },
+    {
+      "fighter": "AJ Fletcher",
+      "song_title": "Bank of the River",
+      "artist": "Bishop Gunn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Toff8R5GgQfU008uwBV7o",
+      "notes": ""
+    },
+    {
+      "fighter": "Themba Gorimbo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Clayton Carpenter",
+      "song_title": "Voodoo Chile",
+      "artist": "Jimi Hendrix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0auKlivXpm76wR63mMJ3pR",
+      "notes": ""
+    },
+    {
+      "fighter": "Juancamilo Ronderos",
+      "song_title": "Go Get It",
+      "artist": "T.I.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt",
+      "notes": ""
+    }
+  ]
+}

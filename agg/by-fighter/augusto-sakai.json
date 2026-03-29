@@ -1,7 +1,7 @@
 {
   "fighter": "Augusto Sakai",
   "slug": "augusto-sakai",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Anjos (Pra quem tem fe)",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Simon Says",
+      "artist": "Pharoahe Monch",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Yanal Ashmouz",
   "slug": "yanal-ashmouz",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Knight’s Steed",
+      "artist": "Amir LLabay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4puWEgTbQFHu98cYmzEpqL",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
     {
       "song_title": "Knight's Steed",
       "artist": "Amir Labay",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Rose Namajunas",
   "slug": "rose-namajunas",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Supersonic",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Prolific Praise",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

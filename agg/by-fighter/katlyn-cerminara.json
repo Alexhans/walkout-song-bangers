@@ -1,7 +1,7 @@
 {
   "fighter": "Katlyn Cerminara",
   "slug": "katlyn-cerminara",
-  "appearances": 6,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -56,12 +56,30 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 8,
     "with_song": 1,
-    "missing": 5,
+    "missing": 7,
     "unique_songs": 1
   }
 }

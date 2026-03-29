@@ -1,7 +1,7 @@
 {
   "fighter": "Deiveson Figueiredo",
   "slug": "deiveson-figueiredo",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -49,6 +49,15 @@
       "date": "2026-01-24"
     },
     {
+      "song_title": "Bandoleros",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
       "song_title": "Voando Pro Para",
       "artist": "Joelma",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 3,
+    "events": 7,
+    "with_song": 4,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

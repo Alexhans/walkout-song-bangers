@@ -1,7 +1,7 @@
 {
   "fighter": "Ariane Carnelossi",
   "slug": "ariane-carnelossi",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,30 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Et Circenses",
+      "artist": "Rosa de Saron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XMcb4y6hH3xIoSlfTd0gU",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "events": 3,
+    "with_song": 1,
+    "missing": 2,
+    "unique_songs": 1
   }
 }

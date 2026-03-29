@@ -1,7 +1,7 @@
 {
   "fighter": "Brad Riddell",
   "slug": "brad-riddell",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Thunderstruck",
@@ -29,12 +29,21 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "Death Row East",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7IZwjpLSvABzr1E7xeBaRJ",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

@@ -1,0 +1,220 @@
+{
+  "event": "UFC Fight Night: Luque vs. Dos Anjos",
+  "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+  "date": "2023-08-12",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2023/08/13/fight-tracks-the-walkout-songs-ufc-espn-with-the-return-the-eminem-curse-but-least-no-jason-aldean/80617632007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Long Way",
+      "artist": "Lathan Warlick feat. KB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Dos Anjos",
+      "song_title": "Hope in Front of Me",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/520DLGbk0HtjYAkcTVjuaq",
+      "notes": ""
+    },
+    {
+      "fighter": "Cub Swanson",
+      "song_title": "Lord Pretty Flacko Jodie 2",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4",
+      "notes": ""
+    },
+    {
+      "fighter": "Hakeem Dawodu",
+      "song_title": "Versatile 3",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VM5jTYd03mpun6I554wJn",
+      "notes": ""
+    },
+    {
+      "fighter": "Khalil Rountree Jr.",
+      "song_title": "Cloak & Dagger",
+      "artist": "Burna Boy feat. J. Hus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Cloak%20%26%20Dagger%20Burna%20Boy%20feat.%20J.%20Hus",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "Spoiler",
+      "artist": "Hyper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu",
+      "notes": ""
+    },
+    {
+      "fighter": "Iasmin Lucindo",
+      "song_title": "Louco e Sonhador",
+      "artist": "MC Neguinho do Kaxeta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hdBsNsVESpjbnVClbUa3y",
+      "notes": ""
+    },
+    {
+      "fighter": "Polyana Viana",
+      "song_title": "Vibe Animes #2",
+      "artist": "Prod. Sidney Scaccio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0pPfMFy55819r2wbZY2Prc",
+      "notes": ""
+    },
+    {
+      "fighter": "AJ Dobson",
+      "song_title": "Everything Nice",
+      "artist": "Popcaan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WseWfbKiXbAAwDDwxuSua",
+      "notes": ""
+    },
+    {
+      "fighter": "Tafon Nchukwi",
+      "song_title": "the vibe – A COLORS SHOW",
+      "artist": "Kamauu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0PhYOCDzd2QdD1ipplCbms",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Fremd",
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": ""
+    },
+    {
+      "fighter": "Jamie Pickett",
+      "song_title": "Bring the Pain",
+      "artist": "Method Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6",
+      "notes": ""
+    },
+    {
+      "fighter": "Marcus McGhee",
+      "song_title": "Hard Work, God First",
+      "artist": "Zauntee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4TUeeXWoEULIWlBixNzWEQ",
+      "notes": ""
+    },
+    {
+      "fighter": "JP Buys",
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "notes": ""
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "Let's Go",
+      "artist": "Trick Daddy feat. Twista and Lil' Jon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
+      "notes": ""
+    },
+    {
+      "fighter": "Mike Breeden",
+      "song_title": "For the Love of Money",
+      "artist": "The O'Jays",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk",
+      "notes": ""
+    },
+    {
+      "fighter": "Isaac Dulgarian",
+      "song_title": "So Much More",
+      "artist": "Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mzQu9J4d90nyoBBfgniaK",
+      "notes": ""
+    },
+    {
+      "fighter": "Francis Marshall",
+      "song_title": "Without Me",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "notes": ""
+    },
+    {
+      "fighter": "Martin Buday",
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Parisian",
+      "song_title": "D.A.N.C.E.",
+      "artist": "Justice",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ",
+      "notes": ""
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Montserrat Conejo Ruiz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Da'Mon Blackshear",
+      "song_title": "Whistle Dixie",
+      "artist": "Travis Barker & Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BWreXddcuK05pXnzkU7wx",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Johnson",
+      "song_title": "Saved",
+      "artist": "Jac Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4bMys7Jba5LrNclvPO1fyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Luana Santos",
+      "song_title": "Fall Out Boy & Alicia Keys",
+      "artist": "Christina Grimmie & Mike Tompkins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
+      "notes": "spotify_match: search_fallback"
+    },
+    {
+      "fighter": "Juliana Miller",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "notes": ""
+    }
+  ]
+}

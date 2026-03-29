@@ -1,7 +1,7 @@
 {
   "fighter": "Ramiz Brahimaj",
   "slug": "ramiz-brahimaj",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -17,15 +17,42 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Ghetto Prisoners",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1rSS6Y3LWd6c7m2DA7c9Um",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Set the Tone",
+      "artist": "Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jjeUkgGVqOWGEbpTLgm56",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
-    "missing": 2,
-    "unique_songs": 0
+    "events": 5,
+    "with_song": 2,
+    "missing": 3,
+    "unique_songs": 2
   }
 }

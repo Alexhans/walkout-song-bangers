@@ -1,7 +1,7 @@
 {
   "fighter": "Shane Burgos",
   "slug": "shane-burgos",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
+    },
+    {
+      "song_title": "Way Down We Go",
+      "artist": "Kaleo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

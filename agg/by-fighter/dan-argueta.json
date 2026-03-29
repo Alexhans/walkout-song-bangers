@@ -1,7 +1,7 @@
 {
   "fighter": "Dan Argueta",
   "slug": "dan-argueta",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Psycho Killer",
@@ -20,12 +20,21 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "A-Punk",
+      "artist": "Vampire Weekend",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

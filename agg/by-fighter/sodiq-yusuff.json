@@ -1,7 +1,7 @@
 {
   "fighter": "Sodiq Yusuff",
   "slug": "sodiq-yusuff",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Bodak Yellow",
@@ -29,11 +29,20 @@
       "event": "UFC 300: Pereira vs. Hill",
       "event_slug": "ufc-300",
       "date": "2024-04-13"
+    },
+    {
+      "song_title": "Power",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
     "unique_songs": 2
   }

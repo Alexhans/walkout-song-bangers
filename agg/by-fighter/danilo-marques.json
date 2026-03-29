@@ -1,0 +1,22 @@
+{
+  "fighter": "Danilo Marques",
+  "slug": "danilo-marques",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Uma Vida Do",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1OibVbUVn9ZRpPZAP2kjhg",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

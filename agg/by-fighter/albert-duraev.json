@@ -1,0 +1,40 @@
+{
+  "fighter": "Albert Duraev",
+  "slug": "albert-duraev",
+  "appearances": 3,
+  "walkouts": [
+    {
+      "song_title": "Lamanxoj",
+      "artist": "Va Maryam",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aqRsHq5Rwa6hYlAZIRfoj",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    }
+  ],
+  "stats": {
+    "events": 3,
+    "with_song": 1,
+    "missing": 2,
+    "unique_songs": 1
+  }
+}

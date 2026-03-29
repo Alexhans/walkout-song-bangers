@@ -1,6 +1,6 @@
 # Dan Ige
 
-8 event(s) | 8 song(s) found | 6 unique
+9 event(s) | 9 song(s) found | 6 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,3 +12,4 @@
 | 2023-09-23 | [UFC Fight Night: Fiziev vs. Gamrot](../../ufc-fight-night-fiziev-vs-gamrot.md) | Down | Run the Jewels | [Listen](https://open.spotify.com/track/5joOfvaQlHiwKk75rSgjgh) |
 | 2024-02-10 | [UFC Fight Night: Hermansson vs. Pyfer](../../ufc-fight-night-hermansson-vs-pyfer.md) | Bring Your Whole Crew | DMX | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
 | 2026-02-21 | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | Bring Your Whole Crew | DMX | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
+| 2023-01-14 | [UFC Fight Night: Strickland vs. Imavov](../../ufc-fight-night-strickland-vs-imavov.md) | Everybody | Logic | [Listen](https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM) |

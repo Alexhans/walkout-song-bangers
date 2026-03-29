@@ -1,7 +1,7 @@
 {
   "fighter": "Ion Cutelaba",
   "slug": "ion-cutelaba",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -22,6 +22,15 @@
       "date": "2024-03-09"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
       "song_title": "Doina Haiducului",
       "artist": "Zdob si Zdub",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

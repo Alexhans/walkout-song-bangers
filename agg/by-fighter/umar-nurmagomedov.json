@@ -1,7 +1,7 @@
 {
   "fighter": "Umar Nurmagomedov",
   "slug": "umar-nurmagomedov",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Georgian Dance Music",
@@ -29,12 +29,30 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Lezginka",
+      "artist": "Djigitovka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JY0nguP0JUq5wV5WtfEXP",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
+    },
+    {
+      "song_title": "Lezginka",
+      "artist": "Djigitovka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JY0nguP0JUq5wV5WtfEXP",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 5,
+    "with_song": 3,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

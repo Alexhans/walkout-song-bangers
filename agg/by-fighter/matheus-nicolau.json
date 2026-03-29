@@ -1,7 +1,7 @@
 {
   "fighter": "Matheus Nicolau",
   "slug": "matheus-nicolau",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Back on the Path",
@@ -13,6 +13,24 @@
       "date": "2017-12-30"
     },
     {
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorius",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/250sY8lvu1PKwvmUhHxLdf",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorius & Weather Report",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/50BojD1dtRNVQValaFta1k",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
       "song_title": "The Boss",
       "artist": "James Brown",
       "confidence": "bronze",
@@ -20,12 +38,21 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorious",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mx866dtWgtR0WUDRLqnrY",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 5
   }
 }

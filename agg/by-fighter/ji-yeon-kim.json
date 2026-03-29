@@ -1,7 +1,7 @@
 {
   "fighter": "Ji Yeon Kim",
   "slug": "ji-yeon-kim",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Forever Young",
@@ -20,12 +20,21 @@
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
+    },
+    {
+      "song_title": "Unstoppable",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

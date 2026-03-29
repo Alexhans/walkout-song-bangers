@@ -1,7 +1,7 @@
 {
   "fighter": "Nathaniel Wood",
   "slug": "nathaniel-wood",
-  "appearances": 4,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2024-07-27"
     },
     {
+      "song_title": "I'm a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -38,11 +47,20 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "I'm a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 2,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
     "unique_songs": 2
   }

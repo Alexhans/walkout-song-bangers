@@ -1,7 +1,7 @@
 {
   "fighter": "Zubaira Tukhugov",
   "slug": "zubaira-tukhugov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -11,6 +11,15 @@
       "event": "UFC 242: Khabib vs. Poirier",
       "event_slug": "ufc-242",
       "date": "2019-09-07"
+    },
+    {
+      "song_title": "Terrible",
+      "artist": "South G1ala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ume8nZwNsdsj7kKPZspl4",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 0,
+    "events": 3,
+    "with_song": 1,
     "missing": 2,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

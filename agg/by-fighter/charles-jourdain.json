@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Jourdain",
   "slug": "charles-jourdain",
-  "appearances": 5,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "John Wick Mode",
@@ -40,6 +40,24 @@
       "date": "2023-09-23"
     },
     {
+      "song_title": "Glaive",
+      "artist": "Booba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
+    },
+    {
       "song_title": "in the Face of Evil",
       "artist": "Magic Sword",
       "confidence": "bronze",
@@ -47,12 +65,21 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Born for This",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Sco7mbJy7p7vdDtJW10fZ",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 4
+    "events": 8,
+    "with_song": 6,
+    "missing": 2,
+    "unique_songs": 6
   }
 }

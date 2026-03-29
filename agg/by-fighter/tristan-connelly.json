@@ -1,0 +1,22 @@
+{
+  "fighter": "Tristan Connelly",
+  "slug": "tristan-connelly",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Blood of Cu Chulainn",
+      "artist": "Jeff Danna and Mychael Danna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7EiUFDrWXWOBCfMG80vY4M",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

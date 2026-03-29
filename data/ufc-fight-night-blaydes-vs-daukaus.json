@@ -1,0 +1,204 @@
+{
+  "event": "UFC Fight Night: Blaydes vs. Daukaus",
+  "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+  "date": "2022-03-26",
+  "location": "Columbus, Ohio, USA",
+  "source_urls": [
+    "https://mmajunkie.usatoday.com/story/sports/ufc/2022/03/27/ufc-espn-33-columbus-walkout-songs-music-beatles-greta-van-fleet/81324428007/"
+  ],
+  "generated_at": "2026-03-29",
+  "songs": [
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Daukaus",
+      "song_title": "Highway Tune",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexa Grasso",
+      "song_title": "Paper Plane",
+      "artist": "M.I.A.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "notes": ""
+    },
+    {
+      "fighter": "Joanne Wood",
+      "song_title": "Sweet Dreams",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "notes": ""
+    },
+    {
+      "fighter": "Bryan Barberena",
+      "song_title": "Twist and Shout",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l",
+      "notes": ""
+    },
+    {
+      "fighter": "Matt Brown",
+      "song_title": "I Am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Kara-France",
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "notes": ""
+    },
+    {
+      "fighter": "Askar Askarov",
+      "song_title": "We are Heroes",
+      "artist": "Nasheed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TayNhoH7cuNwMO8F058Ei",
+      "notes": ""
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "Every Chance I Get",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz",
+      "notes": ""
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "The Luniz",
+      "artist": "Yukmouth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi",
+      "notes": ""
+    },
+    {
+      "fighter": "Marc Diakiese",
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "notes": ""
+    },
+    {
+      "fighter": "Viacheslav Borshchev",
+      "song_title": "Jingle Bells/Good Day",
+      "artist": "Nappy Roots",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s9COZY8wLOadAzbHka2GO",
+      "notes": ""
+    },
+    {
+      "fighter": "Sara McMann",
+      "song_title": "Indestructible",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf",
+      "notes": ""
+    },
+    {
+      "fighter": "Karol Rosa",
+      "song_title": "Prvt e Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Gutierrez",
+      "song_title": "Bandoleros",
+      "artist": "Don Omar feat. Tego Calderon",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k",
+      "notes": ""
+    },
+    {
+      "fighter": "Batgerel Danaa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Aliaskhab Khizriev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Denis Tiuliulin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Manon Fiorot",
+      "song_title": "Dirty Hous",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51fHtUi3oHovPgm5FokqiM",
+      "notes": ""
+    },
+    {
+      "fighter": "Jennifer Maia",
+      "song_title": "TNT",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": ""
+    },
+    {
+      "fighter": "Matheus Nicolau",
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorius",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/250sY8lvu1PKwvmUhHxLdf",
+      "notes": ""
+    },
+    {
+      "fighter": "David Dvorak",
+      "song_title": "Too Old to Die Young",
+      "artist": "Brother Dege",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m",
+      "notes": ""
+    },
+    {
+      "fighter": "Luis Saldana",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "notes": ""
+    },
+    {
+      "fighter": "Bruno Souza",
+      "song_title": "Cerol Na Mao",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2IJcz15qnTLRphgkOqF2x8",
+      "notes": ""
+    }
+  ]
+}

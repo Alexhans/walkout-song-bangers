@@ -1,0 +1,22 @@
+{
+  "fighter": "Brogan Walker",
+  "slug": "brogan-walker",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "The Rev3nge",
+      "artist": "Joey Badass",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

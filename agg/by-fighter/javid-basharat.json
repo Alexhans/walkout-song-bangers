@@ -1,7 +1,7 @@
 {
   "fighter": "Javid Basharat",
   "slug": "javid-basharat",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "You Can’t Stop Me Now",
@@ -29,12 +29,30 @@
       "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
       "date": "2024-03-02"
+    },
+    {
+      "song_title": "Kids",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    },
+    {
+      "song_title": "Kids",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

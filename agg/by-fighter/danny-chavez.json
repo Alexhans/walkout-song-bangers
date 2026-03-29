@@ -1,7 +1,7 @@
 {
   "fighter": "Danny Chavez",
   "slug": "danny-chavez",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "One Mic",
@@ -11,12 +11,21 @@
       "event": "UFC 252: Miocic vs. Cormier 3",
       "event_slug": "ufc-252",
       "date": "2020-08-15"
+    },
+    {
+      "song_title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

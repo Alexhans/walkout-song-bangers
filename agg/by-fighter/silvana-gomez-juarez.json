@@ -1,7 +1,7 @@
 {
   "fighter": "Silvana Gomez Juarez",
   "slug": "silvana-gomez-juarez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -29,12 +29,21 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 1,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

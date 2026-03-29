@@ -1,7 +1,7 @@
 {
   "fighter": "Da'Mon Blackshear",
   "slug": "damon-blackshear",
-  "appearances": 2,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Many Men (Wish Death)",
@@ -20,12 +20,39 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
+    },
+    {
+      "song_title": "Whistle Dixie",
+      "artist": "Travis Barker & Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BWreXddcuK05pXnzkU7wx",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

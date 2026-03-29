@@ -1,6 +1,6 @@
 # Belal Muhammad
 
-7 event(s) | 4 song(s) found | 4 unique
+8 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2022-10-22 | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | My Blood is Palestine | Dami Falasteeni | [Listen](https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF) |
 | 2024-07-27 | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Dammi Falastini | Mohammad Assaf, Exgeist | [Listen](https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF) |
+| 2022-04-16 | [UFC Fight Night: Luque vs. Muhammad](../../ufc-fight-night-luque-vs-muhammad.md) | Man Listen | Belly | [Listen](https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws) |

@@ -1,7 +1,7 @@
 {
   "fighter": "Ailin Perez",
   "slug": "ailin-perez",
-  "appearances": 3,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Gasolina",
@@ -22,6 +22,24 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "Bichota",
+      "artist": "Karol G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46zs1YLk3GlDCJ12VWf3of",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "BZRP Music Sessions #36",
+      "artist": "Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
       "song_title": "El Sonidito",
       "artist": "Hechizeros Band",
       "confidence": "bronze",
@@ -32,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 4
   }
 }

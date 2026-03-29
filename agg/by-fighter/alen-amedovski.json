@@ -1,0 +1,22 @@
+{
+  "fighter": "Alen Amedovski",
+  "slug": "alen-amedovski",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Nella Tue Mani",
+      "artist": "Andrea Bocelli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YeBobNb7IunQE290uhGyE",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

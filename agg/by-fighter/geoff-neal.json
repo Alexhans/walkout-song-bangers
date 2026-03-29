@@ -1,7 +1,7 @@
 {
   "fighter": "Geoff Neal",
   "slug": "geoff-neal",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Don’t Push Me",
@@ -44,14 +44,23 @@
       "artist": "Sleep Token",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    },
+    {
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
     "unique_songs": 2
   }

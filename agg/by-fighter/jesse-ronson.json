@@ -1,0 +1,22 @@
+{
+  "fighter": "Jesse Ronson",
+  "slug": "jesse-ronson",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Boom Bye Yeah",
+      "artist": "Sean Price",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/545cKgvj9c85Umv1FHG6l2",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

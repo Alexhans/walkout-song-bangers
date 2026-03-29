@@ -1,8 +1,17 @@
 {
   "fighter": "Jake Hadley",
   "slug": "jake-hadley",
-  "appearances": 1,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Dangerous",
+      "artist": "Conroy Smith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
     {
       "song_title": "Dangerous",
       "artist": "Conroy Smith",
@@ -11,12 +20,39 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "Dangerous",
+      "artist": "Conroy Smith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
+      "song_title": "Dangerous",
+      "artist": "Conroy Smith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
-    "missing": 0,
+    "events": 5,
+    "with_song": 4,
+    "missing": 1,
     "unique_songs": 1
   }
 }

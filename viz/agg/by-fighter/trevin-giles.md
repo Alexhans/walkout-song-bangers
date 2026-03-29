@@ -1,6 +1,6 @@
 # Trevin Giles
 
-7 event(s) | 6 song(s) found | 6 unique
+8 event(s) | 7 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,3 +11,4 @@
 | 2023-07-29 | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | Swisha And Dosha | UGK | [Listen](https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM) |
 | 2024-02-10 | [UFC Fight Night: Hermansson vs. Pyfer](../../ufc-fight-night-hermansson-vs-pyfer.md) | The Get Back | Young Buck | [Listen](https://open.spotify.com/track/3y6zi6uhT3EjHgHwb5Ay9U) |
 | 2024-11-02 | [UFC Fight Night: Moreno vs. Albazi](../../ufc-fight-night-moreno-vs-albazi.md) | Maan! | Big Moe | [Listen](https://open.spotify.com/track/2ZHaCiP7KYJ9Y6kYed60hU) |
+| 2022-09-17 | [UFC Fight Night: Sandhagen vs. Song](../../ufc-fight-night-sandhagen-vs-song.md) | Friday | Ice Cube | [Listen](https://open.spotify.com/track/13AvIMuWOBUWGBhWGIHb6N) |

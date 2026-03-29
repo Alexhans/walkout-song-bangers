@@ -1,6 +1,6 @@
 # Eryk Anders
 
-5 event(s) | 4 song(s) found | 4 unique
+6 event(s) | 5 song(s) found | 5 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,3 +9,4 @@
 | 2023-06-10 | [UFC 289: Nunes vs. Aldana](../../ufc-289.md) | Ramen & OJ | Joyner Lucas |  |
 | 2026-03-14 | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | — | — | |
 | 2024-03-02 | [UFC Fight Night: Rozenstruik vs. Gaziev](../../ufc-fight-night-rozenstruik-vs-gaziev.md) | Ladders | Mac Miller | [Listen](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) |
+| 2022-12-03 | [UFC Fight Night: Thompson vs. Holland](../../ufc-fight-night-thompson-vs-holland.md) | Sweet Home Alabama | Lynyrd Skynyrd | [Listen](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) |

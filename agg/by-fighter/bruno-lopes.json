@@ -1,0 +1,22 @@
+{
+  "fighter": "Bruno Lopes",
+  "slug": "bruno-lopes",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

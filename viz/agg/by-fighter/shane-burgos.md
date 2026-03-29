@@ -1,9 +1,10 @@
 # Shane Burgos
 
-3 event(s) | 2 song(s) found | 2 unique
+4 event(s) | 3 song(s) found | 3 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | 2018-11-03 | [UFC 230: Cormier vs. Lewis](../../ufc-230.md) | — | — | |
 | 2019-11-02 | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | Invincible | MGK | [Listen](https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj) |
 | 2021-11-06 | [UFC 268: Usman vs. Covington 2](../../ufc-268.md) | FREEDOM IS PRICELESS | Saint Jhn | [Listen](https://open.spotify.com/track/7DE1LoxxYupnDkuqDhIcCm) |
+| 2022-07-16 | [UFC Fight Night: Ortega vs. Rodriguez](../../ufc-fight-night-ortega-vs-rodriguez.md) | Way Down We Go | Kaleo | [Listen](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) |

@@ -1,7 +1,7 @@
 {
   "fighter": "Felicia Spencer",
   "slug": "felicia-spencer",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "Fat Bottomed Girls",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0CQddjWDflPd0dOqqVkJ2H",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

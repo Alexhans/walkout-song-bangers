@@ -1,7 +1,8 @@
 # Josefine Knutsson
 
-1 event(s) | 1 song(s) found | 1 unique
+2 event(s) | 2 song(s) found | 1 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| 2023-09-16 | [UFC Fight Night: Grasso vs. Shevchenko 2](../../ufc-fight-night-grasso-vs-shevchenko-2.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
 | 2024-06-15 | [UFC Fight Night: Perez vs. Taira](../../ufc-fight-night-perez-vs-taira.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |

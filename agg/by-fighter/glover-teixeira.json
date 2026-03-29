@@ -1,7 +1,7 @@
 {
   "fighter": "Glover Teixeira",
   "slug": "glover-teixeira",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "All the Way Up",
@@ -11,6 +11,15 @@
       "event": "UFC 202: Diaz vs. McGregor 2",
       "event_slug": "ufc-202",
       "date": "2016-08-20"
+    },
+    {
+      "song_title": "Vou Colher Sorrindo",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 2,
     "missing": 2,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

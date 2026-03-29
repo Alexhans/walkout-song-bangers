@@ -1,7 +1,7 @@
 {
   "fighter": "Bryan Battle",
   "slug": "bryan-battle",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,39 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "The Game",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
+    },
+    {
+      "song_title": "Man of the Year",
+      "artist": "ScHoolboy Q",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 3
   }
 }

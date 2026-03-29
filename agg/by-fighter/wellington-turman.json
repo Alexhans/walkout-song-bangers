@@ -1,7 +1,7 @@
 {
   "fighter": "Wellington Turman",
   "slug": "wellington-turman",
-  "appearances": 1,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Empire State of Mind",
@@ -11,12 +11,39 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "For Honor",
+      "artist": "Peyton Parrish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1sJQKBdtvKjfvXdQ6ohD63",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
+    },
+    {
+      "song_title": "Bodies",
+      "artist": "Drowning Pool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "Legend",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 4
   }
 }

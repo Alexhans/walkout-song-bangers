@@ -1,0 +1,31 @@
+{
+  "fighter": "Mariya Agapova",
+  "slug": "mariya-agapova",
+  "appearances": 2,
+  "walkouts": [
+    {
+      "song_title": "Where Is Your Love",
+      "artist": "Scriptonite feat. Major Lazer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nD4qH2E2cGwf4E99aNjKz",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "Scryptonitis",
+      "artist": "Habit feat. Andy Panda, 104",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5M7hXdrMxDptSotJRZfq2l",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
+    }
+  ],
+  "stats": {
+    "events": 2,
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
+  }
+}

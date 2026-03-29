@@ -1,7 +1,7 @@
 {
   "fighter": "Mike Breeden",
   "slug": "mike-breeden",
-  "appearances": 1,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Many Men (Wish Death)",
@@ -11,12 +11,30 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "I'm Back",
+      "artist": "Lil Scrappy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1mLAG4qbj5bpjYipuNfdti",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "For the Love of Money",
+      "artist": "The O'Jays",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 3
   }
 }

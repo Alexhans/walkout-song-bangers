@@ -1,6 +1,6 @@
 # Jessica Andrade
 
-9 event(s) | 6 song(s) found | 6 unique
+12 event(s) | 9 song(s) found | 7 unique
 
 | Date | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,4 +12,7 @@
 | 2023-05-06 | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Prvt e Hora de Vencer | Faccao 288 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
 | 2023-11-11 | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Diz (You Say) | Gabriela Rocha |  |
 | 2024-04-13 | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | É Hora de Vencer | Facção 288 |  |
+| 2023-02-18 | [UFC Fight Night: Andrade vs. Blanchfield](../../ufc-fight-night-andrade-vs-blanchfield.md) | Prvt E Hora de Vencer | Faccao 288 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
 | 2024-09-07 | [UFC Fight Night: Burns vs. Brady](../../ufc-fight-night-burns-vs-brady.md) | Efesios 6 | Anderson Freire | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |
+| 2022-04-23 | [UFC Fight Night: Lemos vs. Andrade](../../ufc-fight-night-lemos-vs-andrade.md) | Prvt E Hora de Vencer | Faccao 288 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
+| 2023-08-05 | [UFC Fight Night: Sandhagen vs. Font](../../ufc-fight-night-sandhagen-vs-font.md) | Prvt E Hora de Vencer | Faccao 288 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |

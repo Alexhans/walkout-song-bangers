@@ -1,7 +1,7 @@
 {
   "fighter": "Matt Brown",
   "slug": "matt-brown",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "",
@@ -20,11 +20,20 @@
       "event": "UFC 245: Usman vs. Covington",
       "event_slug": "ufc-245",
       "date": "2019-12-14"
+    },
+    {
+      "song_title": "I Am the Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
     "unique_songs": 1
   }
