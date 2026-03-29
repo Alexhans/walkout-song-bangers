@@ -290,13 +290,14 @@ def write_viz_year_page(year: int, year_data, events_for_year: list):
                     "song_title": song["song_title"],
                     "artist": song["artist"],
                     "spotify_url": url,
-                    "fighters": [],
+                    "fighter_counts": {},
                 }
-            song_counts[url]["fighters"].append(song["fighter"])
+            fc = song_counts[url]["fighter_counts"]
+            fc[song["fighter"]] = fc.get(song["fighter"], 0) + 1
 
     sorted_songs = sorted(
         song_counts.values(),
-        key=lambda x: (-len(x["fighters"]), x["artist"].lower(), x["song_title"].lower()),
+        key=lambda x: (-sum(x["fighter_counts"].values()), x["artist"].lower(), x["song_title"].lower()),
     )
     lines += [
         "## Songs",
@@ -305,9 +306,13 @@ def write_viz_year_page(year: int, year_data, events_for_year: list):
         "|------|--------|------------|---------|",
     ]
     for entry in sorted_songs:
-        fighters_str = ", ".join(
-            f"[{f}](../by-fighter/{slugify(f)}.md)" for f in entry["fighters"]
-        )
+        parts = []
+        for f, count in entry["fighter_counts"].items():
+            label = f"[{f}](../by-fighter/{slugify(f)}.md)"
+            if count > 1:
+                label += f" (×{count})"
+            parts.append(label)
+        fighters_str = ", ".join(parts)
         url = entry["spotify_url"]
         link = f"[Listen]({url})" if is_playable_url(url) else ""
         lines.append(f"| {entry['song_title']} | {entry['artist']} | {fighters_str} | {link} |")
