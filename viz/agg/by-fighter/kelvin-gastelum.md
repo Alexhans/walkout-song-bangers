@@ -1,10 +1,10 @@
 # Kelvin Gastelum
 
-7 event(s) | 4 song(s) found | 3 unique
+7 event(s) | 4 song(s) found | 2 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Jesus Walks | Kanye West | [Listen](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) |
+| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](../../ufc-200.md) | El Palenque | Vicente Fernandez | [Listen](https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz) |
 | [2016](../agg/by-year/2016.md) | [UFC 206: Holloway vs. Pettis](../../ufc-206.md) | People Get Up and Drive Your Funky Soul | James Brown | [Listen](https://open.spotify.com/track/7FqcsBx3azfOg1gAJkAXje) |
 | [2019](../agg/by-year/2019.md) | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | [2019](../agg/by-year/2019.md) | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | — | — | |

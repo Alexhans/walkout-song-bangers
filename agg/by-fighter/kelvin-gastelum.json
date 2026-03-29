@@ -4,11 +4,11 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Jesus Walks",
-      "artist": "Kanye West",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 200: Tate vs. Nunes",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC 200: Tate vs Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -71,6 +71,6 @@
     "events": 7,
     "with_song": 4,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 2
   }
 }

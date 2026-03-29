@@ -28,7 +28,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2016](viz/agg/by-year/2016.md) | [UFC 198: Werdum vs Miocic](viz/ufc-198-werdum-vs-miocic.md) | 24 | 0 | 0 | 21 | 3 |
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Alvarez](viz/ufc-fight-night-dos-anjos-vs-alvarez.md) | 24 | 0 | 0 | 20 | 4 |
 | [2016](viz/agg/by-year/2016.md) | [The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale](viz/the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale.md) | 24 | 0 | 0 | 24 | 0 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
 | [2016](viz/agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](viz/ufc-201-lawler-vs-woodley.md) | 22 | 0 | 0 | 19 | 3 |
 | [2016](viz/agg/by-year/2016.md) | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
 | [2016](viz/agg/by-year/2016.md) | [UFC on FOX: Maia vs. Condit](viz/ufc-on-fox-maia-vs-condit.md) | 20 | 0 | 0 | 19 | 1 |
@@ -37,7 +37,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Poirier vs. Johnson](viz/ufc-fight-night-poirier-vs-johnson.md) | 24 | 0 | 0 | 23 | 1 |
 | [2016](viz/agg/by-year/2016.md) | [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Ferguson](viz/ufc-fight-night-dos-anjos-vs-ferguson.md) | 26 | 0 | 0 | 25 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 205: Alvarez vs McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Mousasi vs. Hall 2](viz/ufc-fight-night-mousasi-vs-hall-2.md) | 26 | 0 | 0 | 25 | 1 |
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Whittaker vs. Brunson](viz/ufc-fight-night-whittaker-vs-brunson.md) | 26 | 0 | 0 | 23 | 3 |
 | [2016](viz/agg/by-year/2016.md) | [UFC 206: Holloway vs. Pettis](viz/ufc-206.md) | 24 | 0 | 0 | 23 | 1 |

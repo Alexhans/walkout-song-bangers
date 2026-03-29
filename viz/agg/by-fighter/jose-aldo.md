@@ -1,10 +1,10 @@
 # Jose Aldo
 
-10 event(s) | 10 song(s) found | 8 unique
+10 event(s) | 10 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Run This Town | Jay-Z | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
+| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](../../ufc-200.md) | Run This Town | Jay-Z feat. Rihanna and Kanye West | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
 | [2017](../agg/by-year/2017.md) | [UFC 212: Aldo vs. Holloway](../../ufc-212.md) | Run This Town | Rihanna feat. Jay-Z | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
 | [2017](../agg/by-year/2017.md) | [UFC 218: Holloway vs. Aldo 2](../../ufc-218.md) | Somos Sente De Zambada | Lenin Ramirez feat. Regulo Cabo |  |
 | [2019](../agg/by-year/2019.md) | [UFC 237: Namajunas vs. Andrade](../../ufc-237.md) | Run This Town | Jay-Z feat. Rihanna | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |

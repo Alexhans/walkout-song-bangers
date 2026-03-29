@@ -5,7 +5,7 @@
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2016](../agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](../../ufc-201-lawler-vs-woodley.md) | The Passenger | Iggy Pop | [Listen](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) |
-| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | The Passenger | Iggy Pop | [Listen](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) |
+| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs McGregor](../../ufc-205.md) | The Passenger | Iggy Pop | [Listen](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) |
 | [2017](../agg/by-year/2017.md) | [UFC 212: Aldo vs. Holloway](../../ufc-212.md) | The Passenger | Iggy Pop | [Listen](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) |
 | [2019](../agg/by-year/2019.md) | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC 265: Lewis vs. Gane](../../ufc-265.md) | — | — | |

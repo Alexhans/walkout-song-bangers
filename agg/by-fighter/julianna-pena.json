@@ -4,11 +4,11 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Seven Nation Army",
-      "artist": "The White Stripes",
+      "song_title": "Crazy On You",
+      "artist": "Heart",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
-      "event": "UFC 200: Tate vs. Nunes",
+      "spotify_url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR",
+      "event": "UFC 200: Tate vs Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -53,6 +53,6 @@
     "events": 5,
     "with_song": 3,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

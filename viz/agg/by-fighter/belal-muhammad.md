@@ -4,7 +4,7 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Ruff Ryders' Anthem | DMX | [Listen](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) |
+| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs McGregor](../../ufc-205.md) | Ruff Ryders' Anthem | DMX | [Listen](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) |
 | [2017](../agg/by-year/2017.md) | [UFC 213: Romero vs. Whittaker](../../ufc-213.md) | We Ready | Archie Ebersole | [Listen](https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI) |
 | [2019](../agg/by-year/2019.md) | [UFC 236: Holloway vs. Poirier 2](../../ufc-236.md) | — | — | |
 | [2019](../agg/by-year/2019.md) | [UFC 242: Khabib vs. Poirier](../../ufc-242.md) | — | — | |

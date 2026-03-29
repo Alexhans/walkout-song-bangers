@@ -13,11 +13,11 @@
       "date": "2016-03-05"
     },
     {
-      "song_title": "Sandstorm",
-      "artist": "Darude",
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
-      "event": "UFC 200: Tate vs. Nunes",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 200: Tate vs Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },

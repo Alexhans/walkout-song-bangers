@@ -4,7 +4,7 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Baby Baby | Topkillaz | [Listen](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) |
+| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs McGregor](../../ufc-205.md) | Baby Baby | Topkillaz | [Listen](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) |
 | [2018](../agg/by-year/2018.md) | [UFC 229: Khabib vs McGregor](../../ufc-229.md) | Baby Baby | Troopkilaz |  |
 | [2019](../agg/by-year/2019.md) | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | — | — | |
 | [2020](../agg/by-year/2020.md) | [UFC 249: Ferguson vs. Gaethje](../../ufc-249.md) | — | — | |

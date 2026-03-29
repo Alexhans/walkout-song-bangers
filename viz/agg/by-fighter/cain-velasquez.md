@@ -4,4 +4,4 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | La Bamba | Los Lobos | [Listen](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) |
+| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](../../ufc-200.md) | Los Mandados | Vicente Fernandez | [Listen](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) |

@@ -5,7 +5,7 @@
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2016](../agg/by-year/2016.md) | [UFC 196: McGregor vs Diaz](../../ufc-196-mcgregor-vs-diaz.md) | O Farol | Ivete Sangalo | [Listen](https://open.spotify.com/track/4u9YXYbf1uCkXSxZ4uGiDp) |
-| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Run This Town | Jay-Z | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
+| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](../../ufc-200.md) | Ta Escrito (Ao Vivo no Morro) | Grupo Revelacao | [Listen](https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK) |
 | [2016](../agg/by-year/2016.md) | [UFC 207: Nunes vs. Rousey](../../ufc-207.md) | American Oxygen | Rihanna | [Listen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) |
 | [2019](../agg/by-year/2019.md) | [UFC 239: Jones vs. Santos](../../ufc-239.md) | The Champion | Carrie Underwood feat. Ludacris |  |
 | [2019](../agg/by-year/2019.md) | [UFC 245: Usman vs. Covington](../../ufc-245.md) | The Champion | Carrie Underwood feat. Ludacris | [Listen](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) |

@@ -23,10 +23,10 @@
     },
     {
       "song_title": "Foggy Dew",
-      "artist": "Sinead O'Connor and \"I Get Money\" by 50 Cent",
+      "artist": "Sinead O'Connor and \"I Get Money\" by 50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
-      "event": "UFC 205: Alvarez vs. McGregor",
+      "spotify_url": "https://open.spotify.com/track/1FKFCvi0i46qEJLZSEBH8p",
+      "event": "UFC 205: Alvarez vs McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
     },
