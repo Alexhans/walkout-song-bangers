@@ -66,6 +66,12 @@ POSITIVE_URL_TOKENS = (
     "music",
 )
 
+STRONG_ARTICLE_SIGNALS = (
+    "fight tracks",
+    "walkout songs",
+    "walkout music",
+)
+
 
 @dataclass(frozen=True)
 class EventInfo:
@@ -414,6 +420,20 @@ def _extract_publication_date(page_html: str) -> str:
     return ""
 
 
+def _extract_page_title(page_html: str) -> str:
+    for pattern in (
+        r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"',
+        r'<meta[^>]+name="twitter:title"[^>]+content="([^"]+)"',
+        r"<title>(.*?)</title>",
+    ):
+        match = re.search(pattern, page_html, flags=re.I | re.S)
+        if match:
+            title = _collapse_ws(html.unescape(match.group(1)))
+            if title:
+                return title
+    return ""
+
+
 def _publication_date_score(event_date: str, published_at: str) -> tuple[int, list[str]]:
     reasons: list[str] = []
     if not event_date or not published_at:
@@ -475,6 +495,8 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
     domain = _candidate_domain(url)
     text = html.unescape(page_html)
     text_norm = _norm(re.sub(r"<[^>]+>", " ", text))
+    title = _extract_page_title(page_html)
+    title_norm = _norm(title)
     score = 0
     reasons: list[str] = []
 
@@ -500,6 +522,16 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
         score += 20
         reasons.append("fight-tracks-text")
         has_fight_tracks_signal = True
+    for signal in STRONG_ARTICLE_SIGNALS:
+        if signal in title_norm:
+            score += 30
+            reasons.append(f"title-signal:{signal}")
+            has_fight_tracks_signal = True
+            break
+    if "fight tracks" in title_norm:
+        score += 10
+        reasons.append("fight-tracks-title")
+        has_fight_tracks_signal = True
 
     pub_score, pub_reasons = _publication_date_score(event.date, _extract_publication_date(page_html))
     score += pub_score
@@ -508,7 +540,7 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
         has_event_match = True
 
     event_norm = _norm(event.event)
-    if event_norm and event_norm in text_norm:
+    if event_norm and (event_norm in text_norm or event_norm in title_norm):
         score += 25
         reasons.append("canonical-event-match")
         has_event_match = True
@@ -525,6 +557,7 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
         elif num_in_url and num_in_url.group(1) != event_num:
             score -= 35
             reasons.append(f"ufc-number-mismatch:url:{num_in_url.group(1)}")
+        num_in_title = re.search(r"\bufc\s+(\d{1,4})\b", title_norm)
         if num_in_text and num_in_text.group(1) == event_num:
             score += 10
             reasons.append("ufc-number-match:text")
@@ -532,10 +565,17 @@ def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, l
         elif num_in_text and num_in_text.group(1) != event_num:
             score -= 20
             reasons.append(f"ufc-number-mismatch:text:{num_in_text.group(1)}")
+        if num_in_title and num_in_title.group(1) == event_num:
+            score += 20
+            reasons.append("ufc-number-match:title")
+            has_event_match = True
+        elif num_in_title and num_in_title.group(1) != event_num:
+            score -= 40
+            reasons.append(f"ufc-number-mismatch:title:{num_in_title.group(1)}")
 
     if ":" in event.event:
         tail = _norm(event.event.split(":", 1)[1])
-        if tail and tail in text_norm:
+        if tail and (tail in text_norm or tail in title_norm):
             score += 20
             reasons.append("headliner-match")
             has_event_match = True

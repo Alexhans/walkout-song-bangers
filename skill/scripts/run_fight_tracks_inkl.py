@@ -222,6 +222,82 @@ def _parse_inkl_fight_tracks(inkl_url: str) -> dict[str, tuple[str, str]]:
     return out
 
 
+def _validate_walkouts_against_roster(
+    event_name: str, roster: list[str], walkouts: dict[str, tuple[str, str]]
+) -> dict[str, object]:
+    roster_keys = {_norm_name(fighter): fighter for fighter in roster}
+    walkout_keys = list(walkouts.keys())
+    matched_walkout_keys: set[str] = set()
+
+    for roster_key in roster_keys:
+        if roster_key in walkouts:
+            matched_walkout_keys.add(roster_key)
+            continue
+        best_key = ""
+        best_score = 0.0
+        for walkout_key in walkout_keys:
+            score = difflib.SequenceMatcher(None, roster_key, walkout_key).ratio()
+            if score > best_score:
+                best_score = score
+                best_key = walkout_key
+        if best_key and best_score >= 0.88:
+            matched_walkout_keys.add(best_key)
+
+    match_count = len(matched_walkout_keys)
+    parsed_count = len(walkouts)
+    roster_count = len(roster)
+    precision = (match_count / parsed_count) if parsed_count else 0.0
+    coverage = (match_count / roster_count) if roster_count else 0.0
+
+    headliner_hits = 0
+    if ":" in event_name:
+        tail = event_name.split(":", 1)[1]
+        for fighter_name in re.split(r"\bvs\.?\b", tail, flags=re.I):
+            fighter_key = _norm_name(fighter_name)
+            if not fighter_key:
+                continue
+            if fighter_key in matched_walkout_keys:
+                headliner_hits += 1
+                continue
+            for matched_key in matched_walkout_keys:
+                if difflib.SequenceMatcher(None, fighter_key, matched_key).ratio() >= 0.88:
+                    headliner_hits += 1
+                    break
+
+    accepted = False
+    reasons: list[str] = []
+    if match_count >= 10:
+        accepted = True
+        reasons.append("matched-10-plus")
+    elif match_count >= 6 and precision >= 0.80:
+        accepted = True
+        reasons.append("matched-6-plus-high-precision")
+    elif match_count >= 5 and precision >= 0.80 and headliner_hits >= 1:
+        accepted = True
+        reasons.append("matched-5-plus-headliner")
+    elif match_count >= 4 and precision >= 0.90:
+        accepted = True
+        reasons.append("matched-4-plus-very-high-precision")
+    else:
+        if match_count <= 2:
+            reasons.append("too-few-roster-matches")
+        if precision < 0.60:
+            reasons.append("low-precision")
+        if headliner_hits == 0 and ":" in event_name:
+            reasons.append("no-headliner-hit")
+
+    return {
+        "accepted": accepted,
+        "match_count": match_count,
+        "parsed_count": parsed_count,
+        "roster_count": roster_count,
+        "precision": round(precision, 4),
+        "coverage": round(coverage, 4),
+        "headliner_hits": headliner_hits,
+        "reasons": reasons,
+    }
+
+
 @dataclass(frozen=True)
 class SpotifyClient:
     token: str
@@ -361,6 +437,17 @@ def main() -> int:
         with logger.stage("parse_walkouts"):
             walkouts = _parse_inkl_fight_tracks(inkl_url)
         logger.set_field("walkout_entries", len(walkouts))
+        validation = _validate_walkouts_against_roster(event_name, roster, walkouts)
+        logger.set_field("validation", validation)
+        if not bool(validation["accepted"]):
+            print(
+                f"{event_name}: source failed roster validation "
+                f"(matches={validation['match_count']}/{validation['parsed_count']}, "
+                f"precision={validation['precision']}, headliners={validation['headliner_hits']})"
+            )
+            log_path = logger.finalize()
+            print(f"Log: {log_path}")
+            return 5
         with logger.stage("spotify_auth"):
             spotify = SpotifyClient.from_env()
         logger.set_field("spotify_enabled", bool(spotify))
