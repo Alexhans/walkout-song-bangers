@@ -1,7 +1,7 @@
 {
   "fighter": "Paulo Costa",
   "slug": "paulo-costa",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -76,6 +76,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
       "song_title": "Balenciaga",
       "artist": "fewtile",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 8,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 7
   }
 }

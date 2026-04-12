@@ -1,7 +1,7 @@
 {
   "fighter": "Ilia Topuria",
   "slug": "ilia-topuria",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "El Matador",
@@ -31,6 +31,15 @@
       "date": "2024-02-17"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "Love Tonight",
       "artist": "Shouse",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 5
   }
 }

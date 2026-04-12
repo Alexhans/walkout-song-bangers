@@ -1,7 +1,7 @@
 {
   "fighter": "Terrance McKinney",
   "slug": "terrance-mckinney",
-  "appearances": 8,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,24 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "Can't Tell Me Nothing",
@@ -77,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 10,
     "with_song": 5,
-    "missing": 3,
+    "missing": 5,
     "unique_songs": 5
   }
 }

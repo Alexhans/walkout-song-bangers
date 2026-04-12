@@ -1,6 +1,6 @@
 # Paulo Costa
 
-9 event(s) | 8 song(s) found | 7 unique
+10 event(s) | 8 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,4 +12,5 @@
 | [2024](../agg/by-year/2024.md) | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Clubbed To Death (from The Matrix) | Rob Dougan |  |
 | [2024](../agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Clubbed to Death | Rob Dougan | [Listen](https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk) |
 | [2025](../agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | Clubbed to Death | Rob Dougan | [Listen](https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk) |
+| [2026](../agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](../../ufc-327.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Costa vs. Vettori](../../ufc-fight-night-costa-vs-vettori.md) | Balenciaga | fewtile | [Listen](https://open.spotify.com/track/0gYGFZS1xKOOg1a2omx0pC) |

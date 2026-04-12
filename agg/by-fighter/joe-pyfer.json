@@ -1,7 +1,7 @@
 {
   "fighter": "Joe Pyfer",
   "slug": "joe-pyfer",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "No Easy Way Out",
+      "artist": "Robert Trapper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "Break the Law",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

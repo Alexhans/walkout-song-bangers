@@ -1,7 +1,7 @@
 {
   "fighter": "Jiri Prochazka",
   "slug": "jiri-prochazka",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Legends Are Made",
@@ -38,12 +38,21 @@
       "event": "UFC 303: Pereira vs. Prochazka 2",
       "event_slug": "ufc-303",
       "date": "2024-06-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

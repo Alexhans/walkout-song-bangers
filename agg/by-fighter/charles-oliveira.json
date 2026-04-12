@@ -1,7 +1,7 @@
 {
   "fighter": "Charles Oliveira",
   "slug": "charles-oliveira",
-  "appearances": 11,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "O Hino (Ao Vivo)",
@@ -76,6 +76,15 @@
       "date": "2024-11-16"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "O Hino",
       "artist": "Fernandinho",
       "confidence": "bronze",
@@ -104,9 +113,9 @@
     }
   ],
   "stats": {
-    "events": 11,
+    "events": 12,
     "with_song": 8,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 3
   }
 }

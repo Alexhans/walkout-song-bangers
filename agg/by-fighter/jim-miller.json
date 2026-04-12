@@ -13,11 +13,11 @@
       "date": "2016-03-05"
     },
     {
-      "song_title": "Bad Moon Rising",
-      "artist": "Credence Clearwater Revival",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -26,7 +26,7 @@
       "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-      "event": "UFC 205: Alvarez vs McGregor",
+      "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
     },
@@ -134,6 +134,6 @@
     "events": 14,
     "with_song": 14,
     "missing": 0,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

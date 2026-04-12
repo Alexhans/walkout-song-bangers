@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Hermansson",
   "slug": "jack-hermansson",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
     {
       "song_title": "The Joker",
       "artist": "Damien",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

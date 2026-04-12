@@ -1,7 +1,7 @@
 {
   "fighter": "Nate Landwehr",
   "slug": "nate-landwehr",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "You And Me",
@@ -11,6 +11,15 @@
       "event": "UFC 289: Nunes vs. Aldana",
       "event_slug": "ufc-289",
       "date": "2023-06-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Back in Black",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

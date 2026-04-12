@@ -1,7 +1,7 @@
 {
   "fighter": "Kevin Holland",
   "slug": "kevin-holland",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Tell Me",
@@ -58,6 +58,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
       "song_title": "Tell Me",
       "artist": "MGF Bandit",
       "confidence": "bronze",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 10,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 8
   }
 }

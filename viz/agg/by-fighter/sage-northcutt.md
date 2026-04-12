@@ -4,4 +4,4 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs Nunes](../../ufc-200.md) | Awesome God | R Swift | [Listen](https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy) |
+| [2016](../agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](../../ufc-200.md) | Thunderstruck | AC/DC | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |

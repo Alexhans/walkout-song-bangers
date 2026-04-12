@@ -1,7 +1,7 @@
 {
   "fighter": "Cub Swanson",
   "slug": "cub-swanson",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Devastated",
@@ -22,6 +22,15 @@
       "date": "2024-06-29"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
       "song_title": "Lord Pretty Flacko Jodie 2",
       "artist": "A$AP Rocky",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

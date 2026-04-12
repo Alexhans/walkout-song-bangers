@@ -1,7 +1,7 @@
 {
   "fighter": "Kai Kara-France",
   "slug": "kai-kara-france",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "The Greatest",
@@ -49,6 +49,15 @@
       "date": "2024-08-17"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "Poi E",
       "artist": "Patea Maori Club",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 7,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

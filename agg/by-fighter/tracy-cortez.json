@@ -1,7 +1,7 @@
 {
   "fighter": "Tracy Cortez",
   "slug": "tracy-cortez",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "COMO LA FLOR",
@@ -11,6 +11,15 @@
       "event": "UFC 274: Oliveira vs. Gaethje",
       "event_slug": "ufc-274",
       "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "La Chona",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

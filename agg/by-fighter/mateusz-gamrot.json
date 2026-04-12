@@ -1,7 +1,7 @@
 {
   "fighter": "Mateusz Gamrot",
   "slug": "mateusz-gamrot",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2024-08-17"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
       "song_title": "My Songs Know What You Did in the Dark (Light ‘Em Up)",
       "artist": "Fall Out Boy",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

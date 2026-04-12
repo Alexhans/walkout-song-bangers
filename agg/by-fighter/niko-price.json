@@ -1,7 +1,7 @@
 {
   "fighter": "Niko Price",
   "slug": "niko-price",
-  "appearances": 9,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Coming Home",
@@ -49,6 +49,24 @@
       "date": "2024-06-01"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
       "song_title": "Praise",
       "artist": "Elevation Worship, Brandon Lake, Chris Brown, Chandler Moore",
       "confidence": "bronze",
@@ -86,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 11,
     "with_song": 9,
-    "missing": 0,
+    "missing": 2,
     "unique_songs": 7
   }
 }

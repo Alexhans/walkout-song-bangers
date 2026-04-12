@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Ulberg",
   "slug": "carlos-ulberg",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "How Bizarre",
@@ -44,6 +44,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

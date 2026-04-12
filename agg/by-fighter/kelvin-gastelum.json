@@ -1,14 +1,14 @@
 {
   "fighter": "Kelvin Gastelum",
   "slug": "kelvin-gastelum",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
-      "song_title": "El Palenque",
-      "artist": "Vicente Fernandez",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -49,6 +49,15 @@
       "date": "2023-04-08"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
       "song_title": "El Palenque",
       "artist": "Vicente Fernandez",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 4,
-    "missing": 3,
-    "unique_songs": 2
+    "missing": 4,
+    "unique_songs": 3
   }
 }

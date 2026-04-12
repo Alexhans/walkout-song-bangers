@@ -1,7 +1,7 @@
 {
   "fighter": "Johnny Walker",
   "slug": "johnny-walker",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "",
@@ -29,6 +29,15 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 4,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 4
   }
 }

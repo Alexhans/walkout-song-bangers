@@ -4,7 +4,7 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs McGregor](../../ufc-205.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |
+| [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |
 | [2017](../agg/by-year/2017.md) | [UFC 209: Woodley vs. Thompson 2](../../ufc-209.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |
 | [2017](../agg/by-year/2017.md) | [UFC 217: Bisping vs. St-Pierre](../../ufc-217.md) | Wonderboy | Tenacious D | [Listen](https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR) |
 | [2019](../agg/by-year/2019.md) | [UFC 244: Masvidal vs. Diaz](../../ufc-244.md) | — | — | |

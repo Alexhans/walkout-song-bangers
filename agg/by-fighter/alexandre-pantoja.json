@@ -1,7 +1,7 @@
 {
   "fighter": "Alexandre Pantoja",
   "slug": "alexandre-pantoja",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -51,6 +51,15 @@
     {
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
+      "confidence": "gold",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
@@ -77,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 6,
+    "events": 9,
+    "with_song": 7,
     "missing": 2,
     "unique_songs": 1
   }

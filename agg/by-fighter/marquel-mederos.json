@@ -1,8 +1,17 @@
 {
   "fighter": "MarQuel Mederos",
   "slug": "marquel-mederos",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 0,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 0
   }
 }

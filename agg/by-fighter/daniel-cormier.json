@@ -4,11 +4,11 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Mama Said Knock You Out",
-      "artist": "L.L. Cool J/\"Right Above It\" by Lil' Wayne feat. Drake",
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },

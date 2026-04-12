@@ -1,7 +1,7 @@
 {
   "fighter": "Esteban Ribovics",
   "slug": "esteban-ribovics",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Givenchy",
@@ -26,15 +26,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

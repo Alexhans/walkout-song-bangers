@@ -1,7 +1,7 @@
 {
   "fighter": "Chase Hooper",
   "slug": "chase-hooper",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Visionz",
@@ -29,6 +29,15 @@
       "event": "UFC 263: Adesanya vs. Vettori 2",
       "event_slug": "ufc-263",
       "date": "2021-06-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "The Al Capone Suite",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Maycee Barber",
   "slug": "maycee-barber",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Bad Guy",
@@ -29,6 +29,15 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "Somethin’ Bad",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

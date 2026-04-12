@@ -4,11 +4,11 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Scream the Life",
-      "artist": "Baku feat. Kyono",
+      "song_title": "Gonna Fly Now",
+      "artist": "Bill Conti",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/41MoQD2uHoGmfyodtW0IOo",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },

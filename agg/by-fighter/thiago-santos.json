@@ -13,11 +13,11 @@
       "date": "2016-05-14"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 200: Tate vs Nunes",
+      "song_title": "Marreta Da CCD Para O Mundo",
+      "artist": "MC Isaac Saradinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1tbB6J1ofT4smWyfg9FlIb",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 4,
-    "missing": 3,
+    "with_song": 5,
+    "missing": 2,
     "unique_songs": 4
   }
 }

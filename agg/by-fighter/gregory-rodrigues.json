@@ -1,7 +1,7 @@
 {
   "fighter": "Gregory Rodrigues",
   "slug": "gregory-rodrigues",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "",
@@ -29,6 +29,15 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "The Blessing",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 9,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

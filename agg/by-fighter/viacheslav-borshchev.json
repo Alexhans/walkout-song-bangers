@@ -1,7 +1,7 @@
 {
   "fighter": "Viacheslav Borshchev",
   "slug": "viacheslav-borshchev",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Good Day",
@@ -11,6 +11,15 @@
       "event": "UFC 295: Prochazka vs. Pereira",
       "event_slug": "ufc-295",
       "date": "2023-11-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "The Last Hero",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 4,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

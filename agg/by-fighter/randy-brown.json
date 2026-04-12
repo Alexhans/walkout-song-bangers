@@ -1,7 +1,7 @@
 {
   "fighter": "Randy Brown",
   "slug": "randy-brown",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Broad Daylight",
@@ -38,6 +38,15 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "No Suburban Pt. 2",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 8,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 7
   }
 }

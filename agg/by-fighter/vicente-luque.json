@@ -1,14 +1,14 @@
 {
   "fighter": "Vicente Luque",
   "slug": "vicente-luque",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "Baby Baby",
       "artist": "Topkillaz",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
-      "event": "UFC 205: Alvarez vs McGregor",
+      "event": "UFC 205: Alvarez vs. McGregor",
       "event_slug": "ufc-205",
       "date": "2016-11-12"
     },
@@ -47,6 +47,15 @@
       "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "God Energy",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 7,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 6
   }
 }

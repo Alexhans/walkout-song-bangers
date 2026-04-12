@@ -4,11 +4,11 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Hate or Glory",
-      "artist": "Gesaffelstein",
+      "song_title": "Levels",
+      "artist": "Avicii",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Jlqg70T1RhZICoFJmj1Bm",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },
@@ -44,6 +44,6 @@
     "events": 4,
     "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

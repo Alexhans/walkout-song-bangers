@@ -4,67 +4,67 @@ Songs sorted by number of unique fighters who have used them.
 
 | # | Song | Artist | Unique Fighters | Total Plays | Spotify |
 |---|------|--------|-----------------|-------------|---------|
-| 1 | Thunderstruck | AC/DC | 16 | 24 | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
-| 2 | Ambitionz Az a Ridah | Tupac | 8 | 17 | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
-| 3 | Who Gon' Stop Me | Jay-Z and Kanye West | 7 | 17 | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
-| 4 | Can't Stop | Red Hot Chili Peppers | 7 | 17 | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
-| 5 | O Hino | Fernandinho | 7 | 14 | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |
-| 6 | Stranglehold | Ted Nugent | 7 | 13 | [Listen](https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE) |
-| 7 | Gangsta’s Paradise | Coolio | 7 | 9 | [Listen](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) |
-| 8 | Till I Collapse | Eminem | 7 | 8 | [Listen](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) |
-| 9 | Eye of the Tiger | Survivor | 7 | 8 | [Listen](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
-| 10 | Attan Tuspe Paluan | Abdizhappar Alkozha | 7 | 7 | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
-| 11 | Zanza Kuduro | Lucenzo with Don Omar | 7 | 7 | [Listen](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) |
-| 12 | Isreal's Son | Silverchair | 7 | 7 | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
-| 13 | Shipping Up to Boston (Merc Dudes in Brooklyn Remix) | Dropkick Murphys | 6 | 14 | [Listen](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) |
+| 1 | Thunderstruck | AC/DC | 17 | 25 | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
+| 2 | Who Gon' Stop Me | Jay-Z and Kanye West | 8 | 18 | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
+| 3 | Ambitionz Az a Ridah | Tupac | 8 | 17 | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
+| 4 | Can't Stop | Red Hot Chili Peppers | 7 | 16 | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
+| 5 | Shipping Up to Boston (Merc Dudes in Brooklyn Remix) | Dropkick Murphys | 7 | 15 | [Listen](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) |
+| 6 | O Hino | Fernandinho | 7 | 14 | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |
+| 7 | Stranglehold | Ted Nugent | 7 | 13 | [Listen](https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE) |
+| 8 | Gangsta’s Paradise | Coolio | 7 | 9 | [Listen](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) |
+| 9 | Till I Collapse | Eminem | 7 | 8 | [Listen](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) |
+| 10 | Eye of the Tiger | Survivor | 7 | 8 | [Listen](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
+| 11 | Attan Tuspe Paluan | Abdizhappar Alkozha | 7 | 7 | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
+| 12 | Zanza Kuduro | Lucenzo with Don Omar | 7 | 7 | [Listen](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) |
+| 13 | Isreal's Son | Silverchair | 7 | 7 | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
 | 14 | Victory | Puff Daddy feat. Notorious B.I.G. | 6 | 11 | [Listen](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) |
-| 15 | God’s Gonna Cut You Down | Johnny Cash | 6 | 8 | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
-| 16 | X Gon' Give It To Ya | DMX | 6 | 6 | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
-| 17 | TNT | AC/DC | 5 | 12 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
-| 18 | Many Men (Wish Death) | 50 Cent | 5 | 11 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
-| 19 | Prvt e hora de vencer | Faccao 228 | 5 | 11 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
-| 20 | Unstoppable | Sia | 5 | 8 | [Listen](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) |
-| 21 | Gonna Fly Now | Bill Conti | 5 | 7 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
-| 22 | Alugho | Youth of Dagestan | 5 | 7 | [Listen](https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG) |
+| 15 | Gonna Fly Now | Bill Conti | 6 | 8 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
+| 16 | God’s Gonna Cut You Down | Johnny Cash | 6 | 8 | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
+| 17 | X Gon' Give It To Ya | DMX | 6 | 6 | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
+| 18 | Can't Be Touched | Body Head Bangerz | 5 | 13 | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
+| 19 | TNT | AC/DC | 5 | 12 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
+| 20 | Many Men (Wish Death) | 50 Cent | 5 | 11 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
+| 21 | Prvt e hora de vencer | Faccao 228 | 5 | 11 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
+| 22 | Unstoppable | Sia | 5 | 8 | [Listen](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) |
 | 23 | California Love | Tupac | 5 | 6 | [Listen](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) |
 | 24 | Intro | DMX | 5 | 5 | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |
-| 25 | Empire State of Mind | Jay Z and Alicia Keys | 5 | 5 | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
-| 26 | Immigrant Song | Led Zeppelin | 4 | 13 | [Listen](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
-| 27 | Can't Be Touched | Body Head Bangerz | 4 | 12 | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
-| 28 | Juicy | Notorious B.I.G. | 4 | 9 | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |
-| 29 | Sail | AWOLNATION | 4 | 6 | [Listen](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) |
-| 30 | Efésios 6 | Anderson Freire | 4 | 6 | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |
-| 31 | My Time | Fabolous feat. Jeremih | 4 | 6 | [Listen](https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs) |
+| 25 | Immigrant Song | Led Zeppelin | 4 | 13 | [Listen](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
+| 26 | Juicy | Notorious B.I.G. | 4 | 9 | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |
+| 27 | Return of the Mack | Mark Morrison | 4 | 7 | [Listen](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) |
+| 28 | Sail | AWOLNATION | 4 | 6 | [Listen](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) |
+| 29 | Efésios 6 | Anderson Freire | 4 | 6 | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |
+| 30 | My Time | Fabolous feat. Jeremih | 4 | 6 | [Listen](https://open.spotify.com/track/6VD2YPeb1P3BCP5q0lZHrs) |
+| 31 | Alugho | Youth of Dagestan | 4 | 6 | [Listen](https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG) |
 | 32 | Fire Squad | J Cole | 4 | 5 | [Listen](https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A) |
-| 33 | Right Above It | Lil' Wayne feat. Drake | 4 | 5 | [Listen](https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP) |
-| 34 | Walk | Pantera | 4 | 5 | [Listen](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) |
-| 35 | In The Air Tonight | Phil Collins | 4 | 5 | [Listen](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) |
-| 36 | Can't C Me | Tupac | 4 | 5 | [Listen](https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0) |
-| 37 | Started from the Bottom | Drake | 4 | 4 | [Listen](https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf) |
-| 38 | Believer | Imagine Dragons | 4 | 4 | [Listen](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
-| 39 | Sucker for Pain | Lil' Wayne and Wiz Khalifa | 4 | 4 | [Listen](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
-| 40 | Hate Me Now | Nas feat. P. Diddy | 4 | 4 | [Listen](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) |
-| 41 | Supersonic | Oasis | 4 | 4 | [Listen](https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD) |
-| 42 | We Will Rock You | Queen | 3 | 11 | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
-| 43 | Highway to Hell | AC/DC | 3 | 10 | [Listen](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) |
-| 44 | Jump Around | House of Pain | 3 | 9 | [Listen](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) |
-| 45 | Hail Mary | Tupac feat. The Outlawz | 3 | 9 | [Listen](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) |
-| 46 | Iron Man | Black Sabbath | 3 | 8 | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |
-| 47 | I Won't Back Down | Tom Petty and the Heartbreakers | 3 | 8 | [Listen](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) |
-| 48 | New Level | A$AP Ferg feat. Future | 3 | 7 | [Listen](https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h) |
-| 49 | Simple Man | Lynyrd Skynyrd | 3 | 7 | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |
-| 50 | Return of the Mack | Mark Morrison | 3 | 6 | [Listen](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) |
-| 51 | Zombie | The Cranberries | 3 | 6 | [Listen](https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb) |
-| 52 | Many Men (Wish Death) | 50 Cent and "Seven Nation Army" by the White Stripes | 3 | 5 | [Listen](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) |
+| 33 | Walk | Pantera | 4 | 5 | [Listen](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) |
+| 34 | In The Air Tonight | Phil Collins | 4 | 5 | [Listen](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) |
+| 35 | Can't C Me | Tupac | 4 | 5 | [Listen](https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0) |
+| 36 | Started from the Bottom | Drake | 4 | 4 | [Listen](https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf) |
+| 37 | Believer | Imagine Dragons | 4 | 4 | [Listen](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) |
+| 38 | Empire State of Mind | Jay Z and Alicia Keys | 4 | 4 | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
+| 39 | Jesus Walks | Kanye West | 4 | 4 | [Listen](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) |
+| 40 | Sucker for Pain | Lil' Wayne and Wiz Khalifa | 4 | 4 | [Listen](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
+| 41 | Right Above It | Lil' Wayne feat. Drake | 4 | 4 | [Listen](https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP) |
+| 42 | Hate Me Now | Nas feat. P. Diddy | 4 | 4 | [Listen](https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P) |
+| 43 | Supersonic | Oasis | 4 | 4 | [Listen](https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD) |
+| 44 | Highway to Hell | AC/DC | 3 | 10 | [Listen](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) |
+| 45 | Jump Around | House of Pain | 3 | 9 | [Listen](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) |
+| 46 | Hail Mary | Tupac feat. The Outlawz | 3 | 9 | [Listen](https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP) |
+| 47 | Iron Man | Black Sabbath | 3 | 8 | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |
+| 48 | I Won't Back Down | Tom Petty and the Heartbreakers | 3 | 8 | [Listen](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) |
+| 49 | New Level | A$AP Ferg feat. Future | 3 | 7 | [Listen](https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h) |
+| 50 | Simple Man | Lynyrd Skynyrd | 3 | 7 | [Listen](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) |
+| 51 | Many Men (Wish Death) | 50 Cent and "Seven Nation Army" by the White Stripes | 3 | 6 | [Listen](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) |
+| 52 | Zombie | The Cranberries | 3 | 6 | [Listen](https://open.spotify.com/track/49wOjOkS4pBK3PQnPnNYjb) |
 | 53 | Cancion del Mariachi | Antonio Banderas | 3 | 5 | [Listen](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) |
 | 54 | The Champion | Carrie Underwood feat. Ludacris | 3 | 5 | [Listen](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) |
 | 55 | Happy | Pharrell Williams | 3 | 5 | [Listen](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) |
 | 56 | Congratulations | Post Malone | 3 | 5 | [Listen](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) |
 | 57 | God Gave Me Style | 50 Cent | 3 | 4 | [Listen](https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt) |
 | 58 | God's Country | Blake Shelton | 3 | 4 | [Listen](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) |
-| 59 | Coming Home | Diddy Dirty Money feat. Skylar Grey | 3 | 4 | [Listen](https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q) |
-| 60 | Sweet Child O Mine | Guns N' Roses | 3 | 4 | [Listen](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) |
-| 61 | You're the Best | Joe "Bean" Esposito | 3 | 4 | [Listen](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) |
+| 59 | Sandstorm | Darude | 3 | 4 | [Listen](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) |
+| 60 | Coming Home | Diddy Dirty Money feat. Skylar Grey | 3 | 4 | [Listen](https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q) |
+| 61 | Sweet Child O Mine | Guns N' Roses | 3 | 4 | [Listen](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) |
 | 62 | 300 Violin Orchestra | Jorge Quintero | 3 | 4 | [Listen](https://open.spotify.com/track/4JjUwfp8GQ3PxWg2QPKnpn) |
 | 63 | DNA | Kendrick Lamar | 3 | 4 | [Listen](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
 | 64 | Jefes de Jefes | Los Tigres del Norte | 3 | 4 | [Listen](https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66) |
@@ -81,62 +81,62 @@ Songs sorted by number of unique fighters who have used them.
 | 75 | Still Dre | Dr. Dre | 3 | 3 | [Listen](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) |
 | 76 | Let's Groove | Earth, Wind and Fire | 3 | 3 | [Listen](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) |
 | 77 | Pantera Negra | Emcida | 3 | 3 | [Listen](https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU) |
-| 78 | Welcome to the Jungle | Guns N’ Roses | 3 | 3 | [Listen](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) |
-| 79 | The Payback | James Brown | 3 | 3 | [Listen](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) |
-| 80 | Voodoo Child (Slight Return) | Jimi Hendrix | 3 | 3 | [Listen](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) |
-| 81 | DEVASTATED | Joey Bada$$ | 3 | 3 | [Listen](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) |
-| 82 | Jesus Walks | Kanye West | 3 | 3 | [Listen](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) |
-| 83 | Smile (Living My Best Life) | Lil Duval ft. Snoop Dogg & Ball Greezy | 3 | 3 | [Listen](https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k) |
-| 84 | Renasci Das Cinzas | MC Daniel, MC Paulin da Capital | 3 | 3 | [Listen](https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9) |
-| 85 | You're Going Down | Sick Puppies | 3 | 3 | [Listen](https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct) |
-| 86 | Yeyen Marbun | Simalungun Sipukkah Huta | 3 | 3 | [Listen](https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q) |
-| 87 | Bambam | Sister Nancy | 3 | 3 | [Listen](https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX) |
-| 88 | El Chapo | The Game feat. Skrillex | 3 | 3 | [Listen](https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk) |
-| 89 | The Business | Tiesto | 3 | 3 | [Listen](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) |
-| 90 | All Eyez On Me | Tupac | 3 | 3 | [Listen](https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo) |
-| 91 | When We Ride on Our Enemies | Tupac | 3 | 3 | [Listen](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) |
-| 92 | Here I Go Again | Whitesnake | 3 | 3 | [Listen](https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM) |
-| 93 | Vivir Mi Vida | Marc Anthony | 2 | 11 | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |
-| 94 | This Is How We Do It | Montell Jordan | 2 | 8 | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
-| 95 | Remember the Name | Fort Minor | 2 | 7 | [Listen](https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO) |
-| 96 | Bandolero | Don Omar feat. Tego Calderon | 2 | 6 | [Listen](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) |
-| 97 | Lose Yourself | Eminem | 2 | 6 | [Listen](https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq) |
-| 98 | Stop the Time | Amatory | 2 | 5 | [Listen](https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ) |
-| 99 | The Boss | James Brown | 2 | 5 | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |
-| 100 | The Show Goes On | Lupe Fiasco | 2 | 5 | [Listen](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) |
-| 101 | Other Side of America | Meek Mill | 2 | 5 | [Listen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) |
-| 102 | Human | Rag'n'Bone Man | 2 | 5 | [Listen](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) |
-| 103 | House of the Rising Sun | The Animals | 2 | 5 | [Listen](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) |
-| 104 | I’ll Whip Ya Head Boy | 50 Cent | 2 | 4 | [Listen](https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B) |
-| 105 | Jungle | Andre Nickatina | 2 | 4 | [Listen](https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2) |
-| 106 | This Means War | Avenged Sevenfold | 2 | 4 | [Listen](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) |
-| 107 | It's My Life | Bon Jovi | 2 | 4 | [Listen](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) |
-| 108 | Made for This | Carrollton | 2 | 4 | [Listen](https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T) |
-| 109 | Move On Up | Curtis Mayfield | 2 | 4 | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |
-| 110 | Every Chance I Get | DJ Khaled | 2 | 4 | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |
-| 111 | Welcome to Jamrock | Damian Marley | 2 | 4 | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |
-| 112 | 9 to 5 | Dolly Parton | 2 | 4 | [Listen](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) |
-| 113 | Last Breath | Future | 2 | 4 | [Listen](https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3) |
-| 114 | All Day | KRS-One | 2 | 4 | [Listen](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) |
-| 115 | Superstar | Lupe Fiasco | 2 | 4 | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |
-| 116 | Can't Hold Us | Macklemore & Ryan Lewis | 2 | 4 | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
-| 117 | Somethin' Bad | Miranda Lambert and Carrie Underwood | 2 | 4 | [Listen](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) |
-| 118 | Paint It, Black | the Rolling Stones | 2 | 4 | [Listen](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) |
-| 119 | Don't Push Me | 50 Cent | 2 | 3 | [Listen](https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK) |
-| 120 | Ara Gevorgyan | Artsakh | 2 | 3 | [Listen](https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al) |
-| 121 | The Stroke | Billy Squier | 2 | 3 | [Listen](https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON) |
-| 122 | Son of the Dirty South | Brantley Gilbert feat. Jelly Roll | 2 | 3 | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |
-| 123 | Bodak Yellow | Cardi B | 2 | 3 | [Listen](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) |
-| 124 | Kung Fu Fighting | Carl Douglas | 2 | 3 | [Listen](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) |
-| 125 | Baddadan | Chase & Status | 2 | 3 | [Listen](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) |
-| 126 | Bring Your Whole Crew | DMX | 2 | 3 | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
-| 127 | Sandstorm | Darude | 2 | 3 | [Listen](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) |
-| 128 | Runnin' | David Dallas | 2 | 3 | [Listen](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) |
-| 129 | Sweet Dreams (Are Made of This) | Eurythmics | 2 | 3 | [Listen](https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37) |
-| 130 | Fu-gee-la | Fugees | 2 | 3 | [Listen](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) |
-| 131 | Vse Zvezdy | Gimi Dagestana | 2 | 3 | [Listen](https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8) |
-| 132 | Crazy | Gnarls Barkley | 2 | 3 | [Listen](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) |
-| 133 | Ta Escrito | Grupo Revelacao | 2 | 3 | [Listen](https://open.spotify.com/track/0rOQyLZJ9oASgtdoDZgrmK) |
+| 78 | All The Way Up | Fat Joe & Remy Ma feat. French Montana & Infrared | 3 | 3 | [Listen](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) |
+| 79 | Remember the Name | Fort Minor | 3 | 3 | [Listen](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) |
+| 80 | Welcome to the Jungle | Guns N’ Roses | 3 | 3 | [Listen](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) |
+| 81 | The Payback | James Brown | 3 | 3 | [Listen](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) |
+| 82 | Voodoo Child (Slight Return) | Jimi Hendrix | 3 | 3 | [Listen](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) |
+| 83 | You're the Best | Joe "Bean" Esposito | 3 | 3 | [Listen](https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv) |
+| 84 | DEVASTATED | Joey Bada$$ | 3 | 3 | [Listen](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) |
+| 85 | Smile (Living My Best Life) | Lil Duval ft. Snoop Dogg & Ball Greezy | 3 | 3 | [Listen](https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k) |
+| 86 | Renasci Das Cinzas | MC Daniel, MC Paulin da Capital | 3 | 3 | [Listen](https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9) |
+| 87 | Yeyen Marbun | Simalungun Sipukkah Huta | 3 | 3 | [Listen](https://open.spotify.com/track/6RWEW4k9svgAm3P2fbkY7Q) |
+| 88 | Bambam | Sister Nancy | 3 | 3 | [Listen](https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX) |
+| 89 | El Chapo | The Game feat. Skrillex | 3 | 3 | [Listen](https://open.spotify.com/track/2xMYiau3KACKc2k3Xmo7xk) |
+| 90 | The Business | Tiesto | 3 | 3 | [Listen](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) |
+| 91 | All Eyez On Me | Tupac | 3 | 3 | [Listen](https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo) |
+| 92 | When We Ride on Our Enemies | Tupac | 3 | 3 | [Listen](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) |
+| 93 | Here I Go Again | Whitesnake | 3 | 3 | [Listen](https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM) |
+| 94 | Vivir Mi Vida | Marc Anthony | 2 | 11 | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |
+| 95 | We Will Rock You | Queen | 2 | 10 | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
+| 96 | This Is How We Do It | Montell Jordan | 2 | 8 | [Listen](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) |
+| 97 | Remember the Name | Fort Minor | 2 | 7 | [Listen](https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO) |
+| 98 | Bandolero | Don Omar feat. Tego Calderon | 2 | 6 | [Listen](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) |
+| 99 | Lose Yourself | Eminem | 2 | 6 | [Listen](https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq) |
+| 100 | Stop the Time | Amatory | 2 | 5 | [Listen](https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ) |
+| 101 | The Boss | James Brown | 2 | 5 | [Listen](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) |
+| 102 | The Show Goes On | Lupe Fiasco | 2 | 5 | [Listen](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) |
+| 103 | Other Side of America | Meek Mill | 2 | 5 | [Listen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) |
+| 104 | Human | Rag'n'Bone Man | 2 | 5 | [Listen](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) |
+| 105 | House of the Rising Sun | The Animals | 2 | 5 | [Listen](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) |
+| 106 | I’ll Whip Ya Head Boy | 50 Cent | 2 | 4 | [Listen](https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B) |
+| 107 | Jungle | Andre Nickatina | 2 | 4 | [Listen](https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2) |
+| 108 | This Means War | Avenged Sevenfold | 2 | 4 | [Listen](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) |
+| 109 | It's My Life | Bon Jovi | 2 | 4 | [Listen](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) |
+| 110 | Made for This | Carrollton | 2 | 4 | [Listen](https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T) |
+| 111 | Move On Up | Curtis Mayfield | 2 | 4 | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |
+| 112 | Every Chance I Get | DJ Khaled | 2 | 4 | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |
+| 113 | Welcome to Jamrock | Damian Marley | 2 | 4 | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |
+| 114 | 9 to 5 | Dolly Parton | 2 | 4 | [Listen](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) |
+| 115 | Last Breath | Future | 2 | 4 | [Listen](https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3) |
+| 116 | All Day | KRS-One | 2 | 4 | [Listen](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) |
+| 117 | Superstar | Lupe Fiasco | 2 | 4 | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |
+| 118 | Can't Hold Us | Macklemore & Ryan Lewis | 2 | 4 | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
+| 119 | Somethin' Bad | Miranda Lambert and Carrie Underwood | 2 | 4 | [Listen](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) |
+| 120 | Paint It, Black | the Rolling Stones | 2 | 4 | [Listen](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) |
+| 121 | Don't Push Me | 50 Cent | 2 | 3 | [Listen](https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK) |
+| 122 | Ara Gevorgyan | Artsakh | 2 | 3 | [Listen](https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al) |
+| 123 | The Stroke | Billy Squier | 2 | 3 | [Listen](https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON) |
+| 124 | Son of the Dirty South | Brantley Gilbert feat. Jelly Roll | 2 | 3 | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |
+| 125 | Bodak Yellow | Cardi B | 2 | 3 | [Listen](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) |
+| 126 | Kung Fu Fighting | Carl Douglas | 2 | 3 | [Listen](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) |
+| 127 | Baddadan | Chase & Status | 2 | 3 | [Listen](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) |
+| 128 | Bring Your Whole Crew | DMX | 2 | 3 | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
+| 129 | Runnin' | David Dallas | 2 | 3 | [Listen](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) |
+| 130 | Sweet Dreams (Are Made of This) | Eurythmics | 2 | 3 | [Listen](https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37) |
+| 131 | Fu-gee-la | Fugees | 2 | 3 | [Listen](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) |
+| 132 | Vse Zvezdy | Gimi Dagestana | 2 | 3 | [Listen](https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8) |
+| 133 | Crazy | Gnarls Barkley | 2 | 3 | [Listen](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) |
 | 134 | Monster 2.0 | Jacob Banks feat. Boogie | 2 | 3 | [Listen](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) |
 | 135 | Way Down We Go | Kaleo | 2 | 3 | [Listen](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) |
 | 136 | I Wonder | Kanye West | 2 | 3 | [Listen](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) |
@@ -155,119 +155,118 @@ Songs sorted by number of unique fighters who have used them.
 | 149 | Purple Lamborghini | Skrillex & Rick Ross | 2 | 3 | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
 | 150 | Edge of Seventeen | Stevie Nicks | 2 | 3 | [Listen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) |
 | 151 | Techno Syndrome (Mortal Kombat) | The Immortals | 2 | 3 | [Listen](https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr) |
-| 152 | Podo Vir | Tiago Brasil | 2 | 3 | [Listen](https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG) |
-| 153 | Promentory” main theme from “The Last of the Mohicans | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
-| 154 | Promontory | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP) |
-| 155 | Jumry Kylysh | Ulytau | 2 | 3 | [Listen](https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW) |
-| 156 | Legendary | Welshly Arms | 2 | 3 | [Listen](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) |
-| 157 | 2 OF AMERIKAZ MOST WANTED | 2Pac feat Snoop Doggy | 2 | 2 | [Listen](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) |
-| 158 | I Get Money | 50 Cent | 2 | 2 | [Listen](https://open.spotify.com/track/1FKFCvi0i46qEJLZSEBH8p) |
-| 159 | Back in Black | AC/DC | 2 | 2 | [Listen](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
-| 160 | Woke Up This Morning | Alabama 3 | 2 | 2 | [Listen](https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz) |
-| 161 | Bekbolat Tleuhan | Alash Urany | 2 | 2 | [Listen](https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA) |
-| 162 | Contigo Peru | Arturo Zambo Cavero feat. Oscar Avil | 2 | 2 | [Listen](https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt) |
-| 163 | Wake Me Up | Avicii | 2 | 2 | [Listen](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) |
-| 164 | Champion | Barns Courtney | 2 | 2 | [Listen](https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv) |
-| 165 | Staying Alive | Bee Gees | 2 | 2 | [Listen](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) |
-| 166 | Cuff It | Beyonce | 2 | 2 | [Listen](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) |
-| 167 | Twinz | Big Pun feat. Fat Joe | 2 | 2 | [Listen](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) |
-| 168 | Bounce Back | Big Sean | 2 | 2 | [Listen](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) |
-| 169 | Texas | BigXthaPlug | 2 | 2 | [Listen](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) |
-| 170 | Gonna Fly Now (Rocky theme song) | Bill Conti | 2 | 2 | [Listen](https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j) |
-| 171 | Kwaku the Traveler | Black Sherif | 2 | 2 | [Listen](https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD) |
-| 172 | Three Little Birds | Bob Marley & The Wailers | 2 | 2 | [Listen](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) |
-| 173 | Spinnin' | Connor Price & Bens | 2 | 2 | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |
-| 174 | Fortunate Son | Credence Clearwater Revival | 2 | 2 | [Listen](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
-| 175 | Pusherman | Curtis Mayfield | 2 | 2 | [Listen](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) |
-| 176 | The Rain | DMX | 2 | 2 | [Listen](https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr) |
-| 177 | Panda | Desiigner | 2 | 2 | [Listen](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) |
-| 178 | Down With the Sickness | Disturbed | 2 | 2 | [Listen](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) |
-| 179 | Nothin' but a G Thang | Dr. Dre feat. Snoop Dogg | 2 | 2 | [Listen](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) |
-| 180 | God's Plan | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) |
-| 181 | Knife Talk | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) |
-| 182 | Legend | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC) |
-| 183 | No Friends in the Industry | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) |
-| 184 | Still Here | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI) |
-| 185 | Bodies | Drowning Pool | 2 | 2 | [Listen](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) |
-| 186 | Pantera Negra | Emcida | 2 | 2 | [Listen](https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds) |
-| 187 | Cinderella Man | Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) |
-| 188 | Without Me | Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) |
-| 189 | No Love | Eminem feat. Lil Wayne | 2 | 2 | [Listen](https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi) |
-| 190 | Por Ti Volare | Endo Rivera | 2 | 2 | [Listen](https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu) |
-| 191 | All The Way Up | Fat Joe & Remy Ma feat. French Montana & Infrared | 2 | 2 | [Listen](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) |
-| 192 | Never Safe | Frannk Whitte | 2 | 2 | [Listen](https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29) |
-| 193 | Work | Gang Starr | 2 | 2 | [Listen](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) |
-| 194 | Gasoline | Halsey | 2 | 2 | [Listen](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) |
-| 195 | Thunder | Imagine Dragons | 2 | 2 | [Listen](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) |
-| 196 | HERE COMES THE HOTSTEPPER | Ini Kamoze | 2 | 2 | [Listen](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) |
-| 197 | The Climb Back | J. Cole | 2 | 2 | [Listen](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) |
-| 198 | Win | Jay Rock | 2 | 2 | [Listen](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) |
-| 199 | The Rev3nge | Joey Badass | 2 | 2 | [Listen](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) |
-| 200 | Superman Theme | John Williams | 2 | 2 | [Listen](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) |
-| 201 | Ain’t No Grave | Johnny Cash | 2 | 2 | [Listen](https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF) |
-| 202 | Buscandole a la Suerte | Julion Alvarez y su Norteno Banda | 2 | 2 | [Listen](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) |
-| 203 | Music The Best 3 | Justin Seven Music | 2 | 2 | [Listen](https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT) |
-| 204 | Come with Me Now | KONGOS | 2 | 2 | [Listen](https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2) |
-| 205 | Amazing | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/01UniWABhnIka7GgvzOC02) |
-| 206 | Can't Tell Me Nothing | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) |
-| 207 | Ni**as in Paris | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) |
-| 208 | Element | Kendrick Lamar | 2 | 2 | [Listen](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) |
-| 209 | DNA/Till I Collapse | Kendrick Lamar/Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM) |
-| 210 | The Last Hero | Kino | 2 | 2 | [Listen](https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9) |
-| 211 | I’m Bad | LL Cool J | 2 | 2 | [Listen](https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7) |
-| 212 | Uproar | Lil Wayne | 2 | 2 | [Listen](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) |
-| 213 | Drop The World | Lil' Wayne feat. Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS) |
-| 214 | Kant Nobody | Lil’ Wayne feat. DMX | 2 | 2 | [Listen](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) |
-| 215 | Como Te Voy A Olvidar | Los Angeles Azules | 2 | 2 | [Listen](https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE) |
-| 216 | El Matador | Los Fabulosos Cadillacs | 2 | 2 | [Listen](https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8) |
-| 217 | La Chona | Los Tucanes De Tijuana | 2 | 2 | [Listen](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) |
-| 218 | Despacito | Luis Fonsi feat. Daddy Yankee | 2 | 2 | [Listen](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
-| 219 | Sweet Home Alabama | Lynyrd Skynyrd | 2 | 2 | [Listen](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) |
-| 220 | Feeling Myself | Mac Dre | 2 | 2 | [Listen](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) |
-| 221 | Invincible | Machine Gun Kelly | 2 | 2 | [Listen](https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj) |
-| 222 | Taurus | Machine Gun Kelly | 2 | 2 | [Listen](https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7) |
-| 223 | Ain’t No Mountain High Enough | Marvin Gaye | 2 | 2 | [Listen](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
-| 224 | Aonde Nos Chegou | Mc Menor Mr E Mc Dede | 2 | 2 | [Listen](https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm) |
-| 225 | Louco E Sonhador | Mc Neguinho Do Kaxeta | 2 | 2 | [Listen](https://open.spotify.com/track/6hdBsNsVESpjbnVClbUa3y) |
-| 226 | Da Rockwilder | Method Man and Redman | 2 | 2 | [Listen](https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V) |
-| 227 | Still Tippin' | Mike Jones feat. Slim Thug and Paul Wall | 2 | 2 | [Listen](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) |
-| 228 | Champion | Mobflames | 2 | 2 | [Listen](https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE) |
-| 229 | Rookie of the Year | Moneybagg Yo | 2 | 2 | [Listen](https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR) |
-| 230 | Ace of Spades | Motorhead | 2 | 2 | [Listen](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) |
-| 231 | The Game | Motorhead | 2 | 2 | [Listen](https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH) |
-| 232 | Danger (Been So Long) | Mystikal feat. Nivea | 2 | 2 | [Listen](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) |
-| 233 | Kickstart My Heart | Mötley Crüe | 2 | 2 | [Listen](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew) |
-| 234 | Destiny | NF | 2 | 2 | [Listen](https://open.spotify.com/track/5n4ZzdO7KtpxsDpoDTa3D6) |
-| 235 | A Vida e Desafio | Nada Como Um Dia Apos O Outro Dia | 2 | 2 | [Listen](https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT) |
-| 236 | Sweet Caroline | Neil Diamond | 2 | 2 | [Listen](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) |
-| 237 | Moment 4 Life | Nicki Minaj | 2 | 2 | [Listen](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) |
-| 238 | Am I Wrong | Nico & Vinz | 2 | 2 | [Listen](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) |
-| 239 | Last Time I Checked | Nipsey Hussle | 2 | 2 | [Listen](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) |
-| 240 | Spit Your Game | Notorious B.I.G. | 2 | 2 | [Listen](https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt) |
-| 241 | Lado B Lado A | O Rappa | 2 | 2 | [Listen](https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn) |
-| 242 | Man On a Mission | Oh the Larceny | 2 | 2 | [Listen](https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH) |
-| 243 | Vou Colher Sorrindo | Pregador Luo | 2 | 2 | [Listen](https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc) |
-| 244 | Don’t Stop Me Now | Queen | 2 | 2 | [Listen](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) |
-| 245 | Awesome God | R. Swift | 2 | 2 | [Listen](https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy) |
-| 246 | Negro Drama | Racionais MCs | 2 | 2 | [Listen](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) |
-| 247 | The Greatest | SIX60 | 2 | 2 | [Listen](https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js) |
-| 248 | Bad Boyz | Shyne feat. Barrington Levvy | 2 | 2 | [Listen](https://open.spotify.com/track/2MNQMtZbOb7rBWli3TSok0) |
-| 249 | NO EVIL | SiR | 2 | 2 | [Listen](https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe) |
-| 250 | Monster | Skillet | 2 | 2 | [Listen](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) |
-| 251 | All Star | Smash Mouth | 2 | 2 | [Listen](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) |
-| 252 | Last Kings | Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit | 2 | 2 | [Listen](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) |
-| 253 | Black Betty | Spiderbait | 2 | 2 | [Listen](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) |
-| 254 | Big Things Poppin' (Do It) | T.I. | 2 | 2 | [Listen](https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP) |
-| 255 | Go Get It | T.I. | 2 | 2 | [Listen](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) |
-| 256 | Whoomp! (There It Is) | Tag Team | 2 | 2 | [Listen](https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN) |
-| 257 | Break on Through (To the Other Side) | The Doors | 2 | 2 | [Listen](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) |
-| 258 | Ready or Not | The Fugees | 2 | 2 | [Listen](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) |
-| 259 | It's a Beautiful Day | The Kiffness | 2 | 2 | [Listen](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) |
-| 260 | Legend | The Score | 2 | 2 | [Listen](https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD) |
-| 261 | Blinding Lights | The Weeknd | 2 | 2 | [Listen](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
-| 262 | Seven Nation Army (Glitch Mob Remix) | The White Stripes | 2 | 2 | [Listen](https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc) |
-| 263 | Adagio for Strings | Tiesto | 2 | 2 | [Listen](https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r) |
-| 264 | Made in America | Toby Keith | 2 | 2 | [Listen](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) |
-| 265 | Let’s Go | Trick Daddy feat. Lil’ Jon & Twista | 2 | 2 | [Listen](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) |
-| 266 | El Rey | Vicente Fernandez | 2 | 2 | [Listen](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) |
-| 267 | Till It's Gone | Yelawolf | 2 | 2 | [Listen](https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6) |
+| 152 | Promentory” main theme from “The Last of the Mohicans | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
+| 153 | Promontory | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP) |
+| 154 | Jumry Kylysh | Ulytau | 2 | 3 | [Listen](https://open.spotify.com/track/2BYsHElh3qEZmzwpoxYGsW) |
+| 155 | Legendary | Welshly Arms | 2 | 3 | [Listen](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) |
+| 156 | 2 OF AMERIKAZ MOST WANTED | 2Pac feat Snoop Doggy | 2 | 2 | [Listen](https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ) |
+| 157 | Back in Black | AC/DC | 2 | 2 | [Listen](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
+| 158 | Woke Up This Morning | Alabama 3 | 2 | 2 | [Listen](https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz) |
+| 159 | Bekbolat Tleuhan | Alash Urany | 2 | 2 | [Listen](https://open.spotify.com/track/188Jgv7tOdcV9lbZqEzOJA) |
+| 160 | Contigo Peru | Arturo Zambo Cavero feat. Oscar Avil | 2 | 2 | [Listen](https://open.spotify.com/track/6L85SyZ5PydvQlnQe1jkzt) |
+| 161 | Wake Me Up | Avicii | 2 | 2 | [Listen](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) |
+| 162 | Champion | Barns Courtney | 2 | 2 | [Listen](https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv) |
+| 163 | Staying Alive | Bee Gees | 2 | 2 | [Listen](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) |
+| 164 | Cuff It | Beyonce | 2 | 2 | [Listen](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) |
+| 165 | Twinz | Big Pun feat. Fat Joe | 2 | 2 | [Listen](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) |
+| 166 | Bounce Back | Big Sean | 2 | 2 | [Listen](https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF) |
+| 167 | Texas | BigXthaPlug | 2 | 2 | [Listen](https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm) |
+| 168 | Gonna Fly Now (Rocky theme song) | Bill Conti | 2 | 2 | [Listen](https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j) |
+| 169 | Kwaku the Traveler | Black Sherif | 2 | 2 | [Listen](https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD) |
+| 170 | Three Little Birds | Bob Marley & The Wailers | 2 | 2 | [Listen](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) |
+| 171 | Luha ng Kagalakan | Brothers Marvin Estrada | 2 | 2 | [Listen](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) |
+| 172 | Spinnin' | Connor Price & Bens | 2 | 2 | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |
+| 173 | Fortunate Son | Credence Clearwater Revival | 2 | 2 | [Listen](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
+| 174 | Pusherman | Curtis Mayfield | 2 | 2 | [Listen](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) |
+| 175 | The Rain | DMX | 2 | 2 | [Listen](https://open.spotify.com/track/4UmHbauXS8YYIGlYvAsDRr) |
+| 176 | Panda | Desiigner | 2 | 2 | [Listen](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) |
+| 177 | Down With the Sickness | Disturbed | 2 | 2 | [Listen](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) |
+| 178 | Nothin' but a G Thang | Dr. Dre feat. Snoop Dogg | 2 | 2 | [Listen](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) |
+| 179 | God's Plan | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) |
+| 180 | Knife Talk | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) |
+| 181 | Legend | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC) |
+| 182 | No Friends in the Industry | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) |
+| 183 | Still Here | Drake | 2 | 2 | [Listen](https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI) |
+| 184 | Bodies | Drowning Pool | 2 | 2 | [Listen](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) |
+| 185 | Pantera Negra | Emcida | 2 | 2 | [Listen](https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds) |
+| 186 | Cinderella Man | Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) |
+| 187 | Without Me | Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) |
+| 188 | No Love | Eminem feat. Lil Wayne | 2 | 2 | [Listen](https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi) |
+| 189 | Por Ti Volare | Endo Rivera | 2 | 2 | [Listen](https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu) |
+| 190 | Never Safe | Frannk Whitte | 2 | 2 | [Listen](https://open.spotify.com/track/1PjydXKswaCmzLdORc1X29) |
+| 191 | Work | Gang Starr | 2 | 2 | [Listen](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) |
+| 192 | Gasoline | Halsey | 2 | 2 | [Listen](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) |
+| 193 | Thunder | Imagine Dragons | 2 | 2 | [Listen](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) |
+| 194 | Whatever It Takes | Imagine Dragons | 2 | 2 | [Listen](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) |
+| 195 | HERE COMES THE HOTSTEPPER | Ini Kamoze | 2 | 2 | [Listen](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) |
+| 196 | The Climb Back | J. Cole | 2 | 2 | [Listen](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) |
+| 197 | Win | Jay Rock | 2 | 2 | [Listen](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) |
+| 198 | The Rev3nge | Joey Badass | 2 | 2 | [Listen](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) |
+| 199 | Superman Theme | John Williams | 2 | 2 | [Listen](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) |
+| 200 | Ain’t No Grave | Johnny Cash | 2 | 2 | [Listen](https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF) |
+| 201 | Buscandole a la Suerte | Julion Alvarez y su Norteno Banda | 2 | 2 | [Listen](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) |
+| 202 | Music The Best 3 | Justin Seven Music | 2 | 2 | [Listen](https://open.spotify.com/track/3NIbOafosN7cyrgHsV6WhT) |
+| 203 | Come with Me Now | KONGOS | 2 | 2 | [Listen](https://open.spotify.com/track/0Eskt9x1wNhxjFI4ue67Z2) |
+| 204 | Amazing | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/01UniWABhnIka7GgvzOC02) |
+| 205 | Can't Tell Me Nothing | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) |
+| 206 | Ni**as in Paris | Kanye West | 2 | 2 | [Listen](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) |
+| 207 | Element | Kendrick Lamar | 2 | 2 | [Listen](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) |
+| 208 | DNA/Till I Collapse | Kendrick Lamar/Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/6g6W3pMAFbp2FS1QCijkpM) |
+| 209 | The Last Hero | Kino | 2 | 2 | [Listen](https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9) |
+| 210 | I’m Bad | LL Cool J | 2 | 2 | [Listen](https://open.spotify.com/track/0hioWv2FDtVePjHFTwgrf7) |
+| 211 | Uproar | Lil Wayne | 2 | 2 | [Listen](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) |
+| 212 | Drop The World | Lil' Wayne feat. Eminem | 2 | 2 | [Listen](https://open.spotify.com/track/77q65VGEbRnJlnX50UfnZS) |
+| 213 | Kant Nobody | Lil’ Wayne feat. DMX | 2 | 2 | [Listen](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) |
+| 214 | Como Te Voy A Olvidar | Los Angeles Azules | 2 | 2 | [Listen](https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE) |
+| 215 | El Matador | Los Fabulosos Cadillacs | 2 | 2 | [Listen](https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8) |
+| 216 | La Chona | Los Tucanes De Tijuana | 2 | 2 | [Listen](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) |
+| 217 | Despacito | Luis Fonsi feat. Daddy Yankee | 2 | 2 | [Listen](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| 218 | Sweet Home Alabama | Lynyrd Skynyrd | 2 | 2 | [Listen](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) |
+| 219 | Feeling Myself | Mac Dre | 2 | 2 | [Listen](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) |
+| 220 | Invincible | Machine Gun Kelly | 2 | 2 | [Listen](https://open.spotify.com/track/1zBBo7indT2foQGQUoloWj) |
+| 221 | Taurus | Machine Gun Kelly | 2 | 2 | [Listen](https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7) |
+| 222 | Ain’t No Mountain High Enough | Marvin Gaye | 2 | 2 | [Listen](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
+| 223 | Aonde Nos Chegou | Mc Menor Mr E Mc Dede | 2 | 2 | [Listen](https://open.spotify.com/track/7IVjhmvfbMgIcZ4rHbzZrm) |
+| 224 | Louco E Sonhador | Mc Neguinho Do Kaxeta | 2 | 2 | [Listen](https://open.spotify.com/track/6hdBsNsVESpjbnVClbUa3y) |
+| 225 | Da Rockwilder | Method Man and Redman | 2 | 2 | [Listen](https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V) |
+| 226 | Still Tippin' | Mike Jones feat. Slim Thug and Paul Wall | 2 | 2 | [Listen](https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la) |
+| 227 | Rookie of the Year | Moneybagg Yo | 2 | 2 | [Listen](https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR) |
+| 228 | Ace of Spades | Motorhead | 2 | 2 | [Listen](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) |
+| 229 | The Game | Motorhead | 2 | 2 | [Listen](https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH) |
+| 230 | Danger (Been So Long) | Mystikal feat. Nivea | 2 | 2 | [Listen](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) |
+| 231 | Kickstart My Heart | Mötley Crüe | 2 | 2 | [Listen](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew) |
+| 232 | Destiny | NF | 2 | 2 | [Listen](https://open.spotify.com/track/5n4ZzdO7KtpxsDpoDTa3D6) |
+| 233 | A Vida e Desafio | Nada Como Um Dia Apos O Outro Dia | 2 | 2 | [Listen](https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT) |
+| 234 | Sweet Caroline | Neil Diamond | 2 | 2 | [Listen](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) |
+| 235 | Moment 4 Life | Nicki Minaj | 2 | 2 | [Listen](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) |
+| 236 | Am I Wrong | Nico & Vinz | 2 | 2 | [Listen](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) |
+| 237 | Last Time I Checked | Nipsey Hussle | 2 | 2 | [Listen](https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p) |
+| 238 | Spit Your Game | Notorious B.I.G. | 2 | 2 | [Listen](https://open.spotify.com/track/7aEjUdVMgHPQQdIIcaWnyt) |
+| 239 | Lado B Lado A | O Rappa | 2 | 2 | [Listen](https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn) |
+| 240 | Man On a Mission | Oh the Larceny | 2 | 2 | [Listen](https://open.spotify.com/track/7zbbclmHhDSdsq63O6c8eH) |
+| 241 | Vou Colher Sorrindo | Pregador Luo | 2 | 2 | [Listen](https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc) |
+| 242 | Don’t Stop Me Now | Queen | 2 | 2 | [Listen](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) |
+| 243 | Negro Drama | Racionais MCs | 2 | 2 | [Listen](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) |
+| 244 | The Greatest | SIX60 | 2 | 2 | [Listen](https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js) |
+| 245 | Bad Boyz | Shyne feat. Barrington Levvy | 2 | 2 | [Listen](https://open.spotify.com/track/2MNQMtZbOb7rBWli3TSok0) |
+| 246 | NO EVIL | SiR | 2 | 2 | [Listen](https://open.spotify.com/track/5TGWOwQ7hJFkwBDCKmkzZe) |
+| 247 | You're Going Down | Sick Puppies | 2 | 2 | [Listen](https://open.spotify.com/track/3PgAALbop8jxkXSZPyd0ct) |
+| 248 | Monster | Skillet | 2 | 2 | [Listen](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) |
+| 249 | All Star | Smash Mouth | 2 | 2 | [Listen](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) |
+| 250 | Last Kings | Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit | 2 | 2 | [Listen](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) |
+| 251 | Black Betty | Spiderbait | 2 | 2 | [Listen](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) |
+| 252 | Big Things Poppin' (Do It) | T.I. | 2 | 2 | [Listen](https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP) |
+| 253 | Go Get It | T.I. | 2 | 2 | [Listen](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) |
+| 254 | Whoomp! (There It Is) | Tag Team | 2 | 2 | [Listen](https://open.spotify.com/track/0SuYcbenEg2MdkZunyqtwN) |
+| 255 | Break on Through (To the Other Side) | The Doors | 2 | 2 | [Listen](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) |
+| 256 | Ready or Not | The Fugees | 2 | 2 | [Listen](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) |
+| 257 | It's a Beautiful Day | The Kiffness | 2 | 2 | [Listen](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) |
+| 258 | Legend | The Score | 2 | 2 | [Listen](https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD) |
+| 259 | Blinding Lights | The Weeknd | 2 | 2 | [Listen](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
+| 260 | Seven Nation Army (Glitch Mob Remix) | The White Stripes | 2 | 2 | [Listen](https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc) |
+| 261 | Podo Vir | Tiago Brasil | 2 | 2 | [Listen](https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG) |
+| 262 | Adagio for Strings | Tiesto | 2 | 2 | [Listen](https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r) |
+| 263 | Made in America | Toby Keith | 2 | 2 | [Listen](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) |
+| 264 | Let’s Go | Trick Daddy feat. Lil’ Jon & Twista | 2 | 2 | [Listen](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) |
+| 265 | El Rey | Vicente Fernandez | 2 | 2 | [Listen](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) |
+| 266 | Till It's Gone | Yelawolf | 2 | 2 | [Listen](https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6) |

@@ -1,7 +1,7 @@
 {
   "fighter": "Renato Moicano",
   "slug": "renato-moicano",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Cry To Me",
@@ -49,6 +49,15 @@
       "date": "2024-04-13"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "Isaac",
       "artist": "Edson Gomes",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 5,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 3
   }
 }

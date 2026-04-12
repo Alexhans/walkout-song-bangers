@@ -1,7 +1,7 @@
 {
   "fighter": "Dominick Reyes",
   "slug": "dominick-reyes",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Congratulations",
@@ -38,12 +38,21 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

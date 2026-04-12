@@ -1,19 +1,19 @@
 {
-  "event": "UFC 205: Alvarez vs McGregor",
+  "event": "UFC 205: Alvarez vs. McGregor",
   "event_slug": "ufc-205",
   "date": "2016-11-12",
-  "location": "New York City, New York, USA",
+  "location": "Madison Square Garden, New York, New York",
   "source_urls": [
-    "https://mmajunkie.usatoday.com/story/sports/ufc/2016/11/13/fight-tracks-the-epic-walkout-songs-of-the-historic-ufc-205-at-msg-in-nyc/82307133007/"
+    "https://mmajunkie.usatoday.com/2016/11/fight-tracks-the-epic-walkout-songs-of-the-historic-ufc-205-at-msg-in-nyc"
   ],
-  "generated_at": "2026-03-29",
+  "generated_at": "2026-03-23T00:13:14Z",
   "songs": [
     {
       "fighter": "Conor McGregor",
       "song_title": "Foggy Dew",
-      "artist": "Sinead O'Connor and \"I Get Money\" by 50 Cent",
+      "artist": "Sinead O'Connor\u00a0and \"I Get Money\" by 50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1FKFCvi0i46qEJLZSEBH8p",
+      "spotify_url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
       "notes": ""
     },
     {
@@ -29,7 +29,7 @@
       "song_title": "I Ain't Turning Back",
       "artist": "Thi'sl feat. Flame",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE",
+      "spotify_url": "https://open.spotify.com/track/21hhV2VDGpukgfUrQK6kwC",
       "notes": ""
     },
     {
@@ -42,10 +42,10 @@
     },
     {
       "fighter": "Joanna Jedrzejczyk",
-      "song_title": "Przejmij ster w swoje dłonie",
-      "artist": "Rena gośc. Gutek",
+      "song_title": "Przejmij ster w swoje d\u0142onie",
+      "artist": "Rena go\u015bc. Gutek",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7ArpUgWo8DTmkef7uX5LD6",
+      "spotify_url": "https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt",
       "notes": ""
     },
     {
@@ -67,15 +67,15 @@
     {
       "fighter": "Chris Weidman",
       "song_title": "New York State of Mind",
-      "artist": "Billy Joel, \"Coming Home\" by P. Diddy, \"Empire State of Mind by Jay-Z, \"I Won't Back Down\" by Tom Petty",
+      "artist": "Billy Joel, \"Coming Home\" by P. Diddy, \"Empire State of Mind\u00a0by Jay-Z, \"I Won't Back Down\" by Tom Petty",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "spotify_url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1",
       "notes": ""
     },
     {
       "fighter": "Raquel Pennington",
       "song_title": "Can't Hold Us",
-      "artist": "Macklemore feat. Ryan Lewis",
+      "artist": "Macklemore feat.\u00a0Ryan Lewis",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
       "notes": ""
@@ -109,7 +109,7 @@
       "song_title": "Dagestan",
       "artist": "Direct Hit & Sabina Saldova",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
       "notes": ""
     },
     {
@@ -125,7 +125,7 @@
       "song_title": "When the Man Comes Around",
       "artist": "Johnny Cash",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ",
+      "spotify_url": "https://open.spotify.com/track/4kIVFKUOphtW7wUSrEeNTC",
       "notes": ""
     },
     {

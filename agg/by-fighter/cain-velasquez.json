@@ -4,11 +4,11 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "Los Mandados",
-      "artist": "Vicente Fernandez",
+      "song_title": "La Bamba",
+      "artist": "Los Lobos",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     }

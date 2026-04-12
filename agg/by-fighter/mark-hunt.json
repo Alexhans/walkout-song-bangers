@@ -4,11 +4,11 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Express Yourself",
-      "artist": "NWA",
+      "song_title": "Lonely Boy",
+      "artist": "The Black Keys",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/55JYAswiVAIhO8mK2VVLe1",
-      "event": "UFC 200: Tate vs Nunes",
+      "spotify_url": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
+      "event": "UFC 200: Tate vs. Nunes",
       "event_slug": "ufc-200",
       "date": "2016-07-09"
     },

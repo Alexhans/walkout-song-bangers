@@ -1,7 +1,7 @@
 {
   "fighter": "Francisco Prado",
   "slug": "francisco-prado",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "El Nuevo Campeon",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 1,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }

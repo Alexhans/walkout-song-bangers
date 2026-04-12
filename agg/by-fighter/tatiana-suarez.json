@@ -1,7 +1,7 @@
 {
   "fighter": "Tatiana Suarez",
   "slug": "tatiana-suarez",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Sunshine",
@@ -20,6 +20,15 @@
       "event": "UFC 238: Cejudo vs. Moraes",
       "event_slug": "ufc-238",
       "date": "2019-06-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Heads Will Roll",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Beneil Dariush",
   "slug": "beneil-dariush",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Broken Vessels (Amazing Grace)",
@@ -40,6 +40,15 @@
       "date": "2023-06-10"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "A Beautiful Exchange",
       "artist": "Hillsong Worship",
       "confidence": "bronze",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 4,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 4
   }
 }
