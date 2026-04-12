@@ -1,6 +1,6 @@
 ---
 name: walkout-songs
-description: This skill should be used when the user asks to "get walkout songs", "find walkout songs for UFC", "walkout songs for UFC 229", "process walkout songs", "UFC entrance music", or mentions a UFC event and wants walkout/entrance music information. Discovers UFC walkout songs from web sources and produces a browsable list with clickable Spotify links.
+description: This skill should be used when the user asks to "get walkout songs", "find walkout songs for UFC", "walkout songs for UFC 229", "process walkout songs", "UFC entrance music", or mentions a UFC event and wants walkout/entrance music information. Also handles gold standard generation from local video files when the user says "gold <event> <video_path>" or "gold standard for UFC 317". Discovers UFC walkout songs from web sources and produces a browsable list with clickable Spotify links.
 version: 0.1.0
 ---
 
@@ -198,7 +198,139 @@ Summarize:
 - Output file paths
 - Source(s) used
 
-## Gold Verification Mode
+## Gold Standard Mode (Local Video Pipeline)
+
+Triggered when the user says `gold <event> <video_path> [<video_path2> ...]`, e.g.:
+```
+gold ufc-317 ~/data/ufc-317/prelims.mp4
+gold ufc-318 /path/to/prelims.mp4 /path/to/main.mp4
+```
+
+The input can be 1, 2, or 3 video files (early prelims, prelims, main card), or even a single clip of one fighter's entrance. The pipeline is agnostic to granularity — it works on whatever video is provided and produces clips for whatever walkouts it can find.
+
+### Personal working directory
+
+All artifacts (transcripts, clips) are stored in `~/walkout-gold/{slug}/` — the user's personal folder, never committed to the repo. Only the final gold entries written to `data/{slug}.json` go into the repo.
+
+```
+~/walkout-gold/ufc-317/
+  transcripts/
+    prelims-full.json      # full faster-whisper output (word timestamps, no_speech_prob, etc.)
+    prelims-simple.json    # derived {start, end, text} for detect_walkouts.py
+  clips/
+    Loopy_Godinez.mp3
+    Loopy_Godinez.mp4
+    ...
+  walkouts.json            # detected walkout timestamps per fighter
+```
+
+### Requirements
+
+Check that these exist before starting — do not auto-install heavy dependencies:
+
+- `ffmpeg` — must be on PATH
+- a Python 3.12 environment with `faster-whisper` installed. If missing, tell the user:
+  ```
+  uv venv /path/to/whisper-env --python 3.12
+  uv pip install faster-whisper --python /path/to/whisper-env
+  ```
+- `scripts/detect_walkouts.py` — in this repo, uses `rapidfuzz` (install via `uv pip install rapidfuzz --python /path/to/whisper-env`)
+
+### Workflow
+
+**Step 1 — Get event fighter list**
+Run the UFCStats scrape (same as normal skill Step 3) to get the full fighter roster. If `data/{slug}.json` already exists, read the fighter list from it. This is needed for the Whisper `initial_prompt` and walkout detection.
+
+**Step 2 — Extract audio**
+For each video file:
+```bash
+ffmpeg -i <video_path> -vn -acodec copy ~/walkout-gold/{slug}/transcripts/{label}-audio.aac -y
+```
+Note: raw AAC duration reported by ffprobe is unreliable (may show 71h). This is a container metadata artifact — the audio content is correct. Verify duration against the source video instead.
+
+**Step 3 — Transcribe with Whisper**
+```python
+from faster_whisper import WhisperModel
+
+initial_prompt = "UFC {event} fighters: {comma-separated fighter names}. The fight announcer introduces each fighter."
+model = WhisperModel("small", device="cuda", compute_type="float16")
+segments, info = model.transcribe(audio_path, initial_prompt=initial_prompt, word_timestamps=True, vad_filter=True)
+```
+- `vad_filter=True` is required — without it Whisper hallucinates on crowd/fight noise
+- `word_timestamps=True` preserves rich data for future silence-detection mode
+- Save both full JSON (all fields) and simplified `{start, end, text}` JSON
+- Speed: ~small model processes ~1 min of audio per 4-5 seconds on RTX 4080
+
+**Step 4 — Detect walkout anchors**
+```bash
+/tmp/whisper-env/bin/python3 scripts/detect_walkouts.py \
+  ~/walkout-gold/{slug}/transcripts/{label}-simple.json \
+  {slug} \
+  --output ~/walkout-gold/{slug}/walkouts-{label}.json
+```
+
+The script finds fight intro anchors in the transcript (currently keyed on Buffer's structured announcement style — "ladies and gentlemen... introducing first... introducing opponent"). **Note: this is an implementation detail. The goal is detecting walkout timestamps; the Buffer-style anchor is just the current approach and will need to be generalized for other presenters or feeds.**
+
+The script outputs anchor timestamps and the raw transcript block for each detected bout. Do not rely solely on the script's fuzzy fighter matching — read the block text yourself and identify the fighters from context.
+
+**Step 5 — Identify fighters per bout (Claude reads the blocks)**
+Read the transcript block for each anchor from the script output. Match fighter names to the two fighters being introduced using the roster from Step 1. The block text will have mangled names (e.g. "Lupi Gautines" for Loopy Godinez) — use context and the known fighter list to resolve correctly.
+
+Update `walkouts.json` with the corrected fighter assignments.
+
+**Step 6 — Cut audio and video clips**
+For each fighter in `walkouts.json`:
+```bash
+# Audio (cheap, useful for future automated recognition)
+ffmpeg -ss {clip_start_seconds} -i {audio_path} -t 45 -acodec libmp3lame -q:a 2 ~/walkout-gold/{slug}/clips/{Fighter_Name}.mp3 -y
+
+# Video (primary — what the human actually watches)
+ffmpeg -ss {clip_start_seconds} -i {video_path} -t 45 -c copy ~/walkout-gold/{slug}/clips/{Fighter_Name}.mp4 -y
+```
+
+**Step 7 — First-pass Shazam + human verification**
+Before asking the user, run a first recognition pass on the extracted audio clips with `shazamio`. Some broadcast clips will still fail because of commentary/crowd noise, but successful hits are worth keeping as provisional candidates for review.
+
+Do not limit this to one lookup on the full 45-second clip. Broadcast walkouts often have a clean 5-8 second stretch right at the start before heavy commentary begins. Use the sweep script to try the full clip plus several short front-loaded windows:
+
+```bash
+/tmp/shazam312-env/bin/python3 skill/scripts/shazam_sweep.py \
+  --clips-dir ~/walkout-gold/{slug}/clips \
+  --output ~/walkout-gold/{slug}/shazam-results.json
+```
+
+If `shazamio` finds a match for a clip, present it to the user in the review list as a suggested song. If it returns no match, leave that fighter for manual identification.
+
+Then present the clip list and ask the user to verify each one:
+```
+Clips ready in ~/walkout-gold/ufc-317/clips/. Please check each video and identify the song.
+
+For each fighter below, reply with: <Fighter Name> | <Song Title> | <Artist>
+Or reply "skip" to leave as missing.
+
+1. Loopy_Godinez.mp4 | shazamio: Vivir Mi Vida | Marc Anthony
+2. Tatiana_Suarez.mp4
+...
+```
+Recommend that the user also try the phone Shazam app or Google music recognition on the video clip when `shazamio` fails or looks questionable.
+
+Wait for the user's responses before writing anything to `data/{slug}.json`.
+
+**Step 8 — Write gold entries**
+For each confirmed song, merge into `data/{slug}.json`:
+```json
+{
+  "fighter": "Loopy Godinez",
+  "song_title": "Vivir Mi Vida",
+  "artist": "Marc Anthony",
+  "confidence": "gold",
+  "notes": "Human verified from local broadcast video",
+  "verified_by": {"method": "human", "reason": "video clip confirmed by ear + phone Shazam"}
+}
+```
+Then regenerate `viz/{slug}.md`.
+
+## Gold Verification Mode (YouTube)
 
 When the user wants to promote a fighter's song to gold confidence, they provide a YouTube URL with a timestamp pointing to the walkout moment. The pipeline extracts a short audio clip and runs Shazam recognition to confirm the song.
 
