@@ -4,10 +4,10 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Heart of a Circassian",
+      "artist": "Islam Itlyashev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 1,
-    "missing": 2,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Lando Vannata",
   "slug": "lando-vannata",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Actin Crazy",
@@ -56,12 +56,21 @@
       "event": "UFC Fight Night: Lemos vs. Andrade",
       "event_slug": "ufc-fight-night-lemos-vs-andrade",
       "date": "2022-04-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 4
   }
 }

@@ -1,0 +1,205 @@
+{
+  "event": "UFC Fight Night: Moicano vs. Duncan",
+  "event_slug": "ufc-fight-night-moicano-vs-duncan",
+  "date": "2026-04-04",
+  "location": "Meta APEX, Las Vegas, Nevada, United States",
+  "source_urls": [
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-vegas-115-walkout-songs-entrance-music-used-by-renato-moicano-chris-duncan-tabatha-ricci-and-others/",
+    "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-duncan"
+  ],
+  "generated_at": "2026-04-18T09:10:00Z",
+  "songs": [
+    {
+      "fighter": "Renato Moicano",
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Duncan",
+      "song_title": "Freed From Desire",
+      "artist": "Gala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EpbZE2fBvFb1nhaGCCFQS",
+      "notes": ""
+    },
+    {
+      "fighter": "Virna Jandiroba",
+      "song_title": "I’m An Island Boy",
+      "artist": "Flyysoulja, Kodiyakredd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNUBfWGs8kNl7k47Hvpgd",
+      "notes": ""
+    },
+    {
+      "fighter": "Tabatha Ricci",
+      "song_title": "Intro",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
+      "notes": ""
+    },
+    {
+      "fighter": "Abdul-Rakhman Yakhyaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brendson Ribeiro",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ethyn Ewing",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Rafael Estevam",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tommy McMillen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Manolo Zecchini",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jose Delano",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Ruchala",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Guilherme Pat",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Thomas Petersen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alessandro Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Stewart Nicoll",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Lando Vannata",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Darrius Flowers",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alice Pereira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Hailey Cowan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Azamat Bekoev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tresean Gore",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dione Barbosa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Melissa Gatto",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

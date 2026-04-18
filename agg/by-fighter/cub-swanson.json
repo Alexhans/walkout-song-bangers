@@ -22,10 +22,10 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Icon",
+      "artist": "Jaden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
-    "unique_songs": 3
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Renato Moicano",
   "slug": "renato-moicano",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Cry To Me",
@@ -67,6 +67,15 @@
       "date": "2024-02-03"
     },
     {
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 6,
     "missing": 3,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

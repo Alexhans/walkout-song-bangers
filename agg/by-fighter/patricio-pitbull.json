@@ -4,10 +4,10 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Feel This Moment",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1obZSxOoO12yWkwY1kY72N",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -15,8 +15,8 @@
   ],
   "stats": {
     "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
   }
 }

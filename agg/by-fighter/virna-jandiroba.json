@@ -1,7 +1,7 @@
 {
   "fighter": "Virna Jandiroba",
   "slug": "virna-jandiroba",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -47,12 +47,21 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "I’m An Island Boy",
+      "artist": "Flyysoulja, Kodiyakredd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNUBfWGs8kNl7k47Hvpgd",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

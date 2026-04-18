@@ -31,10 +31,10 @@
       "date": "2023-10-21"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Don’t Take Your Guns to Town",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DQeWECybR1XV74yLRJiZn",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
-    "unique_songs": 4
+    "with_song": 5,
+    "missing": 3,
+    "unique_songs": 5
   }
 }

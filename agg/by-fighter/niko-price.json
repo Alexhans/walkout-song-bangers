@@ -58,10 +58,10 @@
       "date": "2025-06-28"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
@@ -105,8 +105,8 @@
   ],
   "stats": {
     "events": 11,
-    "with_song": 9,
-    "missing": 2,
+    "with_song": 10,
+    "missing": 1,
     "unique_songs": 7
   }
 }

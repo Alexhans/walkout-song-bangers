@@ -2,58 +2,59 @@
   "event": "UFC Fight Night: Adesanya vs. Pyfer",
   "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
   "date": "2026-03-28",
-  "location": "Seattle, Washington, USA",
+  "location": "Climate Pledge Arena, Seattle, Washington, United States",
   "source_urls": [
-    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120013626.html?fr=sycsrp_catchall"
+    "https://www.lowkickmma.com/ufc-seattle-adesanya-vs-pyfer-walkout-songs/",
+    "https://www.ufc.com/news/official-weigh-results-ufc-seattle"
   ],
-  "generated_at": "2026-03-28",
+  "generated_at": "2026-04-18T09:10:00Z",
   "songs": [
     {
       "fighter": "Israel Adesanya",
-      "song_title": "Headstrong",
-      "artist": "Trapt",
+      "song_title": "Undisputed UFC 243",
+      "artist": "Arli Liberman",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4",
+      "spotify_url": "https://open.spotify.com/track/6zGkAMJ8Bg2g10y9TX0y1b",
       "notes": ""
     },
     {
       "fighter": "Joe Pyfer",
-      "song_title": "No Easy Way Out",
-      "artist": "Robert Trapper",
+      "song_title": "In A Dream",
+      "artist": "Rockell",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs",
+      "spotify_url": "https://open.spotify.com/track/4Xf27f2BIY6FmvifqxQ7RD",
       "notes": ""
     },
     {
       "fighter": "Alexa Grasso",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
       "notes": ""
     },
     {
       "fighter": "Maycee Barber",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Somethin’ Bad",
+      "artist": "Miranda Lambert and Carrie Underwood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
       "notes": ""
     },
     {
       "fighter": "Michael Chiesa",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
       "notes": ""
     },
     {
       "fighter": "Niko Price",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
       "notes": ""
     },
     {
@@ -90,10 +91,10 @@
     },
     {
       "fighter": "Terrance McKinney",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Hussle and Motivate",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5",
       "notes": ""
     },
     {
@@ -106,18 +107,26 @@
     },
     {
       "fighter": "Ignacio Bahamondes",
-      "song_title": "El Taller del Maestro",
-      "artist": "Alex Campos",
+      "song_title": "Las Avispas",
+      "artist": "Juan Luis Guerra 4.40",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
+      "spotify_url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u",
       "notes": ""
     },
     {
       "fighter": "Tofiq Musayev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Bayati Shiraz",
+      "artist": "Mahmut Orhan feat. Kənan Bayramlı",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1GRdOrA1Dbc2qvNXIBqdU7",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "The Al Capone Suite",
+      "artist": "Andre Nickatina",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N",
       "notes": ""
     },
     {
@@ -129,7 +138,7 @@
       "notes": ""
     },
     {
-      "fighter": "Chase Hooper",
+      "fighter": "Marcin Tybura",
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -138,14 +147,6 @@
     },
     {
       "fighter": "Tyrell Fortune",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
-    },
-    {
-      "fighter": "Marcin Tybura",
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -194,10 +195,10 @@
     },
     {
       "fighter": "Adrian Yanez",
-      "song_title": "Oh La La",
-      "artist": "Run the Jewels",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "notes": ""
     },
     {

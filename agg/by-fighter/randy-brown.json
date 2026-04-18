@@ -40,10 +40,10 @@
       "date": "2024-06-01"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Energy",
+      "artist": "Tommy Lee Sparta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BxiaQIDjAr2ltsUEMB9r8",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -87,8 +87,8 @@
   ],
   "stats": {
     "events": 9,
-    "with_song": 8,
-    "missing": 1,
+    "with_song": 9,
+    "missing": 0,
     "unique_songs": 7
   }
 }

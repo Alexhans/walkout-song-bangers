@@ -40,10 +40,10 @@
       "date": "2023-09-09"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Caught in a Daze",
+      "artist": "David Dallas feat. Freddie Gibbs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2pHLq9CCpFF980qtszJTXF",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 5,
-    "missing": 2,
-    "unique_songs": 5
+    "with_song": 6,
+    "missing": 1,
+    "unique_songs": 6
   }
 }

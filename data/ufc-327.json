@@ -2,33 +2,204 @@
   "event": "UFC 327: Prochazka vs. Ulberg",
   "event_slug": "ufc-327",
   "date": "2026-04-11",
-  "location": "Kaseya Center, Miami, Florida",
-  "source_urls": [],
-  "generated_at": "2026-04-12T00:00:00Z",
+  "location": "Kaseya Center, Miami, Florida, United States",
+  "source_urls": [
+    "https://www.lowkickmma.com/ufc-327-walkout-songs-prochazka-vs-ulberg/",
+    "https://www.ufc.com/news/official-weigh-results-ufc-327-prochazka-vs-ulberg"
+  ],
+  "generated_at": "2026-04-18T09:10:00Z",
   "songs": [
-    {"fighter": "Carlos Ulberg", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Jiri Prochazka", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Paulo Costa", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Azamat Murzakanov", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Josh Hokit", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Curtis Blaydes", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Dominick Reyes", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Johnny Walker", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Cub Swanson", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Nate Landwehr", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Aaron Pico", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Patricio Pitbull", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Kevin Holland", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Randy Brown", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Mateusz Gamrot", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Esteban Ribovics", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Tatiana Suarez", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Loopy Godinez", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Chris Padilla", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "MarQuel Mederos", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Vicente Luque", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Kelvin Gastelum", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Charles Radtke", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""},
-    {"fighter": "Francisco Prado", "song_title": "", "artist": "", "confidence": "missing", "spotify_url": "", "notes": ""}
+    {
+      "fighter": "Jiri Prochazka",
+      "song_title": "In the City",
+      "artist": "Kevin Rudolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ix4xoMPPOo8H43TG1DQA1",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Ulberg",
+      "song_title": "Caught in a Daze",
+      "artist": "David Dallas feat. Freddie Gibbs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2pHLq9CCpFF980qtszJTXF",
+      "notes": ""
+    },
+    {
+      "fighter": "Azamat Murzakanov",
+      "song_title": "Heart of a Circassian",
+      "artist": "Islam Itlyashev",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZOOPD3TEYhXzclWtU4Vqi",
+      "notes": ""
+    },
+    {
+      "fighter": "Paulo Costa",
+      "song_title": "Clubbed to Death",
+      "artist": "Rob Dougan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BSoQxTQWNHgktgbEwzeEk",
+      "notes": ""
+    },
+    {
+      "fighter": "Curtis Blaydes",
+      "song_title": "Techno Syndrome (Mortal Kombat)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
+      "notes": ""
+    },
+    {
+      "fighter": "Josh Hokit",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "notes": ""
+    },
+    {
+      "fighter": "Dominick Reyes",
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "notes": ""
+    },
+    {
+      "fighter": "Johnny Walker",
+      "song_title": "Don’t Take Your Guns to Town",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6DQeWECybR1XV74yLRJiZn",
+      "notes": ""
+    },
+    {
+      "fighter": "Cub Swanson",
+      "song_title": "Icon",
+      "artist": "Jaden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b",
+      "notes": ""
+    },
+    {
+      "fighter": "Nate Landwehr",
+      "song_title": "Back in Black",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "notes": ""
+    },
+    {
+      "fighter": "Patricio Pitbull",
+      "song_title": "Feel This Moment",
+      "artist": "Pitbull feat. Christina Aguilera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1obZSxOoO12yWkwY1kY72N",
+      "notes": ""
+    },
+    {
+      "fighter": "Aaron Pico",
+      "song_title": "Bulls On Parade",
+      "artist": "Rage Against The Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x",
+      "notes": ""
+    },
+    {
+      "fighter": "Mateusz Gamrot",
+      "song_title": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
+      "notes": ""
+    },
+    {
+      "fighter": "Esteban Ribovics",
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr. feat. Mr. Magic & Trouble",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Holland",
+      "song_title": "Drink Don’t Need No Mix",
+      "artist": "Shaboozey feat. BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
+      "notes": ""
+    },
+    {
+      "fighter": "Randy Brown",
+      "song_title": "Energy",
+      "artist": "Tommy Lee Sparta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BxiaQIDjAr2ltsUEMB9r8",
+      "notes": ""
+    },
+    {
+      "fighter": "Tatiana Suarez",
+      "song_title": "Heads Will Roll",
+      "artist": "Yeah Yeah Yeahs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "notes": ""
+    },
+    {
+      "fighter": "Chris Padilla",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "MarQuel Mederos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kelvin Gastelum",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "notes": ""
+    },
+    {
+      "fighter": "Vicente Luque",
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "notes": ""
+    },
+    {
+      "fighter": "Charles Radtke",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Francisco Prado",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
   ]
 }

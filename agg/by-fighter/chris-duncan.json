@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Duncan",
   "slug": "chris-duncan",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Braveheart",
@@ -11,6 +11,15 @@
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
+    },
+    {
+      "song_title": "Freed From Desire",
+      "artist": "Gala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EpbZE2fBvFb1nhaGCCFQS",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "El Chapo",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 2,
+    "events": 3,
+    "with_song": 3,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

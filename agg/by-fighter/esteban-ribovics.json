@@ -22,10 +22,10 @@
       "date": "2023-07-08"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr. feat. Mr. Magic & Trouble",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 2,
-    "missing": 2,
-    "unique_songs": 2
+    "with_song": 3,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

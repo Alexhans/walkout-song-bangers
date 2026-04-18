@@ -40,10 +40,10 @@
       "date": "2024-08-17"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "artist": "Fall Out Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 5,
-    "missing": 2,
-    "unique_songs": 5
+    "with_song": 6,
+    "missing": 1,
+    "unique_songs": 6
   }
 }

@@ -40,10 +40,10 @@
       "date": "2023-07-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 3,
-    "missing": 4,
+    "with_song": 4,
+    "missing": 3,
     "unique_songs": 1
   }
 }

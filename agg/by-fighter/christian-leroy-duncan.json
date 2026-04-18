@@ -32,7 +32,7 @@
     },
     {
       "song_title": "Fly Team",
-      "artist": "Yung Montanna",
+      "artist": "Yung Montanna & Gripper",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5rokkI45aJOQNYpByL7PTm",
       "event": "UFC Fight Night: Evloev vs. Murphy",
@@ -53,6 +53,6 @@
     "events": 5,
     "with_song": 2,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 1
   }
 }

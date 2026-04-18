@@ -58,10 +58,10 @@
       "date": "2025-07-19"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Drink Don’t Need No Mix",
+      "artist": "Shaboozey feat. BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -105,8 +105,8 @@
   ],
   "stats": {
     "events": 11,
-    "with_song": 10,
-    "missing": 1,
-    "unique_songs": 8
+    "with_song": 11,
+    "missing": 0,
+    "unique_songs": 9
   }
 }

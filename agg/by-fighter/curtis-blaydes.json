@@ -58,10 +58,10 @@
       "date": "2024-07-27"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Techno Syndrome (Mortal Kombat)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -105,8 +105,8 @@
   ],
   "stats": {
     "events": 11,
-    "with_song": 3,
-    "missing": 8,
+    "with_song": 4,
+    "missing": 7,
     "unique_songs": 3
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Tresean Gore",
   "slug": "tresean-gore",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "This Is How We Do It",
@@ -29,12 +29,21 @@
       "event": "UFC Fight Night: Kattar vs. Allen",
       "event_slug": "ufc-fight-night-kattar-vs-allen",
       "date": "2022-10-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

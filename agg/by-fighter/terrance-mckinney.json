@@ -31,10 +31,10 @@
       "date": "2025-06-28"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Hussle and Motivate",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5",
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 5,
-    "missing": 5,
+    "with_song": 6,
+    "missing": 4,
     "unique_songs": 5
   }
 }

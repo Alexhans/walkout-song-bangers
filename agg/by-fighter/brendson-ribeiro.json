@@ -1,7 +1,7 @@
 {
   "fighter": "Brendson Ribeiro",
   "slug": "brendson-ribeiro",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
     {
       "song_title": "Personal Jesus",
@@ -11,6 +11,15 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Personal Jesus",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

@@ -13,10 +13,10 @@
       "date": "2023-04-08"
     },
     {
-      "song_title": "El Taller del Maestro",
-      "artist": "Alex Campos",
+      "song_title": "Las Avispas",
+      "artist": "Juan Luis Guerra 4.40",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA",
+      "spotify_url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u",
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
@@ -62,6 +62,6 @@
     "events": 6,
     "with_song": 5,
     "missing": 1,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Thomas Petersen",
   "slug": "thomas-petersen",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Ain’t No Mountain High Enough",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

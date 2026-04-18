@@ -1,7 +1,7 @@
 {
   "fighter": "Melissa Gatto",
   "slug": "melissa-gatto",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "",
@@ -31,6 +31,15 @@
       "date": "2024-05-18"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
+    },
+    {
       "song_title": "Unstoppable",
       "artist": "SIA",
       "confidence": "bronze",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 1,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }
