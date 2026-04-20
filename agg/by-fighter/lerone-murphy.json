@@ -31,7 +31,7 @@
       "date": "2023-03-18"
     },
     {
-      "song_title": "Ambitionz As a Ridah",
+      "song_title": "Ambitionz Az a Ridah",
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
@@ -53,6 +53,6 @@
     "events": 5,
     "with_song": 4,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 2
   }
 }

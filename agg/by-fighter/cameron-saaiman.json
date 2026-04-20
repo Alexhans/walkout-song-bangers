@@ -31,10 +31,10 @@
       "date": "2023-07-08"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 3,
-    "missing": 2,
+    "with_song": 4,
+    "missing": 1,
     "unique_songs": 1
   }
 }

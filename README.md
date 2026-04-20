@@ -172,14 +172,14 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](viz/ufc-299.md) | 28 | 0 | 0 | 24 | 4 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](viz/ufc-fight-night-tuivasa-vs-tybura.md) | 26 | 0 | 0 | 23 | 3 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](viz/ufc-fight-night-ribas-vs-namajunas.md) | 26 | 0 | 0 | 2 | 24 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](viz/ufc-fight-night-ribas-vs-namajunas.md) | 26 | 0 | 0 | 26 | 0 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Nicolau vs. Perez](viz/ufc-fight-night-nicolau-vs-perez.md) | 26 | 0 | 0 | 23 | 3 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](viz/ufc-fight-night-lewis-vs-nascimento.md) | 24 | 0 | 0 | 2 | 22 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](viz/ufc-fight-night-barboza-vs-murphy.md) | 24 | 0 | 0 | 2 | 22 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](viz/ufc-fight-night-lewis-vs-nascimento.md) | 24 | 0 | 0 | 11 | 13 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](viz/ufc-fight-night-barboza-vs-murphy.md) | 24 | 0 | 0 | 10 | 14 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Perez vs. Taira](viz/ufc-fight-night-perez-vs-taira.md) | 22 | 0 | 0 | 22 | 0 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
@@ -189,8 +189,8 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](viz/ufc-fight-night-burns-vs-brady.md) | 24 | 0 | 0 | 19 | 5 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](viz/ufc-307.md) | 24 | 0 | 0 | 22 | 2 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Albazi](viz/ufc-fight-night-moreno-vs-albazi.md) | 26 | 0 | 0 | 21 | 5 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 6 | 18 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 0 | 20 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 11 | 13 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
@@ -202,7 +202,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 10 | 16 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 10 | 16 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 4 | 20 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 0 | 0 | 20 | 4 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 0 | 0 | 24 |
 <!-- END EVENTS -->

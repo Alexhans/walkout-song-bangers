@@ -4,10 +4,10 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
+    "with_song": 4,
+    "missing": 0,
     "unique_songs": 1
   }
 }

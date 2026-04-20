@@ -40,10 +40,10 @@
       "date": "2023-06-03"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 4,
-    "missing": 1,
+    "with_song": 5,
+    "missing": 0,
     "unique_songs": 3
   }
 }

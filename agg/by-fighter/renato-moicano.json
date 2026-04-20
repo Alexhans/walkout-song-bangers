@@ -49,10 +49,10 @@
       "date": "2024-04-13"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -87,8 +87,8 @@
   ],
   "stats": {
     "events": 9,
-    "with_song": 6,
-    "missing": 3,
+    "with_song": 7,
+    "missing": 2,
     "unique_songs": 4
   }
 }

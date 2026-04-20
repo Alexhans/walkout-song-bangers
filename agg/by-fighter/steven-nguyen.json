@@ -4,10 +4,10 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "On God",
+      "artist": "Spence Lee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BN37yVlX2XQYCPTbtGeGD",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
@@ -15,8 +15,8 @@
   ],
   "stats": {
     "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
   }
 }

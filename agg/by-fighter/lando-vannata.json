@@ -58,10 +58,10 @@
       "date": "2022-04-23"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Viva la Revolution",
+      "artist": "The Adicts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PMaqWwW6hilTls8202lHE",
       "event": "UFC Fight Night: Moicano vs. Duncan",
       "event_slug": "ufc-fight-night-moicano-vs-duncan",
       "date": "2026-04-04"
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 5,
-    "missing": 2,
+    "with_song": 6,
+    "missing": 1,
     "unique_songs": 4
   }
 }

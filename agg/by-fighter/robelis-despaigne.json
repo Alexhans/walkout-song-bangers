@@ -13,10 +13,10 @@
       "date": "2024-03-09"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Campeon",
+      "artist": "El Kimiko Y Yordy X Michel Boutic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
+    "with_song": 2,
+    "missing": 0,
     "unique_songs": 1
   }
 }

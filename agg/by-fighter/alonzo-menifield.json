@@ -58,10 +58,10 @@
       "date": "2021-12-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
+    "with_song": 5,
+    "missing": 3,
     "unique_songs": 3
   }
 }

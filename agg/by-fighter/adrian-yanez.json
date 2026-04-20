@@ -22,10 +22,10 @@
       "date": "2026-03-28"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Chunk Up the Deuce",
+      "artist": "Lil Keke feat. UKG and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ezFCIptrLOajaNmk9RSbb",
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
@@ -69,8 +69,8 @@
   ],
   "stats": {
     "events": 7,
-    "with_song": 5,
-    "missing": 2,
+    "with_song": 6,
+    "missing": 1,
     "unique_songs": 5
   }
 }

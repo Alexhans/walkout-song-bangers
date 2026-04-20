@@ -31,10 +31,10 @@
       "date": "2023-05-06"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 2,
-    "missing": 3,
+    "with_song": 3,
+    "missing": 2,
     "unique_songs": 1
   }
 }

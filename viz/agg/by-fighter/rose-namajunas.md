@@ -1,6 +1,6 @@
 # Rose Namajunas
 
-9 event(s) | 8 song(s) found | 8 unique
+9 event(s) | 8 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,5 +11,5 @@
 | [2022](../agg/by-year/2022.md) | [UFC 274: Oliveira vs. Gaethje](../../ufc-274.md) | PROLIFIC PRAISE | Trey McLaughlin & The Sounds of Zamar | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
 | [2026](../agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Albazi](../../ufc-fight-night-moreno-vs-albazi.md) | Prolific Praise | Trey Mclaughlin | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
-| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](../../ufc-fight-night-ribas-vs-namajunas.md) | Prolific Praise | Trey McLaughlin & The Sounds of Zamar | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
+| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](../../ufc-fight-night-ribas-vs-namajunas.md) | Prolific Praise | Trey Mclaughlin | [Listen](https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3) |
 | [2017](../agg/by-year/2017.md) | [UFC on FOX: Johnson vs. Reis](../../ufc-on-fox-johnson-vs-reis.md) | Dis Generation | A Tribe Called Quest | [Listen](https://open.spotify.com/track/2Pp3QD3thPnk2kCxmu2MHK) |

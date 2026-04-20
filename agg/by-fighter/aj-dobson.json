@@ -31,10 +31,10 @@
       "date": "2023-08-12"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Everything Nice",
+      "artist": "Popcaan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WseWfbKiXbAAwDDwxuSua",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
+    "with_song": 4,
+    "missing": 0,
     "unique_songs": 3
   }
 }

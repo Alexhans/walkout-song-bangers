@@ -13,10 +13,10 @@
       "date": "2023-11-11"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
-    "unique_songs": 3
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
   }
 }

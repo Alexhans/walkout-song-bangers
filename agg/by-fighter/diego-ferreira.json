@@ -22,10 +22,10 @@
       "date": "2020-01-18"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Footloose",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 2,
-    "missing": 1,
+    "with_song": 3,
+    "missing": 0,
     "unique_songs": 2
   }
 }

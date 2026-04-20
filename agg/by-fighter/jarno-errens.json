@@ -13,10 +13,10 @@
       "date": "2022-09-03"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "2 Be High",
+      "artist": "Nico Moreno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5AasW9NXAJMfvun0XOLECt",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

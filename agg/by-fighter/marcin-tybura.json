@@ -31,10 +31,10 @@
       "date": "2022-08-20"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 6,
-    "missing": 2,
-    "unique_songs": 3
+    "with_song": 7,
+    "missing": 1,
+    "unique_songs": 4
   }
 }

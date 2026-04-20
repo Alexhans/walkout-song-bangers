@@ -4,10 +4,10 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Real Champions",
+      "artist": "Mobflames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Real%20Champions%20Mobflames",
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 3
+    "with_song": 5,
+    "missing": 0,
+    "unique_songs": 4
   }
 }

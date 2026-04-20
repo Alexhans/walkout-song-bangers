@@ -68,7 +68,7 @@
     },
     {
       "song_title": "Prolific Praise",
-      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "artist": "Trey Mclaughlin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
@@ -89,6 +89,6 @@
     "events": 9,
     "with_song": 8,
     "missing": 1,
-    "unique_songs": 8
+    "unique_songs": 7
   }
 }

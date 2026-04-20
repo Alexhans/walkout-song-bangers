@@ -4,9 +4,10 @@
   "date": "2024-05-11",
   "location": "St. Louis, Missouri, USA",
   "source_urls": [
-    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-fight-night-231-coolio-cranberries-europe-in-brazil"
+    "https://www.sherdog.com/news/articles/Fight-Facts-UFC-on-ESPN-56-Lewis-vs-Nascimento-193670",
+    "https://www.sportskeeda.com/mma/news-ufc-st-louis-walkout-songs-derrick-lewis-rodrigo-nascimento-joaquin-buckley-others-used"
   ],
-  "generated_at": "2026-03-29",
+  "generated_at": "2026-04-20",
   "songs": [
     {
       "fighter": "Derrick Lewis",
@@ -14,7 +15,7 @@
       "artist": "Fat Pat",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5oS8YDcBrOzRV3H437J9m5",
-      "notes": ""
+      "notes": "Confirmed by Sherdog Fight Facts post-event."
     },
     {
       "fighter": "Rodrigo Nascimento",
@@ -22,47 +23,47 @@
       "artist": "Racionais MCs",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
-      "notes": ""
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Joaquin Buckley",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "See Me Now!",
+      "artist": "Jeleel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Nursulton Ruziboev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "O'Zbegim",
+      "artist": "SHoxrux",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4y1iJljq1LedT5T43LeoUN",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Carlos Ulberg",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Conquer",
+      "artist": "SWIDT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0G6zNFC5PAfpyrKDe9I1iV",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Alonzo Menifield",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Diego Ferreira",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Footloose",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Mateusz Rebecki",
@@ -82,11 +83,11 @@
     },
     {
       "fighter": "Alex Caceres",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Blackbird",
+      "artist": "The Beatles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Waldo Cortes Acosta",
@@ -98,11 +99,11 @@
     },
     {
       "fighter": "Robelis Despaigne",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "El Campeon",
+      "artist": "El Kimiko Y Yordy X Michel Boutic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Chase Hooper",
@@ -130,19 +131,19 @@
     },
     {
       "fighter": "Terrance McKinney",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Right Hand To God",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Tabatha Ricci",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Tellem That I'm Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC on ESPN 56."
     },
     {
       "fighter": "Tecia Pennington",

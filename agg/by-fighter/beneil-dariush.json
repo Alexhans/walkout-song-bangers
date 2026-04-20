@@ -40,10 +40,10 @@
       "date": "2023-06-10"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
+    "with_song": 5,
+    "missing": 3,
     "unique_songs": 4
   }
 }

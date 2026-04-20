@@ -13,10 +13,10 @@
       "date": "2024-02-17"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
       "event": "UFC Fight Night: Moicano vs. Duncan",
       "event_slug": "ufc-fight-night-moicano-vs-duncan",
       "date": "2026-04-04"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 2,
-    "missing": 1,
+    "with_song": 3,
+    "missing": 0,
     "unique_songs": 1
   }
 }

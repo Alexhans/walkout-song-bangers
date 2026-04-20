@@ -40,10 +40,10 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "MMMBop",
+      "artist": "Hanson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/MMMBop%20Hanson",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -87,8 +87,8 @@
   ],
   "stats": {
     "events": 9,
-    "with_song": 8,
-    "missing": 1,
-    "unique_songs": 6
+    "with_song": 9,
+    "missing": 0,
+    "unique_songs": 7
   }
 }

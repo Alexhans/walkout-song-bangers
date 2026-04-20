@@ -1,6 +1,6 @@
 # Carlos Ulberg
 
-7 event(s) | 6 song(s) found | 6 unique
+7 event(s) | 7 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -9,5 +9,5 @@
 | [2022](../agg/by-year/2022.md) | [UFC 281: Adesanya vs. Pereira](../../ufc-281.md) | The Climb Back | J. Cole | [Listen](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) |
 | [2023](../agg/by-year/2023.md) | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Conquer | SWIDT | [Listen](https://open.spotify.com/track/0G6zNFC5PAfpyrKDe9I1iV) |
 | [2026](../agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](../../ufc-327.md) | Caught in a Daze | David Dallas feat. Freddie Gibbs | [Listen](https://open.spotify.com/track/2pHLq9CCpFF980qtszJTXF) |
-| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | — | — | |
+| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | Conquer | SWIDT | [Listen](https://open.spotify.com/track/0G6zNFC5PAfpyrKDe9I1iV) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Tsarukyan vs. Gamrot](../../ufc-fight-night-tsarukyan-vs-gamrot.md) | Pusherman | Curtis Mayfield | [Listen](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) |

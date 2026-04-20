@@ -31,10 +31,10 @@
       "date": "2023-03-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Eu Renasci Das Cinzas",
+      "artist": "Mc Daniel, Mc Paulin Da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
+    "with_song": 5,
+    "missing": 3,
     "unique_songs": 4
   }
 }

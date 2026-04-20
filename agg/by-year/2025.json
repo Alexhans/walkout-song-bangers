@@ -4,20 +4,20 @@
   "tracks": [
     {
       "fighter": "Ilia Topuria",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Charles Oliveira",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -27,27 +27,27 @@
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
       "confidence": "gold",
-      "spotify_url": "",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Kai Kara-France",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Maori Ki Te Ao",
+      "artist": "Stan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Joshua Van",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -57,37 +57,37 @@
       "song_title": "Tonight You Belong to Me",
       "artist": "Patience & Prudence",
       "confidence": "gold",
-      "spotify_url": "",
+      "spotify_url": "https://open.spotify.com/search/Tonight%20You%20Belong%20to%20Me%20Patience%20%26%20Prudence",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Beneil Dariush",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Renato Moicano",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
     },
     {
       "fighter": "Payton Talbott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Kerosene",
+      "artist": "Crystal Castles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -214,10 +214,10 @@
     },
     {
       "fighter": "Alvin Hines",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "The Man Comes Around",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Man%20Comes%20Around%20Johnny%20Cash",
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
@@ -785,9 +785,9 @@
   ],
   "stats": {
     "total_fighters": 78,
-    "with_song": 47,
-    "playable_tracks": 42,
-    "unique_playable_tracks": 41,
-    "missing": 31
+    "with_song": 55,
+    "playable_tracks": 50,
+    "unique_playable_tracks": 49,
+    "missing": 23
   }
 }

@@ -49,10 +49,10 @@
       "date": "2023-07-15"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Right Hand To God",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7",
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 6,
-    "missing": 4,
+    "with_song": 7,
+    "missing": 3,
     "unique_songs": 5
   }
 }

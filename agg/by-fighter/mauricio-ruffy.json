@@ -13,10 +13,10 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "",
+      "song_title": "One Shot",
       "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/One%20Shot%20Mauricio%20Ruffy",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 2,
-    "missing": 1,
-    "unique_songs": 2
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
   }
 }

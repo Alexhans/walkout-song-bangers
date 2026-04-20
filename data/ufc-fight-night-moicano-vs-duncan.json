@@ -5,9 +5,19 @@
   "location": "Meta APEX, Las Vegas, Nevada, United States",
   "source_urls": [
     "https://www.essentiallysports.com/ufc-mma-news-ufc-vegas-115-walkout-songs-entrance-music-used-by-renato-moicano-chris-duncan-tabatha-ricci-and-others/",
-    "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-duncan"
+    "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-moicano-vs-duncan",
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-135014221.html",
+    "https://www.sherdog.com/news/articles/The-Walkmen-UFC-322-Walkout-Tracks-195123",
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-135002693.html",
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130036376.html",
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-295-with-sabbath-sting-and-jay-z-rihanna-trying-that-in-a-big-town",
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-305-with-that-wacky-eminem-curse-and-no-ac-dc-in-australia",
+    "https://mmajunkie.usatoday.com/story/sports/mma/blue-corner/2022/04/24/fight-tracks-the-walkout-songs-of-ufc-fight-night-205-with-red-hot-chili-peppers-on-i/81314765007/",
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-130058364.html",
+    "https://www.inkl.com/news/fight-tracks-the-walkout-songs-of-ufc-fight-night-213-with-the-clash-tom-petty-and-the-return-of-the-eminem-curse-5b941642-7c32-471b-9075-3ad9fe080b06",
+    "https://sports.yahoo.com/fight-tracks-walkout-songs-ufc-120012185.html?fr=sycsrp_catchall"
   ],
-  "generated_at": "2026-04-18T09:10:00Z",
+  "generated_at": "2026-04-20T05:42:25Z",
   "songs": [
     {
       "fighter": "Renato Moicano",
@@ -51,27 +61,27 @@
     },
     {
       "fighter": "Brendson Ribeiro",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
+      "notes": "Historical carry-forward from UFC Fight Night: Moreno vs. Albazi; not independently confirmed for this event."
     },
     {
       "fighter": "Ethyn Ewing",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
+      "notes": "Historical carry-forward from UFC 322: Della Maddalena vs. Makhachev; not independently confirmed for this event."
     },
     {
       "fighter": "Rafael Estevam",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Efesios 6",
+      "artist": "Anderson Freire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX",
+      "notes": "Historical carry-forward from UFC Fight Night: Allen vs. Craig; not independently confirmed for this event."
     },
     {
       "fighter": "Tommy McMillen",
@@ -115,43 +125,43 @@
     },
     {
       "fighter": "Thomas Petersen",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Ain’t No Mountain High Enough",
+      "artist": "Marvin Gaye",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX",
+      "notes": "Historical carry-forward from UFC Fight Night: Dolidze vs. Imavov; not independently confirmed for this event."
     },
     {
       "fighter": "Alessandro Costa",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Run This Town",
+      "artist": "Jay Z feat. Rihanna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "notes": "Historical carry-forward from UFC 295: Prochazka vs. Pereira; not independently confirmed for this event."
     },
     {
       "fighter": "Stewart Nicoll",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Go To Sleep",
+      "artist": "Eminem feat. Obie Trice and DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Go%20To%20Sleep%20Eminem%20feat.%20Obie%20Trice%20and%20DMX",
+      "notes": "Historical carry-forward from UFC 305: Du Plessis vs. Adesanya; not independently confirmed for this event."
     },
     {
       "fighter": "Lando Vannata",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Viva la Revolution",
+      "artist": "The Adicts",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PMaqWwW6hilTls8202lHE",
+      "notes": "Historical carry-forward from UFC Fight Night: Lemos vs. Andrade; not independently confirmed for this event."
     },
     {
       "fighter": "Darrius Flowers",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Excessive Celebration",
+      "artist": "Tobe Nwige Ft. Ochocinco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5stZtHQTmDOsTYCzFC86sO",
+      "notes": "Historical carry-forward from UFC Fight Night: Hermansson vs. Pyfer; not independently confirmed for this event."
     },
     {
       "fighter": "Alice Pereira",
@@ -179,11 +189,11 @@
     },
     {
       "fighter": "Tresean Gore",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
+      "notes": "Historical carry-forward from UFC Fight Night: Kattar vs. Allen; not independently confirmed for this event."
     },
     {
       "fighter": "Dione Barbosa",
@@ -195,11 +205,11 @@
     },
     {
       "fighter": "Melissa Gatto",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "notes": "Historical carry-forward from UFC Fight Night: Strickland vs. Magomedov; not independently confirmed for this event."
     }
   ]
 }

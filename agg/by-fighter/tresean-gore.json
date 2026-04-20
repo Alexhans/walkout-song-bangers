@@ -31,10 +31,10 @@
       "date": "2022-10-29"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
       "event": "UFC Fight Night: Moicano vs. Duncan",
       "event_slug": "ufc-fight-night-moicano-vs-duncan",
       "date": "2026-04-04"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
+    "with_song": 4,
+    "missing": 0,
     "unique_songs": 3
   }
 }

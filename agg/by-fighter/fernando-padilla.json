@@ -13,10 +13,10 @@
       "date": "2023-09-16"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Valiente de Chihuahua",
+      "artist": "Corridos Para Peleadores",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BzelaxEfWI6jDeOrhwoDq",
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

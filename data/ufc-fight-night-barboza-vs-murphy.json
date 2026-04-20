@@ -4,49 +4,49 @@
   "date": "2024-05-18",
   "location": "Las Vegas, Nevada, USA",
   "source_urls": [
-    "https://mmajunkie.usatoday.com/story/sports/ufc/2019/09/08/ufc-242-fight-tracks-walkout-songs-abu-dhabi-khabib-poirier-tupac-eminem/82013418007/"
+    "https://www.sportskeeda.com/mma/news-ufc-vegas-92-walkout-songs-edson-barboza-lerone-murphy-khaos-williams-others-used"
   ],
-  "generated_at": "2026-03-29",
+  "generated_at": "2026-04-20",
   "songs": [
     {
       "fighter": "Lerone Murphy",
-      "song_title": "Ambitionz As a Ridah",
+      "song_title": "Ambitionz Az a Ridah",
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "notes": ""
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Edson Barboza",
-      "song_title": "Vim, Vivi, Venci",
-      "artist": "MP Michael Puga feat. Edson Barboza",
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2HbST3DxoB1ojgC50dX1aw",
-      "notes": ""
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "notes": "Sportskeeda pre-event/historical list; replaces stale UFC 242 source data and is not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Khaos Williams",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Carlston Harris",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Real Champions",
+      "artist": "Mobflames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Real%20Champions%20Mobflames",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241. spotify_match: search_fallback"
     },
     {
       "fighter": "Themba Gorimbo",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Ramiz Brahimaj",
@@ -58,11 +58,11 @@
     },
     {
       "fighter": "Adrian Yanez",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Chunk Up the Deuce",
+      "artist": "Lil Keke feat. UKG and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ezFCIptrLOajaNmk9RSbb",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Vinicius Salvador",
@@ -74,11 +74,11 @@
     },
     {
       "fighter": "Angela Hill",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Nao Quer Chifre",
+      "artist": "MC Frog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Luana Pinheiro",
@@ -138,11 +138,11 @@
     },
     {
       "fighter": "Abus Magomedov",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Warlley Alves",
@@ -186,19 +186,19 @@
     },
     {
       "fighter": "Vanessa Demopoulos",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Knuck If You Buck",
+      "artist": "Crime Mob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     },
     {
       "fighter": "Emily Ducote",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Made for This",
+      "artist": "Carrollton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC Fight Night 241."
     }
   ]
 }

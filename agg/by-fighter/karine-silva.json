@@ -13,10 +13,10 @@
       "date": "2023-08-19"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 3,
-    "missing": 2,
-    "unique_songs": 2
+    "with_song": 4,
+    "missing": 1,
+    "unique_songs": 3
   }
 }

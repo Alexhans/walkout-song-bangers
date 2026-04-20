@@ -4,9 +4,10 @@
   "date": "2024-11-16",
   "location": "New York City, New York, USA",
   "source_urls": [
-    "https://www.sportskeeda.com/mma/news-ufc-309-walkout-songs-tracks-jon-jones-stipe-miocic-charles-oliveira-michael-chandler-others-used"
+    "https://www.sportskeeda.com/mma/news-ufc-309-walkout-songs-tracks-jon-jones-stipe-miocic-charles-oliveira-michael-chandler-others-used",
+    "https://www.sherdog.com/news/articles/Fight-Facts-UFC-309-Jones-vs-Miocic-195504"
   ],
-  "generated_at": "2026-03-26",
+  "generated_at": "2026-04-20",
   "songs": [
     {
       "fighter": "Jon Jones",
@@ -34,11 +35,11 @@
     },
     {
       "fighter": "Michael Chandler",
-      "song_title": "Unreleased",
+      "song_title": "Unnamed NF snippet",
       "artist": "NF",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz",
-      "notes": ""
+      "spotify_url": "https://open.spotify.com/search/Unnamed%20NF%20snippet",
+      "notes": "Sherdog post-event note: NF had released the snippet on social media, but the track had no name at the time."
     },
     {
       "fighter": "Bo Nickal",
@@ -50,35 +51,35 @@
     },
     {
       "fighter": "Paul Craig",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "MMMBop",
+      "artist": "Hanson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/MMMBop%20Hanson",
+      "notes": "Confirmed by Sherdog Fight Facts post-event."
     },
     {
       "fighter": "Viviane Araujo",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Eu Renasci Das Cinzas",
+      "artist": "Mc Daniel, Mc Paulin Da Capital",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2PwjlwWQFbOunQWt1raAW9",
+      "notes": "Sportskeeda pre-event/potential list; not independently post-event confirmed for UFC 309."
     },
     {
       "fighter": "Karine Silva",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "notes": "Sportskeeda pre-event/potential list; not independently post-event confirmed for UFC 309."
     },
     {
       "fighter": "Mauricio Ruffy",
-      "song_title": "",
+      "song_title": "One Shot",
       "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/One%20Shot%20Mauricio%20Ruffy",
+      "notes": "Sportskeeda pre-event/potential list; not independently post-event confirmed for UFC 309."
     },
     {
       "fighter": "James Llontop",
@@ -138,11 +139,11 @@
     },
     {
       "fighter": "Marcin Tybura",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Fortunate Son",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh",
+      "notes": "Confirmed by Sherdog Fight Facts post-event."
     },
     {
       "fighter": "Jhonata Diniz",

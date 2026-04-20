@@ -4,32 +4,34 @@
   "date": "2025-06-28",
   "location": "Las Vegas, Nevada, USA",
   "source_urls": [
-    "http://www.ufcstats.com/event-details/66766984842c13dc"
+    "http://www.ufcstats.com/event-details/66766984842c13dc",
+    "https://www.sherdog.com/news/articles/Fight-Facts-UFC-317-Topuria-vs-Oliveira-197526",
+    "https://www.sportskeeda.com/mma/news-ufc-317-walkout-songs-tracks-ilia-topuria-charles-oliveira-alexandre-pantoja-renato-moicano-others-used"
   ],
-  "generated_at": "2026-04-12T00:00:00Z",
+  "generated_at": "2026-04-20",
   "songs": [
     {
       "fighter": "Ilia Topuria",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "notes": "Confirmed by Sherdog Fight Facts post-event."
     },
     {
       "fighter": "Charles Oliveira",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Alexandre Pantoja",
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
       "confidence": "gold",
-      "spotify_url": "",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "notes": "Verified from local broadcast clip with shazamio",
       "verified_by": {
         "method": "shazam",
@@ -38,27 +40,27 @@
     },
     {
       "fighter": "Kai Kara-France",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Maori Ki Te Ao",
+      "artist": "Stan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Joshua Van",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Brandon Royval",
       "song_title": "Tonight You Belong to Me",
       "artist": "Patience & Prudence",
       "confidence": "gold",
-      "spotify_url": "",
-      "notes": "Human verified from local broadcast video",
+      "spotify_url": "https://open.spotify.com/search/Tonight%20You%20Belong%20to%20Me%20Patience%20%26%20Prudence",
+      "notes": "Human verified from local broadcast video. spotify_match: search_fallback",
       "verified_by": {
         "method": "human",
         "reason": "User identified from local broadcast video"
@@ -66,27 +68,27 @@
     },
     {
       "fighter": "Beneil Dariush",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Renato Moicano",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Payton Talbott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Kerosene",
+      "artist": "Crystal Castles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
+      "notes": "Sportskeeda pre-event/historical list; not independently post-event confirmed for UFC 317."
     },
     {
       "fighter": "Felipe Lima",
@@ -186,11 +188,11 @@
     },
     {
       "fighter": "Alvin Hines",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "The Man Comes Around",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Man%20Comes%20Around%20Johnny%20Cash",
+      "notes": "Confirmed by Sherdog Fight Facts post-event. spotify_match: search_fallback"
     }
   ]
 }
