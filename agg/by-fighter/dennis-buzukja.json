@@ -1,7 +1,7 @@
 {
   "fighter": "Dennis Buzukja",
   "slug": "dennis-buzukja",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Whoopty",
@@ -22,6 +22,15 @@
       "date": "2024-03-30"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
       "song_title": "Kuq E Zi Je Ti",
       "artist": "Elvana Gjata",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

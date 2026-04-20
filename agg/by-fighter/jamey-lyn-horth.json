@@ -1,8 +1,17 @@
 {
   "fighter": "Jamey-Lyn Horth",
   "slug": "jamey-lyn-horth",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
     {
       "song_title": "Somethin’ Bad",
       "artist": "Miranda Lambert with Carrie Underwood",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

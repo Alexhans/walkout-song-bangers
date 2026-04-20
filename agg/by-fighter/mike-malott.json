@@ -1,7 +1,7 @@
 {
   "fighter": "Mike Malott",
   "slug": "mike-malott",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Fat Lip",
@@ -31,6 +31,15 @@
       "date": "2024-01-20"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
       "song_title": "Fat Lip",
       "artist": "Sum 41",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

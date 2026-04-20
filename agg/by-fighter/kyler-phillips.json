@@ -1,7 +1,7 @@
 {
   "fighter": "Kyler Phillips",
   "slug": "kyler-phillips",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
       "song_title": "Wav Files",
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 3,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 1
   }
 }

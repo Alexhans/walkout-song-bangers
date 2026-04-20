@@ -1,6 +1,6 @@
 # Charles Jourdain
 
-9 event(s) | 7 song(s) found | 6 unique
+10 event(s) | 7 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -8,6 +8,7 @@
 | [2024](../agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | Led Spirals | Le Castle Vania | [Listen](https://open.spotify.com/track/3RxNoBUmsatoQ86dAhV92v) |
 | [2024](../agg/by-year/2024.md) | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Brunson vs. Till](../../ufc-fight-night-brunson-vs-till.md) | Glaive | Booba | [Listen](https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr) |
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](../../ufc-fight-night-burns-vs-malott.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Fiziev vs. Gamrot](../../ufc-fight-night-fiziev-vs-gamrot.md) | Blood Code | Le Castle Vania | [Listen](https://open.spotify.com/track/1wbRT9FlUYwh1cjmCN97gy) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Gane vs. Tuivasa](../../ufc-fight-night-gane-vs-tuivasa.md) | Glaive | Booba | [Listen](https://open.spotify.com/track/4kgHfnWMk3rK5upoZgJrFr) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Lemos vs. Andrade](../../ufc-fight-night-lemos-vs-andrade.md) | — | — | |

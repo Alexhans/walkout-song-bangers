@@ -1,7 +1,7 @@
 {
   "fighter": "Thiago Moises",
   "slug": "thiago-moises",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
     },
     {
       "song_title": "Pais do Futebol",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 3,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 3
   }
 }

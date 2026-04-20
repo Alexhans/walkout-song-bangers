@@ -1,7 +1,7 @@
 {
   "fighter": "Gilbert Burns",
   "slug": "gilbert-burns",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -76,6 +76,15 @@
       "date": "2024-09-07"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
       "song_title": "Medley",
       "artist": "Buchecha",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 3,
-    "missing": 6,
+    "missing": 7,
     "unique_songs": 2
   }
 }

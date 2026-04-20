@@ -1,7 +1,7 @@
 {
   "fighter": "Jai Herbert",
   "slug": "jai-herbert",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Morals and Principles",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Blaydes vs. Aspinall",
       "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
       "date": "2022-07-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
     },
     {
       "song_title": "Face the World",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }
