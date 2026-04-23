@@ -1484,50 +1484,50 @@
     },
     {
       "fighter": "Mike Malott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
     },
     {
       "fighter": "Gilbert Burns",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
     },
     {
       "fighter": "Charles Jourdain",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Le Chant Des Commandos",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
     },
     {
       "fighter": "Kyler Phillips",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
     },
     {
       "fighter": "Jai Herbert",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Morals and Principles",
+      "artist": "Rimzeee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
@@ -1544,20 +1544,20 @@
     },
     {
       "fighter": "Jasmine Jasudavicius",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "La Bamba",
+      "artist": "Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
     },
     {
       "fighter": "Karine Silva",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
@@ -3045,9 +3045,9 @@
   ],
   "stats": {
     "total_fighters": 304,
-    "with_song": 180,
-    "playable_tracks": 167,
-    "unique_playable_tracks": 162,
-    "missing": 124
+    "with_song": 187,
+    "playable_tracks": 174,
+    "unique_playable_tracks": 169,
+    "missing": 117
   }
 }

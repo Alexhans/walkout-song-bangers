@@ -76,10 +76,10 @@
       "date": "2024-09-07"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 3,
-    "missing": 7,
+    "with_song": 4,
+    "missing": 6,
     "unique_songs": 2
   }
 }

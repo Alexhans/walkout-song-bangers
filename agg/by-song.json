@@ -420,6 +420,13 @@
     "unique_fighters": 3
   },
   {
+    "artist": "the Rolling Stones",
+    "song_title": "Paint It, Black",
+    "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+    "count": 5,
+    "unique_fighters": 3
+  },
+  {
     "artist": "Blake Shelton",
     "song_title": "God's Country",
     "spotify_url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K",
@@ -864,13 +871,6 @@
     "artist": "The Immortals",
     "song_title": "Techno Syndrome (Mortal Kombat)",
     "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
-    "count": 4,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "the Rolling Stones",
-    "song_title": "Paint It, Black",
-    "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
     "count": 4,
     "unique_fighters": 2
   },
@@ -1526,6 +1526,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Los Lobos",
+    "song_title": "La Bamba",
+    "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
     "artist": "Los Tucanes De Tijuana",
     "song_title": "La Chona",
     "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
@@ -1634,6 +1641,13 @@
     "artist": "NF",
     "song_title": "Destiny",
     "spotify_url": "https://open.spotify.com/track/5n4ZzdO7KtpxsDpoDTa3D6",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "NTM",
+    "song_title": "Le Chant Des Commandos",
+    "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
     "count": 2,
     "unique_fighters": 2
   },
@@ -2093,6 +2107,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Sum 41",
+    "song_title": "Fat Lip",
+    "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Tenacious D",
     "song_title": "Wonderboy",
     "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
@@ -2226,6 +2247,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Lupe Fiasco",
+    "song_title": "Wav Files",
+    "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Men At Work",
     "song_title": "Down Under",
     "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
@@ -2264,13 +2292,6 @@
     "artist": "Rick Ross",
     "song_title": "Push It",
     "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
-    "count": 4,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Sum 41",
-    "song_title": "Fat Lip",
-    "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
     "count": 4,
     "unique_fighters": 1
   },
@@ -2390,6 +2411,13 @@
     "artist": "Brantley Gilbert",
     "song_title": "Kick It in the Sticks",
     "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+    "count": 3,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Buchecha",
+    "song_title": "Medley",
+    "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2565,13 +2593,6 @@
     "artist": "Logic",
     "song_title": "Everybody",
     "spotify_url": "https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Lupe Fiasco",
-    "song_title": "Wav Files",
-    "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
     "count": 3,
     "unique_fighters": 1
   },
@@ -2971,13 +2992,6 @@
     "artist": "Brother Dege",
     "song_title": "Too Old to Die Young",
     "spotify_url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m",
-    "count": 2,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Buchecha",
-    "song_title": "Medley",
-    "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
     "count": 2,
     "unique_fighters": 1
   },
@@ -3902,6 +3916,13 @@
     "artist": "Rick Derringer",
     "song_title": "Real American",
     "spotify_url": "https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Rimzeee",
+    "song_title": "Morals and Principles",
+    "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
     "count": 2,
     "unique_fighters": 1
   },
@@ -10332,13 +10353,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Los Lobos",
-    "song_title": "La Bamba",
-    "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Los Rieleros del Norte",
     "song_title": "El Invincible",
     "spotify_url": "https://open.spotify.com/track/4vC4pPpeFoJHN0l6GeD54x",
@@ -11518,13 +11532,6 @@
     "artist": "NF",
     "song_title": "Unnamed NF snippet",
     "spotify_url": "https://open.spotify.com/search/Unnamed%20NF%20snippet",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "NTM",
-    "song_title": "Le Chant Des Commandos",
-    "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12750,13 +12757,6 @@
     "artist": "Rimzece",
     "song_title": "Morals & Principals",
     "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Rimzeee",
-    "song_title": "Morals and Principles",
-    "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
     "count": 1,
     "unique_fighters": 1
   },

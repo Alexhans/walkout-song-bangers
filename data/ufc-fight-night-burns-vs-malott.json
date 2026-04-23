@@ -4,49 +4,51 @@
   "date": "2026-04-18",
   "location": "Winnipeg, Manitoba, Canada",
   "source_urls": [
-    "http://www.ufcstats.com/event-details/c3ac8d0da7b05772"
+    "http://www.ufcstats.com/event-details/c3ac8d0da7b05772",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-winnipeg-walkout-songs-which-music-have-gilbert-burns-mike-malott-and-others-used/",
+    "https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html"
   ],
-  "generated_at": "2026-04-20T04:13:46Z",
+  "generated_at": "2026-04-23T00:23:06Z",
   "songs": [
     {
       "fighter": "Mike Malott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "notes": "Post-event article confirmed the UFC Winnipeg crowd sang along to this walkout."
     },
     {
       "fighter": "Gilbert Burns",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Medley",
+      "artist": "Buchecha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi",
+      "notes": "Event-specific walkout article described this as Burns' consistent walkout music; not independently post-event confirmed."
     },
     {
       "fighter": "Charles Jourdain",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Le Chant Des Commandos",
+      "artist": "NTM",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj",
+      "notes": "Event-specific walkout article described this as Jourdain's relied-on entrance music; not independently post-event confirmed."
     },
     {
       "fighter": "Kyler Phillips",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Wav Files",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z",
+      "notes": "Event-specific walkout article listed this track; not independently post-event confirmed."
     },
     {
       "fighter": "Jai Herbert",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Morals and Principles",
+      "artist": "Rimzeee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
+      "notes": "Event-specific walkout article described this as one of Herbert's more constant tracks; not independently post-event confirmed."
     },
     {
       "fighter": "Mandel Nallo",
@@ -58,19 +60,19 @@
     },
     {
       "fighter": "Jasmine Jasudavicius",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "La Bamba",
+      "artist": "Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
+      "notes": "Event-specific walkout article listed this track; not independently post-event confirmed."
     },
     {
       "fighter": "Karine Silva",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "notes": "Event-specific walkout article described this as one of Silva's alternating tracks; not independently post-event confirmed."
     },
     {
       "fighter": "Gauge Young",
