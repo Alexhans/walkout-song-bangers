@@ -1,7 +1,7 @@
 {
   "fighter": "Edson Barboza",
   "slug": "edson-barboza",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Meus Proprios Meios",
@@ -31,6 +31,15 @@
       "date": "2019-09-07"
     },
     {
+      "song_title": "March On, To Mount Zion!",
+      "artist": "I Need This Dave",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/59Xy8r5K9jlw9b7o1Mcuuf",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "Meus Proprios Meios",
       "artist": "Oficina G3",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

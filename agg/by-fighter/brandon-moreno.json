@@ -1,7 +1,7 @@
 {
   "fighter": "Brandon Moreno",
   "slug": "brandon-moreno",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -58,6 +58,15 @@
       "date": "2023-07-08"
     },
     {
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "El Corrido Del Bebe Asesino",
       "artist": "Ariel Macias",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
-    "with_song": 4,
+    "events": 10,
+    "with_song": 5,
     "missing": 5,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

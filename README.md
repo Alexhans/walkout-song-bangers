@@ -193,6 +193,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 0 | 13 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
@@ -203,8 +204,8 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 10 | 16 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 10 | 16 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |
-| [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 0 | 0 | 20 | 4 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 0 | 0 | 24 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 4 | 0 | 18 | 2 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 0 | 7 | 17 |
 <!-- END EVENTS -->
 
 ## How it works

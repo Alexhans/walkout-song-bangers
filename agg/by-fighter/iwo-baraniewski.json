@@ -1,8 +1,17 @@
 {
   "fighter": "Iwo Baraniewski",
   "slug": "iwo-baraniewski",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Polska Siła",
+      "artist": "O.S.T.R., World of Tanks",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7ifJnybxIGtYdqTGnGrEEs",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

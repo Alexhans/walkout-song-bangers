@@ -1,7 +1,7 @@
 {
   "fighter": "Alexandre Pantoja",
   "slug": "alexandre-pantoja",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -58,6 +58,15 @@
       "date": "2025-06-28"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
       "confidence": "bronze",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 7,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

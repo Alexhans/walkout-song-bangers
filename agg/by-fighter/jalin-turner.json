@@ -1,7 +1,7 @@
 {
   "fighter": "Jalin Turner",
   "slug": "jalin-turner",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "New Patek",
@@ -67,6 +67,15 @@
       "date": "2024-04-13"
     },
     {
+      "song_title": "Surrounded (Fight My Battles)",
+      "artist": "Elyssa Smith, UPPERROOM",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "The Climb Back",
       "artist": "J. Cole",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
-    "unique_songs": 7
+    "unique_songs": 8
   }
 }

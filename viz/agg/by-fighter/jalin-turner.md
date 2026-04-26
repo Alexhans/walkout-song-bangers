@@ -1,6 +1,6 @@
 # Jalin Turner
 
-8 event(s) | 8 song(s) found | 7 unique
+9 event(s) | 9 song(s) found | 8 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -11,4 +11,5 @@
 | [2023](../agg/by-year/2023.md) | [UFC 285: Jones vs. Gane](../../ufc-285.md) | My Life | J. Cole | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
 | [2023](../agg/by-year/2023.md) | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | My Life | J. Cole | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
 | [2024](../agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Zendaya | Cozz, J. Cole | [Listen](https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF) |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | Surrounded (Fight My Battles) | Elyssa Smith, UPPERROOM | [Listen](https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | The Climb Back | J. Cole | [Listen](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) |

@@ -1,7 +1,7 @@
 {
   "fighter": "Merab Dvalishvili",
   "slug": "merab-dvalishvili",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2024-02-17"
     },
     {
+      "song_title": "Mtiuluri Ar Daichokebs Sakartvelo",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "Movidar",
       "artist": "Midi Midi",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

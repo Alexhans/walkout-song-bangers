@@ -1,7 +1,7 @@
 {
   "fighter": "Joshua Van",
   "slug": "joshua-van",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Joshua ‘The Fearless’ Van",
@@ -20,6 +20,15 @@
       "event": "UFC 317: Topuria vs. Oliveira",
       "event_slug": "ufc-317",
       "date": "2025-06-28"
+    },
+    {
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Joshua the Fearless Van",
@@ -41,8 +50,8 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
     "unique_songs": 4
   }

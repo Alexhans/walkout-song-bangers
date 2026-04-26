@@ -72,6 +72,11 @@ STRONG_ARTICLE_SIGNALS = (
     "walkout music",
 )
 
+UFCSTATS_TIMEOUT_S = 15
+SEARCH_TIMEOUT_S = 6
+CANDIDATE_TIMEOUT_S = 8
+MAX_RESULTS_PER_QUERY = 8
+
 
 @dataclass(frozen=True)
 class EventInfo:
@@ -110,6 +115,7 @@ def _http_get(
     use_cache: bool = True,
     logger: RunLogger | None = None,
     kind: str = "http",
+    timeout_s: int = 30,
 ) -> str:
     if cache_path and use_cache and cache_path.exists():
         if logger:
@@ -117,8 +123,22 @@ def _http_get(
         return cache_path.read_text(encoding="utf-8", errors="replace")
 
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        body = resp.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout_s) as resp:
+            body = resp.read().decode("utf-8", errors="replace")
+    except Exception as exc:
+        if cache_path and cache_path.exists():
+            if logger:
+                logger.append(
+                    "fetch_stale_fallback",
+                    url=url,
+                    cache_path=str(cache_path),
+                    kind=kind,
+                    error=str(exc),
+                )
+                logger.log_fetch(url=url, cache_hit=True, cache_path=str(cache_path), kind=f"{kind}:stale")
+            return cache_path.read_text(encoding="utf-8", errors="replace")
+        raise
 
     if logger:
         logger.log_fetch(
@@ -133,7 +153,13 @@ def _http_get(
     return body
 
 
-def _cached_http_get(url: str, use_cache: bool = True, logger: RunLogger | None = None, kind: str = "http") -> str:
+def _cached_http_get(
+    url: str,
+    use_cache: bool = True,
+    logger: RunLogger | None = None,
+    kind: str = "http",
+    timeout_s: int = 30,
+) -> str:
     digest = hashlib.sha256(url.encode("utf-8")).hexdigest()
     return _http_get(
         url,
@@ -141,6 +167,7 @@ def _cached_http_get(url: str, use_cache: bool = True, logger: RunLogger | None 
         use_cache=use_cache,
         logger=logger,
         kind=kind,
+        timeout_s=timeout_s,
     )
 
 
@@ -151,6 +178,7 @@ def _fetch_ufcstats_events(use_cache: bool = True, logger: RunLogger | None = No
         use_cache=use_cache,
         logger=logger,
         kind="ufcstats-events",
+        timeout_s=UFCSTATS_TIMEOUT_S,
     )
 
 
@@ -174,7 +202,13 @@ def _parse_ufcstats_events(index_html: str) -> list[EventInfo]:
 
 
 def _parse_ufcstats_date(event_url: str, use_cache: bool = True, logger: RunLogger | None = None) -> str:
-    page = _cached_http_get(event_url, use_cache=use_cache, logger=logger, kind="ufcstats-event")
+    page = _cached_http_get(
+        event_url,
+        use_cache=use_cache,
+        logger=logger,
+        kind="ufcstats-event",
+        timeout_s=UFCSTATS_TIMEOUT_S,
+    )
     match = re.search(r"Date:\s*</i>\s*([^<]+)</li>", page, flags=re.I)
     if not match:
         text = html.unescape(re.sub(r"<[^>]+>", " ", page))
@@ -491,6 +525,29 @@ def _has_strong_event_match(candidate: dict[str, object]) -> bool:
     return any(reason == prefix or reason.startswith(prefix) for reason in reasons for prefix in strong_prefixes)
 
 
+def _has_strong_fight_tracks_signal(candidate: dict[str, object]) -> bool:
+    reasons = [str(reason) for reason in candidate.get("reasons", [])]
+    strong_signals = (
+        "fight-tracks-url",
+        "fight-tracks-text",
+        "fight-tracks-title",
+    )
+    if any(reason in strong_signals or reason.startswith("title-signal:") for reason in reasons):
+        return True
+    return False
+
+
+def _is_disqualified_best_candidate(candidate: dict[str, object]) -> bool:
+    reasons = {str(reason) for reason in candidate.get("reasons", [])}
+    disqualifying_reasons = {
+        "negative-url-token:walkout-time",
+        "negative-url-token:what-time-is",
+        "negative-url-token:preview",
+        "negative-url-token:live",
+    }
+    return any(reason in disqualifying_reasons for reason in reasons)
+
+
 def _score_candidate(event: EventInfo, url: str, page_html: str) -> tuple[int, list[str]]:
     domain = _candidate_domain(url)
     text = html.unescape(page_html)
@@ -629,7 +686,16 @@ def _fetch_search_html(query: str, use_cache: bool, logger: RunLogger | None) ->
     yahoo_url = YAHOO_SEARCH_ROOT + urllib.parse.quote_plus(query)
     try:
         results.append(
-            ("yahoo", _cached_http_get(yahoo_url, use_cache=use_cache, logger=logger, kind="search:yahoo"))
+            (
+                "yahoo",
+                _cached_http_get(
+                    yahoo_url,
+                    use_cache=use_cache,
+                    logger=logger,
+                    kind="search:yahoo",
+                    timeout_s=SEARCH_TIMEOUT_S,
+                ),
+            )
         )
     except Exception as exc:
         if logger:
@@ -638,7 +704,16 @@ def _fetch_search_html(query: str, use_cache: bool, logger: RunLogger | None) ->
     bing_url = BING_SEARCH_ROOT + urllib.parse.quote_plus(query)
     try:
         results.append(
-            ("bing", _cached_http_get(bing_url, use_cache=use_cache, logger=logger, kind="search:bing"))
+            (
+                "bing",
+                _cached_http_get(
+                    bing_url,
+                    use_cache=use_cache,
+                    logger=logger,
+                    kind="search:bing",
+                    timeout_s=SEARCH_TIMEOUT_S,
+                ),
+            )
         )
     except Exception as exc:
         if logger:
@@ -655,6 +730,7 @@ def _discover_candidates(
     for query in _search_queries(event):
         for provider, search_html in _fetch_search_html(query, use_cache=use_cache, logger=logger):
             extracted = _extract_result_urls(search_html) if provider == "yahoo" else _extract_result_urls_bing(search_html)
+            extracted = extracted[:MAX_RESULTS_PER_QUERY]
             for url in extracted:
                 domain = _candidate_domain(url)
                 if not any(domain.endswith(good) or domain == good for good in GOOD_DOMAINS):
@@ -672,7 +748,13 @@ def _discover_candidates(
                         logger.append("candidate_skipped", provider=provider, query=query, url=url, reason=why_low)
                     continue
                 try:
-                    page_html = _cached_http_get(url, use_cache=use_cache, logger=logger, kind="candidate")
+                    page_html = _cached_http_get(
+                        url,
+                        use_cache=use_cache,
+                        logger=logger,
+                        kind="candidate",
+                        timeout_s=CANDIDATE_TIMEOUT_S,
+                    )
                 except Exception as exc:
                     if logger:
                         logger.append("candidate_fetch_error", provider=provider, query=query, url=url, error=str(exc))
@@ -729,6 +811,8 @@ def discover(arg: str, use_cache: bool = True, logger: RunLogger | None = None) 
         and int(candidates[0]["score"]) >= 70
         and "no-fight-tracks-signal" not in candidates[0]["reasons"]
         and _has_strong_event_match(candidates[0])
+        and _has_strong_fight_tracks_signal(candidates[0])
+        and not _is_disqualified_best_candidate(candidates[0])
     ):
         best_candidate = candidates[0]
 

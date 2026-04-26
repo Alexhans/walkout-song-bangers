@@ -31,10 +31,10 @@
       "date": "2024-01-20"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "La Bamba",
+      "artist": "Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
-    "unique_songs": 4
+    "with_song": 5,
+    "missing": 3,
+    "unique_songs": 5
   }
 }

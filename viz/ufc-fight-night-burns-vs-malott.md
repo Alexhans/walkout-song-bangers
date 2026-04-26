@@ -4,14 +4,14 @@
 
 | # | Fighter | Song | Artist | Confidence | Listen |
 |---|---------|------|--------|------------|--------|
-| 1 | [Mike Malott](agg/by-fighter/mike-malott.md) | — | — | missing | — |
-| 2 | [Gilbert Burns](agg/by-fighter/gilbert-burns.md) | — | — | missing | — |
-| 3 | [Charles Jourdain](agg/by-fighter/charles-jourdain.md) | — | — | missing | — |
-| 4 | [Kyler Phillips](agg/by-fighter/kyler-phillips.md) | — | — | missing | — |
-| 5 | [Jai Herbert](agg/by-fighter/jai-herbert.md) | — | — | missing | — |
+| 1 | [Mike Malott](agg/by-fighter/mike-malott.md) | Fat Lip | Sum 41 | bronze | [Spotify](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) |
+| 2 | [Gilbert Burns](agg/by-fighter/gilbert-burns.md) | Medley | Buchecha | bronze | [Spotify](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |
+| 3 | [Charles Jourdain](agg/by-fighter/charles-jourdain.md) | Le Chant Des Commandos | NTM | bronze | [Spotify](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) |
+| 4 | [Kyler Phillips](agg/by-fighter/kyler-phillips.md) | Wav Files | Lupe Fiasco | bronze | [Spotify](https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z) |
+| 5 | [Jai Herbert](agg/by-fighter/jai-herbert.md) | Morals and Principles | Rimzeee | bronze | [Spotify](https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec) |
 | 6 | [Mandel Nallo](agg/by-fighter/mandel-nallo.md) | — | — | missing | — |
-| 7 | [Jasmine Jasudavicius](agg/by-fighter/jasmine-jasudavicius.md) | — | — | missing | — |
-| 8 | [Karine Silva](agg/by-fighter/karine-silva.md) | — | — | missing | — |
+| 7 | [Jasmine Jasudavicius](agg/by-fighter/jasmine-jasudavicius.md) | La Bamba | Los Lobos | bronze | [Spotify](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) |
+| 8 | [Karine Silva](agg/by-fighter/karine-silva.md) | Paint It, Black | The Rolling Stones | bronze | [Spotify](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) |
 | 9 | [Gauge Young](agg/by-fighter/gauge-young.md) | — | — | missing | — |
 | 10 | [Thiago Moises](agg/by-fighter/thiago-moises.md) | — | — | missing | — |
 | 11 | [Marcio Barbosa](agg/by-fighter/marcio-barbosa.md) | — | — | missing | — |
@@ -29,8 +29,8 @@
 | 23 | [John Yannis](agg/by-fighter/john-yannis.md) | — | — | missing | — |
 | 24 | [Jamie Siraj](agg/by-fighter/jamie-siraj.md) | — | — | missing | — |
 
-**Coverage:** 0/24 fighters (0%)
+**Coverage:** 7/24 fighters (29%) | 7 direct Spotify links
 
 ---
-*Sources: [1](http://www.ufcstats.com/event-details/c3ac8d0da7b05772)*
-*Generated: 2026-04-20T04:13:46Z*
+*Sources: [1](http://www.ufcstats.com/event-details/c3ac8d0da7b05772), [2](https://www.essentiallysports.com/ufc-mma-news-ufc-winnipeg-walkout-songs-which-music-have-gilbert-burns-mike-malott-and-others-used/), [3](https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html)*
+*Generated: 2026-04-23T00:23:06Z*

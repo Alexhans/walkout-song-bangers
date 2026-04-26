@@ -1,6 +1,6 @@
 # Gilbert Burns
 
-10 event(s) | 3 song(s) found | 2 unique
+10 event(s) | 4 song(s) found | 2 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,5 +12,5 @@
 | [2023](../agg/by-year/2023.md) | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Medley | Buchecha | [Listen](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |
 | [2024](../agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](../../ufc-fight-night-burns-vs-brady.md) | — | — | |
-| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](../../ufc-fight-night-burns-vs-malott.md) | — | — | |
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](../../ufc-fight-night-burns-vs-malott.md) | Medley | Buchecha | [Listen](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |
 | [2016](../agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Alvarez](../../ufc-fight-night-dos-anjos-vs-alvarez.md) | Medley | Buchecha | [Listen](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |

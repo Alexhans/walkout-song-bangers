@@ -1,7 +1,7 @@
 {
   "fighter": "Brunno Ferreira",
   "slug": "brunno-ferreira",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -20,6 +20,15 @@
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
+    },
+    {
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Buscándole a la Suerte",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

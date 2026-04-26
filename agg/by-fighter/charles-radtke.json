@@ -13,10 +13,10 @@
       "date": "2023-09-09"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Clubbed to Death - Kurayamino Variation",
+      "artist": "Rob Dougan",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Clubbed%20to%20Death%20Kurayamino%20Variation%20Rob%20Dougan",
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 1,
-    "missing": 2,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 1,
+    "unique_songs": 2
   }
 }

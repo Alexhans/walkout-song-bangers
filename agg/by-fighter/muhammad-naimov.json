@@ -1,7 +1,7 @@
 {
   "fighter": "Muhammad Naimov",
   "slug": "muhammad-naimov",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Cristiano Ronaldo Cvrtoon Plevne Turkish",
@@ -11,6 +11,15 @@
       "event": "UFC 294: Makhachev vs. Volkanovski 2",
       "event_slug": "ufc-294",
       "date": "2023-10-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Plevne",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

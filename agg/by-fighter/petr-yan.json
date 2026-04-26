@@ -1,7 +1,7 @@
 {
   "fighter": "Petr Yan",
   "slug": "petr-yan",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "Corbel Trunk",
@@ -67,6 +67,15 @@
       "date": "2024-03-09"
     },
     {
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "Stem for the Belt",
       "artist": "Noggano",
       "confidence": "bronze",
@@ -77,8 +86,8 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 8,
+    "events": 9,
+    "with_song": 9,
     "missing": 0,
     "unique_songs": 4
   }

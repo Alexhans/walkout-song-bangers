@@ -1,6 +1,6 @@
 {
   "year": 2025,
-  "events": 3,
+  "events": 4,
   "tracks": [
     {
       "fighter": "Ilia Topuria",
@@ -781,13 +781,293 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "Mtiuluri Ar Daichokebs Sakartvelo",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Instant Karma! (We All Shine On)",
+      "artist": "John Lennon, Yoko Ono",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Payton Talbott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Bogdan Guskov",
+      "song_title": "Spinnin",
+      "artist": "Connor Price, Bens",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Manuel Torres",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Chris Duncan",
+      "song_title": "Outlawed Tunes on Outlawed Pipes",
+      "artist": "Tara Howley",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6mybfGYiRVBFq6mdQBSRIf",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "Holy Ground (feat. Jessie Murph)",
+      "artist": "BigXthaPlug",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Fares Ziam",
+      "song_title": "Darbuna Darbun",
+      "artist": "S'time",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Nazim Sadykhov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Surrounded (Fight My Battles)",
+      "artist": "Elyssa Smith, UPPERROOM",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "March On, To Mount Zion!",
+      "artist": "I Need This Dave",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/59Xy8r5K9jlw9b7o1Mcuuf",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Iwo Baraniewski",
+      "song_title": "Polska Siła",
+      "artist": "O.S.T.R., World of Tanks",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7ifJnybxIGtYdqTGnGrEEs",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Ibo Aslan",
+      "song_title": "Savaş",
+      "artist": "Aytekin Ataş, Soner Akalın",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1tNC76uiXKIs1xfvYC1zcm",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Mansur Abdul-Malik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Antonio Trocoli",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Mairon Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "fighter": "Muhammad Naimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     }
   ],
   "stats": {
-    "total_fighters": 78,
-    "with_song": 55,
-    "playable_tracks": 50,
-    "unique_playable_tracks": 49,
-    "missing": 23
+    "total_fighters": 106,
+    "with_song": 70,
+    "playable_tracks": 65,
+    "unique_playable_tracks": 63,
+    "missing": 36
   }
 }

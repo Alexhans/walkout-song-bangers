@@ -1,0 +1,236 @@
+{
+  "event": "UFC 323: Dvalishvili vs. Yan 2",
+  "event_slug": "ufc-323",
+  "date": "2025-12-06",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "http://www.ufcstats.com/event-details/bd92cf5da5413d2a"
+  ],
+  "generated_at": "2026-04-26T17:22:00Z",
+  "songs": [
+    {
+      "fighter": "Petr Yan",
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Merab Dvalishvili",
+      "song_title": "Mtiuluri Ar Daichokebs Sakartvelo",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Alexandre Pantoja",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "Instant Karma! (We All Shine On)",
+      "artist": "John Lennon, Yoko Ono",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Brandon Moreno",
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Payton Talbott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Henry Cejudo",
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Jan Blachowicz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Bogdan Guskov",
+      "song_title": "Spinnin",
+      "artist": "Connor Price, Bens",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Manuel Torres",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Chris Duncan",
+      "song_title": "Outlawed Tunes on Outlawed Pipes",
+      "artist": "Tara Howley",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6mybfGYiRVBFq6mdQBSRIf",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Terrance McKinney",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Maycee Barber",
+      "song_title": "Holy Ground (feat. Jessie Murph)",
+      "artist": "BigXthaPlug",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Fares Ziam",
+      "song_title": "Darbuna Darbun",
+      "artist": "S'time",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Nazim Sadykhov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Brunno Ferreira",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Marvin Vettori",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Jalin Turner",
+      "song_title": "Surrounded (Fight My Battles)",
+      "artist": "Elyssa Smith, UPPERROOM",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "March On, To Mount Zion!",
+      "artist": "I Need This Dave",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/59Xy8r5K9jlw9b7o1Mcuuf",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Iwo Baraniewski",
+      "song_title": "Polska Siła",
+      "artist": "O.S.T.R., World of Tanks",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7ifJnybxIGtYdqTGnGrEEs",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Ibo Aslan",
+      "song_title": "Savaş",
+      "artist": "Aytekin Ataş, Soner Akalın",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1tNC76uiXKIs1xfvYC1zcm",
+      "notes": "Human-verified UFC 323 ground truth."
+    },
+    {
+      "fighter": "Mansur Abdul-Malik",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Antonio Trocoli",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Mairon Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Muhammad Naimov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+    }
+  ]
+}

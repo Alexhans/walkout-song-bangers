@@ -1,6 +1,6 @@
 # Marvin Vettori
 
-8 event(s) | 6 song(s) found | 6 unique
+9 event(s) | 6 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,5 +10,6 @@
 | [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 286: Edwards vs. Usman 3](../../ufc-286-edwards-vs-usman-3.md) | Victory | Diddy feat. Notorious B.I.G. and Busta Rhymes | [Listen](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) |
 | [2025](../agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | Eye of the Tiger | Survivor | [Listen](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Costa vs. Vettori](../../ufc-fight-night-costa-vs-vettori.md) | The Italian Dream | Greg Willen | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Gane vs. Tuivasa](../../ufc-fight-night-gane-vs-tuivasa.md) | Fratelli D'Itaalia | Inno di Mameli | [Listen](https://open.spotify.com/track/5rTMn6Cz9MsIqMDVnK9xtu) |

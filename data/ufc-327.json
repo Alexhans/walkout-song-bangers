@@ -109,7 +109,7 @@
       "fighter": "Mateusz Gamrot",
       "song_title": "My Songs Know What You Did In The Dark (Light Em Up)",
       "artist": "Fall Out Boy",
-      "confidence": "bronze",
+      "confidence": "gold",
       "spotify_url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl",
       "notes": ""
     },
@@ -173,9 +173,14 @@
       "fighter": "Kelvin Gastelum",
       "song_title": "El Palenque",
       "artist": "Vicente Fernandez",
-      "confidence": "bronze",
+      "confidence": "gold",
       "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
-      "notes": ""
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Kelvin Gastelum used 'El Palenque' by Vicente Fernandez at UFC 327."
+      }
     },
     {
       "fighter": "Vicente Luque",
@@ -187,19 +192,29 @@
     },
     {
       "fighter": "Charles Radtke",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Clubbed to Death - Kurayamino Variation",
+      "artist": "Rob Dougan",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Clubbed%20to%20Death%20Kurayamino%20Variation%20Rob%20Dougan",
+      "notes": "Human-verified by user in chat; confirmed with Google sound detection.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User provided ground-truth correction and said it was confirmed with Google sound detection."
+      }
     },
     {
       "fighter": "Francisco Prado",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "El Nuevo Campeon",
+      "artist": "Amar Azul",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/El%20Nuevo%20Campeon%20Amar%20Azul",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User provided ground-truth correction: Francisco Prado entered with 'El Nuevo Campeon' by Amar Azul."
+      }
     }
   ]
 }

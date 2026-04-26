@@ -1,7 +1,7 @@
 {
   "fighter": "Tatsuro Taira",
   "slug": "tatsuro-taira",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Power to the People",
@@ -11,6 +11,15 @@
       "event": "UFC 290: Volkanovski vs. Rodriguez",
       "event_slug": "ufc-290",
       "date": "2023-07-08"
+    },
+    {
+      "song_title": "Instant Karma! (We All Shine On)",
+      "artist": "John Lennon, Yoko Ono",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Power to the People",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

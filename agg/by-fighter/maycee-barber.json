@@ -1,7 +1,7 @@
 {
   "fighter": "Maycee Barber",
   "slug": "maycee-barber",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Bad Guy",
@@ -29,6 +29,15 @@
       "event": "UFC 299: O'Malley vs. Vera 2",
       "event_slug": "ufc-299",
       "date": "2024-03-09"
+    },
+    {
+      "song_title": "Holy Ground (feat. Jessie Murph)",
+      "artist": "BigXthaPlug",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Somethin’ Bad",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 6,
+    "events": 8,
+    "with_song": 7,
     "missing": 1,
-    "unique_songs": 6
+    "unique_songs": 7
   }
 }

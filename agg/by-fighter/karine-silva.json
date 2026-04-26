@@ -1,7 +1,7 @@
 {
   "fighter": "Karine Silva",
   "slug": "karine-silva",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Pantera Negra",
@@ -26,6 +26,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
       "date": "2026-04-18"
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 4,
+    "events": 6,
+    "with_song": 5,
     "missing": 1,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

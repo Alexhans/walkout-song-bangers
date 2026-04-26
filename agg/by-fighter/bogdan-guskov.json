@@ -1,8 +1,17 @@
 {
   "fighter": "Bogdan Guskov",
   "slug": "bogdan-guskov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "Spinnin",
+      "artist": "Connor Price, Bens",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
-    "with_song": 1,
+    "events": 3,
+    "with_song": 2,
     "missing": 1,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

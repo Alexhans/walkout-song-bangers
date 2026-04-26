@@ -1,12 +1,13 @@
 # Terrance McKinney
 
-10 event(s) | 7 song(s) found | 5 unique
+11 event(s) | 7 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](../../ufc-283.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](../../ufc-317.md) | — | — | |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | Hussle and Motivate | Nipsey Hussle | [Listen](https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Holm vs. Bueno Silva](../../ufc-fight-night-holm-vs-bueno-silva.md) | Can't Tell Me Nothing | Kanye West | [Listen](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | Right Hand To God | Nipsey Hussle | [Listen](https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7) |

@@ -1,8 +1,17 @@
 {
   "fighter": "Ibo Aslan",
   "slug": "ibo-aslan",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "Savaş",
+      "artist": "Aytekin Ataş, Soner Akalın",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1tNC76uiXKIs1xfvYC1zcm",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
     {
       "song_title": "Bir Ölür,bin Diriliriz!!!",
       "artist": "Komando Mar$i",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 1,
+    "events": 2,
+    "with_song": 2,
     "missing": 0,
-    "unique_songs": 1
+    "unique_songs": 2
   }
 }

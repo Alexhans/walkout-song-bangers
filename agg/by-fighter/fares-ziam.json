@@ -1,7 +1,7 @@
 {
   "fighter": "Fares Ziam",
   "slug": "fares-ziam",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Never Personal",
@@ -20,6 +20,15 @@
       "event": "UFC 263: Adesanya vs. Vettori 2",
       "event_slug": "ufc-263",
       "date": "2021-06-12"
+    },
+    {
+      "song_title": "Darbuna Darbun",
+      "artist": "S'time",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "On La Pas Choisi",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 5,
+    "events": 6,
+    "with_song": 6,
     "missing": 0,
-    "unique_songs": 5
+    "unique_songs": 6
   }
 }

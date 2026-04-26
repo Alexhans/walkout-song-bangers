@@ -1,7 +1,7 @@
 {
   "fighter": "Chris Duncan",
   "slug": "chris-duncan",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Braveheart",
@@ -11,6 +11,15 @@
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
+    },
+    {
+      "song_title": "Outlawed Tunes on Outlawed Pipes",
+      "artist": "Tara Howley",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6mybfGYiRVBFq6mdQBSRIf",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Freed From Desire",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

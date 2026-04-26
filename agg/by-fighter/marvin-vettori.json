@@ -1,7 +1,7 @@
 {
   "fighter": "Marvin Vettori",
   "slug": "marvin-vettori",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
     {
       "song_title": "",
@@ -58,6 +58,15 @@
       "date": "2025-07-19"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
       "song_title": "The Italian Dream",
       "artist": "Greg Willen",
       "confidence": "bronze",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 6,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 6
   }
 }

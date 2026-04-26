@@ -1,7 +1,7 @@
 {
   "fighter": "Henry Cejudo",
   "slug": "henry-cejudo",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "",
@@ -56,11 +56,20 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     }
   ],
   "stats": {
-    "events": 6,
-    "with_song": 5,
+    "events": 7,
+    "with_song": 6,
     "missing": 1,
     "unique_songs": 2
   }

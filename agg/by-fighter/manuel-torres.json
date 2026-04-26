@@ -1,8 +1,17 @@
 {
   "fighter": "Manuel Torres",
   "slug": "manuel-torres",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
     {
       "song_title": "Last Kings",
       "artist": "Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }
