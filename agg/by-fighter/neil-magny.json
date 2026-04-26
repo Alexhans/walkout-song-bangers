@@ -1,7 +1,7 @@
 {
   "fighter": "Neil Magny",
   "slug": "neil-magny",
-  "appearances": 12,
+  "appearances": 13,
   "walkouts": [
     {
       "song_title": "No Regrets",
@@ -103,6 +103,15 @@
       "date": "2023-06-24"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
+    {
       "song_title": "Every Chance I Get",
       "artist": "DJ Khaled",
       "confidence": "bronze",
@@ -113,9 +122,9 @@
     }
   ],
   "stats": {
-    "events": 12,
+    "events": 13,
     "with_song": 12,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

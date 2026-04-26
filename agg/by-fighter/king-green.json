@@ -1,7 +1,7 @@
 {
   "fighter": "King Green",
   "slug": "king-green",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
     {
       "song_title": "",
@@ -80,15 +80,24 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 1,
-    "missing": 8,
+    "missing": 9,
     "unique_songs": 1
   }
 }

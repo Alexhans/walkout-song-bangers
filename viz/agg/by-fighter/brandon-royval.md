@@ -1,6 +1,6 @@
 # Brandon Royval
 
-6 event(s) | 4 song(s) found | 4 unique
+7 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -10,3 +10,4 @@
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Cannonier vs. Gastelum](../../ufc-fight-night-cannonier-vs-gastelum.md) | Hustler's Ambition | 50 Cent | [Listen](https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Chikadze](../../ufc-fight-night-kattar-vs-chikadze.md) | Shimmy Shimmy Ya | Ole Dirty Bastard | [Listen](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Royval 2](../../ufc-fight-night-moreno-vs-royval-2.md) | — | — | |
+| [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |

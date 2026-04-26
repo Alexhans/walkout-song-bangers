@@ -1,7 +1,7 @@
 {
   "fighter": "Luana Santos",
   "slug": "luana-santos",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Fall Out Boy & Alicia Keys",
@@ -22,6 +22,15 @@
       "date": "2023-08-12"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
+    {
       "song_title": "Fall Out Boy & Alicia Keys",
       "artist": "Christina Grimmie & Mike Tompkins",
       "confidence": "bronze",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

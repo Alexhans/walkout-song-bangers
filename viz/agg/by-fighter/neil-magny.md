@@ -1,6 +1,6 @@
 # Neil Magny
 
-12 event(s) | 12 song(s) found | 3 unique
+13 event(s) | 12 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -15,4 +15,5 @@
 | [2018](../agg/by-year/2018.md) | [UFC Fight Night 140: Magny vs. Ponzinibbio](../../ufc-fight-night-140.md) | No Regrets | Lecrae ft. Suzy Rock | [Listen](https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Daukaus](../../ufc-fight-night-blaydes-vs-daukaus.md) | Every Chance I Get | DJ Khaled | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Emmett vs. Topuria](../../ufc-fight-night-emmett-vs-topuria.md) | No Regrets | Lecrae | [Listen](https://open.spotify.com/track/4BYMzeiusYBat7qjpjuv26) |
+| [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Tsarukyan vs. Gamrot](../../ufc-fight-night-tsarukyan-vs-gamrot.md) | Every Chance I Get | DJ Khaled | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |

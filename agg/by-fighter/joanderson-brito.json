@@ -1,7 +1,7 @@
 {
   "fighter": "Joanderson Brito",
   "slug": "joanderson-brito",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "",
@@ -40,6 +40,15 @@
       "date": "2022-01-15"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
+    {
       "song_title": "Pivete e Sal",
       "artist": "Dodo Pressao",
       "confidence": "bronze",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 4,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

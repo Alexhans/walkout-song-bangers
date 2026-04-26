@@ -1,7 +1,7 @@
 {
   "fighter": "Manel Kape",
   "slug": "manel-kape",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
     {
       "song_title": "Festa Da Paz",
@@ -38,12 +38,21 @@
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 4,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

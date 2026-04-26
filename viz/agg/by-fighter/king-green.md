@@ -1,6 +1,6 @@
 # King Green
 
-9 event(s) | 1 song(s) found | 1 unique
+10 event(s) | 1 song(s) found | 1 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
@@ -12,4 +12,5 @@
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Makhachev vs. Green](../../ufc-fight-night-makhachev-vs-green.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Tuve Hermano | Los Gemelos De Sinaloa | [Listen](https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3) |
+| [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |
 | [2017](../agg/by-year/2017.md) | [UFC on FOX: Johnson vs. Reis](../../ufc-on-fox-johnson-vs-reis.md) | — | — | |
