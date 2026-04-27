@@ -9,10 +9,12 @@ Usage:
 """
 
 import datetime
+import html as html_mod
 import json
 import re
 import sys
 import time
+import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
@@ -203,6 +205,73 @@ def write_viz_top_songs(song_data):
     return out_path
 
 
+_UFCSTATS_EVENTS_URL = "http://www.ufcstats.com/statistics/events/completed?page=all"
+_MONTH = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
+
+
+def _parse_iso_date(date_text: str) -> str:
+    dm = re.match(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})", date_text.strip())
+    if not dm:
+        return ""
+    mon = _MONTH.get(dm.group(1).lower()[:3])
+    return f"{int(dm.group(3)):04d}-{mon:02d}-{int(dm.group(2)):02d}" if mon else ""
+
+
+def _refresh_ufcstats_events(events_path: Path) -> list[dict]:
+    """Re-scrape ufcstats only when the last known event date has passed."""
+    existing: list[dict] = []
+    if events_path.exists():
+        with open(events_path) as f:
+            existing = json.load(f)
+
+    today = datetime.date.today().isoformat()
+    last_date = max((e["date"] for e in existing), default="")
+    if last_date > today:
+        return existing
+
+    # Last known event has passed — fetch the full index for new entries
+    try:
+        with urllib.request.urlopen(_UFCSTATS_EVENTS_URL, timeout=15) as r:
+            index_html = r.read().decode("utf-8", errors="replace")
+    except Exception as exc:
+        print(f"Warning: could not refresh ufcstats events: {exc}", file=sys.stderr)
+        return existing
+
+    known_names = {e["name"] for e in existing}
+    new_events: list[dict] = []
+    for m in re.finditer(
+        r'<a\s+href="(?P<url>http://www\.ufcstats\.com/event-details/[^"]+)"[^>]*>(?P<name>[^<]+)</a>',
+        index_html,
+    ):
+        name = " ".join(html_mod.unescape(m.group("name")).split())
+        if not name or name in known_names:
+            continue
+        known_names.add(name)
+        try:
+            with urllib.request.urlopen(m.group("url"), timeout=15) as r:
+                event_html = r.read().decode("utf-8", errors="replace")
+            date_m = re.search(r"Date:\s*</i>\s*([^<]+)</li>", event_html, re.I)
+            if not date_m:
+                text = html_mod.unescape(re.sub(r"<[^>]+>", " ", event_html))
+                date_m = re.search(r"\bDate:\s*([A-Za-z]+\s+\d{1,2},\s+\d{4})\b", text)
+            date = _parse_iso_date(date_m.group(1)) if date_m else ""
+            if date:
+                new_events.append({"name": name, "date": date})
+        except Exception:
+            continue
+
+    if new_events:
+        new_events.sort(key=lambda e: e["date"])
+        updated = existing + new_events
+        with open(events_path, "w") as f:
+            json.dump(updated, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+        print(f"ufcstats-events.json: added {len(new_events)} event(s)")
+        return updated
+
+    return existing
+
+
 def _load_ufcstats_event_counts():
     """Count total UFC events per year from agg/ufcstats-events.json, up to today."""
     events_path = AGG_DIR / "ufcstats-events.json"
@@ -210,11 +279,10 @@ def _load_ufcstats_event_counts():
         return {}
     today = datetime.date.today().isoformat()
     counts: dict[str, int] = {}
-    with open(events_path) as f:
-        for event in json.load(f):
-            if event.get("date", "") <= today:
-                year = event["date"][:4]
-                counts[year] = counts.get(year, 0) + 1
+    for event in _refresh_ufcstats_events(events_path):
+        if event.get("date", "") <= today:
+            year = event["date"][:4]
+            counts[year] = counts.get(year, 0) + 1
     return counts
 
 
@@ -223,6 +291,7 @@ def write_viz_by_year(year_results):
     VIZ_AGG_DIR.mkdir(parents=True, exist_ok=True)
     out_path = VIZ_AGG_DIR / "by-year.md"
     event_counts = _load_ufcstats_event_counts()
+    today = datetime.date.today().isoformat()
     lines = [
         "# Walkout Songs by Year",
         "",
@@ -235,11 +304,12 @@ def write_viz_by_year(year_results):
         total = s["total_fighters"]
         song_cov = f"{s['with_song'] / total * 100:.0f}%" if total else "0%"
         total_events = event_counts.get(str(year))
+        past_covered = len(set(t["event_slug"] for t in data["tracks"] if t["date"] <= today))
         if total_events:
-            events_cell = f"[{data['events']}/{total_events}](by-year/{year}.md)"
-            event_cov = f"{data['events'] / total_events * 100:.0f}%"
+            events_cell = f"[{past_covered}/{total_events}](by-year/{year}.md)"
+            event_cov = f"{past_covered / total_events * 100:.0f}%"
         else:
-            events_cell = str(data["events"])
+            events_cell = str(past_covered)
             event_cov = ""
         lines.append(f"| {year} | {events_cell} | {event_cov} | {s['with_song']} | {s['unique_playable_tracks']} | {s['missing']} | {song_cov} |")
     out_path.write_text("\n".join(lines) + "\n")
@@ -272,9 +342,11 @@ def write_viz_year_page(year: int, year_data, events_for_year: list):
     s = year_data["stats"]
     event_counts = _load_ufcstats_event_counts()
     total_events = event_counts.get(str(year), "?")
+    today = datetime.date.today().isoformat()
+    past_covered = len(set(t["event_slug"] for t in year_data["tracks"] if t["date"] <= today))
     song_cov = f"{s['with_song'] / s['total_fighters'] * 100:.0f}%" if s["total_fighters"] else "0%"
     lines += [
-        f"{year_data['events']}/{total_events} events · {s['with_song']} songs found · {song_cov} song coverage (parsed events)",
+        f"{past_covered}/{total_events} events · {s['with_song']} songs found · {song_cov} song coverage (parsed events)",
         "",
     ]
 
