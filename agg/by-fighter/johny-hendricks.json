@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Country Boy Can Survive",
-      "artist": "Hank Williams Jr.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/77dcKrzRUI02XjHd2okARp",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Simple Man",
-      "artist": "Charlie Daniels Band",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
       "song_title": "I'll Sing About Mine",
       "artist": "Josh Abbott Band",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
+    },
+    {
+      "song_title": "Simple Man",
+      "artist": "Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "Country Boy Can Survive",
+      "artist": "Hank Williams Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77dcKrzRUI02XjHd2okARp",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

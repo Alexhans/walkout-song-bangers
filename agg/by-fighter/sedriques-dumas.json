@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Ready",
-      "artist": "Young Nudy",
+      "song_title": "Pressure",
+      "artist": "BossMan Dlow",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
+      "spotify_url": "https://open.spotify.com/track/2uZbT1yE9LPWWBQ5amENvt",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
       "song_title": "Still Stoned on Ocean",
@@ -22,6 +22,15 @@
       "date": "2024-03-30"
     },
     {
+      "song_title": "Ready",
+      "artist": "Young Nudy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
       "song_title": "Orange Village",
       "artist": "Larry June, The Alchemist and Slum Village",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Emmett vs. Topuria",
       "event_slug": "ufc-fight-night-emmett-vs-topuria",
       "date": "2023-06-24"
-    },
-    {
-      "song_title": "Pressure",
-      "artist": "BossMan Dlow",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2uZbT1yE9LPWWBQ5amENvt",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
     },
     {
       "song_title": "Tweak Out",

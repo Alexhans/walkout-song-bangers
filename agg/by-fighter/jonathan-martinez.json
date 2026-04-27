@@ -8,9 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "El Papa de los Pollitos",
@@ -22,31 +22,13 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
-    },
-    {
-      "song_title": "Have You Ever Seen the Rain?",
-      "artist": "Creedence Clearwater Revival",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
-    },
-    {
-      "song_title": "El Papa de Los Pollitos",
+      "song_title": "El Papa de los Pollitos",
       "artist": "Los Tucanes De Tijuana",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
-      "event": "UFC Fight Night: Makhachev vs. Green",
-      "event_slug": "ufc-fight-night-makhachev-vs-green",
-      "date": "2022-02-26"
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     },
     {
       "song_title": "El Papá De Los Pollitos",
@@ -58,13 +40,31 @@
       "date": "2023-03-11"
     },
     {
-      "song_title": "El Papa de los Pollitos",
+      "song_title": "El Papa de Los Pollitos",
       "artist": "Los Tucanes De Tijuana",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "Have You Ever Seen the Rain?",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {

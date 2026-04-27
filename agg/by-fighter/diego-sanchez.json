@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Untouchable",
-      "artist": "James Brown feat. Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "Sandstorm",
-      "artist": "Darude",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
       "song_title": "Fire Squad",
       "artist": "J. Cole",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
       "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
       "date": "2016-11-05"
+    },
+    {
+      "song_title": "Sandstorm",
+      "artist": "Darude",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    },
+    {
+      "song_title": "Untouchable",
+      "artist": "James Brown feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

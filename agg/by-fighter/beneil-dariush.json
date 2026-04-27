@@ -4,22 +4,40 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Broken Vessels (Amazing Grace)",
-      "artist": "Hillsong United",
+      "song_title": "A Beautiful Exchange",
+      "artist": "Hillsong Worship",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc",
-      "event": "UFC 216: Ferguson vs. Lee",
-      "event_slug": "ufc-216",
-      "date": "2017-10-07"
+      "spotify_url": "https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "Still Rolling Stones",
+      "artist": "Lauren Daigle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
     },
     {
       "song_title": "",
@@ -35,36 +53,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     },
     {
-      "song_title": "Still Rolling Stones",
-      "artist": "Lauren Daigle",
+      "song_title": "Broken Vessels (Amazing Grace)",
+      "artist": "Hillsong United",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
-      "song_title": "A Beautiful Exchange",
-      "artist": "Hillsong Worship",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
-    },
-    {
-      "song_title": "Still Rolling Stones",
-      "artist": "Lauren Daigle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8",
-      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
-      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
-      "date": "2023-12-02"
+      "spotify_url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
     },
     {
       "song_title": "Rock With You",

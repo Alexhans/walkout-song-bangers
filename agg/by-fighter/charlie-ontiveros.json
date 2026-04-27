@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Kung Fu Fighting",
-      "artist": "Ceelo Green feat. Jack Black",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
       "song_title": "Back in My Bag",
       "artist": "Aha Gazelle",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Kung Fu Fighting",
+      "artist": "Ceelo Green feat. Jack Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

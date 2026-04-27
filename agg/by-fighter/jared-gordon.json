@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Edge of Seventeen",
-      "artist": "Stevie Nicks",
+      "song_title": "By Faith I Will Find It",
+      "artist": "Steven Furtick",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "spotify_url": "https://open.spotify.com/track/56GjiZZduzhDzWDw7L5Pp8",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "Edge of Seventeen",
@@ -22,13 +22,13 @@
       "date": "2022-12-10"
     },
     {
-      "song_title": "By Faith I Will Find It",
-      "artist": "Steven Furtick",
+      "song_title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/56GjiZZduzhDzWDw7L5Pp8",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "spotify_url": "https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     },
     {
       "song_title": "Lux Aeterna",

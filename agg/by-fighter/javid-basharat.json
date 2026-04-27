@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "You Can’t Stop Me Now",
-      "artist": "RZA",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/You%20Can%E2%80%99t%20Stop%20Me%20Now%20RZA",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
       "song_title": "Ready For War (HBO Instrumental)",
       "artist": "50 Cent",
       "confidence": "bronze",
@@ -31,13 +22,13 @@
       "date": "2024-03-02"
     },
     {
-      "song_title": "Kids",
-      "artist": "MGMT",
+      "song_title": "You Can’t Stop Me Now",
+      "artist": "RZA",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
-      "event": "UFC Fight Night: Sandhagen vs. Song",
-      "event_slug": "ufc-fight-night-sandhagen-vs-song",
-      "date": "2022-09-17"
+      "spotify_url": "https://open.spotify.com/search/You%20Can%E2%80%99t%20Stop%20Me%20Now%20RZA",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     },
     {
       "song_title": "Kids",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Strickland vs. Imavov",
       "event_slug": "ufc-fight-night-strickland-vs-imavov",
       "date": "2023-01-14"
+    },
+    {
+      "song_title": "Kids",
+      "artist": "MGMT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     }
   ],
   "stats": {

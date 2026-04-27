@@ -8,27 +8,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "Many Men (Wish Death)",
       "artist": "50 Cent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
     },
     {
       "song_title": "Many Men (Wish Death)",
@@ -44,36 +44,18 @@
       "artist": "50 Cent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
-    },
-    {
-      "song_title": "Many Men (Wish Death)",
-      "artist": "50 Cent",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
-    },
-    {
-      "song_title": "Many Men (Wish Death)",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-140",
-      "date": "2018-11-17"
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     },
     {
       "song_title": "Many Men (Wish Death)",
@@ -83,6 +65,24 @@
       "event": "UFC Fight Night: Cannonier vs. Gastelum",
       "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
       "date": "2021-08-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
     },
     {
       "song_title": "Many Men (Wish Death)",

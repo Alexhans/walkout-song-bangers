@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "I Like These Odds",
-      "artist": "Jay Kill & The Hustle Standard",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2vA00G6RJAR6XAZB4SOPKV",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
       "song_title": "Are You Ready",
       "artist": "AC/DC",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Kattar vs. Chikadze",
       "event_slug": "ufc-fight-night-kattar-vs-chikadze",
       "date": "2022-01-15"
+    },
+    {
+      "song_title": "I Like These Odds",
+      "artist": "Jay Kill & The Hustle Standard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2vA00G6RJAR6XAZB4SOPKV",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Hold Strong",

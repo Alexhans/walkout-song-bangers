@@ -8,51 +8,6 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "Stand In Faith",
-      "artist": "Danny Gokey",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/12gkIsBWFWPHOgX7odzUCK",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "BLUE NOTES 2",
-      "artist": "Meek Mill feat Lil Uzi Vert",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2kdhiombBoiHjvSKG3EI0m",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "Level Up",
-      "artist": "Meek Mill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5VNYBJB9n3ZWpuxNwxZpSx",
-      "event": "UFC Fight Night: Muniz vs. Allen",
-      "event_slug": "ufc-fight-night-muniz-vs-allen",
-      "date": "2023-02-25"
-    },
-    {
-      "song_title": "Kwaku the Traveler",
-      "artist": "Black Sherf",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD",
-      "event": "UFC Fight Night: Sandhagen vs. Font",
-      "event_slug": "ufc-fight-night-sandhagen-vs-font",
-      "date": "2023-08-05"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -67,6 +22,24 @@
       "date": "2024-03-16"
     },
     {
+      "song_title": "Kwaku the Traveler",
+      "artist": "Black Sherf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Level Up",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VNYBJB9n3ZWpuxNwxZpSx",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -74,6 +47,33 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "BLUE NOTES 2",
+      "artist": "Meek Mill feat Lil Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kdhiombBoiHjvSKG3EI0m",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Stand In Faith",
+      "artist": "Danny Gokey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12gkIsBWFWPHOgX7odzUCK",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     }
   ],
   "stats": {

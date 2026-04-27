@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "FR",
-      "artist": "Lil' Baby",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "FR",
+      "artist": "Lil' Baby",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     }
   ],
   "stats": {

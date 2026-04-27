@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
-    },
-    {
       "song_title": "Cancion del Mariachi",
-      "artist": "Los Lobos & Antonio Banderas",
+      "artist": "Antonio Banderas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
-      "event": "UFC Fight Night: Holloway vs. Rodriguez",
-      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
-      "date": "2021-11-13"
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
       "song_title": "Cancion del Mariachi",
@@ -32,12 +23,21 @@
     },
     {
       "song_title": "Cancion del Mariachi",
-      "artist": "Antonio Banderas",
+      "artist": "Los Lobos & Antonio Banderas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

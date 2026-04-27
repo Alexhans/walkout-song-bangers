@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Amirjon Ruziev",
-      "artist": "Mardi Vatan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Amirjon%20Ruziev%20Mardi%20Vatan",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
       "song_title": "Точикистони Озоди Ман (My Free Tajikistan)",
       "artist": "Саидкул Билол (Saidkul Bilal)",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Amirjon Ruziev",
+      "artist": "Mardi Vatan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Amirjon%20Ruziev%20Mardi%20Vatan",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     },
     {
       "song_title": "Ariaee",

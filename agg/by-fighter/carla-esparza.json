@@ -4,40 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Harvester of Sorrow",
-      "artist": "Metallica",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Bodies",
-      "artist": "Drowning Pool",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "Shipping Up to Boston (Instrumental)",
+      "song_title": "I’m Shipping Up to Boston",
       "artist": "Dropkick Murphys",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
-      "song_title": "I'M SHIPPING UP TO BOSTON",
-      "artist": "Dropkick Murphys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "I’m Shipping Up to Boston",
@@ -49,13 +22,31 @@
       "date": "2022-11-12"
     },
     {
-      "song_title": "I’m Shipping Up to Boston",
+      "song_title": "I'M SHIPPING UP TO BOSTON",
       "artist": "Dropkick Murphys",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "Shipping Up to Boston (Instrumental)",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "Bodies",
+      "artist": "Drowning Pool",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
       "song_title": "Walk",
@@ -65,6 +56,15 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
+    },
+    {
+      "song_title": "Harvester of Sorrow",
+      "artist": "Metallica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

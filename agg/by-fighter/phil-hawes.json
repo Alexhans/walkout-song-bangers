@@ -8,18 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
-    },
-    {
-      "song_title": "UNCHAINED",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
+      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+      "date": "2024-01-13"
     },
     {
       "song_title": "Electrifying the Rock",
@@ -29,15 +20,6 @@
       "event": "UFC 288: Sterling vs. Cejudo",
       "event_slug": "ufc-288",
       "date": "2023-05-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
-      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
-      "date": "2024-01-13"
     },
     {
       "song_title": "",
@@ -56,6 +38,24 @@
       "event": "UFC Fight Night: Kattar vs. Emmett",
       "event_slug": "ufc-fight-night-kattar-vs-emmett",
       "date": "2022-06-18"
+    },
+    {
+      "song_title": "UNCHAINED",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

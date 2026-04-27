@@ -8,9 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
+      "song_title": "Malandragem (Intro)",
+      "artist": "MC Kako",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Zc6f69uo4TJBBMmY5AczE",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     },
     {
       "song_title": "",
@@ -22,13 +31,13 @@
       "date": "2023-01-21"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Burns vs. Malott",
-      "event_slug": "ufc-fight-night-burns-vs-malott",
-      "date": "2026-04-18"
+      "song_title": "O Preco",
+      "artist": "Charlie Brown Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     },
     {
       "song_title": "Pais do Futebol",
@@ -40,22 +49,13 @@
       "date": "2021-11-13"
     },
     {
-      "song_title": "O Preco",
-      "artist": "Charlie Brown Jr.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2HegWuw33lBqopjopozt7N",
-      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
-      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
-      "date": "2022-06-25"
-    },
-    {
-      "song_title": "Malandragem (Intro)",
-      "artist": "MC Kako",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0Zc6f69uo4TJBBMmY5AczE",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     }
   ],
   "stats": {

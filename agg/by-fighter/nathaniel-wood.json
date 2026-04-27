@@ -4,13 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
+      "song_title": "I’m a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    },
+    {
+      "song_title": "I'm a Man",
+      "artist": "Black Strobe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
     },
     {
       "song_title": "I’m a Man",
@@ -26,9 +35,9 @@
       "artist": "Black Strobe",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
-      "event": "UFC 304: Edwards vs. Muhammad 2",
-      "event_slug": "ufc-304",
-      "date": "2024-07-27"
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     },
     {
       "song_title": "I'm a Man",
@@ -40,22 +49,13 @@
       "date": "2022-07-23"
     },
     {
-      "song_title": "I’m a Man",
-      "artist": "Black Strobe",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
-    },
-    {
-      "song_title": "I'm a Man",
-      "artist": "Black Strobe",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5GfhZx3vzANh2z1mbjMR2K",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

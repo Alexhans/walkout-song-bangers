@@ -4,33 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
-      "song_title": "The Rocky Road to Dublin",
-      "artist": "High Kings and Insomnia by Faithless",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/The%20Rocky%20Road%20to%20Dublin%20High%20Kings%20and%20Insomnia%20by%20Faithless",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
       "song_title": "Don’t Take Your Guns to Town",
       "artist": "Johnny Cash",
       "confidence": "bronze",
@@ -38,15 +11,6 @@
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
-    },
-    {
-      "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
-      "artist": "Snap!",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
-      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-140",
-      "date": "2018-11-17"
     },
     {
       "song_title": "The Rev3nge",
@@ -58,13 +22,22 @@
       "date": "2024-01-13"
     },
     {
+      "song_title": "The Rocky Road to Dublin",
+      "artist": "High Kings and Insomnia by Faithless",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/The%20Rocky%20Road%20to%20Dublin%20High%20Kings%20and%20Insomnia%20by%20Faithless",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Santos vs. Walker",
-      "event_slug": "ufc-fight-night-santos-vs-walker",
-      "date": "2021-10-02"
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "The Business",
@@ -74,6 +47,33 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Rhythm is a Dancer (CJ Stone Club Mix)",
+      "artist": "Snap!",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
     }
   ],
   "stats": {

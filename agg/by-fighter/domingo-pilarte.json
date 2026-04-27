@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Forever Flame",
-      "artist": "Miracle of Sound",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/46iJ1bKTkCM2Jwaixk9cts",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
-    },
-    {
       "song_title": "Wash Us in the Blood",
       "artist": "Kanye West feat. Travis Scott",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Cannonier vs. Gastelum",
       "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
       "date": "2021-08-21"
+    },
+    {
+      "song_title": "Forever Flame",
+      "artist": "Miracle of Sound",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46iJ1bKTkCM2Jwaixk9cts",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Anjos (Pra quem tem fe)",
-      "artist": "O Rappa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
       "song_title": "A Vida e Desafio",
       "artist": "Nada Como Um Dia Apos O Outro Dia",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Santos vs. Hill",
       "event_slug": "ufc-fight-night-santos-vs-hill",
       "date": "2022-08-06"
+    },
+    {
+      "song_title": "Anjos (Pra quem tem fe)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     }
   ],
   "stats": {

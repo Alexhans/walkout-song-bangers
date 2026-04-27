@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
       "song_title": "Pe Cai",
       "artist": "Trap Romanesc",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 281: Adesanya vs. Pereira",
       "event_slug": "ufc-281",
       "date": "2022-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     },
     {
       "song_title": "Pe Cai",

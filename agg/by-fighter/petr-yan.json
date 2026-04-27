@@ -4,22 +4,58 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Corbel Trunk",
+      "song_title": "Стволок за поясок",
       "artist": "Ноггано",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1Uicyik36HMSB3T9iSWNJS",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Stem for the Belt",
       "artist": "Noggano",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
+    },
+    {
+      "song_title": "БОЙЦОВСКАЯ ТРОПА",
+      "artist": "Drummatix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "song_title": "Стволок за поясок",
+      "artist": "Ноггано",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "song_title": "Stem for the Belt",
+      "artist": "Noggano",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "Stem for the Belt",
@@ -34,55 +70,19 @@
       "song_title": "Stem for the Belt",
       "artist": "Noggano",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     },
     {
-      "song_title": "Стволок за поясок",
+      "song_title": "Corbel Trunk",
       "artist": "Ноггано",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
-    },
-    {
-      "song_title": "БОЙЦОВСКАЯ ТРОПА",
-      "artist": "Drummatix",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6yn74bm1BgmoO5ojJmidmF",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
-      "song_title": "Stem for the Belt",
-      "artist": "Noggano",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
-    },
-    {
-      "song_title": "Стволок за поясок",
-      "artist": "Ноггано",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/0Sk7Gh664noqnoQvNOpr3a",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
-    },
-    {
-      "song_title": "Stem for the Belt",
-      "artist": "Noggano",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "spotify_url": "https://open.spotify.com/track/1Uicyik36HMSB3T9iSWNJS",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Capitulo 4, Versiculo 3",
-      "artist": "Racionais MCs",
+      "song_title": "FE!N",
+      "artist": "Travis Scott feat. Playboi Carti",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
-      "event": "UFC Fight Night: Almeida vs. Lewis",
-      "event_slug": "ufc-fight-night-almeida-vs-lewis",
-      "date": "2023-11-04"
+      "spotify_url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "Capitulo 4, Versiculo 3",
@@ -22,13 +22,13 @@
       "date": "2024-05-11"
     },
     {
-      "song_title": "FE!N",
-      "artist": "Travis Scott feat. Playboi Carti",
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     },
     {
       "song_title": "Legend",

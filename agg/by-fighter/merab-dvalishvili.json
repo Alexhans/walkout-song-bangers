@@ -4,31 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
+      "song_title": "Mtiuluri Ar Daichokebs Sakartvelo",
       "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "Movidar",
-      "artist": "Midi Midi",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Am I Wrong",
@@ -40,15 +22,6 @@
       "date": "2024-02-17"
     },
     {
-      "song_title": "Mtiuluri Ar Daichokebs Sakartvelo",
-      "artist": "",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/2ZDVsZgCA1tQ0akgVxxlzA",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
-    },
-    {
       "song_title": "Movidar",
       "artist": "Midi Midi",
       "confidence": "bronze",
@@ -56,6 +29,33 @@
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "Movidar",
+      "artist": "Midi Midi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {

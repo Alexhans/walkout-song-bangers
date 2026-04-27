@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "COMO LA FLOR",
-      "artist": "Selena",
+      "song_title": "La Chona",
+      "artist": "Los Tucanes de Tijuana",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
     },
     {
       "song_title": "",
@@ -22,15 +22,6 @@
       "date": "2025-06-28"
     },
     {
-      "song_title": "La Chona",
-      "artist": "Los Tucanes de Tijuana",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
-    },
-    {
       "song_title": "Como la Flor",
       "artist": "Selena",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
       "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
       "date": "2023-09-16"
+    },
+    {
+      "song_title": "COMO LA FLOR",
+      "artist": "Selena",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     }
   ],
   "stats": {

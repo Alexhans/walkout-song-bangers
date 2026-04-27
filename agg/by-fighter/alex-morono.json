@@ -4,31 +4,13 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
-    },
-    {
-      "song_title": "Sweet Child O’ Mine",
-      "artist": "Guns N Roses",
+      "song_title": "Blue on Black",
+      "artist": "Five Finger Death Punch",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
-      "song_title": "Blackout",
-      "artist": "Turnstile",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
+      "spotify_url": "https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
     },
     {
       "song_title": "Enemies",
@@ -49,22 +31,40 @@
       "date": "2024-04-06"
     },
     {
-      "song_title": "Blue on Black",
-      "artist": "Five Finger Death Punch",
+      "song_title": "Snap Your Finger, Snap Your Neck",
+      "artist": "Prong",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/53S6LBUl9MUX5uWcToKSHw",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "spotify_url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
     },
     {
-      "song_title": "My Head's in Mississippi",
-      "artist": "ZZ Top",
+      "song_title": "Blackout",
+      "artist": "Turnstile",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
+      "spotify_url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "Sweet Child O’ Mine",
+      "artist": "Guns N Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "I E A I A I O",
+      "artist": "System of a Down",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     },
     {
       "song_title": "Zombies Ate My Pirate Ship",
@@ -76,22 +76,22 @@
       "date": "2021-09-04"
     },
     {
-      "song_title": "Snap Your Finger, Snap Your Neck",
-      "artist": "Prong",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx",
-      "event": "UFC Fight Night: Dawson vs. Green",
-      "event_slug": "ufc-fight-night-dawson-vs-green",
-      "date": "2023-10-07"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     },
     {
-      "song_title": "I E A I A I O",
-      "artist": "System of a Down",
+      "song_title": "My Head's in Mississippi",
+      "artist": "ZZ Top",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "spotify_url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     }
   ],
   "stats": {

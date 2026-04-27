@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Because I’m Me",
-      "artist": "The Avalanches",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
-    },
-    {
-      "song_title": "Because I’m Me",
-      "artist": "The Avalanches",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
-      "event": "UFC Fight Night: Emmett vs. Topuria",
-      "event_slug": "ufc-fight-night-emmett-vs-topuria",
-      "date": "2023-06-24"
-    },
-    {
       "song_title": "Hexagram",
       "artist": "Deftones",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Because I’m Me",
+      "artist": "The Avalanches",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
+    },
+    {
+      "song_title": "Because I’m Me",
+      "artist": "The Avalanches",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BpN2xkpSEA9L95yopkjsX",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
     }
   ],
   "stats": {

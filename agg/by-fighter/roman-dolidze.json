@@ -4,22 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "The Eighth Wonder of the World",
-      "artist": "Georgian Dances",
+      "song_title": "Moxevuri Georgian Lezginka",
+      "artist": "Alex Mrin",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 303: Pereira vs. Prochazka 2",
-      "event_slug": "ufc-303",
-      "date": "2024-06-29"
+      "spotify_url": "https://open.spotify.com/track/7zzDoAapscriWWInYxPntj",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Vigsapa",
@@ -35,18 +26,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
     },
     {
-      "song_title": "Moxevuri Georgian Lezginka",
-      "artist": "Alex Mrin",
+      "song_title": "The Eighth Wonder of the World",
+      "artist": "Georgian Dances",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7zzDoAapscriWWInYxPntj",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "spotify_url": "https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Georgian Dances",
@@ -65,15 +74,6 @@
       "event": "UFC Fight Night: Kattar vs. Emmett",
       "event_slug": "ufc-fight-night-kattar-vs-emmett",
       "date": "2022-06-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
     }
   ],
   "stats": {

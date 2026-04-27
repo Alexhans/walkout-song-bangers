@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Lonely Boy",
-      "artist": "The Black Keys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
       "song_title": "Poppin Them Thangs",
       "artist": "G Unit",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 209: Woodley vs. Thompson 2",
       "event_slug": "ufc-209",
       "date": "2017-03-04"
+    },
+    {
+      "song_title": "Lonely Boy",
+      "artist": "The Black Keys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OQWPkRPWVMzTQsHOjIZVD",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

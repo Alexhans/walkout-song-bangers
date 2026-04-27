@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
       "song_title": "In My Mind",
       "artist": "Dynoro",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "Voodoo People",

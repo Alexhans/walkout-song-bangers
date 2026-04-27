@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Gonna Fly Now",
+      "song_title": "Gonna Fly Now (Rocky theme song)",
       "artist": "Bill Conti",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
+      "spotify_url": "https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "Gonna Fly Now",
@@ -31,13 +31,13 @@
       "date": "2022-10-29"
     },
     {
-      "song_title": "Gonna Fly Now (Rocky theme song)",
+      "song_title": "Gonna Fly Now",
       "artist": "Bill Conti",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {

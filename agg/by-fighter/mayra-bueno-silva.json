@@ -4,15 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Giro de Sueracao",
-      "artist": "MC Lele JP",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Giro%20de%20Sueracao%20MC%20Lele%20JP",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -22,13 +13,13 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "Diferenciado",
-      "artist": "MC Neguinho do Kaxeta",
+      "song_title": "Giro de Sueracao",
+      "artist": "MC Lele JP",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4UobpfzxcDNBplXZ4rQwpm",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
+      "spotify_url": "https://open.spotify.com/search/Giro%20de%20Sueracao%20MC%20Lele%20JP",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
     },
     {
       "song_title": "Tente Outra Vez",
@@ -40,13 +31,22 @@
       "date": "2023-07-15"
     },
     {
-      "song_title": "O Hino",
-      "artist": "Fernandinho",
+      "song_title": "Diferenciado",
+      "artist": "MC Neguinho do Kaxeta",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
+      "spotify_url": "https://open.spotify.com/track/4UobpfzxcDNBplXZ4rQwpm",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Fe Que Vai Dar Certo",
+      "artist": "MC Lemos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0lpqGvTo4gPgVYECHvtCnl",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     },
     {
       "song_title": "Esperanca",
@@ -58,13 +58,13 @@
       "date": "2022-04-16"
     },
     {
-      "song_title": "Fe Que Vai Dar Certo",
-      "artist": "MC Lemos",
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0lpqGvTo4gPgVYECHvtCnl",
-      "event": "UFC Fight Night: Santos vs. Hill",
-      "event_slug": "ufc-fight-night-santos-vs-hill",
-      "date": "2022-08-06"
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {

@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Congratulations",
-      "artist": "Post Malone feat. Quavo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
-    },
-    {
-      "song_title": "Return of the Mack",
-      "artist": "Mark Morrison",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
-      "song_title": "Grindin' All My Life",
+      "song_title": "Grinding All My Life",
       "artist": "Nipsey Hussle",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Still D.R.E.",
@@ -40,13 +22,31 @@
       "date": "2022-11-12"
     },
     {
-      "song_title": "Grinding All My Life",
+      "song_title": "Grindin' All My Life",
       "artist": "Nipsey Hussle",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Congratulations",
+      "artist": "Post Malone feat. Quavo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     }
   ],
   "stats": {

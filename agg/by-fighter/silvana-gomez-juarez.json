@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
+      "song_title": "La Bestia Pop",
+      "artist": "Patricio Rey y Sus Redonditos de Ricota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2022-06-11"
     },
     {
-      "song_title": "La Bestia Pop",
-      "artist": "Patricio Rey y Sus Redonditos de Ricota",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6BHlafXY1L2eetDCwict05",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
     },
     {
       "song_title": "",

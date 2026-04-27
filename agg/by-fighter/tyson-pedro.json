@@ -4,31 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Sexual",
-      "artist": "Neiked",
+      "song_title": "Let’s Go",
+      "artist": "Trick Daddy feat. Lil’ Jon & Twista",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
-      "event": "UFC 209: Woodley vs. Thompson 2",
-      "event_slug": "ufc-209",
-      "date": "2017-03-04"
-    },
-    {
-      "song_title": "What's My Name",
-      "artist": "Fivio Foreign & Queen Naija",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
-    },
-    {
-      "song_title": "Cuff It",
-      "artist": "Beyonce",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "All My Life",
@@ -40,6 +22,24 @@
       "date": "2023-09-09"
     },
     {
+      "song_title": "Cuff It",
+      "artist": "Beyonce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "What's My Name",
+      "artist": "Fivio Foreign & Queen Naija",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
       "song_title": "Sexual",
       "artist": "Neikid feat. Dyo",
       "confidence": "bronze",
@@ -49,13 +49,13 @@
       "date": "2022-04-23"
     },
     {
-      "song_title": "Let’s Go",
-      "artist": "Trick Daddy feat. Lil’ Jon & Twista",
+      "song_title": "Sexual",
+      "artist": "Neiked",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
+      "spotify_url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
     },
     {
       "song_title": "Sexual",

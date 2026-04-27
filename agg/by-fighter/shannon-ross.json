@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Down Under",
-      "artist": "Luude",
+      "song_title": "Layers",
+      "artist": "NF",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "spotify_url": "https://open.spotify.com/track/7ipUYshiPzzUs9EdeOsBFO",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "Down Under",
@@ -22,13 +22,13 @@
       "date": "2023-07-08"
     },
     {
-      "song_title": "Layers",
-      "artist": "NF",
+      "song_title": "Down Under",
+      "artist": "Luude",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7ipUYshiPzzUs9EdeOsBFO",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "spotify_url": "https://open.spotify.com/track/53O5nAlq04RKmSBqW0SFvG",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     }
   ],
   "stats": {

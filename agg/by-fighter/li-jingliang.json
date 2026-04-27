@@ -4,22 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "We Are Rising",
-      "artist": "Unknown",
+      "song_title": "Mit (First Round)",
+      "artist": "Al Ge",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
+      "spotify_url": "https://open.spotify.com/search/Mit%20%28First%20Round%29%20Al%20Ge",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "song_title": "The Lonely Brave",
+      "artist": "Eason Chan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7txoFhzC6ENuJ7futJlEyh",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     },
     {
       "song_title": "Call Me Wawa",
@@ -31,13 +31,13 @@
       "date": "2021-10-30"
     },
     {
-      "song_title": "Mit (First Round)",
-      "artist": "Al Ge",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Mit%20%28First%20Round%29%20Al%20Ge",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     },
     {
       "song_title": "We Are Rising",
@@ -49,13 +49,13 @@
       "date": "2017-06-17"
     },
     {
-      "song_title": "The Lonely Brave",
-      "artist": "Eason Chan",
+      "song_title": "We Are Rising",
+      "artist": "Unknown",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7txoFhzC6ENuJ7futJlEyh",
-      "event": "UFC Fight Night: Ortega vs. Rodriguez",
-      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
-      "date": "2022-07-16"
+      "spotify_url": "https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

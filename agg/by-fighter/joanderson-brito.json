@@ -22,6 +22,15 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "Pivete e Sal",
+      "artist": "Dodo Pressao",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
+    },
+    {
       "song_title": "Joanderson Brito UFC Cage",
       "artist": "Endrah",
       "confidence": "bronze",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Kattar vs. Chikadze",
       "event_slug": "ufc-fight-night-kattar-vs-chikadze",
       "date": "2022-01-15"
-    },
-    {
-      "song_title": "Pivete e Sal",
-      "artist": "Dodo Pressao",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5",
-      "event": "UFC Fight Night: Strickland vs. Magomedov",
-      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
-      "date": "2023-07-01"
     }
   ],
   "stats": {

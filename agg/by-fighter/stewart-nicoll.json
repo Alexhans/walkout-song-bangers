@@ -8,18 +8,18 @@
       "artist": "Eminem feat. Obie Trice and DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Go%20To%20Sleep%20Eminem%20feat.%20Obie%20Trice%20and%20DMX",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Go To Sleep",
       "artist": "Eminem feat. Obie Trice and DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Go%20To%20Sleep%20Eminem%20feat.%20Obie%20Trice%20and%20DMX",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     }
   ],
   "stats": {

@@ -4,13 +4,40 @@
   "appearances": 7,
   "walkouts": [
     {
+      "song_title": "Scarface Theme Song",
+      "artist": "Giorgio Moroder",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
       "song_title": "",
-      "artist": "",
+      "artist": "Giorgio Moroder",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Scarface - Tony Montana Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Scarface%20-%20Tony%20Montana%20Theme%20Song",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "Tony Montana",
+      "artist": "(Scarface Theme Song)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
     },
     {
       "song_title": "",
@@ -31,40 +58,13 @@
       "date": "2017-05-13"
     },
     {
-      "song_title": "Tony Montana",
-      "artist": "(Scarface Theme Song)",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "Scarface - Tony Montana Theme Song",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Scarface%20-%20Tony%20Montana%20Theme%20Song",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
       "song_title": "",
-      "artist": "Giorgio Moroder",
+      "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "Scarface Theme Song",
-      "artist": "Giorgio Moroder",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "song_title": "Better Than Yesterday",
+      "artist": "Ktob, MC BK, Outsider, P-Masta, Mr. Room 9",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Better%20Than%20Yesterday%20Ktob%2C%20MC%20BK%2C%20Outsider%2C%20P-Masta%2C%20Mr.%20Room%209",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "Better Than Yesterday",
@@ -22,15 +22,6 @@
       "date": "2022-06-11"
     },
     {
-      "song_title": "Better Than Yesterday",
-      "artist": "Ktob, MC BK, Outsider, P-Masta, Mr. Room 9",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Better%20Than%20Yesterday%20Ktob%2C%20MC%20BK%2C%20Outsider%2C%20P-Masta%2C%20Mr.%20Room%209",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
-    },
-    {
       "song_title": "Way Back Then (Squid Game Theme Song)",
       "artist": "Jung Jae il",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {

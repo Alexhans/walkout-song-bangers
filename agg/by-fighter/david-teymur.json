@@ -7,19 +7,19 @@
       "song_title": "Suryoyo Football Song",
       "artist": "",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki",
-      "event": "UFC 209: Woodley vs. Thompson 2",
-      "event_slug": "ufc-209",
-      "date": "2017-03-04"
+      "spotify_url": "https://open.spotify.com/search/Suryoyo%20Football%20Song",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     },
     {
       "song_title": "Suryoyo Football Song",
       "artist": "",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Suryoyo%20Football%20Song",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
+      "spotify_url": "https://open.spotify.com/track/08po8QZK3tihnLBZWATAki",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
     }
   ],
   "stats": {

@@ -4,60 +4,6 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Coming Home",
-      "artist": "Diddy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
-      "song_title": "Unstoppable",
-      "artist": "Drake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2TWSilrWcTrgVKcP8kfEfg",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
-      "song_title": "Glory to God",
-      "artist": "KJ-52",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "Glory to God",
-      "artist": "KJ-52",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
-      "song_title": "Glory to God",
-      "artist": "KJ-52, JONAH",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
       "song_title": "Glory to God",
       "artist": "KJ-52",
       "confidence": "bronze",
@@ -76,13 +22,40 @@
       "date": "2026-02-07"
     },
     {
-      "song_title": "Coming Home",
-      "artist": "Diddy Dirty Money feat. Skylar Grey",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52, JONAH",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "Glory to God",
+      "artist": "KJ-52",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Glory",
@@ -98,9 +71,36 @@
       "artist": "KJ-52",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6B7ZVnvhc9E26S3oMoKhRB",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "Unstoppable",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2TWSilrWcTrgVKcP8kfEfg",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "Coming Home",
+      "artist": "Diddy Dirty Money feat. Skylar Grey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
+    },
+    {
+      "song_title": "Coming Home",
+      "artist": "Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     }
   ],
   "stats": {

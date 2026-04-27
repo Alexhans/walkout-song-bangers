@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Still Tippin",
-      "artist": "Mike Jones feat Slim Thug and Paul Wall",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "2 OF AMERIKAZ MOST WANTED",
-      "artist": "2Pac feat Snoop Doggy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
       "song_title": "Zoo",
       "artist": "Kaaris",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Gane vs. Tuivasa",
       "event_slug": "ufc-fight-night-gane-vs-tuivasa",
       "date": "2022-09-03"
+    },
+    {
+      "song_title": "2 OF AMERIKAZ MOST WANTED",
+      "artist": "2Pac feat Snoop Doggy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "Still Tippin",
+      "artist": "Mike Jones feat Slim Thug and Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     }
   ],
   "stats": {

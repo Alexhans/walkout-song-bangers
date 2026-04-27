@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "He's a Pirate (Tiesto Remix)",
-      "artist": "DJ Tiesto",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC 254: Khabib vs. Gaethje",
       "event_slug": "ufc-254",
       "date": "2020-10-24"
+    },
+    {
+      "song_title": "He's a Pirate (Tiesto Remix)",
+      "artist": "DJ Tiesto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6NMBkgLg85thMr80ShrW8D",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
     },
     {
       "song_title": "He's A Pirate",

@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
+      "song_title": "Fly Team",
+      "artist": "Yung Montanna & Gripper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rokkI45aJOQNYpByL7PTm",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Fly Team",
@@ -26,27 +26,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
-    },
-    {
-      "song_title": "Fly Team",
-      "artist": "Yung Montanna & Gripper",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5rokkI45aJOQNYpByL7PTm",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {

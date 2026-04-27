@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
       "song_title": "Music the Best 3",
       "artist": "Justin Seven",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Blachowicz vs. Rakic",
       "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
       "date": "2022-05-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     }
   ],
   "stats": {

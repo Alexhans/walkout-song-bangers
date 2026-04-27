@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Till it's Gone",
-      "artist": "Yelawolf",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
-    },
-    {
       "song_title": "Lazer Focused",
       "artist": "ShineWrite",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "Till it's Gone",
+      "artist": "Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4FxkQzIhsLAkuiqX5puvU6",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     }
   ],
   "stats": {

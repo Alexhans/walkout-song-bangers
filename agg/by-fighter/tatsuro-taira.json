@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Power to the People",
-      "artist": "John Lennon and the Plastic Ono Band",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
       "song_title": "Instant Karma! (We All Shine On)",
       "artist": "John Lennon, Yoko Ono",
       "confidence": "gold",
@@ -20,15 +11,6 @@
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
-    },
-    {
-      "song_title": "Power to the People",
-      "artist": "John Lennon and the Plastic Ono Band",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
-      "event": "UFC Fight Night: Blachowicz vs. Rakic",
-      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
-      "date": "2022-05-14"
     },
     {
       "song_title": "Power to the People",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
+    },
+    {
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "Power to the People",
+      "artist": "John Lennon and the Plastic Ono Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
     }
   ],
   "stats": {

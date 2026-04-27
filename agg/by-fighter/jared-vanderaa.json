@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
-    },
-    {
-      "song_title": "Hip To Be Scared",
-      "artist": "Ice Nine Kills feat. Jacoby Shaddix",
+      "song_title": "This is Halloween",
+      "artist": "Marilyn Manson",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
+      "spotify_url": "https://open.spotify.com/track/042Y7INHELtUGh8LRtl3X5",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
     },
     {
       "song_title": "I've Been Hearing That You're Freaky",
@@ -40,13 +22,31 @@
       "date": "2022-07-09"
     },
     {
-      "song_title": "This is Halloween",
-      "artist": "Marilyn Manson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Hip To Be Scared",
+      "artist": "Ice Nine Kills feat. Jacoby Shaddix",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/042Y7INHELtUGh8LRtl3X5",
-      "event": "UFC Fight Night: Kattar vs. Allen",
-      "event_slug": "ufc-fight-night-kattar-vs-allen",
-      "date": "2022-10-29"
+      "spotify_url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

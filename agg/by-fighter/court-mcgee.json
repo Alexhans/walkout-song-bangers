@@ -26,18 +26,18 @@
       "artist": "Ted Nugent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC Fight Night: Kattar vs. Chikadze",
-      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
-      "date": "2022-01-15"
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     },
     {
       "song_title": "Stranglehold",
       "artist": "Ted Nugent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {

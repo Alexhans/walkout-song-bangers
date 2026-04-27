@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
-      "song_title": "Shiroka Reka",
-      "artist": "Nadezhda Kadysheva",
+      "song_title": "Широка река (Shiroka Reka)",
+      "artist": "Nadezhda Kadysheva and Golden Ring",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "Shiroka Reka",
@@ -31,13 +22,22 @@
       "date": "2022-08-06"
     },
     {
-      "song_title": "Широка река (Shiroka Reka)",
-      "artist": "Nadezhda Kadysheva and Golden Ring",
+      "song_title": "Shiroka Reka",
+      "artist": "Nadezhda Kadysheva",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/439vnAWsqWTybEkbXNcpwg",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

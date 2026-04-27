@@ -4,15 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "The Next Episode",
-      "artist": "Dr. Dre & Snoop Dogg",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -22,13 +13,13 @@
       "date": "2026-03-14"
     },
     {
-      "song_title": "Also Sprach Zarathustra\" from \"2001: A Space Odyssey",
-      "artist": "Daniel Strauss",
+      "song_title": "Texas",
+      "artist": "BigXthaPlug",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/43YwOmGUOS3zzGvj1Feszb",
-      "event": "UFC Fight Night: Luque vs. Muhammad",
-      "event_slug": "ufc-fight-night-luque-vs-muhammad",
-      "date": "2022-04-16"
+      "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
       "song_title": "Chambea",
@@ -40,13 +31,22 @@
       "date": "2024-02-24"
     },
     {
-      "song_title": "Texas",
-      "artist": "BigXthaPlug",
+      "song_title": "The Next Episode",
+      "artist": "Dr. Dre & Snoop Dogg",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "Also Sprach Zarathustra\" from \"2001: A Space Odyssey",
+      "artist": "Daniel Strauss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43YwOmGUOS3zzGvj1Feszb",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     },
     {
       "song_title": "2001: A Space Odyssey",

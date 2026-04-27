@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
+      "song_title": "No Problem",
+      "artist": "Chance The Rapper",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     },
     {
       "song_title": "Knuck If You Buck",
@@ -20,15 +20,6 @@
       "event": "UFC Fight Night: Barboza vs. Murphy",
       "event_slug": "ufc-fight-night-barboza-vs-murphy",
       "date": "2024-05-18"
-    },
-    {
-      "song_title": "No Problem",
-      "artist": "Chance The Rapper",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH",
-      "event": "UFC Fight Night: Burns vs. Brady",
-      "event_slug": "ufc-fight-night-burns-vs-brady",
-      "date": "2024-09-07"
     },
     {
       "song_title": "Knuck If You Buck",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
     }
   ],
   "stats": {

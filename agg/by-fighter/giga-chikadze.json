@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Samani",
-      "artist": "Chabuka Amiranashvili",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/46DNp5QTdfghwXQRZiNoWA",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
-    },
-    {
       "song_title": "Xorumi",
       "artist": "Georgian folk dance",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Kattar vs. Chikadze",
       "event_slug": "ufc-fight-night-kattar-vs-chikadze",
       "date": "2022-01-15"
+    },
+    {
+      "song_title": "Samani",
+      "artist": "Chabuka Amiranashvili",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46DNp5QTdfghwXQRZiNoWA",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     }
   ],
   "stats": {

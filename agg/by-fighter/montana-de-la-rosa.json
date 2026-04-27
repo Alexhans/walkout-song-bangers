@@ -13,15 +13,6 @@
       "date": "2023-10-07"
     },
     {
-      "song_title": "Together",
-      "artist": "Sia",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz",
-      "event": "UFC Fight Night: Lemos vs. Andrade",
-      "event_slug": "ufc-fight-night-lemos-vs-andrade",
-      "date": "2022-04-23"
-    },
-    {
       "song_title": "Sunshine",
       "artist": "One Republic",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Together",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz",
+      "event": "UFC Fight Night: Lemos vs. Andrade",
+      "event_slug": "ufc-fight-night-lemos-vs-andrade",
+      "date": "2022-04-23"
     }
   ],
   "stats": {

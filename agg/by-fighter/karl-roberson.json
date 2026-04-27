@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Gang Gang",
-      "artist": "SNL Mafia",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
       "song_title": "RYDA",
       "artist": "Tig Tooh",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
       "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
       "date": "2022-07-09"
+    },
+    {
+      "song_title": "Gang Gang",
+      "artist": "SNL Mafia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

@@ -4,49 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Actin Crazy",
-      "artist": "Action Bronson",
+      "song_title": "Viva la Revolution",
+      "artist": "The Adicts",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
-    },
-    {
-      "song_title": "Actin Crazy",
-      "artist": "Action Bronson",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
-      "event": "UFC 209: Woodley vs. Thompson 2",
-      "event_slug": "ufc-209",
-      "date": "2017-03-04"
-    },
-    {
-      "song_title": "Let's Groove",
-      "artist": "Earth, Wind & Fire",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
-      "event": "UFC 216: Ferguson vs. Lee",
-      "event_slug": "ufc-216",
-      "date": "2017-10-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "Actin' Crazy",
-      "artist": "Action Bronson",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
+      "spotify_url": "https://open.spotify.com/track/4PMaqWwW6hilTls8202lHE",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Viva la Revolution",
@@ -58,13 +22,49 @@
       "date": "2022-04-23"
     },
     {
-      "song_title": "Viva la Revolution",
-      "artist": "The Adicts",
+      "song_title": "Actin' Crazy",
+      "artist": "Action Bronson",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PMaqWwW6hilTls8202lHE",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Let's Groove",
+      "artist": "Earth, Wind & Fire",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
+    },
+    {
+      "song_title": "Actin Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "Actin Crazy",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
     }
   ],
   "stats": {

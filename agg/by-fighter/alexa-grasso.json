@@ -4,13 +4,22 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "M.I.A.",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "El Son de la Negra",
+      "artist": "Mariachi Vargas de Tecalitian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     },
     {
       "song_title": "El Son de la Negra",
@@ -22,13 +31,22 @@
       "date": "2023-03-04"
     },
     {
-      "song_title": "El Son de la Negra",
-      "artist": "Mariachi Vargas de Tecalitian",
+      "song_title": "Paper Plane",
+      "artist": "M.I.A.",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
+      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "",
+      "artist": "M.I.A.",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "Paper Planes",
@@ -40,15 +58,6 @@
       "date": "2017-02-04"
     },
     {
-      "song_title": "Paper Plane",
-      "artist": "M.I.A.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a",
-      "event": "UFC Fight Night: Blaydes vs. Daukaus",
-      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
-      "date": "2022-03-26"
-    },
-    {
       "song_title": "Paper Planes",
       "artist": "M.I.A.",
       "confidence": "bronze",
@@ -56,15 +65,6 @@
       "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
       "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
       "date": "2016-11-05"
-    },
-    {
-      "song_title": "El Son de la Negra",
-      "artist": "Mariachi Vargas de Tecalitian",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6H7h8IKCLtrmrwgpQy21SC",
-      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
-      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
-      "date": "2023-09-16"
     }
   ],
   "stats": {

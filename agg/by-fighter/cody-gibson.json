@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "A Beautiful Day",
-      "artist": "Trinix x Rushawn",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/A%20Beautiful%20Day%20Trinix%20x%20Rushawn",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
-    },
-    {
       "song_title": "Sleeping on the Blacktop",
       "artist": "Colter Wall",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Ribas vs. Namajunas",
       "event_slug": "ufc-fight-night-ribas-vs-namajunas",
       "date": "2024-03-23"
+    },
+    {
+      "song_title": "A Beautiful Day",
+      "artist": "Trinix x Rushawn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/A%20Beautiful%20Day%20Trinix%20x%20Rushawn",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
     }
   ],
   "stats": {

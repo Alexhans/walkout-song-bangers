@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Dagombas en Tamale",
-      "artist": "Residente",
+      "song_title": "Como Te Voy A Olvidar",
+      "artist": "Los Angeles Azules",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     },
     {
       "song_title": "Dagombas en Tamale",
@@ -22,6 +22,15 @@
       "date": "2023-06-03"
     },
     {
+      "song_title": "Dagombas en Tamale",
+      "artist": "Residente",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
       "song_title": "Norupo",
       "artist": "Heilung",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Makhachev vs. Green",
       "event_slug": "ufc-fight-night-makhachev-vs-green",
       "date": "2022-02-26"
-    },
-    {
-      "song_title": "Como Te Voy A Olvidar",
-      "artist": "Los Angeles Azules",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0BEfEBDhOY6yTrkUdFFnBE",
-      "event": "UFC Fight Night: Moreno vs. Royval 2",
-      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
-      "date": "2024-02-24"
     }
   ],
   "stats": {

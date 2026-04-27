@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Levels",
-      "artist": "Avicii",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Hate or Glory",
-      "artist": "Gesaffelstein",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Jlqg70T1RhZICoFJmj1Bm",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
-    },
-    {
       "song_title": "Artsakh",
       "artist": "Ara Gevorgian",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Mousasi vs. Hall 2",
       "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
       "date": "2016-11-19"
+    },
+    {
+      "song_title": "Hate or Glory",
+      "artist": "Gesaffelstein",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Jlqg70T1RhZICoFJmj1Bm",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "Levels",
+      "artist": "Avicii",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

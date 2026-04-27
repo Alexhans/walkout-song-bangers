@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Fancy",
-      "artist": "Iggy Azalea",
+      "song_title": "Loud and Heavy",
+      "artist": "Cody Jinks",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
+      "spotify_url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     },
     {
       "song_title": "Walk",
@@ -49,13 +49,13 @@
       "date": "2016-09-17"
     },
     {
-      "song_title": "Loud and Heavy",
-      "artist": "Cody Jinks",
+      "song_title": "Fancy",
+      "artist": "Iggy Azalea",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE",
-      "event": "UFC Fight Night: Walker vs. Hill",
-      "event_slug": "ufc-fight-night-walker-vs-hill",
-      "date": "2022-02-19"
+      "spotify_url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

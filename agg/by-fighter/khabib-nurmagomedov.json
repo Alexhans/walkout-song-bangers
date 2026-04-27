@@ -5,30 +5,12 @@
   "walkouts": [
     {
       "song_title": "Dagestan",
-      "artist": "Direct Hit & Sabina Saldova",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "Daghestan",
-      "artist": "Direct Hit & Sabina Saidova",
+      "artist": "Sabina Saidova",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "Dagestan (Remix)",
-      "artist": "SABINA, Timaro",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     },
     {
       "song_title": "",
@@ -40,13 +22,31 @@
       "date": "2019-09-07"
     },
     {
-      "song_title": "Dagestan",
-      "artist": "Sabina Saidova",
+      "song_title": "Dagestan (Remix)",
+      "artist": "SABINA, Timaro",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Daghestan",
+      "artist": "Direct Hit & Sabina Saidova",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1x9wF3XMUGzqYfmmicjY8f",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Dagestan",
+      "artist": "Direct Hit & Sabina Saldova",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     }
   ],
   "stats": {

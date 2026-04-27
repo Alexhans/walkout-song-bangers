@@ -4,6 +4,6 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2023](../agg/by-year/2023.md) | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Sexy Back | Justin Timberlake | [Listen](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](../../ufc-fight-night-blanchfield-vs-fiorot.md) | SexyBack | Justin Timberlake | [Listen](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) |
+| [2023](../agg/by-year/2023.md) | [UFC 293: Adesanya vs. Strickland](../../ufc-293.md) | Sexy Back | Justin Timberlake | [Listen](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | Sexyback | Justin Timberlake | [Listen](https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR) |

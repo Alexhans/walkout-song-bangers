@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Don't Mess with Me",
-      "artist": "Brody Dalle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
-      "event": "UFC Fight Night: Arlovski vs. Barnett",
-      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
-      "date": "2016-09-03"
-    },
-    {
-      "song_title": "Rebel Girl",
-      "artist": "Bikini Kill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
       "song_title": "Rebel Girl",
       "artist": "Bikini Kill",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Don't Mess with Me",
+      "artist": "Brody Dalle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
+    },
+    {
+      "song_title": "Rebel Girl",
+      "artist": "Bikini Kill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n0zZ1V9PXLsxtyTiqDhuQ",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

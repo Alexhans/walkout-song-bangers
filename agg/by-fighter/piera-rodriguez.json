@@ -8,9 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
     },
     {
       "song_title": "",
@@ -26,9 +26,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     }
   ],
   "stats": {

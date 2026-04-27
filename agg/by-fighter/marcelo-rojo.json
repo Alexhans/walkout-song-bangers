@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "DAMAS GRATIS",
-      "artist": "Perrito Malvado ft. L-Gante & Marita",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
       "song_title": "Llegamos los Pibes Chorres",
       "artist": "Pibes Chorros",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Thompson vs. Holland",
       "event_slug": "ufc-fight-night-thompson-vs-holland",
       "date": "2022-12-03"
+    },
+    {
+      "song_title": "DAMAS GRATIS",
+      "artist": "Perrito Malvado ft. L-Gante & Marita",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
+      "song_title": "Doina Haiducului",
+      "artist": "Zdob si Zdub",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
     },
     {
       "song_title": "Zdob Si Zdub",
@@ -35,18 +35,18 @@
       "artist": "Zdob si Zdub",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
-    },
-    {
-      "song_title": "Doina Haiducului",
-      "artist": "Zdob si Zdub",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0qYtyIgjLZGHrZYkn4D7kQ",
       "event": "UFC Fight Night: Smith vs. Spann",
       "event_slug": "ufc-fight-night-smith-vs-spann",
       "date": "2021-09-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

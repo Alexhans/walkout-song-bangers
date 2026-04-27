@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
       "song_title": "Don’t Worry, Be Happy",
       "artist": "Bobby McFerrin",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {

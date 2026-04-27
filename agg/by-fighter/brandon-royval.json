@@ -4,13 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
+      "song_title": "Tonight You Belong to Me",
+      "artist": "Patience & Prudence",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Tonight%20You%20Belong%20to%20Me%20Patience%20%26%20Prudence",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     },
     {
       "song_title": "Shimmy Shimmy Ya",
@@ -22,22 +31,13 @@
       "date": "2023-12-16"
     },
     {
-      "song_title": "Tonight You Belong to Me",
-      "artist": "Patience & Prudence",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/search/Tonight%20You%20Belong%20to%20Me%20Patience%20%26%20Prudence",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
-      "song_title": "Hustler's Ambition",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     },
     {
       "song_title": "Shimmy Shimmy Ya",
@@ -49,13 +49,13 @@
       "date": "2022-01-15"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Moreno vs. Royval 2",
-      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
-      "date": "2024-02-24"
+      "song_title": "Hustler's Ambition",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
       "song_title": "Cerol Na Mao",
       "artist": "Furacao 2000",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Blaydes vs. Daukaus",
       "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
       "date": "2022-03-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {

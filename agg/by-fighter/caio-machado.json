@@ -8,15 +8,6 @@
       "artist": "Eminem",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
-    },
-    {
-      "song_title": "Lose Yourself",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     }
   ],
   "stats": {

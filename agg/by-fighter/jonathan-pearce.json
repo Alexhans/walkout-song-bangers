@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
       "song_title": "Runnin'",
@@ -20,6 +20,15 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Shooting Star",
@@ -35,27 +44,18 @@
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
-    },
-    {
-      "song_title": "Runnin'",
-      "artist": "David Dallas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
-    },
-    {
-      "song_title": "Thunderstruck",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

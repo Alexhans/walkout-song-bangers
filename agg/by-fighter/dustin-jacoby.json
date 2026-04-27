@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "RUNNIN' DOWN A DREAM",
-      "artist": "Tom Petty",
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
+      "spotify_url": "https://open.spotify.com/search/Go%20DJ%20Lil%20Wayne",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
     },
     {
       "song_title": "Runnin’ Down a Dream",
@@ -22,13 +22,13 @@
       "date": "2023-12-16"
     },
     {
-      "song_title": "Go DJ",
-      "artist": "Lil Wayne",
+      "song_title": "Runnin’ Down a Dream",
+      "artist": "Tom Petty and the Heartbreakers",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Go%20DJ%20Lil%20Wayne",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
     },
     {
       "song_title": "Runnin’ Down a Dream",
@@ -49,13 +49,13 @@
       "date": "2022-07-16"
     },
     {
-      "song_title": "Runnin’ Down a Dream",
-      "artist": "Tom Petty and the Heartbreakers",
+      "song_title": "RUNNIN' DOWN A DREAM",
+      "artist": "Tom Petty",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM",
-      "event": "UFC Fight Night: Sandhagen vs. Font",
-      "event_slug": "ufc-fight-night-sandhagen-vs-font",
-      "date": "2023-08-05"
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {

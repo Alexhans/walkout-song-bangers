@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "El Matador",
-      "artist": "Los Fabulosos Cadillacs",
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "Fronteamos Porque Podemos",
-      "artist": "De La Ghetto",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "Hells Bells / Cancion Del Mariachi",
@@ -31,15 +22,6 @@
       "date": "2024-02-17"
     },
     {
-      "song_title": "Cancion del Mariachi",
-      "artist": "Antonio Banderas and Los Lobos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
       "song_title": "Love Tonight",
       "artist": "Shouse",
       "confidence": "bronze",
@@ -49,6 +31,15 @@
       "date": "2023-06-24"
     },
     {
+      "song_title": "Fronteamos Porque Podemos",
+      "artist": "De La Ghetto",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
       "song_title": "Una Palabra",
       "artist": "Anuel AA",
       "confidence": "bronze",
@@ -56,6 +47,15 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "El Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3EsjrObXPhXA79Cr4QixY8",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
     }
   ],
   "stats": {

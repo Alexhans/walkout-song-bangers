@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Purple Lamborghini",
-      "artist": "Skrillex & Rick Ross",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
-    },
-    {
       "song_title": "Marolento",
       "artist": "Puterrier feat. Borges",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex & Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     },
     {
       "song_title": "Marolento",

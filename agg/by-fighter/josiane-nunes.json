@@ -4,6 +4,15 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Grande Coisas",
+      "artist": "Fernandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -11,15 +20,6 @@
       "event": "UFC 283: Teixeira vs. Hill",
       "event_slug": "ufc-283",
       "date": "2023-01-21"
-    },
-    {
-      "song_title": "Grandes Coisas",
-      "artist": "Fernandinho",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
     },
     {
       "song_title": "Grande Coisas",
@@ -31,13 +31,13 @@
       "date": "2022-02-26"
     },
     {
-      "song_title": "Grande Coisas",
+      "song_title": "Grandes Coisas",
       "artist": "Fernandinho",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {

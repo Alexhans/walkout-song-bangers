@@ -4,60 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Traditional Earn European Folk Dance",
-      "artist": "Lezginka",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "Lezginka",
-      "artist": "Traditional",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
-      "song_title": "Lezginka",
-      "artist": "Traditional",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
       "song_title": "Lezginka",
       "artist": "Traditional Folk Dance",
       "confidence": "bronze",
@@ -74,6 +20,60 @@
       "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
       "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
       "date": "2023-09-16"
+    },
+    {
+      "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Lezginka",
+      "artist": "Traditional",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fyEgcqOSNw88nQOqndyHr",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "Traditional Earn European Folk Dance",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6pNHYzItByLdPWNhH69SFU",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

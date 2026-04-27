@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Pantera Negra",
-      "artist": "Etncida",
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Pantera%20Negra%20Etncida",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
-    },
-    {
-      "song_title": "Capitulo 4, Versiculo 3",
-      "artist": "Racionais MCs",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
+      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
     },
     {
       "song_title": "",
@@ -31,22 +22,13 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Paint It, Black",
-      "artist": "The Rolling Stones",
+      "song_title": "Capitulo 4, Versiculo 3",
+      "artist": "Racionais MCs",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8",
-      "event": "UFC Fight Night: Burns vs. Malott",
-      "event_slug": "ufc-fight-night-burns-vs-malott",
-      "date": "2026-04-18"
-    },
-    {
-      "song_title": "Pantera Negra",
-      "artist": "Emcida",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
-      "event": "UFC Fight Night: Kara-France vs. Albazi",
-      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
-      "date": "2023-06-03"
+      "spotify_url": "https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "Pantera Negra",
@@ -56,6 +38,24 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Pantera Negra",
+      "artist": "Etncida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Pantera%20Negra%20Etncida",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {

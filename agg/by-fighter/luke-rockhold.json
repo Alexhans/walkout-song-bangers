@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Live is Life",
-      "artist": "Opus",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7hkOgKKybgawYUcrkZD3wV",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
       "song_title": "The Point of No Return",
       "artist": "Immortal Technique",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 278: Usman vs. Edwards",
       "event_slug": "ufc-278-usman-vs-edwards",
       "date": "2022-08-20"
+    },
+    {
+      "song_title": "Live is Life",
+      "artist": "Opus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hkOgKKybgawYUcrkZD3wV",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

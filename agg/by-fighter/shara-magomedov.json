@@ -5,21 +5,21 @@
   "walkouts": [
     {
       "song_title": "Legendary 2",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Legendary%202%20Tupac",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
-      "song_title": "Legendary 2",
       "artist": "2pac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1nUKYtye6OcItO5zsLuynJ",
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Legendary 2",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Legendary%202%20Tupac",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     }
   ],
   "stats": {

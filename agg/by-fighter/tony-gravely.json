@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "CAN'T C ME",
-      "artist": "2pac",
+      "song_title": "Wish I Had It",
+      "artist": "Kevin Gates",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
+      "spotify_url": "https://open.spotify.com/track/2x50fMpSjA2WWmptDUStS9",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     },
     {
       "song_title": "Can't C Me",
@@ -22,6 +22,15 @@
       "date": "2022-09-17"
     },
     {
+      "song_title": "CAN'T C ME",
+      "artist": "2pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
       "song_title": "When We Ride on Our Enemies",
       "artist": "Tupac",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Smith vs. Spann",
       "event_slug": "ufc-fight-night-smith-vs-spann",
       "date": "2021-09-18"
-    },
-    {
-      "song_title": "Wish I Had It",
-      "artist": "Kevin Gates",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2x50fMpSjA2WWmptDUStS9",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
     }
   ],
   "stats": {

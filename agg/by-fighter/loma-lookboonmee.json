@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
-    },
-    {
       "song_title": "Believer",
       "artist": "Project E.A.R.",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     },
     {
       "song_title": "Small Boats",

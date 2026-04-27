@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "United Arab Emirates army song",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/United%20Arab%20Emirates%20army%20song",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
       "song_title": "Shook Ones, Pt. II",
       "artist": "Mobb Deep",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "United Arab Emirates army song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/United%20Arab%20Emirates%20army%20song",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Knight’s Steed",
-      "artist": "Amir LLabay",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4puWEgTbQFHu98cYmzEpqL",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
       "song_title": "Knight's Steed",
       "artist": "Amir Labay",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Knight’s Steed",
+      "artist": "Amir LLabay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4puWEgTbQFHu98cYmzEpqL",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {

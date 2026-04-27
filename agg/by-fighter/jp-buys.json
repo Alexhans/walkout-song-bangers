@@ -17,18 +17,18 @@
       "artist": "Satsang",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
-      "event": "UFC Fight Night: Smith vs. Spann",
-      "event_slug": "ufc-fight-night-smith-vs-spann",
-      "date": "2021-09-18"
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     },
     {
       "song_title": "I Am",
       "artist": "Satsang",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8",
-      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
-      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
-      "date": "2022-06-25"
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {

@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
-      "song_title": "The Lonely Man Theme",
-      "artist": "Joe Harnell",
+      "song_title": "Buscándole a la Suerte",
+      "artist": "Julión Álvarez y su Norteño Banda",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ZgDn35QKjN3CM2crhTIIs",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
+      "spotify_url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
     },
     {
       "song_title": "In the Air Tonight",
@@ -31,13 +22,13 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Buscándole a la Suerte",
-      "artist": "Julión Álvarez y su Norteño Banda",
+      "song_title": "The Lonely Man Theme",
+      "artist": "Joe Harnell",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV",
-      "event": "UFC 326: Holloway vs. Oliveira 2",
-      "event_slug": "ufc-326",
-      "date": "2026-03-07"
+      "spotify_url": "https://open.spotify.com/track/1ZgDn35QKjN3CM2crhTIIs",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
     },
     {
       "song_title": "Deus e Por Nos",
@@ -56,6 +47,15 @@
       "event": "UFC Fight Night: Strickland vs. Magomedov",
       "event_slug": "ufc-fight-night-strickland-vs-magomedov",
       "date": "2023-07-01"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {

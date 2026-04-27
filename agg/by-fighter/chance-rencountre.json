@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Built to Kill",
-      "artist": "Northern Cree",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7GavZMVUNWgHLJ3tExQkwJ",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC 244: Masvidal vs. Diaz",
       "event_slug": "ufc-244",
       "date": "2019-11-02"
+    },
+    {
+      "song_title": "Built to Kill",
+      "artist": "Northern Cree",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7GavZMVUNWgHLJ3tExQkwJ",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

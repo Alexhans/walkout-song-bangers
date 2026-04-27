@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "FOX ON THE RUN",
-      "artist": "Sweet",
+      "song_title": "Spoiler",
+      "artist": "Hyper",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "spotify_url": "https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     },
     {
       "song_title": "Fox On The Run",
@@ -40,13 +31,22 @@
       "date": "2022-03-26"
     },
     {
-      "song_title": "Spoiler",
-      "artist": "Hyper",
+      "song_title": "FOX ON THE RUN",
+      "artist": "Sweet",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu",
-      "event": "UFC Fight Night: Luque vs. Dos Anjos",
-      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
-      "date": "2023-08-12"
+      "spotify_url": "https://open.spotify.com/track/1kecaz54iduPLO4VPszTbC",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {

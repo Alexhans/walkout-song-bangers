@@ -4,24 +4,6 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Watchdog",
-      "artist": "Issaya",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "WATCHDOG",
-      "artist": "Issaya",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4mfOtyCa850gMBlsHrMHN1",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
       "song_title": "God's Gonna Cut You Down",
       "artist": "Johnny Cash",
       "confidence": "bronze",
@@ -38,33 +20,6 @@
       "event": "UFC Fight Night: Ankalaev vs. Walker 2",
       "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
       "date": "2024-01-13"
-    },
-    {
-      "song_title": "Soldier",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
-      "event": "UFC Fight Night: Arlovski vs. Barnett",
-      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
-      "date": "2016-09-03"
-    },
-    {
-      "song_title": "Watchdog",
-      "artist": "Issaya",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
-    },
-    {
-      "song_title": "I'm a Soldier",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
-      "event": "UFC Fight Night: Holm vs. Correia",
-      "event_slug": "ufc-fight-night-holm-vs-correia",
-      "date": "2017-06-17"
     },
     {
       "song_title": "God’s Gonna Cut You Down",
@@ -89,9 +44,54 @@
       "artist": "Issaya",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "WATCHDOG",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mfOtyCa850gMBlsHrMHN1",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
       "event": "UFC Fight Night: Ladd vs. Dumont",
       "event_slug": "ufc-fight-night-ladd-vs-dumont",
       "date": "2021-10-16"
+    },
+    {
+      "song_title": "Watchdog",
+      "artist": "Issaya",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0s5AXWrL9sUqpXs2220Kp2",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "I'm a Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
+      "song_title": "Soldier",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QD28FqaM3jTfsqWwvRZwv",
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
     },
     {
       "song_title": "Solidier",

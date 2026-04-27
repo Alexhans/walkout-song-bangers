@@ -4,40 +4,49 @@
   "appearances": 13,
   "walkouts": [
     {
-      "song_title": "Listen Through Me",
-      "artist": "Thrice",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/05Bn9Giqos0GZjjTAmgcNO",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
-    },
-    {
-      "song_title": "Let Me Fly",
-      "artist": "DMX",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
+      "song_title": "Staying Alive",
+      "artist": "Bee Gees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    },
+    {
+      "song_title": "Cloak & Dagger",
+      "artist": "Burna Boy feat. J. Hus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Cloak%20%26%20Dagger%20Burna%20Boy%20feat.%20J.%20Hus",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
+    },
+    {
+      "song_title": "Da Rockwilder",
+      "artist": "Method Man and Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Protect Ya Neck",
+      "artist": "Wu Tang Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     },
     {
       "song_title": "",
@@ -53,45 +62,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     },
     {
       "song_title": "Let Me Fly",
       "artist": "DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
-    },
-    {
-      "song_title": "Protect Ya Neck",
-      "artist": "Wu Tang Clan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
-    },
-    {
-      "song_title": "Da Rockwilder",
-      "artist": "Method Man and Redman",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
-      "event": "UFC Fight Night: Kattar vs. Allen",
-      "event_slug": "ufc-fight-night-kattar-vs-allen",
-      "date": "2022-10-29"
-    },
-    {
-      "song_title": "Cloak & Dagger",
-      "artist": "Burna Boy feat. J. Hus",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Cloak%20%26%20Dagger%20Burna%20Boy%20feat.%20J.%20Hus",
-      "event": "UFC Fight Night: Luque vs. Dos Anjos",
-      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
-      "date": "2023-08-12"
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
       "song_title": "Let Me Fly",
@@ -103,13 +94,13 @@
       "date": "2017-07-16"
     },
     {
-      "song_title": "Staying Alive",
-      "artist": "Bee Gees",
+      "song_title": "Let Me Fly",
+      "artist": "DMX",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "spotify_url": "https://open.spotify.com/track/3iZKQU7zgHw2tFuqD7mdqL",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     },
     {
       "song_title": "Ultralight Beam",
@@ -119,6 +110,15 @@
       "event": "UFC Fight Night: Whittaker vs. Brunson",
       "event_slug": "ufc-fight-night-whittaker-vs-brunson",
       "date": "2016-11-26"
+    },
+    {
+      "song_title": "Listen Through Me",
+      "artist": "Thrice",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/05Bn9Giqos0GZjjTAmgcNO",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

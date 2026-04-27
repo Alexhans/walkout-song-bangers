@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "DIGITAL BATH",
-      "artist": "Deftones",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
       "song_title": "Digital Bath",
       "artist": "Deftones",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Hermansson vs. Strickland",
       "event_slug": "ufc-fight-night-hermansson-vs-strickland",
       "date": "2022-02-05"
+    },
+    {
+      "song_title": "DIGITAL BATH",
+      "artist": "Deftones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

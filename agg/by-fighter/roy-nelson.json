@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Fat",
-      "artist": "Weird Al Yankovic",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4is3oF4FlWmedh3TK6Ke7z",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
-    },
-    {
       "song_title": "I'm Fat",
       "artist": "Weird Al Yankovic",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Fat",
+      "artist": "Weird Al Yankovic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4is3oF4FlWmedh3TK6Ke7z",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

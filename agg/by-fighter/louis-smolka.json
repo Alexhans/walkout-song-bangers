@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Bigger Than Me",
-      "artist": "The Game",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
-      "song_title": "Eazy",
-      "artist": "G-Eazy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ohwrBQrxIlqMYfkoYERiN",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
       "song_title": "Your Smile",
       "artist": "Fogottenage, Solizy",
       "confidence": "bronze",
@@ -40,6 +22,15 @@
       "date": "2021-12-04"
     },
     {
+      "song_title": "Eazy",
+      "artist": "G-Eazy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ohwrBQrxIlqMYfkoYERiN",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
       "song_title": "Riot Maker",
       "artist": "Tech N9ne feat. Skatterman & Snug Brim",
       "confidence": "bronze",
@@ -47,6 +38,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Bigger Than Me",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2mJPKvpuix7hdaygJPKIcl",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     }
   ],
   "stats": {

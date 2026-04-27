@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Calling My Spirit",
-      "artist": "Kodak Black",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     },
     {
       "song_title": "Feeling Like Dennis",
@@ -22,24 +22,6 @@
       "date": "2024-01-20"
     },
     {
-      "song_title": "No Friends in the Industry",
-      "artist": "Drake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
-      "event": "UFC Fight Night: Holloway vs. Rodriguez",
-      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
-      "date": "2021-11-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
-    },
-    {
       "song_title": "E.I.",
       "artist": "Nelly",
       "confidence": "bronze",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Sandhagen vs. Font",
       "event_slug": "ufc-fight-night-sandhagen-vs-font",
       "date": "2023-08-05"
+    },
+    {
+      "song_title": "Calling My Spirit",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "No Friends in the Industry",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
     }
   ],
   "stats": {

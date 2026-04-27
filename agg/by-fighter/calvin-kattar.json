@@ -4,33 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "I Won't Back Down",
-      "artist": "Tom Petty",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "Won’t Back Down",
-      "artist": "Tom Petty",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "I Won’t Back Down",
-      "artist": "Tom Petty",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
       "song_title": "House of the Rising Sun",
       "artist": "The Animals",
       "confidence": "bronze",
@@ -49,6 +22,15 @@
       "date": "2022-10-29"
     },
     {
+      "song_title": "House of the Rising Sun",
+      "artist": "The Animals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
       "song_title": "The House of the Rising Sun",
       "artist": "The Animals",
       "confidence": "bronze",
@@ -58,13 +40,31 @@
       "date": "2022-01-15"
     },
     {
-      "song_title": "House of the Rising Sun",
-      "artist": "The Animals",
+      "song_title": "I Won’t Back Down",
+      "artist": "Tom Petty",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "Won’t Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "I Won't Back Down",
+      "artist": "Tom Petty",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     }
   ],
   "stats": {

@@ -8,6 +8,24 @@
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
+    },
+    {
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
@@ -29,24 +47,6 @@
       "event": "UFC Fight Night: Ladd vs. Dumont",
       "event_slug": "ufc-fight-night-ladd-vs-dumont",
       "date": "2021-10-16"
-    },
-    {
-      "song_title": "Highway to Hell",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
-    },
-    {
-      "song_title": "Highway to Hell",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
-      "event": "UFC Fight Night: Sandhagen vs. Font",
-      "event_slug": "ufc-fight-night-sandhagen-vs-font",
-      "date": "2023-08-05"
     }
   ],
   "stats": {

@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Golden Boy",
-      "artist": "Gibran Nolasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
-    },
-    {
-      "song_title": "Cancion del Mariachi",
-      "artist": "Antonio Banderas and Los Lobos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
-      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
-      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
-      "date": "2023-09-16"
-    },
-    {
       "song_title": "Goldenboy",
       "artist": "Gibran Nolasco",
       "confidence": "bronze",
@@ -34,10 +16,28 @@
       "song_title": "Golden Boy",
       "artist": "Gibran Nolasco",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Golden Boy",
+      "artist": "Gibran Nolasco",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe",
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "Cancion del Mariachi",
+      "artist": "Antonio Banderas and Los Lobos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     },
     {
       "song_title": "El Son de La Negra",

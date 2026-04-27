@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Notorious Thugs",
-      "artist": "The Notorious B.I.G. feat. Bone Thugz-N-Harmony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ozdRCYFVt8Ui0dba1520D",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
       "song_title": "Audio",
       "artist": "LSD feat. Sia, Diplo and Labrinth",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Notorious Thugs",
+      "artist": "The Notorious B.I.G. feat. Bone Thugz-N-Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ozdRCYFVt8Ui0dba1520D",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

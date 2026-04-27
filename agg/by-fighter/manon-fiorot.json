@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "En Mode 1",
-      "artist": "Rohff",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
       "song_title": "Que Pour Les Vrais",
       "artist": "Rohff",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
+    },
+    {
+      "song_title": "En Mode 1",
+      "artist": "Rohff",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58eSG8IhIoQuGBz2BJBSA4",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "Dirty Hous",

@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Bu Vatan",
-      "artist": "Uzmir",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5wm6mi9Rnq3hdXTE8z1HcL",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
-    },
-    {
       "song_title": "O'Zbegim",
       "artist": "SHoxrux",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
+    },
+    {
+      "song_title": "Bu Vatan",
+      "artist": "Uzmir",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5wm6mi9Rnq3hdXTE8z1HcL",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "O’Zbegim",

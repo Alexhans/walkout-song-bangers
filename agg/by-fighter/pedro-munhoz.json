@@ -4,49 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Ambitionz Az a Ridah",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "Tudo Que Eu Guardo",
-      "artist": "Quebrada United",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "Ambitionz as a Ridah",
-      "artist": "2Pac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
-      "song_title": "If I Ruled The World",
-      "artist": "Nas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
-      "artist": "Racion",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "Rifles Rusos",
@@ -58,13 +22,49 @@
       "date": "2024-03-09"
     },
     {
-      "song_title": "Set You Free",
-      "artist": "Planet Soul",
+      "song_title": "CAPITULO 4 Versiculo 3/Vida Lokat PT \"/HOMEM NA\nESTRADA",
+      "artist": "Racion",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
+      "spotify_url": "https://open.spotify.com/search/CAPITULO%204%20Versiculo%203/Vida%20Lokat%20PT%20%22/HOMEM%20NA%0AESTRADA%20Racion",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "If I Ruled The World",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Ambitionz as a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "Tudo Que Eu Guardo",
+      "artist": "Quebrada United",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "Jump Around",
@@ -76,13 +76,13 @@
       "date": "2017-05-28"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "song_title": "Set You Free",
+      "artist": "Planet Soul",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0D5RDgqvJybxZGb7iWK0zo",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

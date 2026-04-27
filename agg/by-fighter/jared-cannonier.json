@@ -4,22 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Fight",
-      "artist": "Project Pat",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3H38zzO3vZ1h4zG1bkcGfW",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Go DJ",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "Nuthin' but a G Thang",
@@ -35,27 +44,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "Go DJ",
-      "artist": "Lil Wayne",
+      "song_title": "Fight",
+      "artist": "Project Pat",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "spotify_url": "https://open.spotify.com/track/3H38zzO3vZ1h4zG1bkcGfW",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     },
     {
       "song_title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",

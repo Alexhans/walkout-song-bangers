@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Twinz (Deep Cover 98)",
-      "artist": "Big Pun",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "Twinz (Deep Cover 98)",
+      "artist": "Big Pun",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     }
   ],
   "stats": {

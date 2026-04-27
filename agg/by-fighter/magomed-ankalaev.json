@@ -8,36 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
-    },
-    {
-      "song_title": "Krasivaja Lezginka",
-      "artist": "Muzyka and Masinu",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6aYOxcYhknnFFRKlYG0GNh",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
+      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+      "date": "2024-01-13"
     },
     {
       "song_title": "Georgian dance",
@@ -53,9 +26,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
-      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
-      "date": "2024-01-13"
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "Krasivaja Lezginka",
+      "artist": "Muzyka and Masinu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aYOxcYhknnFFRKlYG0GNh",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

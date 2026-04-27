@@ -8,15 +8,6 @@
       "artist": "Depeche Mode",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
-    },
-    {
-      "song_title": "Personal Jesus",
-      "artist": "Depeche Mode",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
       "event": "UFC Fight Night: Moicano vs. Duncan",
       "event_slug": "ufc-fight-night-moicano-vs-duncan",
       "date": "2026-04-04"
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
+    },
+    {
+      "song_title": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2wUlYDGGXlSvm2NkGj0Qio",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "In the Field",
-      "artist": "Pardison Fontaine",
+      "song_title": "Nee-nah",
+      "artist": "21 Savage, Travis Scott, Metro Boomin",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6H9aTYVzqO4evUIW6A3VRH",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "spotify_url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "Paid in Full",
@@ -22,6 +22,15 @@
       "date": "2023-11-11"
     },
     {
+      "song_title": "Kant Nobody",
+      "artist": "Lil’ Wayne feat. DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
       "song_title": "Can't Punk Me",
       "artist": "JID feat. Earthgang",
       "confidence": "bronze",
@@ -31,22 +40,13 @@
       "date": "2023-02-18"
     },
     {
-      "song_title": "Nee-nah",
-      "artist": "21 Savage, Travis Scott, Metro Boomin",
+      "song_title": "In the Field",
+      "artist": "Pardison Fontaine",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
-    },
-    {
-      "song_title": "Kant Nobody",
-      "artist": "Lil’ Wayne feat. DMX",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM",
-      "event": "UFC Fight Night: Emmett vs. Topuria",
-      "event_slug": "ufc-fight-night-emmett-vs-topuria",
-      "date": "2023-06-24"
+      "spotify_url": "https://open.spotify.com/track/6H9aTYVzqO4evUIW6A3VRH",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     }
   ],
   "stats": {

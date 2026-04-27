@@ -4,10 +4,10 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2022](../agg/by-year/2022.md) | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
-| [2023](../agg/by-year/2023.md) | [UFC 286: Edwards vs. Usman 3](../../ufc-286-edwards-vs-usman-3.md) | My People | Zagir Magomedov | [Listen](https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp) |
-| [2023](../agg/by-year/2023.md) | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | My People | Zagir Magomedov |  |
 | [2024](../agg/by-year/2024.md) | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | My People | Zagir Magomedov |  |
-| [2022](../agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Aspinall](../../ufc-fight-night-blaydes-vs-aspinall.md) | Mokaev | Zoya Chunaeva | [Listen](https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Rozenstruik vs. Gaziev](../../ufc-fight-night-rozenstruik-vs-gaziev.md) | My People | Zagir Magomedov | [Listen](https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp) |
+| [2023](../agg/by-year/2023.md) | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | My People | Zagir Magomedov |  |
+| [2023](../agg/by-year/2023.md) | [UFC 286: Edwards vs. Usman 3](../../ufc-286-edwards-vs-usman-3.md) | My People | Zagir Magomedov | [Listen](https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp) |
+| [2022](../agg/by-year/2022.md) | [UFC 280: Oliveira vs. Makhachev](../../ufc-280.md) | — | — | |
+| [2022](../agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Aspinall](../../ufc-fight-night-blaydes-vs-aspinall.md) | Mokaev | Zoya Chunaeva | [Listen](https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Volkov vs. Aspinall](../../ufc-fight-night-volkov-vs-aspinall.md) | My People | Zagir Magomedov | [Listen](https://open.spotify.com/track/4KJFziEqM0ntI4UWfqdkCp) |

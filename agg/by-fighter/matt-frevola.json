@@ -4,58 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Livin' on a Prayer",
-      "artist": "Bon Jovi",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
-      "song_title": "Vacation",
-      "artist": "Dirty Heads",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6GXtjEpfXTFECdmGChpkUi",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "Good Vibrations",
-      "artist": "Marky Mark and The Funky Bunch (Featuring Loleatta Holloway)",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "ROLLIN",
-      "artist": "Limp Bizkit",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
       "song_title": "Narco",
-      "artist": "Blasterjaxx & Timmy Trumpet",
+      "artist": "Blasterjaxx and Timmy Trumpet",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "Narco",
@@ -68,12 +23,57 @@
     },
     {
       "song_title": "Narco",
-      "artist": "Blasterjaxx and Timmy Trumpet",
+      "artist": "Blasterjaxx & Timmy Trumpet",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "ROLLIN",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "Good Vibrations",
+      "artist": "Marky Mark and The Funky Bunch (Featuring Loleatta Holloway)",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
+    {
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6GXtjEpfXTFECdmGChpkUi",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

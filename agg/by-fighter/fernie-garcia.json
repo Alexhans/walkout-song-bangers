@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
-    },
-    {
       "song_title": "Seven Nation Army",
       "artist": "The White Stripes",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Hermansson vs. Pyfer",
       "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
       "date": "2024-02-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     }
   ],
   "stats": {

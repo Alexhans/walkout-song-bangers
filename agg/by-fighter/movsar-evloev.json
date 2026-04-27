@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
       "song_title": "Melodies of the Mountains",
       "artist": "Sulambek Mamilov",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3roZ8GYNvxgGrslNhuFSHc",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Started from the Bottom",
@@ -44,9 +26,27 @@
       "artist": "Sulambek Mamilov",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3roZ8GYNvxgGrslNhuFSHc",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {

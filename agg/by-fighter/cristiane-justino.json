@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Santos Espirito (Holy Spirit)",
-      "artist": "Gezi Monteiro",
+      "song_title": "Stomp (Remix)",
+      "artist": "Kirk Franklin",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
+      "spotify_url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
       "song_title": "Santo Esperito",
@@ -22,13 +22,13 @@
       "date": "2017-07-29"
     },
     {
-      "song_title": "Stomp (Remix)",
-      "artist": "Kirk Franklin",
+      "song_title": "Santos Espirito (Holy Spirit)",
+      "artist": "Gezi Monteiro",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
+      "spotify_url": "https://open.spotify.com/track/5HqIiUZj3DZn2NjzoIk7Dh",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

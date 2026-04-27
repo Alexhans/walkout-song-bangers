@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "song_title": "In A Dream",
+      "artist": "Rockell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Xf27f2BIY6FmvifqxQ7RD",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "In A Dream",
-      "artist": "Rockell",
+      "song_title": "What You Gon’ Do",
+      "artist": "Lil Jon & The East Side Boyz feat. Lil Scrappy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Xf27f2BIY6FmvifqxQ7RD",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
+      "spotify_url": "https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     },
     {
       "song_title": "Break the Law",
@@ -40,13 +40,13 @@
       "date": "2023-10-07"
     },
     {
-      "song_title": "What You Gon’ Do",
-      "artist": "Lil Jon & The East Side Boyz feat. Lil Scrappy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "Last Breath",

@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "UNSTOPPABLE",
-      "artist": "Sia",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
       "song_title": "Unstoppable",
       "artist": "Sia",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "UNSTOPPABLE",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

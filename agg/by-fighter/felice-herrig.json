@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Blinded by the Light",
-      "artist": "Manfred Mann's Earth Band",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vB1LXvjlmOG47FPgVQHFS",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     },
     {
       "song_title": "Don't Stop Believin'",
@@ -22,13 +22,13 @@
       "date": "2018-10-06"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
+      "song_title": "Blinded by the Light",
+      "artist": "Manfred Mann's Earth Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vB1LXvjlmOG47FPgVQHFS",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     },
     {
       "song_title": "All Fired Up",

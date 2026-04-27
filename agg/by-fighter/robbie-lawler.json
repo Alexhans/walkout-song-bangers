@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Hold On, I'm Coming",
-      "artist": "Sam & Dave",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "Ain't No Grave",
-      "artist": "Johnny Cash",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "PROMONTORY",
+      "song_title": "Promentory” main theme from “The Last of the Mohicans",
       "artist": "Trevor Jones",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Promentory",
@@ -40,13 +22,31 @@
       "date": "2022-07-02"
     },
     {
-      "song_title": "Promentory” main theme from “The Last of the Mohicans",
+      "song_title": "PROMONTORY",
       "artist": "Trevor Jones",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "spotify_url": "https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Ain't No Grave",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Hold On, I'm Coming",
+      "artist": "Sam & Dave",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

@@ -5,15 +5,6 @@
   "walkouts": [
     {
       "song_title": "Who Gon' Stop Me",
-      "artist": "Kanye West and Jay-Z",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Who Gon' Stop Me",
       "artist": "Kanye West & Jay-Z",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/22ngk2DRBy7audIugfYDKd",
@@ -29,6 +20,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Who Gon' Stop Me",
+      "artist": "Kanye West and Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

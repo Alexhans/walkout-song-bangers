@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Mortals",
-      "artist": "Warriyo feat. Laura Brehm",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/03T4jRQyNJcvZU0Md1SRDY",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
-    },
-    {
       "song_title": "Run This Town",
       "artist": "Jay Z & Rihanna",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
       "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
       "date": "2022-07-09"
+    },
+    {
+      "song_title": "Mortals",
+      "artist": "Warriyo feat. Laura Brehm",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/03T4jRQyNJcvZU0Md1SRDY",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {

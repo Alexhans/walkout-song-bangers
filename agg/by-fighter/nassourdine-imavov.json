@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
+      "song_title": "Tomorrow",
+      "artist": "Salif Keita",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     },
     {
       "song_title": "",
@@ -23,12 +23,12 @@
     },
     {
       "song_title": "Tomorrow",
-      "artist": "Salif Keita",
+      "artist": "Sadio",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
-      "event": "UFC Fight Night: Dolidze vs. Imavov",
-      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
-      "date": "2024-02-03"
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     },
     {
       "song_title": "Tomorrow",
@@ -40,6 +40,15 @@
       "date": "2022-09-03"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
       "song_title": "We Are Now Free",
       "artist": "Dave Pearce",
       "confidence": "bronze",
@@ -47,15 +56,6 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
-    },
-    {
-      "song_title": "Tomorrow",
-      "artist": "Sadio",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a",
-      "event": "UFC Fight Night: Strickland vs. Imavov",
-      "event_slug": "ufc-fight-night-strickland-vs-imavov",
-      "date": "2023-01-14"
     }
   ],
   "stats": {

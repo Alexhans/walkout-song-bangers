@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Prvt E Hora Vencer",
-      "artist": "Faccao 288",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
       "song_title": "Prvt e Hora Vencer",
       "artist": "Faccao 288",
       "confidence": "bronze",
@@ -20,6 +11,24 @@
       "event": "UFC 296: Edwards vs. Covington",
       "event_slug": "ufc-296",
       "date": "2023-12-16"
+    },
+    {
+      "song_title": "Prvt e Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
+    },
+    {
+      "song_title": "Prvt E Hora Vencer",
+      "artist": "Faccao 288",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "Prvt e Hora Vencer",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Santos vs. Walker",
       "event_slug": "ufc-fight-night-santos-vs-walker",
       "date": "2021-10-02"
-    },
-    {
-      "song_title": "Prvt e Hora Vencer",
-      "artist": "Faccao 288",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG",
-      "event": "UFC Fight Night: Strickland vs. Magomedov",
-      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
-      "date": "2023-07-01"
     }
   ],
   "stats": {

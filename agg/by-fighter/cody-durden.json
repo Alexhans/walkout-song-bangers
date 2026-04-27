@@ -4,15 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Hail Mary",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -35,9 +26,9 @@
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
-      "event": "UFC Fight Night: Kattar vs. Allen",
-      "event_slug": "ufc-fight-night-kattar-vs-allen",
-      "date": "2022-10-29"
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
     },
     {
       "song_title": "Hail Mary",
@@ -53,6 +44,15 @@
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "Hail Mary",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
@@ -62,18 +62,18 @@
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
-      "event": "UFC Fight Night: Vieira vs. Tate",
-      "event_slug": "ufc-fight-night-vieira-vs-tate",
-      "date": "2021-11-20"
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     },
     {
       "song_title": "Hail Mary",
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP",
-      "event": "UFC Fight Night: Volkov vs. Aspinall",
-      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
-      "date": "2022-03-19"
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     }
   ],
   "stats": {

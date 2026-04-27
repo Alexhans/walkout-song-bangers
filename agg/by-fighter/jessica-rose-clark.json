@@ -17,18 +17,18 @@
       "artist": "John Butler Trio",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4cchZR8pao5z9dfyqk9hpW",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     },
     {
       "song_title": "Only One",
       "artist": "John Butler Trio",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4cchZR8pao5z9dfyqk9hpW",
-      "event": "UFC Fight Night: Walker vs. Hill",
-      "event_slug": "ufc-fight-night-walker-vs-hill",
-      "date": "2022-02-19"
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {

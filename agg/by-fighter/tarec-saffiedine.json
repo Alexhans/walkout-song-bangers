@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Meutre Par Strangulation",
-      "artist": "Maitre Gims",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ObrHZC0MpyNkWh1CdmCcg",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
       "song_title": "Formidable",
       "artist": "Stromae",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Holm vs. Correia",
       "event_slug": "ufc-fight-night-holm-vs-correia",
       "date": "2017-06-17"
+    },
+    {
+      "song_title": "Meutre Par Strangulation",
+      "artist": "Maitre Gims",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ObrHZC0MpyNkWh1CdmCcg",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     }
   ],
   "stats": {

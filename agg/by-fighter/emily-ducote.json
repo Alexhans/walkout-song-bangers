@@ -17,9 +17,9 @@
       "artist": "Carrollton",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
-      "event": "UFC Fight Night: Ortega vs. Rodriguez",
-      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
-      "date": "2022-07-16"
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     },
     {
       "song_title": "Made for This",
@@ -35,9 +35,9 @@
       "artist": "Carrollton",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6YRF7SwRAxb1cMPnRxYg4T",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     }
   ],
   "stats": {

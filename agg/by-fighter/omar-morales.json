@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
       "song_title": "Blind",
       "artist": "Korn",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Me Solta",
-      "artist": "Nego do Borel",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5nqehpNGoRAz4wUFK3wT9k",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "CACHAMBI OTEIRO",
-      "artist": "Mirechal Bento Ribeiro",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
       "song_title": "Brillo",
       "artist": "Natanael Cano",
       "confidence": "bronze",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Strickland vs. Imavov",
       "event_slug": "ufc-fight-night-strickland-vs-imavov",
       "date": "2023-01-14"
+    },
+    {
+      "song_title": "CACHAMBI OTEIRO",
+      "artist": "Mirechal Bento Ribeiro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5pFoHxNJIEyoFuMKeOIctP",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "Me Solta",
+      "artist": "Nego do Borel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nqehpNGoRAz4wUFK3wT9k",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     }
   ],
   "stats": {

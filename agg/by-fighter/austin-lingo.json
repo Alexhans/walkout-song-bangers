@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "song_title": "Let's Go",
+      "artist": "Key Glock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     },
     {
       "song_title": "Amazing",
@@ -22,13 +22,13 @@
       "date": "2021-08-21"
     },
     {
-      "song_title": "Let's Go",
-      "artist": "Key Glock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {

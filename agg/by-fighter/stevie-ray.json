@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Mousasi vs. Hall 2",
-      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
-      "date": "2016-11-19"
-    },
-    {
       "song_title": "Amazing Grace",
       "artist": "The Royal Scots Dragoon Guard",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
     }
   ],
   "stats": {

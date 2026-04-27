@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Bounce Back",
-      "artist": "Big Sean",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF",
-      "event": "UFC 209: Woodley vs. Thompson 2",
-      "event_slug": "ufc-209",
-      "date": "2017-03-04"
-    },
-    {
       "song_title": "Belizean Warrior",
       "artist": "Fuego",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "Bounce Back",
+      "artist": "Big Sean",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
     },
     {
       "song_title": "Really Really",

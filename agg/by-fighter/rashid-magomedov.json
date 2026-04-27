@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
-      "date": "2016-11-05"
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC on FOX: Johnson vs. Reis",
-      "event_slug": "ufc-on-fox-johnson-vs-reis",
-      "date": "2017-04-15"
+      "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
+      "date": "2016-11-05"
     }
   ],
   "stats": {

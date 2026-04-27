@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 303: Pereira vs. Prochazka 2",
-      "event_slug": "ufc-303",
-      "date": "2024-06-29"
+      "song_title": "Für Elise",
+      "artist": "Ludwig van Beethoven",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DfGPEHxTYeaJpiNA4xUb5",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2025-07-19"
     },
     {
-      "song_title": "Für Elise",
-      "artist": "Ludwig van Beethoven",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1DfGPEHxTYeaJpiNA4xUb5",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
     },
     {
       "song_title": "Cerre Os Punhos",

@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
-    },
-    {
       "song_title": "Hey Baby (Uhh, Ahh)",
       "artist": "Anton feat. DJ Otzi",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     }
   ],
   "stats": {

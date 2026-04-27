@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "song_title": "Unstoppable",
+      "artist": "SIA",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "",
@@ -35,18 +26,27 @@
       "artist": "SIA",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
-    },
-    {
-      "song_title": "Unstoppable",
-      "artist": "SIA",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
       "event": "UFC Fight Night: Strickland vs. Magomedov",
       "event_slug": "ufc-fight-night-strickland-vs-magomedov",
       "date": "2023-07-01"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     }
   ],
   "stats": {

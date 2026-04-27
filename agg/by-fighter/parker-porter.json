@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "Stranglehold",
-      "artist": "Ted Nugent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
-    },
-    {
       "song_title": "The Message",
       "artist": "Grand Master Flash and the Furious Five",
       "confidence": "bronze",
@@ -35,9 +17,9 @@
       "artist": "Ted Nugent",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     },
     {
       "song_title": "Stranglehold",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {

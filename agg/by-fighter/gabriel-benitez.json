@@ -4,42 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Mejor Morir En Pie",
-      "artist": "Tierra Santa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
-      "event": "UFC 211: Miocic vs. Dos Santos",
-      "event_slug": "ufc-211-miocic-vs-dos-santos",
-      "date": "2017-05-13"
-    },
-    {
-      "song_title": "Mejor Morir En Pie",
-      "artist": "Tierra Santa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
-      "event": "UFC 211: Miocic vs. Dos Santos 2",
-      "event_slug": "ufc-211",
-      "date": "2017-05-13"
-    },
-    {
-      "song_title": "El Corrido del Diablo",
-      "artist": "Enigma Norteno",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
-      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
-      "date": "2024-01-13"
-    },
-    {
       "song_title": "Tierra Santa",
       "artist": "Mejor Morir En Pie",
       "confidence": "bronze",
@@ -49,13 +13,13 @@
       "date": "2024-04-27"
     },
     {
-      "song_title": "Mejor Morir en Pie",
-      "artist": "Tierra Santa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
-      "event": "UFC Fight Night: Poirier vs. Johnson",
-      "event_slug": "ufc-fight-night-poirier-vs-johnson",
-      "date": "2016-09-17"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+      "date": "2024-01-13"
     },
     {
       "song_title": "Tierra Santa",
@@ -74,6 +38,42 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "El Corrido del Diablo",
+      "artist": "Enigma Norteno",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OJZBeChC0XosYbPbBmYG3",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "Mejor Morir En Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Mejor Morir En Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Mejor Morir en Pie",
+      "artist": "Tierra Santa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0NB1DS05nK8TJue985c3LF",
+      "event": "UFC Fight Night: Poirier vs. Johnson",
+      "event_slug": "ufc-fight-night-poirier-vs-johnson",
+      "date": "2016-09-17"
     }
   ],
   "stats": {

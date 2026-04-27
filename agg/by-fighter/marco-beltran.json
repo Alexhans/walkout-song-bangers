@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Tequila Sunrise",
-      "artist": "Cypress Hill/",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2gABnPYOMsyxThmsOQ4uWK",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
-    },
-    {
       "song_title": "El Cameral",
       "artist": "Los Cojolites",
       "confidence": "bronze",
@@ -22,13 +13,13 @@
       "date": "2017-10-07"
     },
     {
-      "song_title": "El Camotal",
-      "artist": "Los Cojolites",
+      "song_title": "Tequila Sunrise",
+      "artist": "Cypress Hill/",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
+      "spotify_url": "https://open.spotify.com/track/2gABnPYOMsyxThmsOQ4uWK",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
     },
     {
       "song_title": "Los Caminos de la Vida",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
       "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
       "date": "2016-11-05"
+    },
+    {
+      "song_title": "El Camotal",
+      "artist": "Los Cojolites",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0cK3bnXtjH548LndwIYBWW",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

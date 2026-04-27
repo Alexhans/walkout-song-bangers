@@ -4,24 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "My Moment",
-      "artist": "DJ Drama feat. 2 Chainz, Meek Mill & Jeremih",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3Gva0j7oBU6MdvUMQyDRTJ",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
-    },
-    {
-      "song_title": "Man's Not Hot",
-      "artist": "Big Shaq",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
       "song_title": "Ojuelegba",
       "artist": "Wizkid",
       "confidence": "bronze",
@@ -29,6 +11,15 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
+    },
+    {
+      "song_title": "Show Me the Way",
+      "artist": "Papa Wemba",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Show Me the Way",
@@ -58,13 +49,22 @@
       "date": "2021-11-13"
     },
     {
-      "song_title": "Show Me the Way",
-      "artist": "Papa Wemba",
+      "song_title": "Man's Not Hot",
+      "artist": "Big Shaq",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/06VRtvY7hrL7dxVEccEmgg",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
+      "spotify_url": "https://open.spotify.com/track/6X5OFBbrsHRsyO1zP7udgr",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "My Moment",
+      "artist": "DJ Drama feat. 2 Chainz, Meek Mill & Jeremih",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Gva0j7oBU6MdvUMQyDRTJ",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
     }
   ],
   "stats": {

@@ -4,51 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Face Everything And Rise",
-      "artist": "Papa Roach",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
-    },
-    {
-      "song_title": "The Game",
-      "artist": "Motorhead",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
-      "song_title": "The Downfall of us All",
-      "artist": "A Day To Remember",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
-      "song_title": "Got This",
-      "artist": "Lisi",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
-      "song_title": "NHF (No Hard Feelings)",
-      "artist": "Nito NB",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
-    },
-    {
       "song_title": "NHF (No Hard Feelings)",
       "artist": "Nito NB",
       "confidence": "bronze",
@@ -67,6 +22,42 @@
       "date": "2023-11-18"
     },
     {
+      "song_title": "NHF (No Hard Feelings)",
+      "artist": "Nito NB",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Got This",
+      "artist": "Lisi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3FBLm3N1Zj01WH1bWX7tz5",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "The Downfall of us All",
+      "artist": "A Day To Remember",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "The Game",
+      "artist": "Motorhead",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35bgx24EQeW7IiA4nFXivH",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
       "song_title": "Right Side of the Bed",
       "artist": "Atreyu",
       "confidence": "bronze",
@@ -74,6 +65,15 @@
       "event": "UFC Fight Night: Whittaker vs. Brunson",
       "event_slug": "ufc-fight-night-whittaker-vs-brunson",
       "date": "2016-11-26"
+    },
+    {
+      "song_title": "Face Everything And Rise",
+      "artist": "Papa Roach",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5fgbIxnVT8WTL6PLmF7Aqa",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

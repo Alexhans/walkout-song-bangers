@@ -8,18 +8,18 @@
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/69jXvsj4MAqS8QIfR1HX1x",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     },
     {
       "song_title": "Rise of the Champion",
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/69jXvsj4MAqS8QIfR1HX1x",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     },
     {
       "song_title": "Wrong Side of Heaven",

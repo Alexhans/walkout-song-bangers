@@ -8,18 +8,18 @@
       "artist": "M.I.A.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     },
     {
       "song_title": "Bad Girls",
       "artist": "M.I.A.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb",
-      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
-      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
-      "date": "2023-12-02"
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

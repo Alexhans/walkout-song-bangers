@@ -4,51 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Get It",
-      "artist": "Run the Jewels",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2rOHWE77alc9Txyn4i0QY3",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "Supersonic",
-      "artist": "Oasis",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "Thunderstruck",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "PROLIFIC PRAISE",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "PROLIFIC PRAISE",
-      "artist": "Trey McLaughlin & The Sounds of Zamar",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -76,6 +31,42 @@
       "date": "2024-03-23"
     },
     {
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "Trey McLaughlin & The Sounds of Zamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "PROLIFIC PRAISE",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4ho1yu0RPW406kneTDUmn3",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
+    },
+    {
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
       "song_title": "Dis Generation",
       "artist": "A Tribe Called Quest",
       "confidence": "bronze",
@@ -83,6 +74,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Get It",
+      "artist": "Run the Jewels",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2rOHWE77alc9Txyn4i0QY3",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

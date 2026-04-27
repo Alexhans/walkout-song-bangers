@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
+      "song_title": "Bye Haters",
+      "artist": "Hi-Rez with Wiz Khalifa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WRy2fFDJWL6XB8kwaakez",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     },
     {
       "song_title": "Welcome to the Revolution",
@@ -22,13 +22,13 @@
       "date": "2021-12-11"
     },
     {
-      "song_title": "Bye Haters",
-      "artist": "Hi-Rez with Wiz Khalifa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5WRy2fFDJWL6XB8kwaakez",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {

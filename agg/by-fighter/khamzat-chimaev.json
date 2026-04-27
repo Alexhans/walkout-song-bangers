@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Timur Mucuraev",
-      "artist": "Tu Nocy Kogda",
+      "song_title": "Timur Mutsuraev",
+      "artist": "Tu Noch Kogda",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1VdkBmlS8G3I3Gd3U8hvqz",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "spotify_url": "https://open.spotify.com/search/Timur%20Mutsuraev%20Tu%20Noch%20Kogda",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2022-04-09"
     },
     {
-      "song_title": "Timur Mutsuraev",
-      "artist": "Tu Noch Kogda",
+      "song_title": "Timur Mucuraev",
+      "artist": "Tu Nocy Kogda",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Timur%20Mutsuraev%20Tu%20Noch%20Kogda",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
+      "spotify_url": "https://open.spotify.com/track/1VdkBmlS8G3I3Gd3U8hvqz",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     }
   ],
   "stats": {

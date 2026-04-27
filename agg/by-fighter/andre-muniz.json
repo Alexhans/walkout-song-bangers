@@ -4,13 +4,22 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Till I Collapse",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    },
+    {
       "song_title": "Lose Yourself",
       "artist": "Eminem",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     },
     {
       "song_title": "Lose Yourself",
@@ -26,18 +35,9 @@
       "artist": "Eminem",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq",
-      "event": "UFC Fight Night: Muniz vs. Allen",
-      "event_slug": "ufc-fight-night-muniz-vs-allen",
-      "date": "2023-02-25"
-    },
-    {
-      "song_title": "Till I Collapse",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     }
   ],
   "stats": {

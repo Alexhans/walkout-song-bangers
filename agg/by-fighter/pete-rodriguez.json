@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "OUT HERE GRINDIN",
-      "artist": "DJ Khaled feat. Young Jeezy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/79G57uvrydpEheEOiPJpPY",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
       "song_title": "Built for This",
       "artist": "Method Man",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "OUT HERE GRINDIN",
+      "artist": "DJ Khaled feat. Young Jeezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/79G57uvrydpEheEOiPJpPY",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
     }
   ],
   "stats": {

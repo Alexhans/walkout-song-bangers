@@ -13,6 +13,15 @@
       "date": "2026-01-24"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
+    },
+    {
       "song_title": "Buscandole a la Suerte",
       "artist": "Julion Alvarez y su Norteno Banda",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Kattar vs. Allen",
       "event_slug": "ufc-fight-night-kattar-vs-allen",
       "date": "2022-10-29"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
     }
   ],
   "stats": {

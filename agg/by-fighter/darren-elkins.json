@@ -4,31 +4,22 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Get Ready",
-      "artist": "Eric Herzog",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
     },
     {
-      "song_title": "Get Ready",
-      "artist": "Eric Herzog",
+      "song_title": "Highway to Hell",
+      "artist": "AC/DC",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
-      "event": "UFC 209: Woodley vs. Thompson 2",
-      "event_slug": "ufc-209",
-      "date": "2017-03-04"
-    },
-    {
-      "song_title": "Get Ready",
-      "artist": "Eric Herzog",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Get+Ready+Eric+Herzog",
-      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-140",
-      "date": "2018-11-17"
+      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Highway to Hell",
@@ -49,22 +40,31 @@
       "date": "2021-07-24"
     },
     {
-      "song_title": "Highway to Hell",
-      "artist": "AC/DC",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
+      "spotify_url": "https://open.spotify.com/search/Get+Ready+Eric+Herzog",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
     },
     {
-      "song_title": "Thunderstruck",
-      "artist": "AC/DC",
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
+      "spotify_url": "https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "event_slug": "ufc-209",
+      "date": "2017-03-04"
+    },
+    {
+      "song_title": "Get Ready",
+      "artist": "Eric Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

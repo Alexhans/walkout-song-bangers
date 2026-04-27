@@ -8,9 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "Trinity (Titoli)",
@@ -22,13 +22,13 @@
       "date": "2023-12-02"
     },
     {
-      "song_title": "Streets of Siam",
-      "artist": "Paul Herzog",
+      "song_title": "Burning Heart",
+      "artist": "Survivor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
+      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     },
     {
       "song_title": "Highwayman",
@@ -38,6 +38,15 @@
       "event": "UFC Fight Night: Ortega vs. Rodriguez",
       "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
       "date": "2022-07-16"
+    },
+    {
+      "song_title": "Streets of Siam",
+      "artist": "Paul Herzog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     },
     {
       "song_title": "",
@@ -53,18 +62,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
-    },
-    {
-      "song_title": "Burning Heart",
-      "artist": "Survivor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2",
-      "event": "UFC Fight Night: Strickland vs. Imavov",
-      "event_slug": "ufc-fight-night-strickland-vs-imavov",
-      "date": "2023-01-14"
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Vida Blindada",
-      "artist": "Andrezhinho Shock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Qfec2Y8mXQvDB8UWe1WBx",
-      "event": "UFC Fight Night: Allen vs. Curtis 2",
-      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
-      "date": "2024-04-06"
-    },
-    {
       "song_title": "O Hino",
       "artist": "Fernandinho",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Vida Blindada",
+      "artist": "Andrezhinho Shock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Qfec2Y8mXQvDB8UWe1WBx",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
     }
   ],
   "stats": {

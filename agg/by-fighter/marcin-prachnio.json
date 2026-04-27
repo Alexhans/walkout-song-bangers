@@ -4,13 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Isis",
-      "artist": "Joyner Lucas ft. Logic",
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     },
     {
       "song_title": "Can’t Stop",
@@ -26,36 +44,9 @@
       "artist": "Red Hot Chili Peppers",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-      "event": "UFC 304: Edwards vs. Muhammad 2",
-      "event_slug": "ufc-304",
-      "date": "2024-07-27"
-    },
-    {
-      "song_title": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
-    },
-    {
-      "song_title": "Can't Stop",
-      "artist": "Red Hot Chili Peppers",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
       "event": "UFC Fight Night: Andrade vs. Blanchfield",
       "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
       "date": "2023-02-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
     },
     {
       "song_title": "Can't Stop",
@@ -65,6 +56,15 @@
       "event": "UFC Fight Night: Lemos vs. Andrade",
       "event_slug": "ufc-fight-night-lemos-vs-andrade",
       "date": "2022-04-23"
+    },
+    {
+      "song_title": "Isis",
+      "artist": "Joyner Lucas ft. Logic",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {

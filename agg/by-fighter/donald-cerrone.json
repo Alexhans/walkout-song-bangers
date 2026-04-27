@@ -4,40 +4,22 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Cowboy",
-      "artist": "Kid Rock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Cowboy",
-      "artist": "Kid Rock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
-    },
-    {
-      "song_title": "Cowboy",
-      "artist": "Kid Rock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     },
     {
       "song_title": "Cowboy",
@@ -53,18 +35,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Cowboy",
+      "artist": "Kid Rock",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     },
     {
       "song_title": "Cowboy",

@@ -8,18 +8,18 @@
       "artist": "El Kimiko Y Yordy X Michel Boutic",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     },
     {
       "song_title": "El Campeon",
       "artist": "El Kimiko Y Yordy X Michel Boutic",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5MQSpq70dkeFPORwM6FHMe",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     }
   ],
   "stats": {

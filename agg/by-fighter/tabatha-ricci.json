@@ -4,40 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Tellem That I'm Comin'",
-      "artist": "Lathan Warlick",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
       "song_title": "Intro",
       "artist": "DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
-    },
-    {
-      "song_title": "Tell ‘Em That I’m Comin'",
-      "artist": "Lathan Warlick",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
-      "event": "UFC Fight Night: Emmett vs. Topuria",
-      "event_slug": "ufc-fight-night-emmett-vs-topuria",
-      "date": "2023-06-24"
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Tellem That I'm Comin'",
@@ -53,9 +26,36 @@
       "artist": "DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "Tell ‘Em That I’m Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "event": "UFC Fight Night: Emmett vs. Topuria",
+      "event_slug": "ufc-fight-night-emmett-vs-topuria",
+      "date": "2023-06-24"
+    },
+    {
+      "song_title": "Tellem That I'm Comin'",
+      "artist": "Lathan Warlick",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1FqGIiTQT5Ij2mdQyngUUu",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {

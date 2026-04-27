@@ -5,12 +5,12 @@
   "walkouts": [
     {
       "song_title": "Die Tonight",
-      "artist": "Adam Calhoun feat. Upchurch",
+      "artist": "Adam Calhoun and Ryan Upchurch",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
+      "spotify_url": "https://open.spotify.com/track/6opQAZ6KxhG3zTeOre29zf",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     },
     {
       "song_title": "Die Tonight",
@@ -23,12 +23,12 @@
     },
     {
       "song_title": "Die Tonight",
-      "artist": "Adam Calhoun and Ryan Upchurch",
+      "artist": "Adam Calhoun",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6opQAZ6KxhG3zTeOre29zf",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
+      "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     },
     {
       "song_title": "Die Tonight",
@@ -50,12 +50,12 @@
     },
     {
       "song_title": "Die Tonight",
-      "artist": "Adam Calhoun",
+      "artist": "Adam Calhoun feat. Upchurch",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2WHvIa5dLVt9eqNly6iwU8",
-      "event": "UFC Fight Night: Vera vs. Cruz",
-      "event_slug": "ufc-fight-night-vera-vs-cruz",
-      "date": "2022-08-13"
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
       "song_title": "Amazing",

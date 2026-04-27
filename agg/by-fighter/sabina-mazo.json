@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Fu-Gee-La",
-      "artist": "Fugees",
+      "song_title": "Don't Stop Til You Get Enough",
+      "artist": "Michael Jackson",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "spotify_url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     },
     {
       "song_title": "Fu-Gee-La",
@@ -22,13 +22,13 @@
       "date": "2020-01-18"
     },
     {
-      "song_title": "Don't Stop Til You Get Enough",
-      "artist": "Michael Jackson",
+      "song_title": "Fu-Gee-La",
+      "artist": "Fugees",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
+      "spotify_url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {

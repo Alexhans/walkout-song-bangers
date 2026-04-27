@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Full Clip",
-      "artist": "Gang Starr",
+      "song_title": "Eye of the Tiger",
+      "artist": "Survivor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
+      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
       "song_title": "Big Things Poppin' (Do It)",
@@ -22,13 +22,13 @@
       "date": "2017-04-08"
     },
     {
-      "song_title": "Eye of the Tiger",
-      "artist": "Survivor",
+      "song_title": "Full Clip",
+      "artist": "Gang Starr",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
+      "spotify_url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     }
   ],
   "stats": {

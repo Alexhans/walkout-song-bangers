@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "Worldwide Choppers",
+      "artist": "Tech N9ne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet",
+      "event": "UFC Fight Night: Holm vs. Correia",
+      "event_slug": "ufc-fight-night-holm-vs-correia",
+      "date": "2017-06-17"
+    },
+    {
       "song_title": "Sail",
       "artist": "Machine Gun Kelly",
       "confidence": "bronze",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
       "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
       "date": "2016-07-07"
-    },
-    {
-      "song_title": "Worldwide Choppers",
-      "artist": "Tech N9ne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2Lo2BWhhlZSJds2yBhxoet",
-      "event": "UFC Fight Night: Holm vs. Correia",
-      "event_slug": "ufc-fight-night-holm-vs-correia",
-      "date": "2017-06-17"
     }
   ],
   "stats": {

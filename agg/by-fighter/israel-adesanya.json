@@ -4,76 +4,40 @@
   "appearances": 13,
   "walkouts": [
     {
-      "song_title": "Smile",
-      "artist": "Lil' Duval",
+      "song_title": "Undisputed UFC 243",
+      "artist": "Arli Liberman",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
+      "spotify_url": "https://open.spotify.com/track/6zGkAMJ8Bg2g10y9TX0y1b",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
+    },
+    {
+      "song_title": "Donda / 11:11",
+      "artist": "Kanye West / Chris Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Donda%20/%2011%3A11%20Kanye%20West%20/%20Chris%20Brown",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    },
+    {
+      "song_title": "Bring It On Down (Battlezone) Remix",
+      "artist": "Flii Stylz & Tenashus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Bring%20It%20On%20Down%20%28Battlezone%29%20Remix%20Flii%20Stylz%20%26%20Tenashus",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "",
@@ -89,36 +53,72 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
-      "song_title": "Bring It On Down (Battlezone) Remix",
-      "artist": "Flii Stylz & Tenashus",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Bring%20It%20On%20Down%20%28Battlezone%29%20Remix%20Flii%20Stylz%20%26%20Tenashus",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     },
     {
-      "song_title": "Donda / 11:11",
-      "artist": "Kanye West / Chris Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Donda%20/%2011%3A11%20Kanye%20West%20/%20Chris%20Brown",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
-      "song_title": "Undisputed UFC 243",
-      "artist": "Arli Liberman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Smile",
+      "artist": "Lil' Duval",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6zGkAMJ8Bg2g10y9TX0y1b",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

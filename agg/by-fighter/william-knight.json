@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
       "song_title": "We Nuh Fraid Ahh Nobody",
       "artist": "Vybz Kartel",
       "confidence": "bronze",
@@ -22,13 +13,22 @@
       "date": "2023-02-18"
     },
     {
-      "song_title": "Nuh Fraid A Nobody",
+      "song_title": "We Nuh Fraid A Nobody",
       "artist": "Vybz Kartel",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "spotify_url": "https://open.spotify.com/track/6wRA4ZODTUFBAX61GuBfla",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     },
     {
       "song_title": "Nuh Fraid A Nobody",
@@ -40,13 +40,13 @@
       "date": "2021-12-04"
     },
     {
-      "song_title": "We Nuh Fraid A Nobody",
+      "song_title": "Nuh Fraid A Nobody",
       "artist": "Vybz Kartel",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6wRA4ZODTUFBAX61GuBfla",
-      "event": "UFC Fight Night: Luque vs. Muhammad",
-      "event_slug": "ufc-fight-night-luque-vs-muhammad",
-      "date": "2022-04-16"
+      "spotify_url": "https://open.spotify.com/track/2khnv6aUb71nJq0UlEPK5u",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {

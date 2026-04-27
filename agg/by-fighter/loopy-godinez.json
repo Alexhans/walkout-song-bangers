@@ -4,22 +4,31 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "song_title": "Vengan a Calarse",
+      "artist": "Ariel Armado Macias Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "song_title": "Vengan A Calarse",
+      "artist": "Ariel Armado Macías Madrid",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "Vengan a Calarse",
@@ -35,54 +44,18 @@
       "artist": "Marc Anthony",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
-    },
-    {
-      "song_title": "Vengan A Calarse",
-      "artist": "Ariel Armado Macías Madrid",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
-    },
-    {
-      "song_title": "Vivir Mi Vida",
-      "artist": "Marc Anthony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
-      "song_title": "Vivir Mi Vida",
-      "artist": "Marc Anthony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
       "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
       "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
       "date": "2023-09-16"
     },
     {
-      "song_title": "Vivir Mi Vida",
-      "artist": "Marc Anthony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
-    },
-    {
-      "song_title": "Vengan a Calarse",
-      "artist": "Ariel Armado Macias Madrid",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "Vivir Mi Vida",
@@ -94,6 +67,15 @@
       "date": "2022-08-13"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
       "song_title": "Vivir Mi Vida",
       "artist": "Marc Anthony",
       "confidence": "bronze",
@@ -101,6 +83,24 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

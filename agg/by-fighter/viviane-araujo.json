@@ -8,27 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
-      "song_title": "A Vida e Desafio",
-      "artist": "Racionais MCs and Afro X",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "Eu Renasci Das Cinzas",
@@ -38,24 +20,6 @@
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
-      "song_title": "E o Terror",
-      "artist": "Gog",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2FAzDuJVmPAx5dxZnN4dmv",
-      "event": "UFC Fight Night: Blachowicz vs. Rakic",
-      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
-      "date": "2022-05-14"
     },
     {
       "song_title": "Eu Renasci Das Cinzas",
@@ -74,6 +38,42 @@
       "event": "UFC Fight Night: Yusuff vs. Barboza",
       "event_slug": "ufc-fight-night-yusuff-vs-barboza",
       "date": "2023-10-14"
+    },
+    {
+      "song_title": "A Vida e Desafio",
+      "artist": "Racionais MCs and Afro X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "E o Terror",
+      "artist": "Gog",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2FAzDuJVmPAx5dxZnN4dmv",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "I’m Not Afraid",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/I%E2%80%99m%20Not%20Afraid%20Eminem",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
-    },
-    {
       "song_title": "The Sound of Silence",
       "artist": "Simon & Garfunkel",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
+    },
+    {
+      "song_title": "I’m Not Afraid",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%E2%80%99m%20Not%20Afraid%20Eminem",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     }
   ],
   "stats": {

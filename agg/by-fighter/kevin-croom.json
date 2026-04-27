@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "I'm a Thug",
-      "artist": "Trick Daddy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI",
-      "event": "UFC Fight Night: Kattar vs. Chikadze",
-      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
-      "date": "2022-01-15"
-    },
-    {
       "song_title": "Medieval Times",
       "artist": "CeeLo Green",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
+    },
+    {
+      "song_title": "I'm a Thug",
+      "artist": "Trick Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {

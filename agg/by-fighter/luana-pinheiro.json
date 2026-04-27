@@ -8,9 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
     },
     {
       "song_title": "Norte Nordeste Me Veste",
@@ -26,9 +26,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Barboza vs. Murphy",
-      "event_slug": "ufc-fight-night-barboza-vs-murphy",
-      "date": "2024-05-18"
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "Norte Nordeste Me Veste",

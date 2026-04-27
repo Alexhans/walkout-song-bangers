@@ -4,31 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Karate",
-      "artist": "Kennedy",
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7heDoIselh7glb6h6D8tPh",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "Just Dropped In",
-      "artist": "The First Edition",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0LYI2vHQ07bYRWqw0lXLhJ",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
+      "spotify_url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "Pusher Man",
@@ -40,15 +22,6 @@
       "date": "2023-10-21"
     },
     {
-      "song_title": "Pusherman",
-      "artist": "Curtis Mayfield",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
       "song_title": "The Big Payback",
       "artist": "James Brown",
       "confidence": "bronze",
@@ -58,13 +31,40 @@
       "date": "2023-06-03"
     },
     {
-      "song_title": "A Boy Named Sue",
-      "artist": "Johnny Cash",
+      "song_title": "Pusherman",
+      "artist": "Curtis Mayfield",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "spotify_url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "Just Dropped In",
+      "artist": "The First Edition",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LYI2vHQ07bYRWqw0lXLhJ",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "Karate",
+      "artist": "Kennedy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7heDoIselh7glb6h6D8tPh",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
       "song_title": "Karate",

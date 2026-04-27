@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "song_title": "远走高飞 (Fly Away)",
+      "artist": "Jin Zhiwen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0y7t5BKQRdUjwMte9SlAP4",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
     },
     {
       "song_title": "Yuan Zou Gao Fei",
@@ -22,13 +22,13 @@
       "date": "2023-05-06"
     },
     {
-      "song_title": "远走高飞 (Fly Away)",
-      "artist": "Jin Zhiwen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0y7t5BKQRdUjwMte9SlAP4",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {

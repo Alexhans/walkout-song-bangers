@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
+      "song_title": "Master Klass 2020 Hzor Katarum",
+      "artist": "Joni Dhol",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2023-02-11"
     },
     {
-      "song_title": "Master Klass 2020 Hzor Katarum",
-      "artist": "Joni Dhol",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {

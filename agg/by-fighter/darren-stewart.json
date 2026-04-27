@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {

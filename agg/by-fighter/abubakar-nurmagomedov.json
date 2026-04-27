@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
       "song_title": "Gangsta’s Paradise",
       "artist": "Coolio",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Kara-France vs. Albazi",
       "event_slug": "ufc-fight-night-kara-france-vs-albazi",
       "date": "2023-06-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Stiff Upper Lip",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
       "song_title": "Ni**as in Paris",
       "artist": "Kanye West",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC on FOX: Maia vs. Condit",
       "event_slug": "ufc-on-fox-maia-vs-condit",
       "date": "2016-08-27"
+    },
+    {
+      "song_title": "Stiff Upper Lip",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Stop the Time",
-      "artist": "Amatory",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "Stop the Time",
@@ -20,33 +20,6 @@
       "event": "UFC 302: Makhachev vs. Poirier",
       "event_slug": "ufc-302",
       "date": "2024-06-01"
-    },
-    {
-      "song_title": "Stop the Time",
-      "artist": "Amatory",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
-      "song_title": "Stop the Time",
-      "artist": "Amatory",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
     },
     {
       "song_title": "Jesus Is King",
@@ -65,6 +38,33 @@
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "Stop the Time",
+      "artist": "Amatory",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hXQOcArtC467uYW7eWblQ",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

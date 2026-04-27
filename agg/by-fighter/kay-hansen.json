@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "GRINDING ALL MY LIFE",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
       "song_title": "Grinding All My Life",
       "artist": "Nipsey Hussle",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 273: Volkanovski vs. The Korean Zombie",
       "event_slug": "ufc-273",
       "date": "2022-04-09"
+    },
+    {
+      "song_title": "GRINDING ALL MY LIFE",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
     }
   ],
   "stats": {

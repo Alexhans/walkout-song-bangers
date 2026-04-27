@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "You And Me",
-      "artist": "Yelawolf",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
-    },
-    {
       "song_title": "Back in Black",
       "artist": "AC/DC",
       "confidence": "bronze",
@@ -31,13 +22,13 @@
       "date": "2024-03-30"
     },
     {
-      "song_title": "Thunderstruck",
-      "artist": "AC/DC",
+      "song_title": "You And Me",
+      "artist": "Yelawolf",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
+      "spotify_url": "https://open.spotify.com/track/53QA7j4pHWAtbE3D0Glh7Q",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
     },
     {
       "song_title": "Bad Company",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {

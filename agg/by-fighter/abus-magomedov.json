@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Gangsta’s Paradise",
-      "artist": "Coolio",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
-      "event": "UFC Fight Night: Almeida vs. Lewis",
-      "event_slug": "ufc-fight-night-almeida-vs-lewis",
-      "date": "2023-11-04"
-    },
-    {
       "song_title": "Gangsta's Paradise",
       "artist": "Coolio",
       "confidence": "bronze",
@@ -22,13 +13,13 @@
       "date": "2024-05-18"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
+      "song_title": "Gangsta’s Paradise",
+      "artist": "Coolio",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     },
     {
       "song_title": "Gangsta’s Paradise",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Strickland vs. Magomedov",
       "event_slug": "ufc-fight-night-strickland-vs-magomedov",
       "date": "2023-07-01"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {

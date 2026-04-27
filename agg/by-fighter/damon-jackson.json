@@ -22,15 +22,6 @@
       "date": "2024-04-06"
     },
     {
-      "song_title": "Feeling Gud",
-      "artist": "Nghtmare & Slander",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ZqygmDzN0DGwgsOi6gofo",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
       "song_title": "Tennessee Whiskey",
       "artist": "Chris Stapleton",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Font",
       "event_slug": "ufc-fight-night-sandhagen-vs-font",
       "date": "2023-08-05"
+    },
+    {
+      "song_title": "It's a Beautiful Day",
+      "artist": "The Kiffness",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     },
     {
       "song_title": "Spirits Pt. 2",
@@ -49,13 +49,13 @@
       "date": "2022-09-17"
     },
     {
-      "song_title": "It's a Beautiful Day",
-      "artist": "The Kiffness",
+      "song_title": "Feeling Gud",
+      "artist": "Nghtmare & Slander",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d",
-      "event": "UFC Fight Night: Strickland vs. Imavov",
-      "event_slug": "ufc-fight-night-strickland-vs-imavov",
-      "date": "2023-01-14"
+      "spotify_url": "https://open.spotify.com/track/1ZqygmDzN0DGwgsOi6gofo",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

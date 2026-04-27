@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](../../ufc-fight-night-evloev-vs-murphy.md) | — | — | |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |

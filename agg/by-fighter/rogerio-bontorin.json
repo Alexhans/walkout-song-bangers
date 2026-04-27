@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
       "song_title": "Saco de Ouro",
       "artist": "Eduardo Costa",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Kattar vs. Chikadze",
       "event_slug": "ufc-fight-night-kattar-vs-chikadze",
       "date": "2022-01-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     }
   ],
   "stats": {

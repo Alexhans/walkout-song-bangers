@@ -13,15 +13,6 @@
       "date": "2024-01-20"
     },
     {
-      "song_title": "Gortoz a Ran",
-      "artist": "Denez Prigent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/00suglGfe7WNFpS1YyCTt6",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
-    },
-    {
       "song_title": "Message for the Queen",
       "artist": "300",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Gortoz a Ran",
+      "artist": "Denez Prigent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00suglGfe7WNFpS1YyCTt6",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
     }
   ],
   "stats": {

@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
     }
   ],
   "stats": {

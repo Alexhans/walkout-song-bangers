@@ -4,42 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Broad Daylight",
-      "artist": "Vybz Kartel",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5uGrfMK19vf1rT8pWhNNvq",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "HERE COMES THE HOTSTEPPER",
-      "artist": "Ini Kamoze",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
-    },
-    {
-      "song_title": "Speed Off",
-      "artist": "Valiant",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
-    },
-    {
-      "song_title": "Lime Light",
-      "artist": "Masicka",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
       "song_title": "Energy",
       "artist": "Tommy Lee Sparta",
       "confidence": "bronze",
@@ -49,13 +13,13 @@
       "date": "2026-04-11"
     },
     {
-      "song_title": "No Suburban Pt. 2",
-      "artist": "Sheff G",
+      "song_title": "Lime Light",
+      "artist": "Masicka",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
+      "spotify_url": "https://open.spotify.com/track/3yLav4gunUsaw58bVu4zy5",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
     },
     {
       "song_title": "Lime Light",
@@ -74,6 +38,42 @@
       "event": "UFC Fight Night: Emmett vs. Topuria",
       "event_slug": "ufc-fight-night-emmett-vs-topuria",
       "date": "2023-06-24"
+    },
+    {
+      "song_title": "Speed Off",
+      "artist": "Valiant",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "HERE COMES THE HOTSTEPPER",
+      "artist": "Ini Kamoze",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "No Suburban Pt. 2",
+      "artist": "Sheff G",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
+    },
+    {
+      "song_title": "Broad Daylight",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uGrfMK19vf1rT8pWhNNvq",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
     },
     {
       "song_title": "Slow Singing",

@@ -4,22 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Przejmij Ster W Swoje Dlonie",
-      "artist": "Rena Gosc Gutek",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4u1L4bQA6CwqFhzPuwRxMh",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     },
     {
-      "song_title": "Przejmij ster w swoje dłonie",
-      "artist": "Rena gośc. Gutek",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "Przejmij Ster Swoje Dlonie",
+      "artist": "Rena Gosx Gutek",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
     },
     {
       "song_title": "Przejmij Ster W Swoje Dlonie",
@@ -40,31 +49,22 @@
       "date": "2017-05-13"
     },
     {
-      "song_title": "Przejmij Ster Swoje Dlonie",
-      "artist": "Rena Gosx Gutek",
+      "song_title": "Przejmij ster w swoje dłonie",
+      "artist": "Rena gośc. Gutek",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
+      "spotify_url": "https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
+      "song_title": "Przejmij Ster W Swoje Dlonie",
+      "artist": "Rena Gosc Gutek",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4u1L4bQA6CwqFhzPuwRxMh",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

@@ -205,7 +205,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 10 | 16 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 4 | 0 | 18 | 2 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 0 | 7 | 17 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 1 | 6 | 17 |
 <!-- END EVENTS -->
 
 ## How it works

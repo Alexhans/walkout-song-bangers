@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Alma Corazan y Vida",
-      "artist": "7/14 Meidin Peru-Norick",
+      "song_title": "Meidin Perú",
+      "artist": "Norick",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Alma%20Corazan%20y%20Vida%207/14%20Meidin%20Peru-Norick",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "spotify_url": "https://open.spotify.com/track/6U5CFrQgyhLJwR4dvNimum",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
     },
     {
       "song_title": "Meidin Perú",
@@ -22,13 +22,13 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "Meidin Perú",
-      "artist": "Norick",
+      "song_title": "Alma Corazan y Vida",
+      "artist": "7/14 Meidin Peru-Norick",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6U5CFrQgyhLJwR4dvNimum",
-      "event": "UFC Fight Night: Moreno vs. Kavanagh",
-      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28"
+      "spotify_url": "https://open.spotify.com/search/Alma%20Corazan%20y%20Vida%207/14%20Meidin%20Peru-Norick",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     }
   ],
   "stats": {

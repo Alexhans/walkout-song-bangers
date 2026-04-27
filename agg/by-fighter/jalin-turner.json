@@ -4,58 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "New Patek",
-      "artist": "Lil Uzi Vert",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
-      "song_title": "Ocean Views",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/36uh6i91ttCPWBHQeHVONy",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "PUNCHIN THE CLOCK",
-      "artist": "J Cole",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7ilwtjmDj6Xyx9Lp2LDFuq",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "Zendaya",
-      "artist": "Cozz feat. J. Cole",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "My Life",
-      "artist": "J. Cole",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
-      "song_title": "My Life",
-      "artist": "J. Cole",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "song_title": "Surrounded (Fight My Battles)",
+      "artist": "Elyssa Smith, UPPERROOM",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Zendaya",
@@ -67,15 +22,6 @@
       "date": "2024-04-13"
     },
     {
-      "song_title": "Surrounded (Fight My Battles)",
-      "artist": "Elyssa Smith, UPPERROOM",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
-    },
-    {
       "song_title": "The Climb Back",
       "artist": "J. Cole",
       "confidence": "bronze",
@@ -83,6 +29,60 @@
       "event": "UFC Fight Night: Dariush vs. Tsarukyan",
       "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
       "date": "2023-12-02"
+    },
+    {
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "My Life",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Zendaya",
+      "artist": "Cozz feat. J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7jmTA4qUoE3powcTpw3dvF",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "PUNCHIN THE CLOCK",
+      "artist": "J Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ilwtjmDj6Xyx9Lp2LDFuq",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Ocean Views",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/36uh6i91ttCPWBHQeHVONy",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "New Patek",
+      "artist": "Lil Uzi Vert",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
     }
   ],
   "stats": {

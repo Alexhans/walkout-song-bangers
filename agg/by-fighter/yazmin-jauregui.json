@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "De Mi Cada Gota De Sangre",
-      "artist": "Ariel Macias",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
       "song_title": "Nueva Vida",
       "artist": "Peso Pluma",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "De Mi Cada Gota De Sangre",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4d1a0ct6HuUNl6Nw3j6Xzq",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Mi Corrido",

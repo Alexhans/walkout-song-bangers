@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "You Don't Mess With Jim",
+      "song_title": "You Don’t Mess With Jim",
       "artist": "Jim Croce",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     },
     {
       "song_title": "You Don't Mess Around with Jim",
@@ -31,15 +22,6 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "You Don’t Mess With Jim",
-      "artist": "Jim Croce",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
       "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
       "date": "2024-03-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "You Don't Mess With Jim",
+      "artist": "Jim Croce",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
     }
   ],
   "stats": {

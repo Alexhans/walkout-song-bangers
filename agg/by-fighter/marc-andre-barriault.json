@@ -4,22 +4,31 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "Monster",
-      "artist": "Skillet",
+      "song_title": "Lion's Roar",
+      "artist": "Dominik Witka",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "spotify_url": "https://open.spotify.com/track/5r2s5GWVdAPf58KS9zwq3v",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    },
+    {
+      "song_title": "Power",
+      "artist": "The Score",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2e3NkDnHlhhHTzj2MAyRX3",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
     },
     {
       "song_title": "White Horse",
@@ -35,36 +44,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 303: Pereira vs. Prochazka 2",
-      "event_slug": "ufc-303",
-      "date": "2024-06-29"
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
     },
     {
-      "song_title": "Lion's Roar",
-      "artist": "Dominik Witka",
+      "song_title": "Monster",
+      "artist": "Skillet",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5r2s5GWVdAPf58KS9zwq3v",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "spotify_url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
-      "song_title": "Grateful",
-      "artist": "Neffex",
+      "song_title": "Fire On Up",
+      "artist": "Paper Kings",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
-    },
-    {
-      "song_title": "Grateful",
-      "artist": "Neffex",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
+      "spotify_url": "https://open.spotify.com/track/23tBMn5oaTZfW8qJ6xjmH8",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     },
     {
       "song_title": "Another Level",
@@ -76,22 +76,22 @@
       "date": "2022-04-23"
     },
     {
-      "song_title": "Power",
-      "artist": "The Score",
+      "song_title": "Grateful",
+      "artist": "Neffex",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2e3NkDnHlhhHTzj2MAyRX3",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     },
     {
-      "song_title": "Fire On Up",
-      "artist": "Paper Kings",
+      "song_title": "Grateful",
+      "artist": "Neffex",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/23tBMn5oaTZfW8qJ6xjmH8",
-      "event": "UFC Fight Night: Sandhagen vs. Song",
-      "event_slug": "ufc-fight-night-sandhagen-vs-song",
-      "date": "2022-09-17"
+      "spotify_url": "https://open.spotify.com/track/0ldFZosrBIjiBnyVpv2zUh",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {

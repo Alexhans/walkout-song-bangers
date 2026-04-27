@@ -4,42 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Expand the Shoulders",
-      "artist": "Nikolai Emelin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "Muzhitskaya Silushka",
-      "artist": "Neuromonakh Feofan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
       "song_title": "Шахта (Mine)",
       "artist": "Rem Digga, Mania",
       "confidence": "bronze",
@@ -53,18 +17,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Blaydes vs. Aspinall",
       "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
       "date": "2022-07-23"
-    },
-    {
-      "song_title": "Expand The Shoulder",
-      "artist": "Nikolai Emelin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
-      "event": "UFC Fight Night: Overeem vs Arlovski",
-      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
-      "date": "2016-05-08"
     },
     {
       "song_title": "April",
@@ -80,9 +53,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Muzhitskaya Silushka",
+      "artist": "Neuromonakh Feofan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Expand the Shoulders",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "song_title": "Expand The Shoulder",
+      "artist": "Nikolai Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6laNweuxICLugjSyJ6138B",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Legendary",
-      "artist": "Welshly Arms",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Kara-France vs. Albazi",
       "event_slug": "ufc-fight-night-kara-france-vs-albazi",
       "date": "2023-06-03"
+    },
+    {
+      "song_title": "Legendary",
+      "artist": "Welshly Arms",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {

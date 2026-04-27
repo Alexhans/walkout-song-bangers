@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
-    },
-    {
       "song_title": "El Rey",
       "artist": "Vicente Fernandez",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Allen vs. Curtis 2",
       "event_slug": "ufc-fight-night-allen-vs-curtis-2",
       "date": "2024-04-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     },
     {
       "song_title": "Porbre Diablo",

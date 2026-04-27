@@ -4,49 +4,13 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "THE ONLY THING I KNOW FOR REAL",
-      "artist": "Metal Gear Rising OST",
+      "song_title": "Bad Boy For Life",
+      "artist": "P. Diddy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "War",
-      "artist": "Sick Puppies",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2gNiZCXy602U2vofLySOiL",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
-    },
-    {
-      "song_title": "Last Time That I Checc'd",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
-    },
-    {
-      "song_title": "Industry Baby",
-      "artist": "Lil Nas X",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4BI4iNZigfF4SUq13TcFPh",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
-    },
-    {
-      "song_title": "Metalingus",
-      "artist": "Edge",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Metalingus%20Edge",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
+      "spotify_url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
     },
     {
       "song_title": "",
@@ -58,6 +22,42 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Metalingus",
+      "artist": "Edge",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Metalingus%20Edge",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "Industry Baby",
+      "artist": "Lil Nas X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4BI4iNZigfF4SUq13TcFPh",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "Last Time That I Checc'd",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "War",
+      "artist": "Sick Puppies",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2gNiZCXy602U2vofLySOiL",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
       "song_title": "Sweet Caroline",
       "artist": "Neil Diamond",
       "confidence": "bronze",
@@ -67,13 +67,13 @@
       "date": "2022-07-23"
     },
     {
-      "song_title": "Bad Boy For Life",
-      "artist": "P. Diddy",
+      "song_title": "Champion",
+      "artist": "Barns Courtney",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
+      "spotify_url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     },
     {
       "song_title": "Could Have Been Me",
@@ -85,13 +85,13 @@
       "date": "2021-12-04"
     },
     {
-      "song_title": "Champion",
-      "artist": "Barns Courtney",
+      "song_title": "THE ONLY THING I KNOW FOR REAL",
+      "artist": "Metal Gear Rising OST",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0FNLnZRNWEIbGsb8jkU2lv",
-      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
-      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
-      "date": "2022-06-25"
+      "spotify_url": "https://open.spotify.com/track/6y87Q8nkhHP2YqowavLdPA",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {

@@ -8,18 +8,9 @@
       "artist": "Juan Luis Guerra",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "Soldado",
-      "artist": "Juan Luis Guerra",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/61HhjqBaSKwgcgd1YuIvgs",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     },
     {
       "song_title": "Cara al Sol",
@@ -31,13 +22,22 @@
       "date": "2019-08-17"
     },
     {
+      "song_title": "Soldado",
+      "artist": "Juan Luis Guerra",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61HhjqBaSKwgcgd1YuIvgs",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
       "song_title": "Solado",
       "artist": "Juan Luis Guerra",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     }
   ],
   "stats": {

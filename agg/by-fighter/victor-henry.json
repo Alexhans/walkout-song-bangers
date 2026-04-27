@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "BARING TEETH FOR REVOLT",
-      "artist": "Goatwhore",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
-      "song_title": "Baring Teeth for Revolt",
-      "artist": "Goatwhore",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
-    },
-    {
       "song_title": "Baring Teeth for Revolt",
       "artist": "Goatwhore",
       "confidence": "bronze",
@@ -44,9 +26,27 @@
       "artist": "Goatwhore",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
+      "song_title": "Baring Teeth for Revolt",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "BARING TEETH FOR REVOLT",
+      "artist": "Goatwhore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1U01L3GdbqEWr4N0ji5nMY",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
     }
   ],
   "stats": {

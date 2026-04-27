@@ -4,40 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "God Gave Me Style",
-      "artist": "50 Cent/\"I'm Coming Home\" by P. Diddy",
+      "song_title": "Many Men / Hot in Herre / The Champ Is Here",
+      "artist": "50 Cent / Nelly / Jadakiss",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "God Gave Me Style/The Champ Is Here",
-      "artist": "50 Cent/Jadakiss",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "We Are the Champions/The Champ is Here",
-      "artist": "Queen/Jadakiss",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
-      "song_title": "God Gave Me Style / The Champ Is Here",
-      "artist": "50 Cent / Jadakiss",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/God%20Gave%20Me%20Style%2050%20Cent",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "spotify_url": "https://open.spotify.com/search/Many%20Men%2050%20Cent",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "God Give Me Style / The Champ Is Here",
@@ -49,13 +22,40 @@
       "date": "2023-03-04"
     },
     {
-      "song_title": "Many Men / Hot in Herre / The Champ Is Here",
-      "artist": "50 Cent / Nelly / Jadakiss",
+      "song_title": "God Gave Me Style / The Champ Is Here",
+      "artist": "50 Cent / Jadakiss",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Many%20Men%2050%20Cent",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
+      "spotify_url": "https://open.spotify.com/search/God%20Gave%20Me%20Style%2050%20Cent",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "song_title": "We Are the Champions/The Champ is Here",
+      "artist": "Queen/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/We%20Are%20the%20Champions/The%20Champ%20is%20Here%20Queen/Jadakiss",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "God Gave Me Style/The Champ Is Here",
+      "artist": "50 Cent/Jadakiss",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent/\"I'm Coming Home\" by P. Diddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

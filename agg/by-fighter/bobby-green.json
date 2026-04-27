@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "I Wonder",
-      "artist": "Kanye West",
+      "song_title": "euphoria",
+      "artist": "Kendrick Lamar",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
-      "event": "UFC 216: Ferguson vs. Lee",
-      "event_slug": "ufc-216",
-      "date": "2017-10-07"
+      "spotify_url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
     },
     {
       "song_title": "I Wonder",
@@ -22,13 +22,13 @@
       "date": "2024-04-13"
     },
     {
-      "song_title": "euphoria",
-      "artist": "Kendrick Lamar",
+      "song_title": "I Wonder",
+      "artist": "Kanye West",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q",
-      "event": "UFC 304: Edwards vs. Muhammad 2",
-      "event_slug": "ufc-304",
-      "date": "2024-07-27"
+      "spotify_url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
     }
   ],
   "stats": {

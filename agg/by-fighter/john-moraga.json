@@ -8,18 +8,18 @@
       "artist": "Bone Thugs-N-Harmony",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
     },
     {
       "song_title": "Thuggish Ruggish Bone",
       "artist": "Bone Thugs-N-Harmony",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm",
-      "event": "UFC 216: Ferguson vs. Lee",
-      "event_slug": "ufc-216",
-      "date": "2017-10-07"
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

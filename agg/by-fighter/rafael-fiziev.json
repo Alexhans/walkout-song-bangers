@@ -4,24 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "Human",
-      "artist": "Rag’n’Bone Man",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
       "song_title": "Hurricane",
       "artist": "Mulla Muhammad Bujbara",
       "confidence": "bronze",
@@ -29,15 +11,6 @@
       "event": "UFC 325: Volkanovski vs. Lopes 2",
       "event_slug": "ufc-325",
       "date": "2026-01-31"
-    },
-    {
-      "song_title": "Human",
-      "artist": "Rag'n'Bone Man",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
-      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
-      "date": "2022-07-09"
     },
     {
       "song_title": "Human",
@@ -50,12 +23,39 @@
     },
     {
       "song_title": "Human",
+      "artist": "Rag’n’Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Human",
       "artist": "Rag'n'Bone Man",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O",
       "event": "UFC Fight Night: Font vs. Aldo",
       "event_slug": "ufc-fight-night-font-vs-aldo",
       "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Get Down",
-      "artist": "Nas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3UYuDTslR35thjQzaVwRMe",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
-    },
-    {
       "song_title": "Welcome to the Jungle",
       "artist": "Guns N’ Roses",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Get Down",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3UYuDTslR35thjQzaVwRMe",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {

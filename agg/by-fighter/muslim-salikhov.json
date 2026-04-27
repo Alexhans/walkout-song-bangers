@@ -8,15 +8,6 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Ortega vs. Rodriguez",
       "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
       "date": "2022-07-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {

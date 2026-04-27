@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Last Breath",
-      "artist": "Future",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Gustafsson vs. Teixeira",
       "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
       "date": "2017-05-28"
+    },
+    {
+      "song_title": "Last Breath",
+      "artist": "Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

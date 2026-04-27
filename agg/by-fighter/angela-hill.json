@@ -4,24 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Skulls",
-      "artist": "Misfits",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "We Ready",
-      "artist": "Archie Eversole",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
       "song_title": "The Warrior",
       "artist": "Scandal",
       "confidence": "bronze",
@@ -35,36 +17,18 @@
       "artist": "MC Frog",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC",
-      "event": "UFC Fight Night: Almeida vs. Lewis",
-      "event_slug": "ufc-fight-night-almeida-vs-lewis",
-      "date": "2023-11-04"
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
     },
     {
       "song_title": "Nao Quer Chifre",
       "artist": "MC Frog",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC",
-      "event": "UFC Fight Night: Barboza vs. Murphy",
-      "event_slug": "ufc-fight-night-barboza-vs-murphy",
-      "date": "2024-05-18"
-    },
-    {
-      "song_title": "Skulls",
-      "artist": "The Misfits",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
-    },
-    {
-      "song_title": "I Look Real Good Today",
-      "artist": "OT Genasis",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3cCbLxXiNloqwAdqLaXoMe",
-      "event": "UFC Fight Night: Blachowicz vs. Rakic",
-      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
-      "date": "2022-05-14"
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     },
     {
       "song_title": "Shut ‘Em Up",
@@ -83,6 +47,42 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "I Look Real Good Today",
+      "artist": "OT Genasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3cCbLxXiNloqwAdqLaXoMe",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "We Ready",
+      "artist": "Archie Eversole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "Skulls",
+      "artist": "Misfits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "Skulls",
+      "artist": "The Misfits",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     }
   ],
   "stats": {

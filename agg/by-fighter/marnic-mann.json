@@ -5,21 +5,21 @@
   "walkouts": [
     {
       "song_title": "Wake Me Up",
-      "artist": "2Cellos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
-      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
-      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
-      "date": "2023-09-16"
-    },
-    {
-      "song_title": "Wake Me Up",
       "artist": "2CELLOS",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Wake Me Up",
+      "artist": "2Cellos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5VB5f1ufiZKxBdLzNdVInk",
+      "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
+      "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
+      "date": "2023-09-16"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
       "song_title": "Fly Away on Wings of the Wind",
       "artist": "Kalevala",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Thompson vs. Holland",
       "event_slug": "ufc-fight-night-thompson-vs-holland",
       "date": "2022-12-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     },
     {
       "song_title": "Fly Away on the Wings of Wind",

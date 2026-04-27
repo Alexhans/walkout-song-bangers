@@ -13,6 +13,15 @@
       "date": "2023-03-18"
     },
     {
+      "song_title": "Leidin Okkar Allra",
+      "artist": "Hjalmar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
+    },
+    {
       "song_title": "Way Down We Go",
       "artist": "Kaleo",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Overeem vs Arlovski",
       "event_slug": "ufc-fight-night-overeem-vs-arlovski",
       "date": "2016-05-08"
-    },
-    {
-      "song_title": "Leidin Okkar Allra",
-      "artist": "Hjalmar",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6MOrwPfySu0UD3SbQG6G38",
-      "event": "UFC Fight Night: Volkov vs. Aspinall",
-      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
-      "date": "2022-03-19"
     }
   ],
   "stats": {

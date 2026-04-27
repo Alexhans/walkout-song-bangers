@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
+      "song_title": "One Blood",
+      "artist": "The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3GPWJP1Ai1RUCfsOOFw3dl",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2022-07-30"
     },
     {
-      "song_title": "One Blood",
-      "artist": "The Game",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3GPWJP1Ai1RUCfsOOFw3dl",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     }
   ],
   "stats": {

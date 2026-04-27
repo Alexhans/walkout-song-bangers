@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Something from Nothing",
-      "artist": "Foo Fighters",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "You're the Best",
-      "artist": "Joe Esposito",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
-    },
-    {
       "song_title": "I'm Only Human After All",
       "artist": "John \"Ragin Cajun\" Jones",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
+    },
+    {
+      "song_title": "You're the Best",
+      "artist": "Joe Esposito",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
+    },
+    {
+      "song_title": "Something from Nothing",
+      "artist": "Foo Fighters",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

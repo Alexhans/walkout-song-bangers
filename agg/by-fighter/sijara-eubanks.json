@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Money",
-      "artist": "Cardi B",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
       "song_title": "My Power",
       "artist": "Beyonce",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
+    },
+    {
+      "song_title": "Money",
+      "artist": "Cardi B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

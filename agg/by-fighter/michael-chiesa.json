@@ -4,42 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "Stranglehold",
-      "artist": "Ted Nugent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
-    },
-    {
       "song_title": "Stranglehold",
       "artist": "Ted Nugent",
       "confidence": "bronze",
@@ -58,6 +22,15 @@
       "date": "2024-08-03"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
       "song_title": "Stranglehold",
       "artist": "Ted Nugent",
       "confidence": "bronze",
@@ -65,6 +38,33 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     }
   ],
   "stats": {

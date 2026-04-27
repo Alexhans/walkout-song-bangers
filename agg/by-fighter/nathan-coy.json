@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Soul Power",
-      "artist": "James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5Go3WPIsPzbcCyVMAwWuWE",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
       "song_title": "Goin' Against Your Mind",
       "artist": "Built to Spill",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Soul Power",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Go3WPIsPzbcCyVMAwWuWE",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

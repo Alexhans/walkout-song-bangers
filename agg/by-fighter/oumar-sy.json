@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Barboza vs. Murphy",
-      "event_slug": "ufc-fight-night-barboza-vs-murphy",
-      "date": "2024-05-18"
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
     }
   ],
   "stats": {

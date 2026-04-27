@@ -4,24 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Never Personal",
-      "artist": "Lacrim feat. Rick Ross",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3remNAnjEnr4QukFZJyMX6",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "Pour De Vrai",
-      "artist": "Lacrim",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/60FgA36WE1ubi8oiGSnPP8",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
       "song_title": "Darbuna Darbun",
       "artist": "S'time",
       "confidence": "gold",
@@ -29,6 +11,15 @@
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
+    },
+    {
+      "song_title": "Toda La Noche",
+      "artist": "Jul feat. Naps & Morad",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn",
+      "event": "UFC Fight Night: Moreno vs. Royval 2",
+      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
+      "date": "2024-02-24"
     },
     {
       "song_title": "On La Pas Choisi",
@@ -49,13 +40,22 @@
       "date": "2022-02-26"
     },
     {
-      "song_title": "Toda La Noche",
-      "artist": "Jul feat. Naps & Morad",
+      "song_title": "Pour De Vrai",
+      "artist": "Lacrim",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn",
-      "event": "UFC Fight Night: Moreno vs. Royval 2",
-      "event_slug": "ufc-fight-night-moreno-vs-royval-2",
-      "date": "2024-02-24"
+      "spotify_url": "https://open.spotify.com/track/60FgA36WE1ubi8oiGSnPP8",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "Never Personal",
+      "artist": "Lacrim feat. Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3remNAnjEnr4QukFZJyMX6",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {

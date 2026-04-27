@@ -4,8 +4,8 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](../../ufc-201-lawler-vs-woodley.md) | Hold On, I'm Coming | Sam & Dave | [Listen](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) |
-| [2017](../agg/by-year/2017.md) | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | Ain't No Grave | Johnny Cash | [Listen](https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF) |
-| [2021](../agg/by-year/2021.md) | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | PROMONTORY | Trevor Jones | [Listen](https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP) |
-| [2022](../agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Promentory | Trevor Jones | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
 | [2023](../agg/by-year/2023.md) | [UFC 290: Volkanovski vs. Rodriguez](../../ufc-290.md) | Promentory” main theme from “The Last of the Mohicans | Trevor Jones | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
+| [2022](../agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | Promentory | Trevor Jones | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
+| [2021](../agg/by-year/2021.md) | [UFC 266: Volkanovski vs. Ortega](../../ufc-266.md) | PROMONTORY | Trevor Jones | [Listen](https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP) |
+| [2017](../agg/by-year/2017.md) | [UFC 214: Cormier vs. Jones 2](../../ufc-214.md) | Ain't No Grave | Johnny Cash | [Listen](https://open.spotify.com/track/1xADYlM5rjnbJvAW2tc0qF) |
+| [2016](../agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](../../ufc-201-lawler-vs-woodley.md) | Hold On, I'm Coming | Sam & Dave | [Listen](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) |

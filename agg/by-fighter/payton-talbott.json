@@ -4,6 +4,24 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "song_title": "Kerosene",
+      "artist": "Crystal Castles",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
       "song_title": "Kerosene",
       "artist": "Crystal Castles",
       "confidence": "bronze",
@@ -17,18 +35,9 @@
       "artist": "Crystal Castles",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     },
     {
       "song_title": "Human",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
-    },
-    {
-      "song_title": "Kerosene",
-      "artist": "Crystal Castles",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz",
-      "event": "UFC Fight Night: Ribas vs. Namajunas",
-      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
-      "date": "2024-03-23"
     }
   ],
   "stats": {

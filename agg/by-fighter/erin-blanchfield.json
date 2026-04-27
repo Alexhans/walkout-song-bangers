@@ -4,24 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Remember the Name",
-      "artist": "Fort Minor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
-      "song_title": "Remember the Name",
-      "artist": "Fort Minor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
       "song_title": "The Business",
       "artist": "Tiësto",
       "confidence": "bronze",
@@ -35,9 +17,9 @@
       "artist": "Fort Minor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "Remember the Name",
@@ -53,9 +35,27 @@
       "artist": "Fort Minor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "Remember the Name",

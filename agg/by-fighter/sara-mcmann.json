@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
       "song_title": "Indestructible",
       "artist": "Disturbed",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Blaydes vs. Daukaus",
       "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
       "date": "2022-03-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     },
     {
       "song_title": "Indestructible",

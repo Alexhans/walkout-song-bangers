@@ -111,6 +111,7 @@ def aggregate_by_fighter(events):
             if a["song_title"]
         )
 
+        appearances.sort(key=lambda a: a["date"], reverse=True)
         results[fighter] = {
             "fighter": fighter,
             "slug": slugify(fighter),

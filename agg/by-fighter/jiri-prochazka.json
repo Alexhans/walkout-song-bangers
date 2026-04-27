@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Legends Are Made",
-      "artist": "Sam Tinnesz",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1M1FjrseqHIeuTQHhQVcp4",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
-      "song_title": "Black Adam theme",
-      "artist": "Lorne Balfe",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
-    },
-    {
       "song_title": "In the City",
       "artist": "Kevin Rudolf",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4ix4xoMPPOo8H43TG1DQA1",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "",
@@ -44,9 +26,27 @@
       "artist": "Kevin Rudolf",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4ix4xoMPPOo8H43TG1DQA1",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "Black Adam theme",
+      "artist": "Lorne Balfe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
+    },
+    {
+      "song_title": "Legends Are Made",
+      "artist": "Sam Tinnesz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1M1FjrseqHIeuTQHhQVcp4",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     }
   ],
   "stats": {

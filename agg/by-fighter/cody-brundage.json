@@ -4,13 +4,22 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "'9 TO 5",
-      "artist": "Dolly Parton",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
+    },
+    {
+      "song_title": "Fantasy",
+      "artist": "Mariah Carey",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
       "song_title": "Fantasy",
@@ -23,24 +32,6 @@
     },
     {
       "song_title": "Fantasy",
-      "artist": "Mariah Carey",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 326: Holloway vs. Oliveira 2",
-      "event_slug": "ufc-326",
-      "date": "2026-03-07"
-    },
-    {
-      "song_title": "Fantasy",
       "artist": "Marian Carey",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3heK15PrG8NymlEOTDpf7S",
@@ -49,13 +40,13 @@
       "date": "2023-12-02"
     },
     {
-      "song_title": "9 To 5",
-      "artist": "Dolly Parton",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
-      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
-      "date": "2022-07-09"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
     },
     {
       "song_title": "9 to 5",
@@ -67,13 +58,22 @@
       "date": "2023-06-24"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Fiziev vs. Gamrot",
-      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
-      "date": "2023-09-23"
+      "song_title": "9 To 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "'9 TO 5",
+      "artist": "Dolly Parton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

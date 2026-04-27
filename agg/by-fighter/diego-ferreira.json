@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Sweet Dreams",
-      "artist": "Eurythmics",
+      "song_title": "Footloose",
+      "artist": "Kenny Loggins",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "spotify_url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     },
     {
       "song_title": "Footloose",
@@ -22,13 +22,13 @@
       "date": "2020-01-18"
     },
     {
-      "song_title": "Footloose",
-      "artist": "Kenny Loggins",
+      "song_title": "Sweet Dreams",
+      "artist": "Eurythmics",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {

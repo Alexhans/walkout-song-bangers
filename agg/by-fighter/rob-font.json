@@ -4,42 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Lorde Pretty Blaco Jodye 2",
-      "artist": "A$AP Rocky",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
-      "song_title": "Welcome to Jamrock",
-      "artist": "Damian Marley",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "Welcome To Jamrock",
-      "artist": "Damien Marley",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
-    },
-    {
       "song_title": "Welcome to Jamrock",
       "artist": "Damian Marley",
       "confidence": "bronze",
@@ -59,12 +23,21 @@
     },
     {
       "song_title": "Welcome to Jamrock",
-      "artist": "Damian Marley",
+      "artist": "Damien Marley",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Welcome To Jamrock",
+      "artist": "Damien Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "Welcome to Jamrock",
@@ -77,12 +50,39 @@
     },
     {
       "song_title": "Welcome to Jamrock",
-      "artist": "Damien Marley",
+      "artist": "Damian Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Welcome to Jamrock",
+      "artist": "Damian Marley",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4PvVHAkONOaS6v4wgONGYZ",
-      "event": "UFC Fight Night: Sandhagen vs. Font",
-      "event_slug": "ufc-fight-night-sandhagen-vs-font",
-      "date": "2023-08-05"
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Lorde Pretty Blaco Jodye 2",
+      "artist": "A$AP Rocky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wHSXkLm0Zg4kHGEIQ104K",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

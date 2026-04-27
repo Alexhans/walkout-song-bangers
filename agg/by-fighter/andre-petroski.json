@@ -4,40 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Stranglehold",
-      "artist": "Ted Nugent",
+      "song_title": "Opposite of Adults",
+      "artist": "Chiddy Bang",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
-    },
-    {
-      "song_title": "Polo & Shell Tops",
-      "artist": "Meek Mill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Polo%20%26%20Shell%20Tops%20Meek%20Mill",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
-      "song_title": "Still Dre",
-      "artist": "Dre feat. Snoop Dogg",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Still%20Dre%20Dre%20feat.%20Snoop%20Dogg",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
-    },
-    {
-      "song_title": "This Is the New Sh*t",
-      "artist": "Marilyn Manson",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2BD4AgZ1seuWauxzbCcDEw",
-      "event": "UFC Fight Night: Blachowicz vs. Rakic",
-      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
-      "date": "2022-05-14"
+      "spotify_url": "https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL",
+      "event": "UFC Fight Night: Burns vs. Brady",
+      "event_slug": "ufc-fight-night-burns-vs-brady",
+      "date": "2024-09-07"
     },
     {
       "song_title": "Atlantic City",
@@ -49,15 +22,6 @@
       "date": "2024-03-30"
     },
     {
-      "song_title": "Opposite of Adults",
-      "artist": "Chiddy Bang",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL",
-      "event": "UFC Fight Night: Burns vs. Brady",
-      "event_slug": "ufc-fight-night-burns-vs-brady",
-      "date": "2024-09-07"
-    },
-    {
       "song_title": "Am I Dreaming",
       "artist": "Metro Boomin, A$AP Rocky, Roisee",
       "confidence": "bronze",
@@ -65,6 +29,42 @@
       "event": "UFC Fight Night: Yusuff vs. Barboza",
       "event_slug": "ufc-fight-night-yusuff-vs-barboza",
       "date": "2023-10-14"
+    },
+    {
+      "song_title": "Still Dre",
+      "artist": "Dre feat. Snoop Dogg",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Still%20Dre%20Dre%20feat.%20Snoop%20Dogg",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Polo & Shell Tops",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Polo%20%26%20Shell%20Tops%20Meek%20Mill",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "This Is the New Sh*t",
+      "artist": "Marilyn Manson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2BD4AgZ1seuWauxzbCcDEw",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     }
   ],
   "stats": {

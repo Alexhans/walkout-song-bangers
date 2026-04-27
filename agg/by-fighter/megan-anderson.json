@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

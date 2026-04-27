@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Stranglehold",
-      "artist": "Ted Nugent",
+      "song_title": "Unnamed NF snippet",
+      "artist": "NF",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "spotify_url": "https://open.spotify.com/search/Unnamed%20NF%20snippet",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "Paid My Dues” and “The Search",
@@ -40,13 +22,31 @@
       "date": "2022-11-12"
     },
     {
-      "song_title": "Unnamed NF snippet",
-      "artist": "NF",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Stranglehold",
+      "artist": "Ted Nugent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Unnamed%20NF%20snippet",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
+      "spotify_url": "https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {

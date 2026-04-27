@@ -4,22 +4,58 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "Ante Up",
-      "artist": "M.O.P.",
+      "song_title": "The Imperial March",
+      "artist": "John Williams",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
+      "spotify_url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
+    },
+    {
+      "song_title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "99 Red Balloons",
+      "artist": "Goldfinger",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
+    },
+    {
+      "song_title": "What's My Name?",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
     },
     {
       "song_title": "",
@@ -35,36 +71,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     },
     {
-      "song_title": "99 Red Balloons",
-      "artist": "Goldfinger",
+      "song_title": "Ante Up",
+      "artist": "M.O.P.",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
-    },
-    {
-      "song_title": "The Imperial March",
-      "artist": "John Williams",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
-    },
-    {
-      "song_title": "What's My Name?",
-      "artist": "DMX",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
+      "spotify_url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
     },
     {
       "song_title": "Rubber Band Man",
@@ -74,24 +92,6 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
-    },
-    {
-      "song_title": "Kickstart My Heart",
-      "artist": "Mötley Crüe",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
-    },
-    {
-      "song_title": "California Love",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-      "event": "UFC Fight Night: Vera vs. Cruz",
-      "event_slug": "ufc-fight-night-vera-vs-cruz",
-      "date": "2022-08-13"
     }
   ],
   "stats": {

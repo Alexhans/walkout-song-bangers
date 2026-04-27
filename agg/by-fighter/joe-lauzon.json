@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Shipping Up to Boston",
-      "artist": "Dropkick Murphys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
       "song_title": "Move",
       "artist": "Thousand Foot Krutch",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC on FOX: Maia vs. Condit",
       "event_slug": "ufc-on-fox-maia-vs-condit",
       "date": "2016-08-27"
+    },
+    {
+      "song_title": "Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

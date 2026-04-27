@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Industry Baby",
-      "artist": "Lil Nas x feat. Jack Harlow",
+      "song_title": "Subliminal",
+      "artist": "",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
+      "spotify_url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     },
     {
       "song_title": "Immigrant Song",
@@ -22,13 +22,13 @@
       "date": "2022-12-03"
     },
     {
-      "song_title": "Subliminal",
-      "artist": "",
+      "song_title": "Industry Baby",
+      "artist": "Lil Nas x feat. Jack Harlow",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "spotify_url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
     },
     {
       "song_title": "One Day",

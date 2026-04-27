@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Seven Nation Army",
-      "artist": "The White Stripes and “Supersonic” by Oasis",
+      "song_title": "Hells Bells",
+      "artist": "AC/DC",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
+      "spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "Seven Nation Army",
@@ -22,22 +22,13 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "Supersonic",
-      "artist": "Oasis",
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes and “Supersonic” by Oasis",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
-    },
-    {
-      "song_title": "Hells Bells",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2P884dqfjksDMSzUZksfrS",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     },
     {
       "song_title": "Many Men (Wish Death)",
@@ -56,6 +47,15 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Supersonic",
+      "artist": "Oasis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01Ox3uPKBqENtiWNlVaRdD",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {

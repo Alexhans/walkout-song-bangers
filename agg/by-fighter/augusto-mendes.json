@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Minha Alma (A Paz Que Eu Nao Quero)",
-      "artist": "O Rappa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0lPWEt7kSY37pSUIH68ME0",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
       "song_title": "Ever Be",
       "artist": "Natalie Grant",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Minha Alma (A Paz Que Eu Nao Quero)",
+      "artist": "O Rappa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0lPWEt7kSY37pSUIH68ME0",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

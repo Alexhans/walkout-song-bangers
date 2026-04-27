@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Assalam Aleykum",
+      "song_title": "M.One",
       "artist": "Master Ismail",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5ZGpVo7NbtVmwQqIbylGUp",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "M. One",
@@ -22,13 +22,13 @@
       "date": "2023-06-24"
     },
     {
-      "song_title": "M.One",
+      "song_title": "Assalam Aleykum",
       "artist": "Master Ismail",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7qjTwNMpXHOdHIvCCmdAPk",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
+      "spotify_url": "https://open.spotify.com/track/5ZGpVo7NbtVmwQqIbylGUp",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {

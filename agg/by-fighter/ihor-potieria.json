@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Welcome to Ukraine",
-      "artist": "JKLN",
+      "song_title": "Holding Out for a Hero",
+      "artist": "Bonnie Tyler",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vPzOAkd8NNzih7DQxn42L",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
-      "song_title": "Ykpa7Hcbki отамани",
-      "artist": "ЯРМАК ft. Лев",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7a1HRV14m0sA1v11ax6uy0",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
+      "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "",
@@ -31,13 +22,13 @@
       "date": "2024-05-04"
     },
     {
-      "song_title": "Holding Out for a Hero",
-      "artist": "Bonnie Tyler",
+      "song_title": "Another Love",
+      "artist": "Tom Odell",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "spotify_url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
     },
     {
       "song_title": "Another Love",
@@ -49,13 +40,22 @@
       "date": "2023-12-02"
     },
     {
-      "song_title": "Another Love",
-      "artist": "Tom Odell",
+      "song_title": "Ykpa7Hcbki отамани",
+      "artist": "ЯРМАК ft. Лев",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
+      "spotify_url": "https://open.spotify.com/track/7a1HRV14m0sA1v11ax6uy0",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "Welcome to Ukraine",
+      "artist": "JKLN",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vPzOAkd8NNzih7DQxn42L",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     }
   ],
   "stats": {

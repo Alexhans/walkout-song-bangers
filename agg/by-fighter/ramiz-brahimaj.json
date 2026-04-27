@@ -8,6 +8,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC 309: Jones vs. Miocic",
       "event_slug": "ufc-309",
       "date": "2024-11-16"
@@ -22,13 +31,13 @@
       "date": "2024-05-18"
     },
     {
-      "song_title": "Favor for a Favor",
-      "artist": "Nas feat. Scarface",
+      "song_title": "Set the Tone",
+      "artist": "Logic",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "spotify_url": "https://open.spotify.com/track/6jjeUkgGVqOWGEbpTLgm56",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     },
     {
       "song_title": "Ghetto Prisoners",
@@ -40,22 +49,13 @@
       "date": "2022-01-15"
     },
     {
-      "song_title": "Set the Tone",
-      "artist": "Logic",
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6jjeUkgGVqOWGEbpTLgm56",
-      "event": "UFC Fight Night: Makhachev vs. Green",
-      "event_slug": "ufc-fight-night-makhachev-vs-green",
-      "date": "2022-02-26"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     }
   ],
   "stats": {

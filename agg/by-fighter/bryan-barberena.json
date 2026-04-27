@@ -4,22 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "The Outsiders",
-      "artist": "Eric Church",
+      "song_title": "Don't Stop Me Now",
+      "artist": "Queen",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "spotify_url": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     },
     {
       "song_title": "Let’s Hear it for the Boy",
@@ -29,6 +20,24 @@
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
+    },
+    {
+      "song_title": "It’s Tricky",
+      "artist": "Run-D.M.C.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "Twist and Shout",
@@ -49,22 +58,13 @@
       "date": "2021-12-04"
     },
     {
-      "song_title": "It’s Tricky",
-      "artist": "Run-D.M.C.",
+      "song_title": "The Outsiders",
+      "artist": "Eric Church",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
-    },
-    {
-      "song_title": "Don't Stop Me Now",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6e3y6sczcHWehxZo528OZ7",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "spotify_url": "https://open.spotify.com/track/6wVLF29yXivhhYv4jbkRWW",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

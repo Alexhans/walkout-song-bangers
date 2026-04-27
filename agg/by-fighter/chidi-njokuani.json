@@ -4,6 +4,15 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Hot In Herre",
+      "artist": "Nelly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xNamYQxb1N5kcgQFGBp9L",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    },
+    {
       "song_title": "No Evil",
       "artist": "Sir",
       "confidence": "bronze",
@@ -11,15 +20,6 @@
       "event": "UFC Fight Night: Blanchfield vs. Fiorot",
       "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
       "date": "2024-03-30"
-    },
-    {
-      "song_title": "Me or Sum",
-      "artist": "Nardo Wick feat. Future & Lil Baby",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
     },
     {
       "song_title": "Get 'Em (Dedication 2)",
@@ -31,13 +31,13 @@
       "date": "2022-09-17"
     },
     {
-      "song_title": "Hot In Herre",
-      "artist": "Nelly",
+      "song_title": "Me or Sum",
+      "artist": "Nardo Wick feat. Future & Lil Baby",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1xNamYQxb1N5kcgQFGBp9L",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "spotify_url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {

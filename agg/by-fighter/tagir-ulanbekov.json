@@ -7,19 +7,19 @@
       "song_title": "Vse Zvezdy",
       "artist": "Gimi Dagestana",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "spotify_url": "https://open.spotify.com/search/Vse%20Zvezdy%20Gimi%20Dagestana",
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
     },
     {
       "song_title": "Vse Zvezdy",
       "artist": "Gimi Dagestana",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Vse%20Zvezdy%20Gimi%20Dagestana",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
+      "spotify_url": "https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     }
   ],
   "stats": {

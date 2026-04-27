@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Life by the Drop",
-      "artist": "Stevie Ray Vaughan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
       "song_title": "Streets of Siam",
       "artist": "Paul Hertzog & Stan Bush",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 265: Lewis vs. Gane",
       "event_slug": "ufc-265",
       "date": "2021-08-07"
+    },
+    {
+      "song_title": "Life by the Drop",
+      "artist": "Stevie Ray Vaughan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

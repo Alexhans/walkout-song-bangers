@@ -4,49 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Wait a Minute",
-      "artist": "Phresher",
+      "song_title": "Maan!",
+      "artist": "Big Moe",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6JNS8rIcTvKVdgbSuQC9Xe",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
-    },
-    {
-      "song_title": "New Money",
-      "artist": "Z-Ro",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ZudqHFSELAvUjinRURKDq",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "JESUS WALKS",
-      "artist": "Kanye West",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
-      "song_title": "Swisha And Dosha",
-      "artist": "UGK",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
+      "spotify_url": "https://open.spotify.com/track/2ZHaCiP7KYJ9Y6kYed60hU",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
     },
     {
       "song_title": "The Get Back",
@@ -58,13 +22,13 @@
       "date": "2024-02-10"
     },
     {
-      "song_title": "Maan!",
-      "artist": "Big Moe",
+      "song_title": "Swisha And Dosha",
+      "artist": "UGK",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2ZHaCiP7KYJ9Y6kYed60hU",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
+      "spotify_url": "https://open.spotify.com/track/6FRNAjiIKecK1tSLzFFjdM",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
     },
     {
       "song_title": "Friday",
@@ -74,6 +38,42 @@
       "event": "UFC Fight Night: Sandhagen vs. Song",
       "event_slug": "ufc-fight-night-sandhagen-vs-song",
       "date": "2022-09-17"
+    },
+    {
+      "song_title": "JESUS WALKS",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "New Money",
+      "artist": "Z-Ro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ZudqHFSELAvUjinRURKDq",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
+    },
+    {
+      "song_title": "Wait a Minute",
+      "artist": "Phresher",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNS8rIcTvKVdgbSuQC9Xe",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
     }
   ],
   "stats": {

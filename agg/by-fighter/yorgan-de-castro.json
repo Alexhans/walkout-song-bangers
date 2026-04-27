@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

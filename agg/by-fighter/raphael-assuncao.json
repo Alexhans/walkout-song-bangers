@@ -4,31 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Favela",
-      "artist": "Ludmilla",
+      "song_title": "Awesome God",
+      "artist": "R. Swift",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Podo Vir",
-      "artist": "Tiago Brasil",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
+      "spotify_url": "https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
       "song_title": "Positive Vibration",
@@ -44,18 +35,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     },
     {
-      "song_title": "Awesome God",
-      "artist": "R. Swift",
+      "song_title": "Podo Vir",
+      "artist": "Tiago Brasil",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7oAnV2PAXpIy7fa87gvUsy",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "Favela",
+      "artist": "Ludmilla",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

@@ -13,15 +13,6 @@
       "date": "2023-07-15"
     },
     {
-      "song_title": "RITMO",
-      "artist": "Black Eyed Peas feat. J. Balvin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf",
-      "event": "UFC Fight Night: Vera vs. Cruz",
-      "event_slug": "ufc-fight-night-vera-vs-cruz",
-      "date": "2022-08-13"
-    },
-    {
       "song_title": "RITMO (Bad Boys for Life)",
       "artist": "Black Eyed Peas",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "RITMO",
+      "artist": "Black Eyed Peas feat. J. Balvin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     }
   ],
   "stats": {

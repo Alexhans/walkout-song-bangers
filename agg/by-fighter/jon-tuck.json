@@ -14,21 +14,21 @@
     },
     {
       "song_title": "Jump Around",
-      "artist": "House Of Pain",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
-      "event": "UFC Fight Night: Overeem vs Arlovski",
-      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
-      "date": "2016-05-08"
-    },
-    {
-      "song_title": "Jump Around",
       "artist": "House of Pain",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
       "event": "UFC Fight Night: Whittaker vs. Brunson",
       "event_slug": "ufc-fight-night-whittaker-vs-brunson",
       "date": "2016-11-26"
+    },
+    {
+      "song_title": "Jump Around",
+      "artist": "House Of Pain",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH",
+      "event": "UFC Fight Night: Overeem vs Arlovski",
+      "event_slug": "ufc-fight-night-overeem-vs-arlovski",
+      "date": "2016-05-08"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Grinding All My Life",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
-    },
-    {
       "song_title": "One of One",
       "artist": "Tee Grizzly",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
+    },
+    {
+      "song_title": "Grinding All My Life",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
     }
   ],
   "stats": {

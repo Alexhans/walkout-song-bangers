@@ -8,9 +8,27 @@
       "artist": "Rob Zombie",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
+      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
+      "date": "2022-07-09"
+    },
+    {
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "event": "UFC Fight Night: Holloway vs. Rodriguez",
+      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
+      "date": "2021-11-13"
+    },
+    {
+      "song_title": "Living Dead Girl",
+      "artist": "Rob Zombie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     },
     {
       "song_title": "Living Dead Girl",
@@ -35,27 +53,9 @@
       "artist": "Rob Zombie",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
-    },
-    {
-      "song_title": "Living Dead Girl",
-      "artist": "Rob Zombie",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
-      "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
-      "date": "2022-07-09"
-    },
-    {
-      "song_title": "Living Dead Girl",
-      "artist": "Rob Zombie",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET",
-      "event": "UFC Fight Night: Holloway vs. Rodriguez",
-      "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
-      "date": "2021-11-13"
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

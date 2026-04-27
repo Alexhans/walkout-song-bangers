@@ -8,9 +8,9 @@
       "artist": "Bon Jovi",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
     },
     {
       "song_title": "It's My Life",
@@ -26,9 +26,9 @@
       "artist": "Bon Jovi",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
-      "event": "UFC Fight Night: Strickland vs. Imavov",
-      "event_slug": "ufc-fight-night-strickland-vs-imavov",
-      "date": "2023-01-14"
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     }
   ],
   "stats": {

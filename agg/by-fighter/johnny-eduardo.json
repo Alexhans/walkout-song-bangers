@@ -8,18 +8,18 @@
       "artist": "Fernandinho",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     },
     {
       "song_title": "O Hino",
       "artist": "Fernandinho",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
-      "event": "UFC Fight Night: Santos vs. Walker",
-      "event_slug": "ufc-fight-night-santos-vs-walker",
-      "date": "2021-10-02"
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
     }
   ],
   "stats": {

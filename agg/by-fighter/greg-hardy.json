@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Ain’t Enough Money",
-      "artist": "Greg Hardy & J. Oliver",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC 264: Poirier vs. McGregor 3",
       "event_slug": "ufc-264",
       "date": "2021-07-10"
+    },
+    {
+      "song_title": "Ain’t Enough Money",
+      "artist": "Greg Hardy & J. Oliver",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4YwaWXAmeB2PpDQWTLlSvR",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     }
   ],
   "stats": {

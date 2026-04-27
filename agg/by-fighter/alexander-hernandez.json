@@ -4,24 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
-    },
-    {
       "song_title": "I Wonder",
       "artist": "Kanye West",
       "confidence": "bronze",
@@ -40,6 +22,15 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Por Ti Volare",
+      "artist": "Endo Rivera",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
+    },
+    {
       "song_title": "In the Air Tonight",
       "artist": "Phil Collins",
       "confidence": "bronze",
@@ -49,13 +40,22 @@
       "date": "2023-02-18"
     },
     {
-      "song_title": "Por Ti Volare",
-      "artist": "Endo Rivera",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1qUsCF2mfDcKhuRVsNeHKu",
-      "event": "UFC Fight Night: Dawson vs. Green",
-      "event_slug": "ufc-fight-night-dawson-vs-green",
-      "date": "2023-10-07"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     },
     {
       "song_title": "Knife Talk",

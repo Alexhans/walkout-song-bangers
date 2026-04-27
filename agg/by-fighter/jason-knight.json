@@ -4,6 +4,24 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "Just Another Thing",
+      "artist": "The Lacs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6aiap0DxIpyscSAIaPp9kk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "song_title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
       "song_title": "Sleeping Dog",
       "artist": "Blackberry Smoke",
       "confidence": "bronze",
@@ -20,24 +38,6 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
-    },
-    {
-      "song_title": "Break Stuff",
-      "artist": "Limp Bizkit",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "Just Another Thing",
-      "artist": "The Lacs",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6aiap0DxIpyscSAIaPp9kk",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
     },
     {
       "song_title": "Made in America",

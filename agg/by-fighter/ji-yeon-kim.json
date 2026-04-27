@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Forever Young",
-      "artist": "Crew Cardinal feat. Kodie",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/75h0y8Bib7EqXOFSFTnTtq",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
       "song_title": "하현우 - 들넣이 (이대원 출라쓰)",
       "artist": "Ha Hyun Woo",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 277: Pena vs. Nunes 2",
       "event_slug": "ufc-277",
       "date": "2022-07-30"
+    },
+    {
+      "song_title": "Unstoppable",
+      "artist": "Sia",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
     },
     {
       "song_title": "What Type of X",
@@ -34,19 +34,19 @@
       "song_title": "Forever Young",
       "artist": "Crew Cardinal feat. Kodie",
       "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/75h0y8Bib7EqXOFSFTnTtq",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
+      "song_title": "Forever Young",
+      "artist": "Crew Cardinal feat. Kodie",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/754OmeCDdrHUiLVHNaWQm9",
       "event": "UFC Fight Night: Holm vs. Correia",
       "event_slug": "ufc-fight-night-holm-vs-correia",
       "date": "2017-06-17"
-    },
-    {
-      "song_title": "Unstoppable",
-      "artist": "Sia",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS",
-      "event": "UFC Fight Night: Makhachev vs. Green",
-      "event_slug": "ufc-fight-night-makhachev-vs-green",
-      "date": "2022-02-26"
     }
   ],
   "stats": {

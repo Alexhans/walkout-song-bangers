@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Givenchy",
-      "artist": "DUKI",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
-      "song_title": "Argentina",
-      "artist": "Trueno, Nathy Peluso",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
       "song_title": "Can’t Be Touched",
       "artist": "Roy Jones Jr. feat. Mr. Magic & Trouble",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Lewis vs. Nascimento",
       "event_slug": "ufc-fight-night-lewis-vs-nascimento",
       "date": "2024-05-11"
+    },
+    {
+      "song_title": "Argentina",
+      "artist": "Trueno, Nathy Peluso",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3lkiTKxSDxOqZkQnf9FUEo",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "Givenchy",
+      "artist": "DUKI",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bbwjxA68m9PHZFWgF1fze",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {

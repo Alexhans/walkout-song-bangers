@@ -6,34 +6,7 @@
     {
       "song_title": "Fat Lip",
       "artist": "Sum 41",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
-    },
-    {
-      "song_title": "Fat Lip",
-      "artist": "Sum 41",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
-    },
-    {
-      "song_title": "Mike Malott : Fat Lip",
-      "artist": "Sum 41",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Mike%20Malott%20%3A%20Fat%20Lip%20Sum%2041",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
-    },
-    {
-      "song_title": "Fat Lip",
-      "artist": "Sum 41",
-      "confidence": "bronze",
+      "confidence": "silver",
       "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
       "event": "UFC Fight Night: Burns vs. Malott",
       "event_slug": "ufc-fight-night-burns-vs-malott",
@@ -49,6 +22,24 @@
       "date": "2024-11-02"
     },
     {
+      "song_title": "Mike Malott : Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mike%20Malott%20%3A%20Fat%20Lip%20Sum%2041",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
       "song_title": "Fat Lip",
       "artist": "Sum 41",
       "confidence": "bronze",
@@ -56,6 +47,15 @@
       "event": "UFC Fight Night: Muniz vs. Allen",
       "event_slug": "ufc-fight-night-muniz-vs-allen",
       "date": "2023-02-25"
+    },
+    {
+      "song_title": "Fat Lip",
+      "artist": "Sum 41",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     }
   ],
   "stats": {

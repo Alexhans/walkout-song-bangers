@@ -5,21 +5,21 @@
   "walkouts": [
     {
       "song_title": "Rap Da Felicidade",
-      "artist": "Cidinho & Doca, DJ Marlboro",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
-    },
-    {
-      "song_title": "Rap Da Felicidade",
       "artist": "Cidinho & Doca",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "Rap Da Felicidade",
+      "artist": "Cidinho & Doca, DJ Marlboro",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5SM9jV7MTsXx4gKAxHhfuh",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
     },
     {
       "song_title": "Louco e Sonhador",

@@ -8,6 +8,24 @@
       "artist": "Rimzeee",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
+    },
+    {
+      "song_title": "Morals & Principals",
+      "artist": "Rimzece",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "song_title": "Morals and Principles",
+      "artist": "Rimzeee",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
       "event": "UFC 286: Edwards vs. Usman 3",
       "event_slug": "ufc-286-edwards-vs-usman-3",
       "date": "2023-03-18"
@@ -22,13 +40,13 @@
       "date": "2022-07-23"
     },
     {
-      "song_title": "Morals and Principles",
-      "artist": "Rimzeee",
+      "song_title": "Face the World",
+      "artist": "Nipsey Hussle",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5uplSE33oKyee1UvzVIlec",
-      "event": "UFC Fight Night: Burns vs. Malott",
-      "event_slug": "ufc-fight-night-burns-vs-malott",
-      "date": "2026-04-18"
+      "spotify_url": "https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     },
     {
       "song_title": "Face the World",
@@ -38,24 +56,6 @@
       "event": "UFC Fight Night: Costa vs. Vettori",
       "event_slug": "ufc-fight-night-costa-vs-vettori",
       "date": "2021-10-23"
-    },
-    {
-      "song_title": "Morals & Principals",
-      "artist": "Rimzece",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Morals%20%26%20Principals%20Rimzece",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
-    },
-    {
-      "song_title": "Face the World",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0MFUtcr3Vo3G2ERd2Tgnfi",
-      "event": "UFC Fight Night: Volkov vs. Aspinall",
-      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
-      "date": "2022-03-19"
     }
   ],
   "stats": {

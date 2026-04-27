@@ -8,9 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "Alugho",
+      "artist": "Youth of Dagestan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "event": "UFC Fight Night: Volkov vs. Aspinall",
+      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
+      "date": "2022-03-19"
     },
     {
       "song_title": "",
@@ -26,9 +35,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
       "song_title": "Alugho",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Cowboy vs Cowboy",
       "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
       "date": "2016-02-21"
-    },
-    {
-      "song_title": "Alugho",
-      "artist": "Youth of Dagestan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
-      "event": "UFC Fight Night: Volkov vs. Aspinall",
-      "event_slug": "ufc-fight-night-volkov-vs-aspinall",
-      "date": "2022-03-19"
     }
   ],
   "stats": {

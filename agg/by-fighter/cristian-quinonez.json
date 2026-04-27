@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Nene Nene Que Vass Hacer Cuando Seas Grande",
-      "artist": "Miguel Mateos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
-    },
-    {
       "song_title": "Vale la Pena",
       "artist": "Silar Kilos De Estilo",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "Nene Nene Que Vass Hacer Cuando Seas Grande",
+      "artist": "Miguel Mateos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     }
   ],
   "stats": {

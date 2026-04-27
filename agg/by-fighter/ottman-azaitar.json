@@ -8,9 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
     },
     {
       "song_title": "",
@@ -26,9 +26,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {

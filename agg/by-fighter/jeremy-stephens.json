@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Ambitionz Az a Ridah",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,6 +20,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     }
   ],
   "stats": {

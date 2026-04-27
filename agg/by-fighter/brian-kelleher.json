@@ -4,33 +4,6 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Blessed Up",
-      "artist": "Meek Mill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7lidCG4c4lX6hIRXt0MKVA",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
-    },
-    {
-      "song_title": "The Warrior's Code",
-      "artist": "Dropkick Murphys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "Falling",
-      "artist": "Trevor Daniel",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
-    },
-    {
       "song_title": "When the Music Stops",
       "artist": "Eminem",
       "confidence": "bronze",
@@ -40,13 +13,13 @@
       "date": "2023-12-16"
     },
     {
-      "song_title": "The Business",
-      "artist": "Tiesto",
+      "song_title": "Boom Boom Boom",
+      "artist": "The Outhere Brothers and “Glory” by Lil’ Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "spotify_url": "https://open.spotify.com/track/0yD9hgruivtAAZ7HrKPYmG",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     },
     {
       "song_title": "Rumble Young Man Rumble",
@@ -58,13 +31,40 @@
       "date": "2022-01-15"
     },
     {
-      "song_title": "Boom Boom Boom",
-      "artist": "The Outhere Brothers and “Glory” by Lil’ Wayne",
+      "song_title": "The Business",
+      "artist": "Tiesto",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0yD9hgruivtAAZ7HrKPYmG",
-      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
-      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
-      "date": "2022-06-25"
+      "spotify_url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
+    },
+    {
+      "song_title": "Falling",
+      "artist": "Trevor Daniel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "The Warrior's Code",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "Blessed Up",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7lidCG4c4lX6hIRXt0MKVA",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
     }
   ],
   "stats": {

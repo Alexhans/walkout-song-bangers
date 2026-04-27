@@ -17,6 +17,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Smith vs. Spann",
       "event_slug": "ufc-fight-night-smith-vs-spann",
       "date": "2021-09-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
     }
   ],
   "stats": {

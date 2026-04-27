@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Ironman",
-      "artist": "Black Sabbath",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
-    },
-    {
       "song_title": "The Champ",
       "artist": "Ghostface Killah",
       "confidence": "bronze",
@@ -22,13 +13,13 @@
       "date": "2025-11-15"
     },
     {
-      "song_title": "Iron Man",
+      "song_title": "Ironman",
       "artist": "Black Sabbath",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
-      "event": "UFC Fight Night: Luque vs. Muhammad",
-      "event_slug": "ufc-fight-night-luque-vs-muhammad",
-      "date": "2022-04-16"
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "Iron Man",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Song",
       "event_slug": "ufc-fight-night-sandhagen-vs-song",
       "date": "2022-09-17"
+    },
+    {
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     },
     {
       "song_title": "Iron Man",

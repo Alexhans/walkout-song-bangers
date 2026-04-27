@@ -4,31 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Hey Mickey",
-      "artist": "Toni Basil",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
-    },
-    {
-      "song_title": "Hey Mickey/Woke Up This Morning",
-      "artist": "Toni Basil/Alabama 3",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "Woke Up This Morning",
-      "artist": "Alabama 3",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "Hey Mickey",
@@ -40,13 +22,13 @@
       "date": "2024-06-01"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
+      "song_title": "Woke Up This Morning",
+      "artist": "Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     },
     {
       "song_title": "Hey Mickey",
@@ -65,6 +47,24 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
+    },
+    {
+      "song_title": "Hey Mickey/Woke Up This Morning",
+      "artist": "Toni Basil/Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Hey Mickey",
+      "artist": "Toni Basil",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5G9KcZaxfCysfv4EryCB9b",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

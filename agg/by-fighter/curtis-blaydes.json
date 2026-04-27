@@ -4,49 +4,13 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Mortal Combat Theme Song",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6hcKSIrthkCAIFBiSn5jBh",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
-    },
-    {
-      "song_title": "Encounter The Ultimate (Mortal Kombat Theme)",
+      "song_title": "Techno Syndrome (Mortal Kombat)",
       "artist": "The Immortals",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Techno Syndrome (Mortal Kombat)",
@@ -58,22 +22,13 @@
       "date": "2024-07-27"
     },
     {
-      "song_title": "Techno Syndrome (Mortal Kombat)",
-      "artist": "The Immortals",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
-      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
-      "date": "2017-02-04"
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "",
@@ -92,6 +47,51 @@
       "event": "UFC Fight Night: Blaydes vs. Daukaus",
       "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
       "date": "2022-03-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    },
+    {
+      "song_title": "Encounter The Ultimate (Mortal Kombat Theme)",
+      "artist": "The Immortals",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "Mortal Combat Theme Song",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6hcKSIrthkCAIFBiSn5jBh",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Bermudez vs. The Korean Zombie",
+      "event_slug": "ufc-fight-night-bermudez-vs-the-korean-zombie",
+      "date": "2017-02-04"
     },
     {
       "song_title": "",

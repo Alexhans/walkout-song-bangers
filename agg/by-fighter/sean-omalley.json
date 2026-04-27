@@ -5,75 +5,12 @@
   "walkouts": [
     {
       "song_title": "Superstar",
-      "artist": "Lupe Fiasco",
+      "artist": "Lupe Fiasco, Matthew Santos",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
-    },
-    {
-      "song_title": "Goat talk - Sugar Sean",
-      "artist": "J. Rob",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
-    },
-    {
-      "song_title": "Goat Talk",
-      "artist": "J Rob",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "Suga Suga",
-      "artist": "Baby Bash",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "Mapi",
-      "artist": "6ix9ine",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
-      "song_title": "Super Gremlin",
-      "artist": "Kodak Black",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "",
-      "artist": "Lupe Fiasco “Superstar”",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
-      "song_title": "Superstar",
-      "artist": "Lupe Fiasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
     },
     {
       "song_title": "",
@@ -86,12 +23,75 @@
     },
     {
       "song_title": "Superstar",
-      "artist": "Lupe Fiasco, Matthew Santos",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "",
+      "artist": "Lupe Fiasco “Superstar”",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "song_title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Mapi",
+      "artist": "6ix9ine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1CPnGOj9yGlAaG7S57a5w5",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "Suga Suga",
+      "artist": "Baby Bash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "Goat Talk",
+      "artist": "J Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "song_title": "Goat talk - Sugar Sean",
+      "artist": "J. Rob",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1VIRaDyyUyDsXkS8b0vxgF",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "Superstar",
+      "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4",
-      "event": "UFC 324: Gaethje vs. Pimblett",
-      "event_slug": "ufc-324",
-      "date": "2026-01-24"
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     }
   ],
   "stats": {

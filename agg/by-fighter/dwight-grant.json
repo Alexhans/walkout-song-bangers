@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Victory",
-      "artist": "Puff Daddy",
+      "song_title": "Don't Push Me",
+      "artist": "50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "Victory",
-      "artist": "Puff Daddy feat. Notorious B.I.G. and Busta Rhymes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
+      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
+      "event": "UFC Fight Night: Ortega vs. Rodriguez",
+      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
+      "date": "2022-07-16"
     },
     {
       "song_title": "Don't Push Me",
@@ -31,13 +22,22 @@
       "date": "2022-04-23"
     },
     {
-      "song_title": "Don't Push Me",
-      "artist": "50 Cent",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G. and Busta Rhymes",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
-      "event": "UFC Fight Night: Ortega vs. Rodriguez",
-      "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
-      "date": "2022-07-16"
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
+      "song_title": "Victory",
+      "artist": "Puff Daddy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     }
   ],
   "stats": {

@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2019](../agg/by-year/2019.md) | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](../../ufc-263.md) | — | — | |
+| [2019](../agg/by-year/2019.md) | [UFC 238: Cejudo vs. Moraes](../../ufc-238.md) | — | — | |

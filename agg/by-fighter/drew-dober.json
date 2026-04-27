@@ -4,58 +4,40 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Shoop",
-      "artist": "Salt N Pepa",
+      "song_title": "This Is How We Do It",
+      "artist": "Montell Jordan",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
     },
     {
-      "song_title": "Wild Thing",
-      "artist": "Tone Loc",
+      "song_title": "This Is How We Do It",
+      "artist": "Montel Jordan",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     },
     {
-      "song_title": "No Diggity",
-      "artist": "Backstreet",
+      "song_title": "This Is How We Do It",
+      "artist": "Montel Jordan",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
+      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
+      "event": "UFC Fight Night: Dawson vs. Green",
+      "event_slug": "ufc-fight-night-dawson-vs-green",
+      "date": "2023-10-07"
     },
     {
       "song_title": "This is How We Do It",
       "artist": "Montel Jordan",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
-      "song_title": "This is How We Do It",
-      "artist": "Montel Jordan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "This is How We Do It",
@@ -71,36 +53,54 @@
       "artist": "Montel Jordan",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
-      "song_title": "This Is How We Do It",
-      "artist": "Montell Jordan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC 326: Holloway vs. Oliveira 2",
-      "event_slug": "ufc-326",
-      "date": "2026-03-07"
-    },
-    {
-      "song_title": "This Is How We Do It",
+      "song_title": "This is How We Do It",
       "artist": "Montel Jordan",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC Fight Night: Dawson vs. Green",
-      "event_slug": "ufc-fight-night-dawson-vs-green",
-      "date": "2023-10-07"
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
-      "song_title": "This Is How We Do It",
-      "artist": "Montel Jordan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "No Diggity",
+      "artist": "Backstreet",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X",
-      "event": "UFC Fight Night: Dolidze vs. Imavov",
-      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
-      "date": "2024-02-03"
+      "spotify_url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Wild Thing",
+      "artist": "Tone Loc",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "Shoop",
+      "artist": "Salt N Pepa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

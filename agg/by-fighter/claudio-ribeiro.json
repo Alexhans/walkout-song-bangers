@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Audio Que Te Entrega",
-      "artist": "Leo Santana, MC Don Juan and Mari Fernandez",
+      "song_title": "Rimanaessencia Rap",
+      "artist": "Mais Nois Canta",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6bvExfRtDzg0sXuUkvTUyL",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "spotify_url": "https://open.spotify.com/track/6oNxnxzjyS7VcclTg6WJzE",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2023-07-29"
     },
     {
-      "song_title": "Rimanaessencia Rap",
-      "artist": "Mais Nois Canta",
+      "song_title": "Audio Que Te Entrega",
+      "artist": "Leo Santana, MC Don Juan and Mari Fernandez",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6oNxnxzjyS7VcclTg6WJzE",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
+      "spotify_url": "https://open.spotify.com/track/6bvExfRtDzg0sXuUkvTUyL",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "Panda",

@@ -4,13 +4,22 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Deep Purple",
+      "artist": "Sixdust",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2sxP95dtSLmwx6EC3nNF8Z",
+      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
+      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
+      "date": "2024-01-13"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
     },
     {
       "song_title": "",
@@ -26,18 +35,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
-    },
-    {
-      "song_title": "Deep Purple",
-      "artist": "Sixdust",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2sxP95dtSLmwx6EC3nNF8Z",
-      "event": "UFC Fight Night: Ankalaev vs. Walker 2",
-      "event_slug": "ufc-fight-night-ankalaev-vs-walker-2",
-      "date": "2024-01-13"
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     }
   ],
   "stats": {

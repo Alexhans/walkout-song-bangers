@@ -8,15 +8,6 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC 230: Cormier vs. Lewis",
       "event_slug": "ufc-230",
       "date": "2018-11-03"
@@ -29,6 +20,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

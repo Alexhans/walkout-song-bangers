@@ -5,12 +5,12 @@
   "walkouts": [
     {
       "song_title": "Call Me Nobody",
-      "artist": "Clever",
+      "artist": "Clever feat. Lil Wayne",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     },
     {
       "song_title": "Death (Visualizer)",
@@ -23,12 +23,12 @@
     },
     {
       "song_title": "Call Me Nobody",
-      "artist": "Clever feat. Lil Wayne",
+      "artist": "Clever",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0MbQ8hUYpo0I2GWueffFEL",
-      "event": "UFC Fight Night: Dolidze vs. Imavov",
-      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
-      "date": "2024-02-03"
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     }
   ],
   "stats": {

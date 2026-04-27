@@ -4,31 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Bad Guy",
-      "artist": "Billie Eilish",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "Somethin' Bad",
+      "song_title": "Somethin’ Bad",
       "artist": "Miranda Lambert and Carrie Underwood",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "Holy Ground (feat. Jessie Murph)",
@@ -40,13 +22,13 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Somethin’ Bad",
+      "song_title": "Somethin' Bad",
       "artist": "Miranda Lambert and Carrie Underwood",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "Somethin’ Bad",
@@ -56,6 +38,15 @@
       "event": "UFC Fight Night: Emmett vs. Topuria",
       "event_slug": "ufc-fight-night-emmett-vs-topuria",
       "date": "2023-06-24"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "The Champion",
@@ -74,6 +65,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
+    },
+    {
+      "song_title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     }
   ],
   "stats": {

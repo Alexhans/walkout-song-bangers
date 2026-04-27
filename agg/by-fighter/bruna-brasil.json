@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Sweet Child O' Mine",
-      "artist": "Guns N' Roses",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-      "event": "UFC 304: Edwards vs. Muhammad 2",
-      "event_slug": "ufc-304",
-      "date": "2024-07-27"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
     },
     {
       "song_title": "I Love Rock ‘n’ Roll",

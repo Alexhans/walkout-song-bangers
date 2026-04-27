@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Polska Siła",
-      "artist": "O.S.T.R., World of Tanks",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/7ifJnybxIGtYdqTGnGrEEs",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "Polska Siła",
+      "artist": "O.S.T.R., World of Tanks",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7ifJnybxIGtYdqTGnGrEEs",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     }
   ],
   "stats": {

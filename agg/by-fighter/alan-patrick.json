@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "12 Ate o Fim",
-      "artist": "Mano Hethi",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
       "song_title": "Gratidao",
       "artist": "L7nnon",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Blachowicz vs. Rakic",
       "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
       "date": "2022-05-14"
+    },
+    {
+      "song_title": "12 Ate o Fim",
+      "artist": "Mano Hethi",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
     }
   ],
   "stats": {

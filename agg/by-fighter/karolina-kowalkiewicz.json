@@ -4,60 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "The Passenger",
-      "artist": "Iggy Pop",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "The Passenger",
-      "artist": "Iggy Pop",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "The Passenger",
-      "artist": "Iggy Pop",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "T.N.T.",
-      "artist": "AC/DC",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
       "song_title": "T.N.T.",
       "artist": "AC/DC",
       "confidence": "bronze",
@@ -74,6 +20,60 @@
       "event": "UFC Fight Night: Dawson vs. Green",
       "event_slug": "ufc-fight-night-dawson-vs-green",
       "date": "2023-10-07"
+    },
+    {
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "The Passenger",
+      "artist": "Iggy Pop",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     },
     {
       "song_title": "The Passenger",

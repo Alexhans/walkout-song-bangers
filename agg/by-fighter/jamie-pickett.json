@@ -4,31 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Here Comes the Hotstepper",
-      "artist": "Ini Kamoze",
+      "song_title": "Monster 2.0",
+      "artist": "Jacob Banks feat. Boogie",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
-      "song_title": "Wolves",
-      "artist": "Big Sean feat. Post Malone",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
-    },
-    {
-      "song_title": "Wolves",
-      "artist": "Big Sean feat. Post Malone",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
-      "event": "UFC Fight Night: Kattar vs. Chikadze",
-      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
-      "date": "2022-01-15"
+      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "Bring the Pain",
@@ -40,13 +22,13 @@
       "date": "2023-08-12"
     },
     {
-      "song_title": "Monster 2.0",
-      "artist": "Jacob Banks feat. Boogie",
+      "song_title": "Here Comes the Hotstepper",
+      "artist": "Ini Kamoze",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
+      "spotify_url": "https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
       "song_title": "Wolves",
@@ -56,6 +38,24 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "Wolves",
+      "artist": "Big Sean feat. Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
+    },
+    {
+      "song_title": "Wolves",
+      "artist": "Big Sean feat. Post Malone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {

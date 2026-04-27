@@ -13,24 +13,6 @@
       "date": "2025-11-15"
     },
     {
-      "song_title": "Saturday Night's Alright for Fighting",
-      "artist": "Elton John",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
-    },
-    {
-      "song_title": "The Boys Are Back In Town",
-      "artist": "Thin Lizzy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
-      "event": "UFC Fight Night: Santos vs. Walker",
-      "event_slug": "ufc-fight-night-santos-vs-walker",
-      "date": "2021-10-02"
-    },
-    {
       "song_title": "The Rain",
       "artist": "DMX",
       "confidence": "bronze",
@@ -40,6 +22,15 @@
       "date": "2022-12-03"
     },
     {
+      "song_title": "Saturday Night's Alright for Fighting",
+      "artist": "Elton John",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
+    },
+    {
       "song_title": "The Boys are Back in Town",
       "artist": "Thin Lizzy",
       "confidence": "bronze",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {

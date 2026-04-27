@@ -4,24 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Me and the Devil",
-      "artist": "Gil Scott-Heron",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Rise & Fall",
-      "artist": "Michael Molloy & Alex Evans",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4wYPAvWxY72fKFIPAQriPY",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
-    },
-    {
       "song_title": "BIG FOR YOUR BOOTS",
       "artist": "Stormzy",
       "confidence": "bronze",
@@ -47,6 +29,24 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "Rise & Fall",
+      "artist": "Michael Molloy & Alex Evans",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4wYPAvWxY72fKFIPAQriPY",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "Me and the Devil",
+      "artist": "Gil Scott-Heron",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0DfHeKRPWea6WPOXvmMRMQ",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

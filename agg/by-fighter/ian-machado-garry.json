@@ -4,31 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
+      "song_title": "Take Me to Church",
+      "artist": "Hozier",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI",
+      "event": "UFC 303: Pereira vs. Prochazka 2",
+      "event_slug": "ufc-303",
+      "date": "2024-06-29"
+    },
+    {
+      "song_title": "Layla",
+      "artist": "Derek & the Dominos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
     },
     {
       "song_title": "",
@@ -44,27 +44,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
-      "song_title": "Layla",
-      "artist": "Derek & the Dominos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     },
     {
-      "song_title": "Take Me to Church",
-      "artist": "Hozier",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI",
-      "event": "UFC 303: Pereira vs. Prochazka 2",
-      "event_slug": "ufc-303",
-      "date": "2024-06-29"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
     }
   ],
   "stats": {

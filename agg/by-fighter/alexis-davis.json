@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Old School",
-      "artist": "2Pac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
       "song_title": "Bad Boyz",
       "artist": "Shyne feat. Barrington Levvy",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Hermansson vs. Strickland",
       "event_slug": "ufc-fight-night-hermansson-vs-strickland",
       "date": "2022-02-05"
+    },
+    {
+      "song_title": "Old School",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     }
   ],
   "stats": {

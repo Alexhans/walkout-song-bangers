@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Lords of Iron",
-      "artist": "Antti Martikainen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2bmFTmSBkqU3KArU798aSm",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
-      "song_title": "Wolf Totem",
-      "artist": "The Hu",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7LSn5it9bQhJqyfEq1PM3l",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     },
     {
       "song_title": "",
@@ -31,13 +22,22 @@
       "date": "2021-09-25"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
+      "song_title": "Wolf Totem",
+      "artist": "The Hu",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LSn5it9bQhJqyfEq1PM3l",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "Lords of Iron",
+      "artist": "Antti Martikainen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2bmFTmSBkqU3KArU798aSm",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

@@ -4,22 +4,49 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "song_title": "Glitter & Gold",
+      "artist": "Barns Courtney",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Glitter%20%26%20Gold%20Barns%20Courtney",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "Protect Your Mind (For the Love of a Princess)",
+      "artist": "DJ Sakin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11Ey2KUrXuMHwgVbKn3BSg",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Sweet Dreams",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
+    },
+    {
+      "song_title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
+      "event": "UFC Fight Night: Vieira vs. Tate",
+      "event_slug": "ufc-fight-night-vieira-vs-tate",
+      "date": "2021-11-20"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "",
@@ -35,36 +62,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
-      "song_title": "Protect Your Mind (For the Love of a Princess)",
-      "artist": "DJ Sakin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/11Ey2KUrXuMHwgVbKn3BSg",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
-      "song_title": "Glitter & Gold",
-      "artist": "Barns Courtney",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Glitter%20%26%20Gold%20Barns%20Courtney",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
-    },
-    {
-      "song_title": "Sweet Dreams",
-      "artist": "Eurythmics",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
-      "event": "UFC Fight Night: Blaydes vs. Daukaus",
-      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
-      "date": "2022-03-26"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "",
@@ -74,15 +83,6 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
-    },
-    {
-      "song_title": "Sweet Dreams (Are Made of This)",
-      "artist": "Eurythmics",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37",
-      "event": "UFC Fight Night: Vieira vs. Tate",
-      "event_slug": "ufc-fight-night-vieira-vs-tate",
-      "date": "2021-11-20"
     }
   ],
   "stats": {

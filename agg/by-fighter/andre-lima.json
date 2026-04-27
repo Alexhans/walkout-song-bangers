@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
       "song_title": "Galera Do Interior",
       "artist": "Bareos Da Pisadinha",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
     },
     {
       "song_title": "Galera Do Interior",

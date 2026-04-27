@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "8 Mile Final Rap Battle",
-      "artist": "Eminem",
+      "song_title": "Horses",
+      "artist": "Daryl Braithwaite",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "spotify_url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     },
     {
       "song_title": "8 Mile Eminem final rap battle",
@@ -22,15 +22,6 @@
       "date": "2023-09-09"
     },
     {
-      "song_title": "Horses",
-      "artist": "Daryl Braithwaite",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Emmett vs. Topuria",
       "event_slug": "ufc-fight-night-emmett-vs-topuria",
       "date": "2023-06-24"
+    },
+    {
+      "song_title": "8 Mile Final Rap Battle",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     }
   ],
   "stats": {

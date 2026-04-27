@@ -17,18 +17,18 @@
       "artist": "Faccao 288",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     },
     {
       "song_title": "Prvt e Hora de Vencer",
       "artist": "Faccao 288",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     }
   ],
   "stats": {

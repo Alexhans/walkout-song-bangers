@@ -4,49 +4,40 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "Run This Town",
-      "artist": "Jay-Z",
+      "song_title": "We Are the Champions",
+      "artist": "Queen and “Run This Town” by Jay-Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "Run This Town",
-      "artist": "Rihanna feat. Jay-Z",
+      "artist": "JAY-Z, Rihanna, Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
-    },
-    {
-      "song_title": "Somos Sente De Zambada",
-      "artist": "Lenin Ramirez feat. Regulo Cabo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Somos%20Sente%20De%20Zambada%20Lenin%20Ramirez",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
     },
     {
       "song_title": "Run This Town",
       "artist": "Jay-Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
     },
     {
       "song_title": "Run This Town",
-      "artist": "Jay-Z feat. Rihanna",
+      "artist": "Jay-Z feat. Rihanna and Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     },
     {
       "song_title": "Run This Town",
@@ -62,36 +53,45 @@
       "artist": "Jay-Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     },
     {
       "song_title": "Run This Town",
-      "artist": "JAY-Z, Rihanna, Kanye West",
+      "artist": "Jay-Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
-      "song_title": "We Are the Champions",
-      "artist": "Queen and “Run This Town” by Jay-Z feat. Rihanna",
+      "song_title": "Somos Sente De Zambada",
+      "artist": "Lenin Ramirez feat. Regulo Cabo",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "spotify_url": "https://open.spotify.com/search/Somos%20Sente%20De%20Zambada%20Lenin%20Ramirez",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     },
     {
       "song_title": "Run This Town",
-      "artist": "Jay-Z feat. Rihanna and Kanye West",
+      "artist": "Rihanna feat. Jay-Z",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
+    },
+    {
+      "song_title": "Run This Town",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

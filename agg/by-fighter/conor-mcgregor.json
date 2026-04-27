@@ -4,49 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Foggy Dew/El Chapo",
-      "artist": "Sinead O'Connor/The Game & Skrillex",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2xHNN3ClB7BX4D7twWwX7x",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "Foggy Dew/Hypnotize",
-      "artist": "Sinead O'Connor/Notorious B.I.G.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Foggy Dew",
-      "artist": "Sinead O'Connor and \"I Get Money\" by 50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "The Foggy Dew / Hypnotize",
-      "artist": "The Chieftains & Sinead O'Connor / The Notorious B.I.G.",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
       "song_title": "The Foggy Dew / Hypnotize",
       "artist": "Sinead O'Connor / The Notorious B.I.G.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
     },
     {
       "song_title": "The Foggy Dew / Hypnotize",
@@ -62,9 +26,45 @@
       "artist": "Sinead O'Connor / The Notorious B.I.G.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "The Foggy Dew / Hypnotize",
+      "artist": "The Chieftains & Sinead O'Connor / The Notorious B.I.G.",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Foggy Dew",
+      "artist": "Sinead O'Connor and \"I Get Money\" by 50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Foggy Dew/Hypnotize",
+      "artist": "Sinead O'Connor/Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "Foggy Dew/El Chapo",
+      "artist": "Sinead O'Connor/The Game & Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2xHNN3ClB7BX4D7twWwX7x",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

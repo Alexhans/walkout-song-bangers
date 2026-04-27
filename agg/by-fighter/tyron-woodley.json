@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "King Without a Crown",
-      "artist": "Thi'sl",
+      "song_title": "DNA/I Ain't Turning Back",
+      "artist": "Kendrick Lamar/Thi'sl feat. Flame",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "I Ain't Turning Back",
-      "artist": "Thi'sl feat. Flame",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/21hhV2VDGpukgfUrQK6kwC",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     },
     {
       "song_title": "I Ain't Turning Back",
@@ -31,13 +22,22 @@
       "date": "2017-03-04"
     },
     {
-      "song_title": "DNA/I Ain't Turning Back",
-      "artist": "Kendrick Lamar/Thi'sl feat. Flame",
+      "song_title": "I Ain't Turning Back",
+      "artist": "Thi'sl feat. Flame",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
+      "spotify_url": "https://open.spotify.com/track/21hhV2VDGpukgfUrQK6kwC",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "King Without a Crown",
+      "artist": "Thi'sl",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2M685zYVNwQeELKjKMAohB",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
     }
   ],
   "stats": {

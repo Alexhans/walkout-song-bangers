@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Censor",
-      "artist": "Chase and Status",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -26,9 +17,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Arlovski vs. Barnett",
-      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
-      "date": "2016-09-03"
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     },
     {
       "song_title": "Baddadan",
@@ -40,13 +31,22 @@
       "date": "2023-12-02"
     },
     {
+      "song_title": "Censor",
+      "artist": "Chase and Status",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
+      "event": "UFC Fight Night: Arlovski vs. Barnett",
+      "event_slug": "ufc-fight-night-arlovski-vs-barnett",
+      "date": "2016-09-03"
     }
   ],
   "stats": {

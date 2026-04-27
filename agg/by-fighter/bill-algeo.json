@@ -26,9 +26,9 @@
       "artist": "The Marvelettes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
-      "event": "UFC Fight Night: Kattar vs. Chikadze",
-      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
-      "date": "2022-01-15"
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     },
     {
       "song_title": "Don't Mess with Bill",
@@ -44,9 +44,9 @@
       "artist": "The Marvelettes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re",
-      "event": "UFC Fight Night: Sandhagen vs. Song",
-      "event_slug": "ufc-fight-night-sandhagen-vs-song",
-      "date": "2022-09-17"
+      "event": "UFC Fight Night: Kattar vs. Chikadze",
+      "event_slug": "ufc-fight-night-kattar-vs-chikadze",
+      "date": "2022-01-15"
     }
   ],
   "stats": {

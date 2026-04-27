@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "I’ll Whip Ya Head Boy",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7eF7tMtetxreNLpfq3J93B",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -22,13 +13,13 @@
       "date": "2026-04-18"
     },
     {
-      "song_title": "I'll Whip Ya Head Boy",
+      "song_title": "I’ll Whip Ya Head Boy",
       "artist": "50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
+      "spotify_url": "https://open.spotify.com/track/7eF7tMtetxreNLpfq3J93B",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "I’ll Whip Ya Head Boy",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Kara-France vs. Albazi",
       "event_slug": "ufc-fight-night-kara-france-vs-albazi",
       "date": "2023-06-03"
+    },
+    {
+      "song_title": "I'll Whip Ya Head Boy",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {

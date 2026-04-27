@@ -8,9 +8,9 @@
       "artist": "Bazanji",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
     },
     {
       "song_title": "Wrong One",
@@ -26,9 +26,9 @@
       "artist": "Bazanji",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1Q16e4deTgk4Q320yIfl37",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     },
     {
       "song_title": "Ace of Spades",

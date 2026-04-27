@@ -4,51 +4,6 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Devastated",
-      "artist": "Joey Bada$$",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "Lose Yourself",
-      "artist": "Eminem",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
       "song_title": "X Gon' Give It to Ya",
       "artist": "DMX",
       "confidence": "bronze",
@@ -67,6 +22,15 @@
       "date": "2023-12-02"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
       "song_title": "Win",
       "artist": "Jay Rock",
       "confidence": "bronze",
@@ -74,6 +38,42 @@
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
+    },
+    {
+      "song_title": "Lose Yourself",
+      "artist": "Eminem",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Devastated",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     }
   ],
   "stats": {

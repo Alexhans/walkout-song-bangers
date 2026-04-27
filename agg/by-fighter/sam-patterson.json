@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Messy in Heaven",
-      "artist": "venbee x goddard",
+      "song_title": "Daddy Cool",
+      "artist": "Boney M.",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1yTWL3JF91IERIHPn6yqQb",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
-      "song_title": "Rumble",
-      "artist": "Skrillex, Fred Again and Flowdan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Rumble%20Skrillex%2C%20Fred%20Again%20and%20Flowdan",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
+      "spotify_url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Baddadan",
@@ -31,13 +22,22 @@
       "date": "2024-07-27"
     },
     {
-      "song_title": "Daddy Cool",
-      "artist": "Boney M.",
+      "song_title": "Rumble",
+      "artist": "Skrillex, Fred Again and Flowdan",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "spotify_url": "https://open.spotify.com/search/Rumble%20Skrillex%2C%20Fred%20Again%20and%20Flowdan",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
+    },
+    {
+      "song_title": "Messy in Heaven",
+      "artist": "venbee x goddard",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1yTWL3JF91IERIHPn6yqQb",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {

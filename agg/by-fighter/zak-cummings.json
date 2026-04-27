@@ -13,6 +13,15 @@
       "date": "2019-09-07"
     },
     {
+      "song_title": "Kick It in the Sticks",
+      "artist": "Brantley Gilbert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
+    },
+    {
       "song_title": "Starboy",
       "artist": "The Weeknd feat. Daft Punk",
       "confidence": "bronze",
@@ -29,15 +38,6 @@
       "event": "UFC Fight Night: Rothwell vs Dos Santos",
       "event_slug": "ufc-fight-night-rothwell-vs-dos-santos",
       "date": "2016-04-10"
-    },
-    {
-      "song_title": "Kick It in the Sticks",
-      "artist": "Brantley Gilbert",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6OFW4NMvit2vYUp8q3leoN",
-      "event": "UFC on FOX: Johnson vs. Reis",
-      "event_slug": "ufc-on-fox-johnson-vs-reis",
-      "date": "2017-04-15"
     }
   ],
   "stats": {

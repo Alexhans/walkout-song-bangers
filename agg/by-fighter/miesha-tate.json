@@ -8,33 +8,6 @@
       "artist": "Katy Perry",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "Warrior",
-      "artist": "Disturbed",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Roar",
-      "artist": "Katy Perry",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "Roar",
-      "artist": "Katy Perry",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
       "event": "UFC Fight Night: Dariush vs. Tsarukyan",
       "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
       "date": "2023-12-02"
@@ -56,6 +29,33 @@
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Warrior",
+      "artist": "Disturbed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    },
+    {
+      "song_title": "Roar",
+      "artist": "Katy Perry",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

@@ -4,40 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 210: Cormier vs. Johnson 2",
-      "event_slug": "ufc-210-cormier-vs-johnson-2",
-      "date": "2017-04-08"
-    },
-    {
-      "song_title": "Another Story & Anybody",
-      "artist": "Burna Boy",
+      "song_title": "Shaq & Kobe",
+      "artist": "Rick Ross",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Another%20Story%20%26%20Anybody%20Burna%20Boy",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
-      "song_title": "YABA BULUKU",
-      "artist": "",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "Try Jesus",
-      "artist": "Tobe Nwigwe, \"Big League\" by Yo Gotti & Moneybag Yo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J",
-      "event": "UFC 278: Usman vs. Edwards",
-      "event_slug": "ufc-278-usman-vs-edwards",
-      "date": "2022-08-20"
+      "spotify_url": "https://open.spotify.com/track/6FAFmXCsjrIV4Vu7ee7WuX",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     },
     {
       "song_title": "Yaba Buluku",
@@ -49,13 +22,40 @@
       "date": "2023-03-18"
     },
     {
-      "song_title": "Shaq & Kobe",
-      "artist": "Rick Ross",
+      "song_title": "Try Jesus",
+      "artist": "Tobe Nwigwe, \"Big League\" by Yo Gotti & Moneybag Yo",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6FAFmXCsjrIV4Vu7ee7WuX",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
+      "spotify_url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J",
+      "event": "UFC 278: Usman vs. Edwards",
+      "event_slug": "ufc-278-usman-vs-edwards",
+      "date": "2022-08-20"
+    },
+    {
+      "song_title": "YABA BULUKU",
+      "artist": "",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Another Story & Anybody",
+      "artist": "Burna Boy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Another%20Story%20%26%20Anybody%20Burna%20Boy",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
     }
   ],
   "stats": {

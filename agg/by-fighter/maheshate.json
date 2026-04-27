@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Devastated",
-      "artist": "Joey Bada$$",
+      "song_title": "Icon",
+      "artist": "Jaden",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
+      "spotify_url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
@@ -22,15 +22,6 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "Icon",
-      "artist": "Jaden",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
-    },
-    {
       "song_title": "Lord Pretty Flacko Jodie 2",
       "artist": "A$AP Rocky",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Luque vs. Dos Anjos",
       "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
       "date": "2023-08-12"
+    },
+    {
+      "song_title": "Devastated",
+      "artist": "Joey Bada$$",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
     }
   ],
   "stats": {

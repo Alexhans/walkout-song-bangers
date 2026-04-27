@@ -5,12 +5,12 @@
   "walkouts": [
     {
       "song_title": "Titanium",
-      "artist": "David Guetta",
+      "artist": "David Guetta feat. Sia",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     },
     {
       "song_title": "What a Feeling",
@@ -32,12 +32,12 @@
     },
     {
       "song_title": "Titanium",
-      "artist": "David Guetta feat. Sia",
+      "artist": "David Guetta",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd",
-      "event": "UFC Fight Night: Santos vs. Walker",
-      "event_slug": "ufc-fight-night-santos-vs-walker",
-      "date": "2021-10-02"
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

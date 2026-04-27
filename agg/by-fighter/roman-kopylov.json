@@ -4,31 +4,22 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Rus",
-      "artist": "Nikolay Emelin",
+      "song_title": "The Last Hero",
+      "artist": "Kino",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
-    },
-    {
-      "song_title": "МОЯ РОДИНА СИБИРЬ (РАТИНА)",
-      "artist": "николАй ЕМЕЛИН",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/52OLFCPvFyIknSeBTQEegZ",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
+      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
     },
     {
       "song_title": "My Motherland Siberia",
-      "artist": "",
+      "artist": "Unknown",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
     },
     {
       "song_title": "My Motherland Siberia",
@@ -41,30 +32,12 @@
     },
     {
       "song_title": "My Motherland Siberia",
-      "artist": "Unknown",
+      "artist": "",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/My%20Motherland%20Siberia",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
-    },
-    {
-      "song_title": "The Last Hero",
-      "artist": "Kino",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     },
     {
       "song_title": "",
@@ -76,6 +49,15 @@
       "date": "2023-09-16"
     },
     {
+      "song_title": "МОЯ РОДИНА СИБИРЬ (РАТИНА)",
+      "artist": "николАй ЕМЕЛИН",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/52OLFCPvFyIknSeBTQEegZ",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
       "song_title": "Rus",
       "artist": "Nikolay Emelin",
       "confidence": "bronze",
@@ -83,6 +65,24 @@
       "event": "UFC Fight Night: Strickland vs. Imavov",
       "event_slug": "ufc-fight-night-strickland-vs-imavov",
       "date": "2023-01-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
+    },
+    {
+      "song_title": "Rus",
+      "artist": "Nikolay Emelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     }
   ],
   "stats": {

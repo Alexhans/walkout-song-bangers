@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
+      "song_title": "Tam Tau Adam",
+      "artist": "Oizhas Albay",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tam%20Tau%20Adam%20Oizhas%20Albay",
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
     },
     {
       "song_title": "Tam Tau Adam",
@@ -23,12 +23,12 @@
     },
     {
       "song_title": "Tam Tau Adam",
-      "artist": "Oizhas Albay",
+      "artist": "Olzhas Albay",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Tam%20Tau%20Adam%20Oizhas%20Albay",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
+      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
+      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
+      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
+      "date": "2022-06-25"
     },
     {
       "song_title": "Talent Zhumabaev",
@@ -40,13 +40,13 @@
       "date": "2022-02-05"
     },
     {
-      "song_title": "Tam Tau Adam",
-      "artist": "Olzhas Albay",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2nTwxmGlrU5eRC3xLBRX6X",
-      "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
-      "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
-      "date": "2022-06-25"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

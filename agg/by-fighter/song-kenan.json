@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "I am Wrath",
-      "artist": "Chronolyth",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3e3hPn8v9kkYZ4m6lbPcU4",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
       "song_title": "No More Hesitation",
       "artist": "Justin Lin",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Song vs. Gutierrez",
       "event_slug": "ufc-fight-night-song-vs-gutierrez",
       "date": "2023-12-09"
+    },
+    {
+      "song_title": "I am Wrath",
+      "artist": "Chronolyth",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e3hPn8v9kkYZ4m6lbPcU4",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {

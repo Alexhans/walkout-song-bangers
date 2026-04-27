@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Where Is Your Love",
-      "artist": "Scriptonite feat. Major Lazer",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5nD4qH2E2cGwf4E99aNjKz",
-      "event": "UFC Fight Night: Dern vs. Rodriguez",
-      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
-      "date": "2021-10-09"
-    },
-    {
       "song_title": "Scryptonitis",
       "artist": "Habit feat. Andy Panda, 104",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Song",
       "event_slug": "ufc-fight-night-sandhagen-vs-song",
       "date": "2022-09-17"
+    },
+    {
+      "song_title": "Where Is Your Love",
+      "artist": "Scriptonite feat. Major Lazer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5nD4qH2E2cGwf4E99aNjKz",
+      "event": "UFC Fight Night: Dern vs. Rodriguez",
+      "event_slug": "ufc-fight-night-dern-vs-rodriguez",
+      "date": "2021-10-09"
     }
   ],
   "stats": {

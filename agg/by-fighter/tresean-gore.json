@@ -4,6 +4,24 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
+    },
+    {
+      "song_title": "Trailer",
+      "artist": "Ace Hood",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
       "song_title": "This Is How We Do It",
       "artist": "Montell Jordan",
       "confidence": "bronze",
@@ -20,24 +38,6 @@
       "event": "UFC Fight Night: Hermansson vs. Strickland",
       "event_slug": "ufc-fight-night-hermansson-vs-strickland",
       "date": "2022-02-05"
-    },
-    {
-      "song_title": "Trailer",
-      "artist": "Ace Hood",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
-      "event": "UFC Fight Night: Kattar vs. Allen",
-      "event_slug": "ufc-fight-night-kattar-vs-allen",
-      "date": "2022-10-29"
-    },
-    {
-      "song_title": "Trailer",
-      "artist": "Ace Hood",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3sidONeJOK8TSXlfQjT53F",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
     }
   ],
   "stats": {

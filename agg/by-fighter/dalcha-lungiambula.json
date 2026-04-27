@@ -13,15 +13,6 @@
       "date": "2022-12-10"
     },
     {
-      "song_title": "Champion",
-      "artist": "Fireboy DML and D Smoke",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
-    },
-    {
       "song_title": "Buffalo Soldier",
       "artist": "Bob Marley",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Ortega vs. Rodriguez",
       "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
       "date": "2022-07-16"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Fireboy DML and D Smoke",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {

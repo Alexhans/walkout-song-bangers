@@ -8,36 +8,9 @@
       "artist": "Jamie Webster",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
-      "song_title": "This Place",
-      "artist": "Jamie Webster",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
-    },
-    {
-      "song_title": "This Place",
-      "artist": "Jamie Webster",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
-      "event": "UFC Fight Night: Blaydes vs. Aspinall",
-      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
-      "date": "2022-07-23"
-    },
-    {
-      "song_title": "Still D.R.E.",
-      "artist": "Dr. Dre",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
-      "event": "UFC Fight Night: Brunson vs. Till",
-      "event_slug": "ufc-fight-night-brunson-vs-till",
-      "date": "2021-09-04"
     },
     {
       "song_title": "Run This Town",
@@ -53,9 +26,36 @@
       "artist": "Jamie Webster",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
+    },
+    {
+      "song_title": "This Place",
+      "artist": "Jamie Webster",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R",
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Still D.R.E.",
+      "artist": "Dr. Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep",
+      "event": "UFC Fight Night: Brunson vs. Till",
+      "event_slug": "ufc-fight-night-brunson-vs-till",
+      "date": "2021-09-04"
     }
   ],
   "stats": {

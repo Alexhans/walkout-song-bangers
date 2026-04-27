@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Jungle",
-      "artist": "X Ambassadors feat. Jamie N Commons",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
       "song_title": "Born Ready",
       "artist": "Zayde Wolf",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Whittaker vs. Brunson",
       "event_slug": "ufc-fight-night-whittaker-vs-brunson",
       "date": "2016-11-26"
+    },
+    {
+      "song_title": "Jungle",
+      "artist": "X Ambassadors feat. Jamie N Commons",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5WmxjhGcmCKSFmRefcJUIt",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

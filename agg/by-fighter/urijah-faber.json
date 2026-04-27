@@ -5,21 +5,21 @@
   "walkouts": [
     {
       "song_title": "California Love",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
-    },
-    {
-      "song_title": "California Love",
       "artist": "2Pac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
       "event": "UFC 245: Usman vs. Covington",
       "event_slug": "ufc-245",
       "date": "2019-12-14"
+    },
+    {
+      "song_title": "California Love",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

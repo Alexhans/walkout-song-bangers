@@ -8,15 +8,6 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC Fight Night: Moreno vs. Albazi",
       "event_slug": "ufc-fight-night-moreno-vs-albazi",
       "date": "2024-11-02"
@@ -35,9 +26,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Smith vs. Spann",
-      "event_slug": "ufc-fight-night-smith-vs-spann",
-      "date": "2021-09-18"
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
     },
     {
       "song_title": "",
@@ -53,6 +44,15 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
@@ -62,9 +62,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {

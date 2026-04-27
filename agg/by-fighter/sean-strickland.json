@@ -4,22 +4,31 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 210: Cormier vs. Johnson 2",
-      "event_slug": "ufc-210-cormier-vs-johnson-2",
-      "date": "2017-04-08"
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "When Johnny Comes Marching Home",
       "artist": "Megaraptor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
     },
     {
       "song_title": "When Johnny Comes Marching Home",
@@ -35,45 +44,9 @@
       "artist": "Megaraptor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
-    },
-    {
-      "song_title": "When Johnny Comes Marching Home",
-      "artist": "Megaraptor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
-      "song_title": "Oh Death",
-      "artist": "Jen Titus",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
-    },
-    {
-      "song_title": "When Johnny Comes Marching Home",
-      "artist": "Megaraptor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
-    },
-    {
-      "song_title": "When Johnny Comes Marching Home",
-      "artist": "Megaraptor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     },
     {
       "song_title": "When Johnny Comes Marching Home",
@@ -89,9 +62,36 @@
       "artist": "Megaraptor",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-      "event": "UFC Fight Night: Strickland vs. Magomedov",
-      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
-      "date": "2023-07-01"
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    },
+    {
+      "song_title": "Oh Death",
+      "artist": "Jen Titus",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7",
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

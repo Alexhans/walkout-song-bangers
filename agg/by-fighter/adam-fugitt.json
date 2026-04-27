@@ -8,18 +8,9 @@
       "artist": "Bubba Sparxxx",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
-      "song_title": "Deliverance",
-      "artist": "Bubba Sparxxx",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
     },
     {
       "song_title": "",
@@ -35,18 +26,27 @@
       "artist": "Bubba Sparxxx",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
-      "event": "UFC 324: Gaethje vs. Pimblett",
-      "event_slug": "ufc-324",
-      "date": "2026-01-24"
+      "event": "UFC Fight Night: Perez vs. Taira",
+      "event_slug": "ufc-fight-night-perez-vs-taira",
+      "date": "2024-06-15"
     },
     {
       "song_title": "Deliverance",
       "artist": "Bubba Sparxxx",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
-      "event": "UFC Fight Night: Perez vs. Taira",
-      "event_slug": "ufc-fight-night-perez-vs-taira",
-      "date": "2024-06-15"
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
+    },
+    {
+      "song_title": "Deliverance",
+      "artist": "Bubba Sparxxx",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70RMVzexrIvYJiFEnuGymb",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     }
   ],
   "stats": {

@@ -4,22 +4,22 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Artsakh",
-      "artist": "Ara Gevorgyan",
+      "song_title": "Shook Ones Pt. 2",
+      "artist": "Mobb Deep",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
+      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
+      "event": "UFC Fight Night: Ribas vs. Namajunas",
+      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
+      "date": "2024-03-23"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
     },
     {
       "song_title": "",
@@ -35,18 +35,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     },
     {
-      "song_title": "Shook Ones Pt. 2",
-      "artist": "Mobb Deep",
+      "song_title": "Artsakh",
+      "artist": "Ara Gevorgyan",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD",
-      "event": "UFC Fight Night: Ribas vs. Namajunas",
-      "event_slug": "ufc-fight-night-ribas-vs-namajunas",
-      "date": "2024-03-23"
+      "spotify_url": "https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

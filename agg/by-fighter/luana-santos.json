@@ -17,18 +17,18 @@
       "artist": "Christina Grimmie & Mike Tompkins",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
-      "event": "UFC Fight Night: Luque vs. Dos Anjos",
-      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
-      "date": "2023-08-12"
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "Fall Out Boy & Alicia Keys",
       "artist": "Christina Grimmie & Mike Tompkins",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/search/Fall%20Out%20Boy%20%26%20Alicia%20Keys%20Christina%20Grimmie%20%26%20Mike%20Tompkins",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     }
   ],
   "stats": {

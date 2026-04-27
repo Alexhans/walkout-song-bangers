@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Jailhouse Rock",
-      "artist": "Elvis Presley",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE",
-      "event": "UFC Fight Night: Allen vs. Curtis 2",
-      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
-      "date": "2024-04-06"
-    },
-    {
       "song_title": "Feeling Good",
       "artist": "Michael Buble",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Burns vs. Brady",
       "event_slug": "ufc-fight-night-burns-vs-brady",
       "date": "2024-09-07"
+    },
+    {
+      "song_title": "Jailhouse Rock",
+      "artist": "Elvis Presley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE",
+      "event": "UFC Fight Night: Allen vs. Curtis 2",
+      "event_slug": "ufc-fight-night-allen-vs-curtis-2",
+      "date": "2024-04-06"
     }
   ],
   "stats": {

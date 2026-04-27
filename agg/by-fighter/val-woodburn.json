@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Shootaz",
-      "artist": "Vybz Kartel",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
       "song_title": "Mxrdah / Intence",
       "artist": "Govana",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 298: Volkanovski vs. Topuria",
       "event_slug": "ufc-298",
       "date": "2024-02-17"
+    },
+    {
+      "song_title": "Shootaz",
+      "artist": "Vybz Kartel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     }
   ],
   "stats": {

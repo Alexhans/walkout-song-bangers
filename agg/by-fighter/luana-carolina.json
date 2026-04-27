@@ -8,36 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "Pantera Negra",
-      "artist": "Emcida",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
-    },
-    {
-      "song_title": "Happy",
-      "artist": "Pharrell Williams",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
     },
     {
       "song_title": "123 Victory",
@@ -49,6 +22,15 @@
       "date": "2023-07-01"
     },
     {
+      "song_title": "Pantera Negra",
+      "artist": "Emcida",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yfvVyYPbADNu67nWWN7Ds",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
       "song_title": "Happy",
       "artist": "Pharrell Williams",
       "confidence": "bronze",
@@ -56,6 +38,24 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Happy",
+      "artist": "Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     }
   ],
   "stats": {

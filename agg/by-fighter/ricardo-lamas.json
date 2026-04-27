@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Cuba Isla Bella",
-      "artist": "Orishas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
+    },
+    {
+      "song_title": "Cuba Isla Bella",
+      "artist": "Orishas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/46V0ZqGKiKz03uuGJMMnL4",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     },
     {
       "song_title": "Cuba Isla Bella",

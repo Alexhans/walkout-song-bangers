@@ -4,69 +4,6 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "That's All I Need",
-      "artist": "Dirty Heads",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6yja5esGPVO3Pg0crH1IW5",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
-      "song_title": "Vacation",
-      "artist": "Dirty Heads",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "HAND ON THE PUMP",
-      "artist": "Cypress Hill Muggs 2021 Remix",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3zyEstwLZ9czW67b8CyIAt",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "Where You Come From",
-      "artist": "DJ Khaled feat Buju Banton",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
-    },
-    {
-      "song_title": "The Madness",
-      "artist": "Action Bronson",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
-    },
-    {
-      "song_title": "Smile (Living My Best Life)",
-      "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
-      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-140",
-      "date": "2018-11-17"
-    },
-    {
-      "song_title": "Subzero",
-      "artist": "Action Bronson",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5cYmCxFGza4zrc9vfs9PMV",
-      "event": "UFC Fight Night: Font vs. Vera",
-      "event_slug": "ufc-fight-night-font-vs-vera",
-      "date": "2022-04-30"
-    },
-    {
       "song_title": "Tripolar",
       "artist": "Canserbero",
       "confidence": "bronze",
@@ -85,6 +22,24 @@
       "date": "2024-08-03"
     },
     {
+      "song_title": "The Madness",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "Where You Come From",
+      "artist": "DJ Khaled feat Buju Banton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6MtawOWcSDL2YJAhGD6SC3",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
       "song_title": "Spanish Town Rockin'",
       "artist": "Chronixx",
       "confidence": "bronze",
@@ -92,6 +47,51 @@
       "event": "UFC Fight Night: Vera vs. Cruz",
       "event_slug": "ufc-fight-night-vera-vs-cruz",
       "date": "2022-08-13"
+    },
+    {
+      "song_title": "Subzero",
+      "artist": "Action Bronson",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5cYmCxFGza4zrc9vfs9PMV",
+      "event": "UFC Fight Night: Font vs. Vera",
+      "event_slug": "ufc-fight-night-font-vs-vera",
+      "date": "2022-04-30"
+    },
+    {
+      "song_title": "HAND ON THE PUMP",
+      "artist": "Cypress Hill Muggs 2021 Remix",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zyEstwLZ9czW67b8CyIAt",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "Vacation",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gV4GZAVR9hcxC29J0lDH5",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "song_title": "That's All I Need",
+      "artist": "Dirty Heads",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yja5esGPVO3Pg0crH1IW5",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
+      "song_title": "Smile (Living My Best Life)",
+      "artist": "Lil Duval ft. Snoop Dogg & Ball Greezy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-140",
+      "date": "2018-11-17"
     },
     {
       "song_title": "Break on Through (To the Other Side)",

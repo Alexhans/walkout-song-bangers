@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Time 4 Sum Aksion",
-      "artist": "Redman",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/59SioKZL0CwXKzI2UiaPAF",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
-    },
-    {
       "song_title": "How You Remind Me",
       "artist": "Nickelback",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "Time 4 Sum Aksion",
+      "artist": "Redman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/59SioKZL0CwXKzI2UiaPAF",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
     },
     {
       "song_title": "Shut 'em Down",

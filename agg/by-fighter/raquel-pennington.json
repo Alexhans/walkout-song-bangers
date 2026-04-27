@@ -4,40 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Can't Hold Us",
-      "artist": "Macklemore",
+      "song_title": "Can’t Hold Us",
+      "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Can't Hold Us",
-      "artist": "Macklemore feat. Ryan Lewis",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "The Bravest",
-      "artist": "Sir Roosevelt",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4sdxY934zYyz8mSCBv39gX",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "The Bravest",
@@ -49,13 +22,22 @@
       "date": "2024-01-20"
     },
     {
-      "song_title": "Can’t Hold Us",
-      "artist": "Macklemore & Ryan Lewis, feat. Ray Dalton",
+      "song_title": "The Bravest",
+      "artist": "Sir Roosevelt",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "spotify_url": "https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3",
+      "event": "UFC Fight Night: Strickland vs. Imavov",
+      "event_slug": "ufc-fight-night-strickland-vs-imavov",
+      "date": "2023-01-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     },
     {
       "song_title": "Ramen & OJ",
@@ -70,10 +52,28 @@
       "song_title": "The Bravest",
       "artist": "Sir Roosevelt",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7ssheUnbD7wyxWAlfaU7y3",
-      "event": "UFC Fight Night: Strickland vs. Imavov",
-      "event_slug": "ufc-fight-night-strickland-vs-imavov",
-      "date": "2023-01-14"
+      "spotify_url": "https://open.spotify.com/track/4sdxY934zYyz8mSCBv39gX",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "Can't Hold Us",
+      "artist": "Macklemore feat. Ryan Lewis",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
+      "song_title": "Can't Hold Us",
+      "artist": "Macklemore",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

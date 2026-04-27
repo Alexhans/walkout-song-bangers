@@ -4,7 +4,7 @@
 
 | # | Fighter | Song | Artist | Confidence | Listen |
 |---|---------|------|--------|------------|--------|
-| 1 | [Mike Malott](agg/by-fighter/mike-malott.md) | Fat Lip | Sum 41 | bronze | [Spotify](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) |
+| 1 | [Mike Malott](agg/by-fighter/mike-malott.md) | Fat Lip | Sum 41 | silver | [Spotify](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) |
 | 2 | [Gilbert Burns](agg/by-fighter/gilbert-burns.md) | Medley | Buchecha | bronze | [Spotify](https://open.spotify.com/track/3BcT0zCtPZA0Qchm4KRwXi) |
 | 3 | [Charles Jourdain](agg/by-fighter/charles-jourdain.md) | Le Chant Des Commandos | NTM | bronze | [Spotify](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) |
 | 4 | [Kyler Phillips](agg/by-fighter/kyler-phillips.md) | Wav Files | Lupe Fiasco | bronze | [Spotify](https://open.spotify.com/track/0BWve9OJvo7ONwfR36Ty6Z) |
@@ -32,5 +32,5 @@
 **Coverage:** 7/24 fighters (29%) | 7 direct Spotify links
 
 ---
-*Sources: [1](http://www.ufcstats.com/event-details/c3ac8d0da7b05772), [2](https://www.essentiallysports.com/ufc-mma-news-ufc-winnipeg-walkout-songs-which-music-have-gilbert-burns-mike-malott-and-others-used/), [3](https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html)*
-*Generated: 2026-04-23T00:23:06Z*
+*Sources: [1](http://www.ufcstats.com/event-details/c3ac8d0da7b05772), [2](https://www.essentiallysports.com/ufc-mma-news-ufc-winnipeg-walkout-songs-which-music-have-gilbert-burns-mike-malott-and-others-used/), [3](https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html), [4](https://cagesidepress.com/2026/04/19/ufc-winnipeg-sees-canadians-malott-jourdain-earn-bonuses/)*
+*Generated: 2026-04-28T00:00:00Z*

@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Sweet Caroline",
-      "artist": "Neil Diamond",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
       "song_title": "Tourner Dans Le Vide",
       "artist": "Indila",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Brunson vs. Till",
       "event_slug": "ufc-fight-night-brunson-vs-till",
       "date": "2021-09-04"
+    },
+    {
+      "song_title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
     },
     {
       "song_title": "In The Air Tonight",

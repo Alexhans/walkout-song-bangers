@@ -4,58 +4,13 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 270: Ngannou vs. Gane",
-      "event_slug": "ufc-270",
-      "date": "2022-01-22"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
-      "song_title": "El Corrido del Bebe Asesino",
-      "artist": "Ariel Macias",
+      "song_title": "Corrido del Bebé Asesino",
+      "artist": "Corridos Para Peleadores",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
     },
     {
       "song_title": "Corrido del Bebé Asesino",
@@ -76,15 +31,6 @@
       "date": "2024-11-02"
     },
     {
-      "song_title": "Corrido del Bebé Asesino",
-      "artist": "Corridos Para Peleadores",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6IvDaiRFbGSb9OQSACn5xp",
-      "event": "UFC Fight Night: Moreno vs. Kavanagh",
-      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28"
-    },
-    {
       "song_title": "El Corrido Del Bebe Asesino",
       "artist": "Ariel Macias",
       "confidence": "bronze",
@@ -92,6 +38,60 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "El Corrido del Bebe Asesino",
+      "artist": "Ariel Macias",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 270: Ngannou vs. Gane",
+      "event_slug": "ufc-270",
+      "date": "2022-01-22"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     }
   ],
   "stats": {

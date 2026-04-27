@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "El Mariachi Loco",
-      "artist": "Pedro Fernandez",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
-    },
-    {
-      "song_title": "El Mariachi Loco",
-      "artist": "Pedro Fernandez",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
-    },
-    {
       "song_title": "México Lindo y Querido",
       "artist": "Vicente Fernández",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
       "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
       "date": "2023-09-16"
+    },
+    {
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "El Mariachi Loco",
+      "artist": "Pedro Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5p8MEea3AUX4d7azlnYHol",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
     }
   ],
   "stats": {

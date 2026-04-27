@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Nothin' but a Good Time",
-      "artist": "Poison",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
       "song_title": "Return of the Mack",
       "artist": "Mark Morrison",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Thompson vs. Holland",
       "event_slug": "ufc-fight-night-thompson-vs-holland",
       "date": "2022-12-03"
+    },
+    {
+      "song_title": "Nothin' but a Good Time",
+      "artist": "Poison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6G09JrmKdDAe29eSH8ZQmR",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
     }
   ],
   "stats": {

@@ -8,18 +8,18 @@
       "artist": "Carl Douglas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
     },
     {
       "song_title": "Kung Fu Fighting",
       "artist": "Carl Douglas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

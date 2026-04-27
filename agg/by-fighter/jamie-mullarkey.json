@@ -4,22 +4,31 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "song_title": "Hooligan",
+      "artist": "Big B",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
+    },
+    {
+      "song_title": "My Brother's Keeper",
+      "artist": "Kid Mac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6qMIPg5G5vEwPIcydKJaCq",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
     },
     {
       "song_title": "My Brother’s Keeper",
@@ -34,19 +43,19 @@
       "song_title": "Hooligan",
       "artist": "Big B",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
+      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     },
     {
-      "song_title": "Hooligan",
-      "artist": "Big B",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Hooligan%20Big%20B",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
     },
     {
       "song_title": "Hooligan",
@@ -62,27 +71,18 @@
       "artist": "Big B",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
-      "event": "UFC Fight Night: Kara-France vs. Albazi",
-      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
-      "date": "2023-06-03"
-    },
-    {
-      "song_title": "Hooligan",
-      "artist": "Big B",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI",
       "event": "UFC Fight Night: Santos vs. Walker",
       "event_slug": "ufc-fight-night-santos-vs-walker",
       "date": "2021-10-02"
     },
     {
-      "song_title": "My Brother's Keeper",
-      "artist": "Kid Mac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6qMIPg5G5vEwPIcydKJaCq",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

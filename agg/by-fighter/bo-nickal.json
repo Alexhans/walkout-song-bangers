@@ -8,18 +8,18 @@
       "artist": "Jon Bellion",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
     },
     {
       "song_title": "Hand of God",
-      "artist": "Bellion",
+      "artist": "Jon Bellion",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "event": "UFC 309: Jones vs. Miocic",
+      "event_slug": "ufc-309",
+      "date": "2024-11-16"
     },
     {
       "song_title": "Hand of God (Outro)",
@@ -32,21 +32,21 @@
     },
     {
       "song_title": "Hand of God",
-      "artist": "Jon Bellion",
+      "artist": "Bellion",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
-      "event": "UFC 309: Jones vs. Miocic",
-      "event_slug": "ufc-309",
-      "date": "2024-11-16"
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Hand of God",
       "artist": "Jon Bellion",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {

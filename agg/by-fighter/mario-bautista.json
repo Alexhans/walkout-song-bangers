@@ -4,31 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Kickstart My Heart",
-      "artist": "Motley Crue",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
       "song_title": "Immigrant Song",
       "artist": "Led Zeppelin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
     },
     {
       "song_title": "Robot Rock",
@@ -53,9 +35,18 @@
       "artist": "Led Zeppelin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
     },
     {
       "song_title": "Immigrant Song",
@@ -76,13 +67,22 @@
       "date": "2022-02-19"
     },
     {
-      "song_title": "Immigrant Song",
-      "artist": "Led Zeppelin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "Kickstart My Heart",
+      "artist": "Motley Crue",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "spotify_url": "https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {

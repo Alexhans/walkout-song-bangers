@@ -4,6 +4,24 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "Quema",
+      "artist": "Ryan Castro, Peso Pluma",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -22,15 +40,6 @@
       "date": "2022-10-29"
     },
     {
-      "song_title": "Quema",
-      "artist": "Ryan Castro, Peso Pluma",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
-    },
-    {
       "song_title": "Pa Romperla",
       "artist": "Bad Bunny",
       "confidence": "bronze",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
-    },
-    {
-      "song_title": "The Show Goes On",
-      "artist": "Lupe Fiasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
     }
   ],
   "stats": {

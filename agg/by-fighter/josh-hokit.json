@@ -8,18 +8,18 @@
       "artist": "Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 324: Gaethje vs. Pimblett",
-      "event_slug": "ufc-324",
-      "date": "2026-01-24"
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Jesus Walks",
       "artist": "Kanye West",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
     }
   ],
   "stats": {

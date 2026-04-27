@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "O Hino",
-      "artist": "Fernandinho",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC 250: Nunes vs. Spencer",
       "event_slug": "ufc-250",
       "date": "2020-06-06"
+    },
+    {
+      "song_title": "O Hino",
+      "artist": "Fernandinho",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
     }
   ],
   "stats": {

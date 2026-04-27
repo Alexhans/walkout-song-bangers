@@ -4,24 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
       "song_title": "Miss Me",
       "artist": "Drake, Lil Wayne",
       "confidence": "bronze",
@@ -31,13 +13,13 @@
       "date": "2024-04-13"
     },
     {
-      "song_title": "100 Shots",
-      "artist": "Young Dolph",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "Where I’m From",
@@ -56,6 +38,24 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "100 Shots",
+      "artist": "Young Dolph",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     }
   ],
   "stats": {

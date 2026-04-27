@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "I Am The Immortal",
+      "song_title": "I Am the Immortal",
       "artist": "Jasta",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
-      "song_title": "I am the Immortal",
-      "artist": "Jasta",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
-      "event": "UFC 201: Lawler vs. Woodley",
-      "event_slug": "ufc-201-lawler-vs-woodley",
-      "date": "2016-07-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
+      "spotify_url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     },
     {
       "song_title": "I Am the Immortal",
@@ -40,13 +22,31 @@
       "date": "2019-12-14"
     },
     {
-      "song_title": "I Am the Immortal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
+    },
+    {
+      "song_title": "I am the Immortal",
       "artist": "Jasta",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh",
-      "event": "UFC Fight Night: Blaydes vs. Daukaus",
-      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
-      "date": "2022-03-26"
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "event_slug": "ufc-201-lawler-vs-woodley",
+      "date": "2016-07-30"
+    },
+    {
+      "song_title": "I Am The Immortal",
+      "artist": "Jasta",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5h4yYG059javsHot6R8aqs",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

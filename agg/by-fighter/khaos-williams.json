@@ -4,13 +4,22 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
+    },
+    {
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "",
@@ -26,27 +35,18 @@
       "artist": "Meek Mill",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
-    },
-    {
-      "song_title": "Dreams and Nightmares",
-      "artist": "Meek Mill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
-      "event": "UFC Fight Night: Barboza vs. Murphy",
-      "event_slug": "ufc-fight-night-barboza-vs-murphy",
-      "date": "2024-05-18"
-    },
-    {
-      "song_title": "Dreams and Nightmares",
-      "artist": "Meek Mill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
       "event": "UFC Fight Night: Holloway vs. Rodriguez",
       "event_slug": "ufc-fight-night-holloway-vs-rodriguez",
       "date": "2021-11-13"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     }
   ],
   "stats": {

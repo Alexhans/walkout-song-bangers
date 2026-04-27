@@ -13,15 +13,6 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Last Kings",
-      "artist": "Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
-      "event": "UFC Fight Night: Blachowicz vs. Rakic",
-      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
-      "date": "2022-05-14"
-    },
-    {
       "song_title": "Gente Del Oriente",
       "artist": "Greeg Mora feat. Joaquin Medina",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "Last Kings",
+      "artist": "Snoop Dogg, Eminem and Dr. Dre feat. Ice Cube and Xzibit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
+      "event": "UFC Fight Night: Blachowicz vs. Rakic",
+      "event_slug": "ufc-fight-night-blachowicz-vs-rakic",
+      "date": "2022-05-14"
     }
   ],
   "stats": {

@@ -4,31 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Derrubando Muralhas",
-      "artist": "Pregador Luo",
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     },
     {
       "song_title": "",
@@ -43,10 +25,19 @@
       "song_title": "Remember the Name",
       "artist": "Fort Minor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
+      "event": "UFC Fight Night: Kattar vs. Allen",
+      "event_slug": "ufc-fight-night-kattar-vs-allen",
+      "date": "2022-10-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     },
     {
       "song_title": "Ton Carfi",
@@ -58,13 +49,22 @@
       "date": "2021-11-13"
     },
     {
-      "song_title": "Remember the Name",
-      "artist": "Fort Minor",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "song_title": "Derrubando Muralhas",
+      "artist": "Pregador Luo",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4nJUuE7GO6v9i6KTu67wFO",
-      "event": "UFC Fight Night: Kattar vs. Allen",
-      "event_slug": "ufc-fight-night-kattar-vs-allen",
-      "date": "2022-10-29"
+      "spotify_url": "https://open.spotify.com/track/0BqnaZKiSlEWlBBzUcEOjg",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

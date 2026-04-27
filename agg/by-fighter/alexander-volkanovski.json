@@ -4,67 +4,22 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
+      "song_title": "Down Under",
+      "artist": "Men At Work",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
       "song_title": "Down Under",
       "artist": "Men at Work",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     },
     {
       "song_title": "Down Under",
@@ -80,18 +35,63 @@
       "artist": "Men at Work",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
-      "song_title": "Down Under",
-      "artist": "Men At Work",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     },
     {
       "song_title": "",

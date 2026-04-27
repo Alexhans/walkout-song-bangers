@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Loud",
-      "artist": "Mac Miller",
+      "song_title": "Samoana",
+      "artist": "Lole Usoalii",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1RcCApDP3AP7bAm81iYsJ3",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
+      "spotify_url": "https://open.spotify.com/track/4kSLZvIlEfCEo8SPu8nvzI",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     },
     {
       "song_title": "Wont Back Down",
@@ -22,13 +22,13 @@
       "date": "2020-06-06"
     },
     {
-      "song_title": "Samoana",
-      "artist": "Lole Usoalii",
+      "song_title": "Loud",
+      "artist": "Mac Miller",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4kSLZvIlEfCEo8SPu8nvzI",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "spotify_url": "https://open.spotify.com/track/1RcCApDP3AP7bAm81iYsJ3",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

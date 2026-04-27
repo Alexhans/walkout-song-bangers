@@ -4,6 +4,15 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "Yarkhushta",
+      "artist": "Armenian traditional song",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4hLq79UPjlUynagCB6842E",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night: Dos Anjos vs. Fiziev",
       "event_slug": "ufc-fight-night-dos-anjos-vs-fiziev",
       "date": "2022-07-09"
-    },
-    {
-      "song_title": "Yarkhushta",
-      "artist": "Armenian traditional song",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4hLq79UPjlUynagCB6842E",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
     },
     {
       "song_title": "Artsakh",

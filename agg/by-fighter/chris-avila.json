@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Troublesome '96",
-      "artist": "2Pac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
       "song_title": "California Love",
       "artist": "2Pac",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
       "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
       "date": "2016-11-05"
+    },
+    {
+      "song_title": "Troublesome '96",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

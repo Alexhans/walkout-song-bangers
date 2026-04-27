@@ -4,40 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Feelin' Myself",
-      "artist": "Mac Dre",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "I'm Feeling Myself",
-      "artist": "Mac Dre",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "Feeling Myself",
-      "artist": "Mac Dre",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "Open the Gate",
+      "song_title": "Open The Gate",
       "artist": "Zach Bryan",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
     },
     {
       "song_title": "",
@@ -49,13 +22,31 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "Open The Gate",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Hermansson vs. Pyfer",
+      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
+      "date": "2024-02-10"
+    },
+    {
+      "song_title": "Open the Gate",
       "artist": "Zach Bryan",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    },
+    {
+      "song_title": "Holiday",
+      "artist": "Turnstile",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     },
     {
       "song_title": "Feeling Myself",
@@ -67,22 +58,31 @@
       "date": "2022-04-30"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Hermansson vs. Pyfer",
-      "event_slug": "ufc-fight-night-hermansson-vs-pyfer",
-      "date": "2024-02-10"
+      "song_title": "Feeling Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Gnsof1hvZzjE1xdLRpjtf",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     },
     {
-      "song_title": "Holiday",
-      "artist": "Turnstile",
+      "song_title": "I'm Feeling Myself",
+      "artist": "Mac Dre",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7",
-      "event": "UFC Fight Night: Sandhagen vs. Song",
-      "event_slug": "ufc-fight-night-sandhagen-vs-song",
-      "date": "2022-09-17"
+      "spotify_url": "https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Feelin' Myself",
+      "artist": "Mac Dre",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

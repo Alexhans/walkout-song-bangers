@@ -8,27 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
-    },
-    {
-      "song_title": "Fireman",
-      "artist": "Lil’ Wayne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
     },
     {
       "song_title": "Nipsey Freestyle",
@@ -40,6 +22,15 @@
       "date": "2024-04-06"
     },
     {
+      "song_title": "Fireman",
+      "artist": "Lil’ Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
       "song_title": "Go for Broke",
       "artist": "Machine Gun Kelly",
       "confidence": "bronze",
@@ -49,13 +40,22 @@
       "date": "2023-06-24"
     },
     {
-      "song_title": "Something Special",
-      "artist": "Pop Smoke",
+      "song_title": "OMG",
+      "artist": "Ace Hood",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4auQ4t0A75PANr9b51u7U2",
-      "event": "UFC Fight Night: Font vs. Aldo",
-      "event_slug": "ufc-fight-night-font-vs-aldo",
-      "date": "2021-12-04"
+      "spotify_url": "https://open.spotify.com/track/1LbSYc9LielAYE9uBwjp7f",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
     },
     {
       "song_title": "Flexin",
@@ -67,13 +67,13 @@
       "date": "2022-02-05"
     },
     {
-      "song_title": "OMG",
-      "artist": "Ace Hood",
+      "song_title": "Something Special",
+      "artist": "Pop Smoke",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1LbSYc9LielAYE9uBwjp7f",
-      "event": "UFC Fight Night: Muniz vs. Allen",
-      "event_slug": "ufc-fight-night-muniz-vs-allen",
-      "date": "2023-02-25"
+      "spotify_url": "https://open.spotify.com/track/4auQ4t0A75PANr9b51u7U2",
+      "event": "UFC Fight Night: Font vs. Aldo",
+      "event_slug": "ufc-fight-night-font-vs-aldo",
+      "date": "2021-12-04"
     },
     {
       "song_title": "Ball if I Want To",

@@ -8,6 +8,15 @@
       "artist": "Danitsa",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "event": "UFC Fight Night: Song vs. Gutierrez",
+      "event_slug": "ufc-fight-night-song-vs-gutierrez",
+      "date": "2023-12-09"
+    },
+    {
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
       "event": "UFC Fight Night: Gane vs. Tuivasa",
       "event_slug": "ufc-fight-night-gane-vs-tuivasa",
       "date": "2022-09-03"
@@ -26,27 +35,18 @@
       "artist": "Danitsa",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
-      "event": "UFC Fight Night: Santos vs. Walker",
-      "event_slug": "ufc-fight-night-santos-vs-walker",
-      "date": "2021-10-02"
-    },
-    {
-      "song_title": "Captain",
-      "artist": "Danitsa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
-      "event": "UFC Fight Night: Song vs. Gutierrez",
-      "event_slug": "ufc-fight-night-song-vs-gutierrez",
-      "date": "2023-12-09"
-    },
-    {
-      "song_title": "Captain",
-      "artist": "Danitsa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "Captain",
+      "artist": "Danitsa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/77m6A2GbLorgaLnSxGa32S",
+      "event": "UFC Fight Night: Santos vs. Walker",
+      "event_slug": "ufc-fight-night-santos-vs-walker",
+      "date": "2021-10-02"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Rest in Peace",
-      "artist": "The Undertaker WWE walkout music",
+      "song_title": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5V4JJSa7femKY5jCTeUrFo",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
+      "spotify_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Venomous Undertaking",
@@ -22,13 +22,13 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "Victory Lap Five",
-      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "song_title": "Rest in Peace",
+      "artist": "The Undertaker WWE walkout music",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "spotify_url": "https://open.spotify.com/track/5V4JJSa7femKY5jCTeUrFo",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     }
   ],
   "stats": {

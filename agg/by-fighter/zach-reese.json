@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Folsom Prison Blues",
-      "artist": "Johnny Cash",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0LTSNmOLBt25GMjHlxp9OR",
-      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
-      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
-      "date": "2023-12-02"
-    },
-    {
       "song_title": "NO EVIL",
       "artist": "SiR",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "Folsom Prison Blues",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0LTSNmOLBt25GMjHlxp9OR",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     }
   ],
   "stats": {

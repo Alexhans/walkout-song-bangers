@@ -4,49 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Cry To Me",
-      "artist": "Bob Marley",
+      "song_title": "All Eyez On Me",
+      "artist": "2Pac feat. Big Syke",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
-      "song_title": "Bad Man",
-      "artist": "Steel Pulse",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3rJP8Esnv6ZLr13nMYZ35V",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "Isaac",
-      "artist": "Edson Gomes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
-      "song_title": "Isaac",
-      "artist": "Edson Gomes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "All Eyez On Me",
@@ -62,18 +26,45 @@
       "artist": "Edson Gomes",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
       "event": "UFC Fight Night: Dolidze vs. Imavov",
       "event_slug": "ufc-fight-night-dolidze-vs-imavov",
       "date": "2024-02-03"
     },
     {
-      "song_title": "All Eyez On Me",
-      "artist": "2Pac feat. Big Syke",
+      "song_title": "Isaac",
+      "artist": "Edson Gomes",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "spotify_url": "https://open.spotify.com/track/0ujVejD3O6umfWioYcqPl4",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "Bad Man",
+      "artist": "Steel Pulse",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3rJP8Esnv6ZLr13nMYZ35V",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     },
     {
       "song_title": "",
@@ -83,6 +74,15 @@
       "event": "UFC on FOX: Johnson vs. Reis",
       "event_slug": "ufc-on-fox-johnson-vs-reis",
       "date": "2017-04-15"
+    },
+    {
+      "song_title": "Cry To Me",
+      "artist": "Bob Marley",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5Gf86c0pYvlSMMcNjvsQt1",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

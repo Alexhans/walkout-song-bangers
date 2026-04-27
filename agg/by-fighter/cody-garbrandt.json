@@ -4,58 +4,22 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
-    },
-    {
-      "song_title": "We Will Rock You",
-      "artist": "Queen",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "event_slug": "ufc-326",
+      "date": "2026-03-07"
     },
     {
       "song_title": "Thunderstruck",
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
     },
     {
       "song_title": "Thunderstruck",
@@ -71,18 +35,54 @@
       "artist": "AC/DC",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 326: Holloway vs. Oliveira 2",
-      "event_slug": "ufc-326",
-      "date": "2026-03-07"
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "We Will Rock You",
+      "artist": "Queen",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     },
     {
       "song_title": "We Will Rock You",

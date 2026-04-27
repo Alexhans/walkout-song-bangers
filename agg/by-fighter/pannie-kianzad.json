@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Be My Lover",
-      "artist": "La Bouche",
+      "song_title": "Bakhtiari",
+      "artist": "Behrooz Sektor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
+      "spotify_url": "https://open.spotify.com/track/2LW9patAcIHbTlVUWrOuuU",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
     },
     {
       "song_title": "Saturday Night – Whigfield",
@@ -40,13 +31,22 @@
       "date": "2021-09-18"
     },
     {
-      "song_title": "Bakhtiari",
-      "artist": "Behrooz Sektor",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "Be My Lover",
+      "artist": "La Bouche",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2LW9patAcIHbTlVUWrOuuU",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "spotify_url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Dominator (Ezer Remix)",
-      "artist": "Armin van Buuren vs Human Resource",
+      "song_title": "Forgot About Dre",
+      "artist": "Dr. Dre feat. Eminem",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
+      "spotify_url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa",
+      "event": "UFC Fight Night: Vera vs. Cruz",
+      "event_slug": "ufc-fight-night-vera-vs-cruz",
+      "date": "2022-08-13"
     },
     {
       "song_title": "Still Tippin'",
@@ -40,13 +22,31 @@
       "date": "2021-12-11"
     },
     {
-      "song_title": "Forgot About Dre",
-      "artist": "Dr. Dre feat. Eminem",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "Dominator (Ezer Remix)",
+      "artist": "Armin van Buuren vs Human Resource",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa",
-      "event": "UFC Fight Night: Vera vs. Cruz",
-      "event_slug": "ufc-fight-night-vera-vs-cruz",
-      "date": "2022-08-13"
+      "spotify_url": "https://open.spotify.com/track/3NBzLCAP9CagVDIuZz33Gu",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     }
   ],
   "stats": {

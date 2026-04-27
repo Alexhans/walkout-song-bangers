@@ -8,18 +8,18 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     }
   ],
   "stats": {

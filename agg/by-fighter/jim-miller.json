@@ -4,69 +4,6 @@
   "appearances": 14,
   "walkouts": [
     {
-      "song_title": "Sweet Emotion",
-      "artist": "Aerosmith",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "Remember the Name",
-      "artist": "Fort Minor",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Bad Moon Rising",
-      "artist": "Creedence Clearwater Revival",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "Bad Moon Rising",
-      "artist": "Creedence Clearwater Revival",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
-    },
-    {
-      "song_title": "Immigrant Song",
-      "artist": "Led Zeppelin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
-    },
-    {
-      "song_title": "Iron Man",
-      "artist": "Black Sabbath",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "Bad Moon Rising",
-      "artist": "Creedence Clearwater Revival",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
-    },
-    {
       "song_title": "Bad Moon Rising",
       "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
@@ -76,13 +13,13 @@
       "date": "2024-11-16"
     },
     {
-      "song_title": "Iron Man",
-      "artist": "Black Sabbath",
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
     },
     {
       "song_title": "Bad Moon Rising",
@@ -107,9 +44,18 @@
       "artist": "Black Sabbath",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
+    },
+    {
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "Iron Man",
@@ -121,6 +67,42 @@
       "date": "2022-02-19"
     },
     {
+      "song_title": "Iron Man",
+      "artist": "Black Sabbath",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
+    },
+    {
+      "song_title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
+    },
+    {
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Bad Moon Rising",
+      "artist": "Creedence Clearwater Revival",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
       "song_title": "Bad Moon Rising",
       "artist": "Credence Clearwater Revival",
       "confidence": "bronze",
@@ -128,6 +110,24 @@
       "event": "UFC on FOX: Maia vs. Condit",
       "event_slug": "ufc-on-fox-maia-vs-condit",
       "date": "2016-08-27"
+    },
+    {
+      "song_title": "Remember the Name",
+      "artist": "Fort Minor",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
+    },
+    {
+      "song_title": "Sweet Emotion",
+      "artist": "Aerosmith",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

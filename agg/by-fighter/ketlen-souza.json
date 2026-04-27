@@ -13,15 +13,6 @@
       "date": "2026-02-07"
     },
     {
-      "song_title": "Muleque de Vila (Ao Vivo)",
-      "artist": "Projota",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4kGoQLmgPxVcDzhdeqvlOp",
-      "event": "UFC Fight Night: Kara-France vs. Albazi",
-      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
-      "date": "2023-06-03"
-    },
-    {
       "song_title": "Louco E Sonhador",
       "artist": "Mc Neguinho Do Kaxeta",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Nicolau vs. Perez",
       "event_slug": "ufc-fight-night-nicolau-vs-perez",
       "date": "2024-04-27"
+    },
+    {
+      "song_title": "Muleque de Vila (Ao Vivo)",
+      "artist": "Projota",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4kGoQLmgPxVcDzhdeqvlOp",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     }
   ],
   "stats": {

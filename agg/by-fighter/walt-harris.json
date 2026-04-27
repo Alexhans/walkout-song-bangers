@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Intentional",
-      "artist": "Travis Greene",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "New Level",
-      "artist": "A$AP Ferg feat. Future",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
-      "event": "UFC 216: Ferguson vs. Lee",
-      "event_slug": "ufc-216",
-      "date": "2017-10-07"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     },
     {
       "song_title": "Smells Like Teen Spirit",
@@ -31,13 +22,13 @@
       "date": "2017-11-04"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
+      "song_title": "New Level",
+      "artist": "A$AP Ferg feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h",
+      "event": "UFC 216: Ferguson vs. Lee",
+      "event_slug": "ufc-216",
+      "date": "2017-10-07"
     },
     {
       "song_title": "Blessings/Focused",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Holm vs. Correia",
       "event_slug": "ufc-fight-night-holm-vs-correia",
       "date": "2017-06-17"
+    },
+    {
+      "song_title": "Intentional",
+      "artist": "Travis Greene",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

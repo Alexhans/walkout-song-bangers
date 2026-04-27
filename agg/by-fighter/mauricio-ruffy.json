@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Thunderstruck",
-      "artist": "AC/DC",
+      "song_title": "Maurício Ruffy",
+      "artist": "Maurício Ruffy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
-      "event": "UFC 301: Pantoja vs. Erceg",
-      "event_slug": "ufc-301",
-      "date": "2024-05-04"
+      "spotify_url": "https://open.spotify.com/track/2IpmBlAxjq47YnDec2tT9D",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
       "song_title": "One Shot",
@@ -22,13 +22,13 @@
       "date": "2024-11-16"
     },
     {
-      "song_title": "Maurício Ruffy",
-      "artist": "Maurício Ruffy",
+      "song_title": "Thunderstruck",
+      "artist": "AC/DC",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2IpmBlAxjq47YnDec2tT9D",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
+      "spotify_url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "event_slug": "ufc-301",
+      "date": "2024-05-04"
     }
   ],
   "stats": {

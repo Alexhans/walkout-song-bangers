@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Nocaute",
-      "artist": "MC Lucas DM and MC Robs",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
       "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
       "date": "2024-08-03"
+    },
+    {
+      "song_title": "Nocaute",
+      "artist": "MC Lucas DM and MC Robs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     }
   ],
   "stats": {

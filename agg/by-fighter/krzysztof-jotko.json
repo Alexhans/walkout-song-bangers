@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Streets of Siam",
-      "artist": "Stan Bush",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
-      "event": "UFC 211: Miocic vs. Dos Santos",
-      "event_slug": "ufc-211-miocic-vs-dos-santos",
-      "date": "2017-05-13"
-    },
-    {
-      "song_title": "Streets of Siam",
-      "artist": "Stan Bush",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
-      "event": "UFC 211: Miocic vs. Dos Santos 2",
-      "event_slug": "ufc-211",
-      "date": "2017-05-13"
-    },
-    {
       "song_title": "Mama Said Knock You Out",
       "artist": "LL Cool J",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Santos vs. Walker",
       "event_slug": "ufc-fight-night-santos-vs-walker",
       "date": "2021-10-02"
+    },
+    {
+      "song_title": "Streets of Siam",
+      "artist": "Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "event": "UFC 211: Miocic vs. Dos Santos",
+      "event_slug": "ufc-211-miocic-vs-dos-santos",
+      "date": "2017-05-13"
+    },
+    {
+      "song_title": "Streets of Siam",
+      "artist": "Stan Bush",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "event_slug": "ufc-211",
+      "date": "2017-05-13"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "La Copa",
-      "artist": "Don Omar",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2022-12-10"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "song_title": "La Copa",
+      "artist": "Don Omar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UE4VYIuYdq7up2z6Tu0u7",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     },
     {
       "song_title": "Bien Alto",
@@ -44,18 +44,18 @@
       "artist": "La Renga",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
-      "event": "UFC Fight Night: Lewis vs. Browne",
-      "event_slug": "ufc-fight-night-lewis-vs-browne",
-      "date": "2017-02-19"
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     },
     {
       "song_title": "Hablando de la Libertad",
       "artist": "La Renga",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/26pdjKYUZlwwrAnWcljX7H",
-      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
-      "date": "2017-07-16"
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     }
   ],
   "stats": {

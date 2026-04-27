@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Alright",
-      "artist": "Supergrass",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0",
-      "event": "UFC Fight Night: Santos vs. Hill",
-      "event_slug": "ufc-fight-night-santos-vs-hill",
-      "date": "2022-08-06"
-    },
-    {
       "song_title": "Dancing With Myself",
       "artist": "Billy Idol",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "Alright",
+      "artist": "Supergrass",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     },
     {
       "song_title": "Chelsea Dagger",

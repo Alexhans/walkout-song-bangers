@@ -4,40 +4,40 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Ruff Ryders' Anthem",
-      "artist": "DMX",
+      "song_title": "Dammi Falastini",
+      "artist": "Mohammad Assaf, Exgeist",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
+      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "event_slug": "ufc-304",
+      "date": "2024-07-27"
     },
     {
-      "song_title": "We Ready",
-      "artist": "Archie Ebersole",
+      "song_title": "My Blood is Palestine",
+      "artist": "Dami Falasteeni",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
+      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "song_title": "Man Listen",
+      "artist": "Belly",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws",
+      "event": "UFC Fight Night: Luque vs. Muhammad",
+      "event_slug": "ufc-fight-night-luque-vs-muhammad",
+      "date": "2022-04-16"
     },
     {
       "song_title": "",
@@ -53,45 +53,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
-      "song_title": "My Blood is Palestine",
-      "artist": "Dami Falasteeni",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     },
     {
-      "song_title": "Dammi Falastini",
-      "artist": "Mohammad Assaf, Exgeist",
+      "song_title": "We Ready",
+      "artist": "Archie Ebersole",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7u97LC2aUwYWU84WmYNosF",
-      "event": "UFC 304: Edwards vs. Muhammad 2",
-      "event_slug": "ufc-304",
-      "date": "2024-07-27"
+      "spotify_url": "https://open.spotify.com/track/1djfwy9FvafpK4KhznjjeI",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
     },
     {
       "song_title": "Ruff Ryders' Anthem",
       "artist": "DMX",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
-    },
-    {
-      "song_title": "Man Listen",
-      "artist": "Belly",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5GoGjEsPvr0McJQiGGCnws",
-      "event": "UFC Fight Night: Luque vs. Muhammad",
-      "event_slug": "ufc-fight-night-luque-vs-muhammad",
-      "date": "2022-04-16"
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     },
     {
       "song_title": "Ruff Ryders' Anthem",
@@ -101,6 +92,15 @@
       "event": "UFC Fight Night: Poirier vs. Johnson",
       "event_slug": "ufc-fight-night-poirier-vs-johnson",
       "date": "2016-09-17"
+    },
+    {
+      "song_title": "Ruff Ryders' Anthem",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

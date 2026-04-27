@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "I\"m Kyrgyz",
+      "artist": "Daniyar Ermatov",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
+      "event": "UFC Fight Night: Emmett vs. Vallejos",
+      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
+      "date": "2026-03-14"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
-    },
-    {
-      "song_title": "I\"m Kyrgyz",
-      "artist": "Daniyar Ermatov",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG",
-      "event": "UFC Fight Night: Emmett vs. Vallejos",
-      "event_slug": "ufc-fight-night-emmett-vs-vallejos",
-      "date": "2026-03-14"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Medicated",
-      "artist": "Wiz Khalifa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5OI48E8HqkN8fnTOu3Hfuf",
-      "event": "UFC Fight Night: Blaydes vs. Aspinall",
-      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
-      "date": "2022-07-23"
-    },
-    {
       "song_title": "Woman",
       "artist": "Raheem DeVaughn",
       "confidence": "bronze",
@@ -22,13 +13,13 @@
       "date": "2023-09-23"
     },
     {
-      "song_title": "Hall of Fame",
-      "artist": "The Script feat. will.i.am",
+      "song_title": "Medicated",
+      "artist": "Wiz Khalifa",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX",
-      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
-      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
-      "date": "2021-07-24"
+      "spotify_url": "https://open.spotify.com/track/5OI48E8HqkN8fnTOu3Hfuf",
+      "event": "UFC Fight Night: Blaydes vs. Aspinall",
+      "event_slug": "ufc-fight-night-blaydes-vs-aspinall",
+      "date": "2022-07-23"
     },
     {
       "song_title": "X Gon' Give It To Ya",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Smith vs. Spann",
       "event_slug": "ufc-fight-night-smith-vs-spann",
       "date": "2021-09-18"
+    },
+    {
+      "song_title": "Hall of Fame",
+      "artist": "The Script feat. will.i.am",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {

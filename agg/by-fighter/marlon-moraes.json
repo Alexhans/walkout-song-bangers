@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "I'm Coming Home",
-      "artist": "Diddy feat. Skylar Grey",
+      "song_title": "YOU'RE THE BEST AROUND",
+      "artist": "Joe Esposito",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
-      "event": "UFC 212: Aldo vs. Holloway",
-      "event_slug": "ufc-212",
-      "date": "2017-06-03"
-    },
-    {
-      "song_title": "A Vida E Tipo Roda Gigante",
-      "artist": "Andrezinho Shock",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1w0N2G78oSYTjh5cCUPI7K",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
     },
     {
       "song_title": "My Time",
@@ -31,13 +22,22 @@
       "date": "2019-12-14"
     },
     {
-      "song_title": "YOU'RE THE BEST AROUND",
-      "artist": "Joe Esposito",
+      "song_title": "A Vida E Tipo Roda Gigante",
+      "artist": "Andrezinho Shock",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4zXa17K83Pp6N2yXdVc2sv",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
+      "spotify_url": "https://open.spotify.com/track/1w0N2G78oSYTjh5cCUPI7K",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "I'm Coming Home",
+      "artist": "Diddy feat. Skylar Grey",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/568BqBOqxp0xyv93dmjv3Q",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "event_slug": "ufc-212",
+      "date": "2017-06-03"
     }
   ],
   "stats": {

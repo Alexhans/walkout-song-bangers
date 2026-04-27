@@ -6,17 +6,18 @@
   "source_urls": [
     "http://www.ufcstats.com/event-details/c3ac8d0da7b05772",
     "https://www.essentiallysports.com/ufc-mma-news-ufc-winnipeg-walkout-songs-which-music-have-gilbert-burns-mike-malott-and-others-used/",
-    "https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html"
+    "https://sports.yahoo.com/articles/mike-malott-first-ufc-main-180000852.html",
+    "https://cagesidepress.com/2026/04/19/ufc-winnipeg-sees-canadians-malott-jourdain-earn-bonuses/"
   ],
-  "generated_at": "2026-04-23T00:23:06Z",
+  "generated_at": "2026-04-28T00:00:00Z",
   "songs": [
     {
       "fighter": "Mike Malott",
       "song_title": "Fat Lip",
       "artist": "Sum 41",
-      "confidence": "bronze",
+      "confidence": "silver",
       "spotify_url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN",
-      "notes": "Post-event article confirmed the UFC Winnipeg crowd sang along to this walkout."
+      "notes": "2 independent post-event sources: Yahoo Sports interview (Malott confirms crowd sang along) + CageSidePress recap ('Fatlip blaring in the background')."
     },
     {
       "fighter": "Gilbert Burns",

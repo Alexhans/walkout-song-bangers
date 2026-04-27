@@ -4,13 +4,22 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 248: Adesanya vs. Romero",
-      "event_slug": "ufc-248",
-      "date": "2020-03-07"
+      "song_title": "The Mountain",
+      "artist": "Shafer",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1eY34dxONFrpQyacuIs30D",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "song_title": "Good People",
+      "artist": "Mumford and Sons feat. Pharrell Williams",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
       "song_title": "Born Different",
@@ -22,15 +31,6 @@
       "date": "2023-08-19"
     },
     {
-      "song_title": "The Mountain",
-      "artist": "Shafer",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1eY34dxONFrpQyacuIs30D",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
-    },
-    {
       "song_title": "God's Gonna Cut You Down",
       "artist": "Johnny Cash",
       "confidence": "bronze",
@@ -40,13 +40,13 @@
       "date": "2021-08-21"
     },
     {
-      "song_title": "Good People",
-      "artist": "Mumford and Sons feat. Pharrell Williams",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 248: Adesanya vs. Romero",
+      "event_slug": "ufc-248",
+      "date": "2020-03-07"
     }
   ],
   "stats": {

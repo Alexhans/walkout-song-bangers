@@ -4,22 +4,22 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
+      "song_title": "Ambitionz Az a Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
     },
     {
       "song_title": "Ambitionz Az a Ridah",
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "event": "UFC Fight Night: Barboza vs. Murphy",
+      "event_slug": "ufc-fight-night-barboza-vs-murphy",
+      "date": "2024-05-18"
     },
     {
       "song_title": "Ambitionz Az a Ridah",
@@ -35,18 +35,18 @@
       "artist": "Tupac",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC Fight Night: Barboza vs. Murphy",
-      "event_slug": "ufc-fight-night-barboza-vs-murphy",
-      "date": "2024-05-18"
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
-      "song_title": "Ambitionz Az a Ridah",
-      "artist": "2Pac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     }
   ],
   "stats": {

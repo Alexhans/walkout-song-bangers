@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Johnny I Hardly Knew Ya",
-      "artist": "Dropkick Murphys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5I9bmpCFS6oxCz3GkA2t9j",
-      "event": "UFC Fight Night: Lewis vs. Browne",
-      "event_slug": "ufc-fight-night-lewis-vs-browne",
-      "date": "2017-02-19"
-    },
-    {
       "song_title": "9 to 5",
       "artist": "Dolly Parton",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Font",
       "event_slug": "ufc-fight-night-sandhagen-vs-font",
       "date": "2023-08-05"
+    },
+    {
+      "song_title": "Johnny I Hardly Knew Ya",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5I9bmpCFS6oxCz3GkA2t9j",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     }
   ],
   "stats": {

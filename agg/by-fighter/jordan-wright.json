@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Good Death (Shogun 2)",
-      "artist": "Jeff Van Dyck",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1wZNgLYoFh0ReWH9VIqeaO",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Lemos vs. Andrade",
       "event_slug": "ufc-fight-night-lemos-vs-andrade",
       "date": "2022-04-23"
+    },
+    {
+      "song_title": "Good Death (Shogun 2)",
+      "artist": "Jeff Van Dyck",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1wZNgLYoFh0ReWH9VIqeaO",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
     }
   ],
   "stats": {

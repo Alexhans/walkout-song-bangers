@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Vitorioso Es",
-      "artist": "Gabriel Guedes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
       "song_title": "Chegou o Tempo",
       "artist": "Leandro Borges, Dieggo Molina",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Strickland vs. Magomedov",
       "event_slug": "ufc-fight-night-strickland-vs-magomedov",
       "date": "2023-07-01"
+    },
+    {
+      "song_title": "Vitorioso Es",
+      "artist": "Gabriel Guedes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {

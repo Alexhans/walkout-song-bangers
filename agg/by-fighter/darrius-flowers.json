@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
+      "song_title": "Excessive Celebration",
+      "artist": "Tobe Nwige Ft. Ochocinco",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5stZtHQTmDOsTYCzFC86sO",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Excessive Celebration",
@@ -22,13 +22,13 @@
       "date": "2024-02-10"
     },
     {
-      "song_title": "Excessive Celebration",
-      "artist": "Tobe Nwige Ft. Ochocinco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5stZtHQTmDOsTYCzFC86sO",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
     }
   ],
   "stats": {

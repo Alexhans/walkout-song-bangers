@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "FIRE SQUAD",
-      "artist": "J. Cole",
+      "song_title": "WASSUP",
+      "artist": "Young Miko",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
+      "spotify_url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
     },
     {
       "song_title": "",
@@ -22,15 +22,6 @@
       "date": "2024-06-29"
     },
     {
-      "song_title": "WASSUP",
-      "artist": "Young Miko",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn",
-      "event": "UFC Fight Night: Moreno vs. Kavanagh",
-      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28"
-    },
-    {
       "song_title": "Fire Squad",
       "artist": "J Cole",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "FIRE SQUAD",
+      "artist": "J. Cole",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
     }
   ],
   "stats": {

@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
+      "song_title": "A Alegria do Senhor",
+      "artist": "Ferdandinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3joKN6kIZ8Xie8Ofsen96L",
+      "event": "UFC Fight Night: Almeida vs. Lewis",
+      "event_slug": "ufc-fight-night-almeida-vs-lewis",
+      "date": "2023-11-04"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2023-07-29"
     },
     {
-      "song_title": "A Alegria do Senhor",
-      "artist": "Ferdandinho",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3joKN6kIZ8Xie8Ofsen96L",
-      "event": "UFC Fight Night: Almeida vs. Lewis",
-      "event_slug": "ufc-fight-night-almeida-vs-lewis",
-      "date": "2023-11-04"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {

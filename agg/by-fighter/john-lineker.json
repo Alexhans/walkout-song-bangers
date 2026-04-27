@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Aondie Esta O Amor",
-      "artist": "Tiago Rodrigues",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
       "song_title": "Sou Foda",
       "artist": "Avassaladores",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 207: Nunes vs. Rousey",
       "event_slug": "ufc-207",
       "date": "2016-12-30"
+    },
+    {
+      "song_title": "Aondie Esta O Amor",
+      "artist": "Tiago Rodrigues",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7w4UrQ7noKHoNwbjcjt6AG",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

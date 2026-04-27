@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "Ayer Deseo Hoy Realidad",
+      "artist": "Hermetica",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6woKpva7Uwdpxr3tqhHbhD",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night 140: Magny vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-140",
       "date": "2018-11-17"
-    },
-    {
-      "song_title": "Ayer Deseo Hoy Realidad",
-      "artist": "Hermetica",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6woKpva7Uwdpxr3tqhHbhD",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
     }
   ],
   "stats": {

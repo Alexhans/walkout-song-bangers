@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Break On Through (To The Other Side)",
-      "artist": "The Doors",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
-      "event": "UFC 198: Werdum vs Miocic",
-      "event_slug": "ufc-198-werdum-vs-miocic",
-      "date": "2016-05-14"
-    },
-    {
       "song_title": "Welcome to Jamrock",
       "artist": "Damian Marley",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "Break On Through (To The Other Side)",
+      "artist": "The Doors",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM",
+      "event": "UFC 198: Werdum vs Miocic",
+      "event_slug": "ufc-198-werdum-vs-miocic",
+      "date": "2016-05-14"
     }
   ],
   "stats": {

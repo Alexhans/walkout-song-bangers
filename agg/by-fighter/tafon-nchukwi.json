@@ -13,15 +13,6 @@
       "date": "2023-08-12"
     },
     {
-      "song_title": "Is You Ready",
-      "artist": "Migos",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk",
-      "event": "UFC Fight Night: Smith vs. Spann",
-      "event_slug": "ufc-fight-night-smith-vs-spann",
-      "date": "2021-09-18"
-    },
-    {
       "song_title": "Mr. Morale",
       "artist": "Kendrick Lamar",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Tsarukyan vs. Gamrot",
       "event_slug": "ufc-fight-night-tsarukyan-vs-gamrot",
       "date": "2022-06-25"
+    },
+    {
+      "song_title": "Is You Ready",
+      "artist": "Migos",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {

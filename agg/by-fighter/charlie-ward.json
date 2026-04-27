@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "The Lonesome Boatman",
-      "artist": "The Fureys & David Arthur",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2aLNcakASO2rKKUEzh8w33",
-      "event": "UFC Fight Night: Mousasi vs. Hall 2",
-      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
-      "date": "2016-11-19"
-    },
-    {
       "song_title": "Litty",
       "artist": "Meek Mill feat. Tory Lanez",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "The Lonesome Boatman",
+      "artist": "The Fureys & David Arthur",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2aLNcakASO2rKKUEzh8w33",
+      "event": "UFC Fight Night: Mousasi vs. Hall 2",
+      "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
+      "date": "2016-11-19"
     }
   ],
   "stats": {

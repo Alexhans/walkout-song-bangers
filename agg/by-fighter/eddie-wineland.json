@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Big Iron",
-      "artist": "Johnny Cash",
+      "song_title": "If You're Gonna Play in Texas",
+      "artist": "Alabama",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1hkuQmFxGs85zE6dyofTPY",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "spotify_url": "https://open.spotify.com/track/4lDHpM8kYUjVScfD8nfQ7A",
+      "event": "UFC Fight Night: Kattar vs. Emmett",
+      "event_slug": "ufc-fight-night-kattar-vs-emmett",
+      "date": "2022-06-18"
     },
     {
       "song_title": "Seven Bridges Road",
@@ -22,13 +22,13 @@
       "date": "2020-06-06"
     },
     {
-      "song_title": "If You're Gonna Play in Texas",
-      "artist": "Alabama",
+      "song_title": "Big Iron",
+      "artist": "Johnny Cash",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4lDHpM8kYUjVScfD8nfQ7A",
-      "event": "UFC Fight Night: Kattar vs. Emmett",
-      "event_slug": "ufc-fight-night-kattar-vs-emmett",
-      "date": "2022-06-18"
+      "spotify_url": "https://open.spotify.com/track/1hkuQmFxGs85zE6dyofTPY",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {

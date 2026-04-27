@@ -8,18 +8,18 @@
       "artist": "Don Omar",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "Conteo",
       "artist": "Don Omar",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1hAdFL0nX23YcYxjJ02yxs",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

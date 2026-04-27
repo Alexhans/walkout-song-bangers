@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night: Almeida vs. Lewis",
       "event_slug": "ufc-fight-night-almeida-vs-lewis",
       "date": "2023-11-04"
-    },
-    {
-      "song_title": "Beautiful Things",
-      "artist": "Benson Boone",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
     }
   ],
   "stats": {

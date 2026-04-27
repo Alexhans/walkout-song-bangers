@@ -4,6 +4,15 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    },
+    {
       "song_title": "Can We Talk",
       "artist": "Tevin Campbell",
       "confidence": "bronze",
@@ -22,24 +31,6 @@
       "date": "2023-06-24"
     },
     {
-      "song_title": "Can't Take My Eyes Off You",
-      "artist": "Lauryn Hill",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
-    },
-    {
       "song_title": "Til the Sun Goes Down",
       "artist": "Five the Fresh",
       "confidence": "bronze",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Thompson vs. Holland",
       "event_slug": "ufc-fight-night-thompson-vs-holland",
       "date": "2022-12-03"
+    },
+    {
+      "song_title": "Can't Take My Eyes Off You",
+      "artist": "Lauryn Hill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
     }
   ],
   "stats": {

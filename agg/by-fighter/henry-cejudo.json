@@ -4,31 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
+      "song_title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
+    },
+    {
+      "song_title": "Am I Wrong",
+      "artist": "Nico & Vinz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     },
     {
       "song_title": "The Show Goes On",
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
-    },
-    {
-      "song_title": "The Show Goes On",
-      "artist": "Lupe Fiasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "The Show Goes On",
@@ -44,27 +44,27 @@
       "artist": "Lupe Fiasco",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
-    },
-    {
-      "song_title": "Am I Wrong",
-      "artist": "Nico & Vinz",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
       "song_title": "The Show Goes On",
       "artist": "Lupe Fiasco",
-      "confidence": "gold",
+      "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

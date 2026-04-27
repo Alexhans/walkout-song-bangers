@@ -4,6 +4,24 @@
   "appearances": 4,
   "walkouts": [
     {
+      "song_title": "One Truth Per Year",
+      "artist": "Military Clan",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0MCdGEtsZsxMd8jkxn0WMR",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Craig",
+      "event_slug": "ufc-fight-night-allen-vs-craig",
+      "date": "2023-11-18"
+    },
+    {
       "song_title": "ДЕЛЕ",
       "artist": "ОБ.в",
       "confidence": "bronze",
@@ -17,27 +35,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Allen vs. Craig",
-      "event_slug": "ufc-fight-night-allen-vs-craig",
-      "date": "2023-11-18"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
       "event": "UFC Fight Night: Blaydes vs. Daukaus",
       "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
       "date": "2022-03-26"
-    },
-    {
-      "song_title": "One Truth Per Year",
-      "artist": "Military Clan",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0MCdGEtsZsxMd8jkxn0WMR",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
     }
   ],
   "stats": {

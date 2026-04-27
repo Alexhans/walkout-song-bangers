@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Shake It Out",
-      "artist": "Florence and the Machine",
+      "song_title": "The Red",
+      "artist": "Chevelle",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
+      "spotify_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
+      "event": "UFC Fight Night: Costa vs. Vettori",
+      "event_slug": "ufc-fight-night-costa-vs-vettori",
+      "date": "2021-10-23"
     },
     {
       "song_title": "No Love",
@@ -22,15 +22,6 @@
       "date": "2019-07-06"
     },
     {
-      "song_title": "The Red",
-      "artist": "Chevelle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU",
-      "event": "UFC Fight Night: Costa vs. Vettori",
-      "event_slug": "ufc-fight-night-costa-vs-vettori",
-      "date": "2021-10-23"
-    },
-    {
       "song_title": "You're Going Down",
       "artist": "Sick Puppies",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
+    },
+    {
+      "song_title": "Shake It Out",
+      "artist": "Florence and the Machine",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

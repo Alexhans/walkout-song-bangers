@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Woke Up This Morning",
-      "artist": "Alabama 3",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
       "song_title": "WOKE UP THIS MORNING",
       "artist": "Alabama 3 (The Sopranos Mix)",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 268: Usman vs. Covington 2",
       "event_slug": "ufc-268",
       "date": "2021-11-06"
+    },
+    {
+      "song_title": "Woke Up This Morning",
+      "artist": "Alabama 3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1cuclT4cacekr88IvVtCpz",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     }
   ],
   "stats": {

@@ -4,13 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Still Crusin",
-      "artist": "Eazy E feat. The Game",
+      "song_title": "Thug Luv",
+      "artist": "Bone Thugs-N-Harmony feat. Tupac",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "event": "UFC Fight Night: Moreno vs. Albazi",
+      "event_slug": "ufc-fight-night-moreno-vs-albazi",
+      "date": "2024-11-02"
+    },
+    {
+      "song_title": "Thug Luv",
+      "artist": "Bone, Thugs & Harmony feat. Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
+      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
+      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
+      "date": "2024-03-02"
     },
     {
       "song_title": "",
@@ -31,6 +40,15 @@
       "date": "2022-07-09"
     },
     {
+      "song_title": "Still Crusin",
+      "artist": "Eazy E feat. The Game",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
+    },
+    {
       "song_title": "Switchez",
       "artist": "Eazy-E",
       "confidence": "bronze",
@@ -38,24 +56,6 @@
       "event": "UFC Fight Night: Lewis vs. Browne",
       "event_slug": "ufc-fight-night-lewis-vs-browne",
       "date": "2017-02-19"
-    },
-    {
-      "song_title": "Thug Luv",
-      "artist": "Bone Thugs-N-Harmony feat. Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
-      "event": "UFC Fight Night: Moreno vs. Albazi",
-      "event_slug": "ufc-fight-night-moreno-vs-albazi",
-      "date": "2024-11-02"
-    },
-    {
-      "song_title": "Thug Luv",
-      "artist": "Bone, Thugs & Harmony feat. Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb",
-      "event": "UFC Fight Night: Rozenstruik vs. Gaziev",
-      "event_slug": "ufc-fight-night-rozenstruik-vs-gaziev",
-      "date": "2024-03-02"
     }
   ],
   "stats": {

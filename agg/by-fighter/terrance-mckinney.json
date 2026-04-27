@@ -4,31 +4,13 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
+      "song_title": "Hussle and Motivate",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5",
+      "event": "UFC Fight Night: Adesanya vs. Pyfer",
+      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
+      "date": "2026-03-28"
     },
     {
       "song_title": "",
@@ -40,22 +22,13 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Hussle and Motivate",
-      "artist": "Nipsey Hussle",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5",
-      "event": "UFC Fight Night: Adesanya vs. Pyfer",
-      "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
-      "date": "2026-03-28"
-    },
-    {
-      "song_title": "Can't Tell Me Nothing",
-      "artist": "Kanye West",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
     },
     {
       "song_title": "Right Hand To God",
@@ -67,6 +40,15 @@
       "date": "2024-05-11"
     },
     {
+      "song_title": "Right Hand To God",
+      "artist": "Nipsey Hussle",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7",
+      "event": "UFC Fight Night: Yusuff vs. Barboza",
+      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
+      "date": "2023-10-14"
+    },
+    {
       "song_title": "Let's Go",
       "artist": "Trick Daddy feat. Twista and Lil' Jon",
       "confidence": "bronze",
@@ -76,13 +58,22 @@
       "date": "2023-08-12"
     },
     {
-      "song_title": "Victory",
-      "artist": "Puff Daddy feat. Notorious B.I.G.",
+      "song_title": "Can't Tell Me Nothing",
+      "artist": "Kanye West",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
-      "event": "UFC Fight Night: Makhachev vs. Green",
-      "event_slug": "ufc-fight-night-makhachev-vs-green",
-      "date": "2022-02-26"
+      "spotify_url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "Hussle and Motivate",
@@ -94,13 +85,22 @@
       "date": "2022-08-06"
     },
     {
-      "song_title": "Right Hand To God",
-      "artist": "Nipsey Hussle",
+      "song_title": "Victory",
+      "artist": "Puff Daddy feat. Notorious B.I.G.",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5RHl48vC9W0bnabDTt2jJ7",
-      "event": "UFC Fight Night: Yusuff vs. Barboza",
-      "event_slug": "ufc-fight-night-yusuff-vs-barboza",
-      "date": "2023-10-14"
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC Fight Night: Makhachev vs. Green",
+      "event_slug": "ufc-fight-night-makhachev-vs-green",
+      "date": "2022-02-26"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     }
   ],
   "stats": {

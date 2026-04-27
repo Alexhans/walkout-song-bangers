@@ -8,18 +8,18 @@
       "artist": "Pendulum",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     },
     {
       "song_title": "Slam",
       "artist": "Pendulum",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/5cw39FV9eXL3IuLxwpG8Z1",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

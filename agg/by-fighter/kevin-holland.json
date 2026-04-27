@@ -4,49 +4,13 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "Tell Me",
-      "artist": "MGF Bandit",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7mkO3QQGV2M3GSylMXAiDb",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
-    },
-    {
-      "song_title": "I Was Just Thinking",
-      "artist": "Gunna",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
-    },
-    {
-      "song_title": "02.02.99",
-      "artist": "That Mexican OT",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
-    },
-    {
-      "song_title": "02.02.99",
-      "artist": "That Mexican OT",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
       "song_title": "Drink Don’t Need No Mix",
-      "artist": "Shaboozey and BigXthaPlug",
+      "artist": "Shaboozey feat. BigXthaPlug",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
       "song_title": "Ghost",
@@ -59,12 +23,30 @@
     },
     {
       "song_title": "Drink Don’t Need No Mix",
-      "artist": "Shaboozey feat. BigXthaPlug",
+      "artist": "Shaboozey and BigXthaPlug",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
+      "song_title": "02.02.99",
+      "artist": "That Mexican OT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "02.02.99",
+      "artist": "That Mexican OT",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0QCX3BlNcJqaH0MPM7WL1X",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
     },
     {
       "song_title": "Tell Me",
@@ -74,6 +56,33 @@
       "event": "UFC Fight Night: Grasso vs. Shevchenko 2",
       "event_slug": "ufc-fight-night-grasso-vs-shevchenko-2",
       "date": "2023-09-16"
+    },
+    {
+      "song_title": "I Was Just Thinking",
+      "artist": "Gunna",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "Tell Me",
+      "artist": "MGF Bandit",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7mkO3QQGV2M3GSylMXAiDb",
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "Ghost",
+      "artist": "NBA Youngboy",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Goals",
@@ -92,15 +101,6 @@
       "event": "UFC Fight Night: Santos vs. Walker",
       "event_slug": "ufc-fight-night-santos-vs-walker",
       "date": "2021-10-02"
-    },
-    {
-      "song_title": "Ghost",
-      "artist": "NBA Youngboy",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6Gkx7I0DXwuZGjvUBHIKLY",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
     }
   ],
   "stats": {

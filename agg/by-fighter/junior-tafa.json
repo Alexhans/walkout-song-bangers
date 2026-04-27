@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Shut Up",
-      "artist": "Stormzy",
+      "song_title": "Regulate",
+      "artist": "Warren G, Nate Dogg",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "spotify_url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
       "song_title": "Dreaming",
@@ -22,13 +22,13 @@
       "date": "2024-08-17"
     },
     {
-      "song_title": "Regulate",
-      "artist": "Warren G, Nate Dogg",
+      "song_title": "Shut Up",
+      "artist": "Stormzy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
+      "spotify_url": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
     }
   ],
   "stats": {

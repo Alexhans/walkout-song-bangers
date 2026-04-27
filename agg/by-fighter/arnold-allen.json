@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Club Foot",
-      "artist": "Kasabian",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
       "song_title": "We Will Rock You",
       "artist": "Queen",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 297: Strickland vs. Du Plessis",
-      "event_slug": "ufc-297",
-      "date": "2024-01-20"
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "event_slug": "ufc-324",
+      "date": "2026-01-24"
     },
     {
       "song_title": "We Will Rock You",
@@ -35,9 +26,9 @@
       "artist": "Queen",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn",
-      "event": "UFC 324: Gaethje vs. Pimblett",
-      "event_slug": "ufc-324",
-      "date": "2026-01-24"
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "event_slug": "ufc-297",
+      "date": "2024-01-20"
     },
     {
       "song_title": "London Calling",
@@ -56,6 +47,15 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Club Foot",
+      "artist": "Kasabian",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     }
   ],
   "stats": {

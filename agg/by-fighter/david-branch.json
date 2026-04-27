@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "Coming of Age",
+      "artist": "Jay-Z",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/01gu79iiKf0mEo1Sq1fe6K",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
@@ -20,15 +29,6 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
-    },
-    {
-      "song_title": "Coming of Age",
-      "artist": "Jay-Z",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/01gu79iiKf0mEo1Sq1fe6K",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
     }
   ],
   "stats": {

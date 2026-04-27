@@ -4,33 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Meus Proprios Meios",
-      "artist": "Oficina G3",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Meus Proprios Meios",
-      "artist": "Oficina G3",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "Vim, Vivi, Venci",
-      "artist": "MP Michael Puga",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1ywEuOUAaM0ANPJ0GzaMqF",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
       "song_title": "March On, To Mount Zion!",
       "artist": "I Need This Dave",
       "confidence": "gold",
@@ -56,6 +29,33 @@
       "event": "UFC Fight Night: Yusuff vs. Barboza",
       "event_slug": "ufc-fight-night-yusuff-vs-barboza",
       "date": "2023-10-14"
+    },
+    {
+      "song_title": "Vim, Vivi, Venci",
+      "artist": "MP Michael Puga",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1ywEuOUAaM0ANPJ0GzaMqF",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    },
+    {
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Meus Proprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

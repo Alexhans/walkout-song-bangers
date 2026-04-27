@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Whoopty",
-      "artist": "CJ",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Burns vs. Malott",
+      "event_slug": "ufc-fight-night-burns-vs-malott",
+      "date": "2026-04-18"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2024-03-30"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Burns vs. Malott",
-      "event_slug": "ufc-fight-night-burns-vs-malott",
-      "date": "2026-04-18"
+      "song_title": "Whoopty",
+      "artist": "CJ",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA",
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     },
     {
       "song_title": "Kuq E Zi Je Ti",

@@ -4,22 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Yaku",
-      "artist": "Kapitan Petko Voivoda",
+      "song_title": "Prituri Se Planinata",
+      "artist": "Stefka Sabotinova",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3mPlZuKUjnHvBhxsprhqyw",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "In the Air Tonight",
-      "artist": "Phil Collins",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
+      "spotify_url": "https://open.spotify.com/track/4oyicT8w0fkCzQuORoTEds",
+      "event": "UFC Fight Night: Strickland vs. Magomedov",
+      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
+      "date": "2023-07-01"
     },
     {
       "song_title": "MIKE TYSON SONG",
@@ -31,13 +22,22 @@
       "date": "2022-05-07"
     },
     {
-      "song_title": "Prituri Se Planinata",
-      "artist": "Stefka Sabotinova",
+      "song_title": "In the Air Tonight",
+      "artist": "Phil Collins",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4oyicT8w0fkCzQuORoTEds",
-      "event": "UFC Fight Night: Strickland vs. Magomedov",
-      "event_slug": "ufc-fight-night-strickland-vs-magomedov",
-      "date": "2023-07-01"
+      "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Yaku",
+      "artist": "Kapitan Petko Voivoda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3mPlZuKUjnHvBhxsprhqyw",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     }
   ],
   "stats": {

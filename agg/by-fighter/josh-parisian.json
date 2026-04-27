@@ -13,15 +13,6 @@
       "date": "2024-03-09"
     },
     {
-      "song_title": "Magic",
-      "artist": "B.o.B. feat. Rivers Cuomo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
-    },
-    {
       "song_title": "D.A.N.C.E.",
       "artist": "Justice",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Luque vs. Dos Anjos",
       "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
       "date": "2023-08-12"
+    },
+    {
+      "song_title": "Magic",
+      "artist": "B.o.B. feat. Rivers Cuomo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
     },
     {
       "song_title": "Hey Ma, I Made It",

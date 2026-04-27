@@ -8,9 +8,36 @@
       "artist": "Blair Douglas",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "Rock and Roll",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
+    },
+    {
+      "song_title": "Black Dog",
+      "artist": "Led Zeppelin",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
     },
     {
       "song_title": "The Landlord's Walk",
@@ -26,45 +53,18 @@
       "artist": "Led Zeppelin",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
-    },
-    {
-      "song_title": "Rock and Roll",
-      "artist": "Led Zeppelin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
-    },
-    {
-      "song_title": "The Landlord's Walk",
-      "artist": "Blair Douglas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
-    },
-    {
-      "song_title": "The Landlord's Walk",
-      "artist": "Blair Douglas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
-    },
-    {
-      "song_title": "Black Dog",
-      "artist": "Led Zeppelin",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb",
       "event": "UFC Fight Night: Holm vs. Correia",
       "event_slug": "ufc-fight-night-holm-vs-correia",
       "date": "2017-06-17"
+    },
+    {
+      "song_title": "The Landlord's Walk",
+      "artist": "Blair Douglas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

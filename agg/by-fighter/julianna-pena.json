@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Seven Nation Army",
-      "artist": "The White Stripes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Seven Nation Army",
-      "artist": "The White Stripes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "Psycho",
-      "artist": "Puddle of Mudd",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "",
@@ -40,13 +22,31 @@
       "date": "2022-07-30"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "song_title": "Psycho",
+      "artist": "Puddle of Mudd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
+    {
+      "song_title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

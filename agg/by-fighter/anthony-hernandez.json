@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Bladadah",
-      "artist": "Mozzy",
+      "song_title": "Por Ti Volaré",
+      "artist": "Andrea Bocelli",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
+      "spotify_url": "https://open.spotify.com/track/3TXGCI3b4eICafN7YjDTHL",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "Por Ti Volare",
@@ -31,13 +31,13 @@
       "date": "2022-09-17"
     },
     {
-      "song_title": "Por Ti Volaré",
-      "artist": "Andrea Bocelli",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3TXGCI3b4eICafN7YjDTHL",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     }
   ],
   "stats": {

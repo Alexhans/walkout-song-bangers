@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Braveheart",
-      "artist": "Ryan O’Donnell and Rachel O’Donnell",
+      "song_title": "Freed From Desire",
+      "artist": "Gala",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5JSr07A5li5YHo9xUP5KQH",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
+      "spotify_url": "https://open.spotify.com/track/3EpbZE2fBvFb1nhaGCCFQS",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Outlawed Tunes on Outlawed Pipes",
@@ -22,15 +22,6 @@
       "date": "2025-12-06"
     },
     {
-      "song_title": "Freed From Desire",
-      "artist": "Gala",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3EpbZE2fBvFb1nhaGCCFQS",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
-    },
-    {
       "song_title": "El Chapo",
       "artist": "The Game feat. Skrillex",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Moreno vs. Royval 2",
       "event_slug": "ufc-fight-night-moreno-vs-royval-2",
       "date": "2024-02-24"
+    },
+    {
+      "song_title": "Braveheart",
+      "artist": "Ryan O’Donnell and Rachel O’Donnell",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5JSr07A5li5YHo9xUP5KQH",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Grandao da Galileia",
-      "artist": "Max do Corinho",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4QPdd1c17ywc4RmS83uC0R",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
-    },
-    {
       "song_title": "Harpa Cristã 476",
       "artist": "Max Do Corinho",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Tuivasa vs. Tybura",
       "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
       "date": "2024-03-16"
+    },
+    {
+      "song_title": "Grandao da Galileia",
+      "artist": "Max do Corinho",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4QPdd1c17ywc4RmS83uC0R",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
     }
   ],
   "stats": {

@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Go Hard",
-      "artist": "Lil Wayne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
-    },
-    {
       "song_title": "Beautiful Struggle",
       "artist": "Mozzy",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Santos vs. Walker",
       "event_slug": "ufc-fight-night-santos-vs-walker",
       "date": "2021-10-02"
+    },
+    {
+      "song_title": "Go Hard",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {

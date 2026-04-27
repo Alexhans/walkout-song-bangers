@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Started from the Bottom",
-      "artist": "Drake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
-    },
-    {
       "song_title": "Die a King",
       "artist": "IamJakeHill",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Santos vs. Hill",
       "event_slug": "ufc-fight-night-santos-vs-hill",
       "date": "2022-08-06"
+    },
+    {
+      "song_title": "Started from the Bottom",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     }
   ],
   "stats": {

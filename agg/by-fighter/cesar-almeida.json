@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "DNA.",
-      "artist": "Kendrick Lamar",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
       "song_title": "Negro Drama",
       "artist": "Racionals Mcs",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
     },
     {
       "song_title": "DNA",

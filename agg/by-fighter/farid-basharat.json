@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Blue Parrot (No Mercy)",
+      "song_title": "Blue Parrot",
       "artist": "Alan Silvestri",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20%28No%20Mercy%29%20Alan%20Silvestri",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20Alan%20Silvestri",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
+      "date": "2026-02-07"
     },
     {
       "song_title": "Blue Parrot (No Mercy)",
@@ -22,13 +22,13 @@
       "date": "2024-01-13"
     },
     {
-      "song_title": "Blue Parrot",
+      "song_title": "Blue Parrot (No Mercy)",
       "artist": "Alan Silvestri",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20Alan%20Silvestri",
-      "event": "UFC Fight Night: Bautista vs. Oliveira",
-      "event_slug": "ufc-fight-night-bautista-vs-oliveira",
-      "date": "2026-02-07"
+      "spotify_url": "https://open.spotify.com/search/Blue%20Parrot%20%28No%20Mercy%29%20Alan%20Silvestri",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     }
   ],
   "stats": {

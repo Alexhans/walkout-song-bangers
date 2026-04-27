@@ -4,22 +4,13 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Uproar",
-      "artist": "Lil Wayne",
+      "song_title": "10K",
+      "artist": "KB",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
-      "song_title": "Welcome to Atlanta",
-      "artist": "Jermaine Dupri",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
       "song_title": "10K",
@@ -35,27 +26,36 @@
       "artist": "KB",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
-      "song_title": "10K",
-      "artist": "KB",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5",
       "event": "UFC Fight Night: Brunson vs. Till",
       "event_slug": "ufc-fight-night-brunson-vs-till",
       "date": "2021-09-04"
+    },
+    {
+      "song_title": "Welcome to Atlanta",
+      "artist": "Jermaine Dupri",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "Uproar",
+      "artist": "Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     },
     {
       "song_title": "Finna Get Loose",
       "artist": "Puff Daddy & The Family feat. Pharrell Williams",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
-      "event": "UFC Fight Night: Cowboy vs Cowboy",
-      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
-      "date": "2016-02-21"
+      "event": "UFC Fight Night: Whittaker vs. Brunson",
+      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
+      "date": "2016-11-26"
     },
     {
       "song_title": "Finna Get Loose",
@@ -71,9 +71,9 @@
       "artist": "Puff Daddy & The Family feat. Pharrell Williams",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2xRZZn6H6Hl8I3x4SinztH",
-      "event": "UFC Fight Night: Whittaker vs. Brunson",
-      "event_slug": "ufc-fight-night-whittaker-vs-brunson",
-      "date": "2016-11-26"
+      "event": "UFC Fight Night: Cowboy vs Cowboy",
+      "event_slug": "ufc-fight-night-cowboy-vs-cowboy",
+      "date": "2016-02-21"
     }
   ],
   "stats": {

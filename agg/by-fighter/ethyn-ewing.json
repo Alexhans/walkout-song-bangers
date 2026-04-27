@@ -8,18 +8,18 @@
       "artist": "Lynyrd Skynyrd",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "Simple Man",
       "artist": "Lynyrd Skynyrd",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
     }
   ],
   "stats": {

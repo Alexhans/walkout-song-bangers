@@ -4,33 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 254: Khabib vs. Gaethje",
-      "event_slug": "ufc-254",
-      "date": "2020-10-24"
-    },
-    {
-      "song_title": "WALK THESE STREETS",
-      "artist": "Rakim, Maino & Tracy Horton",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6VMe2CXrzlkvssB3ySs0No",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "Walk These Streets",
-      "artist": "Rakim, Maino & Tracey Horton",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
-      "event": "UFC 275: Teixeira vs. Prochazka",
-      "event_slug": "ufc-275",
-      "date": "2022-06-11"
-    },
-    {
       "song_title": "WE HERE NOW",
       "artist": "Th4 W3st",
       "confidence": "bronze",
@@ -56,6 +29,33 @@
       "event": "UFC Fight Night: Fiziev vs. Gamrot",
       "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
       "date": "2023-09-23"
+    },
+    {
+      "song_title": "Walk These Streets",
+      "artist": "Rakim, Maino & Tracey Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK",
+      "event": "UFC 275: Teixeira vs. Prochazka",
+      "event_slug": "ufc-275",
+      "date": "2022-06-11"
+    },
+    {
+      "song_title": "WALK THESE STREETS",
+      "artist": "Rakim, Maino & Tracy Horton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6VMe2CXrzlkvssB3ySs0No",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "event_slug": "ufc-254",
+      "date": "2020-10-24"
     }
   ],
   "stats": {

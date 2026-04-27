@@ -4,24 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "X Gon' Give It To Ya",
-      "artist": "DMX",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "THE PURGE",
-      "artist": "Demetrius X",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/37M4IPkEmlMhysqhJimj8U",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
       "song_title": "El Matador",
       "artist": "Los Fabulosos Cadillacs",
       "confidence": "bronze",
@@ -38,6 +20,24 @@
       "event": "UFC Fight Night: Ortega vs. Rodriguez",
       "event_slug": "ufc-fight-night-ortega-vs-rodriguez",
       "date": "2022-07-16"
+    },
+    {
+      "song_title": "THE PURGE",
+      "artist": "Demetrius X",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/37M4IPkEmlMhysqhJimj8U",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "X Gon' Give It To Ya",
+      "artist": "DMX",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     }
   ],
   "stats": {

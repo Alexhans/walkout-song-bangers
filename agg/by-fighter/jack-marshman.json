@@ -4,6 +4,15 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "event": "UFC 239: Jones vs. Santos",
+      "event_slug": "ufc-239",
+      "date": "2019-07-06"
+    },
+    {
       "song_title": "Tick Tock",
       "artist": "Giggs",
       "confidence": "bronze",
@@ -13,13 +22,13 @@
       "date": "2018-11-03"
     },
     {
-      "song_title": "God's Gonna Cut You Down",
-      "artist": "Johnny Cash",
+      "song_title": "Tick Tock",
+      "artist": "Giggs",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
-      "event": "UFC 239: Jones vs. Santos",
-      "event_slug": "ufc-239",
-      "date": "2019-07-06"
+      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
+      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
+      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
+      "date": "2017-07-16"
     },
     {
       "song_title": "Three Little Birds",
@@ -38,15 +47,6 @@
       "event": "UFC Fight Night: Mousasi vs. Hall 2",
       "event_slug": "ufc-fight-night-mousasi-vs-hall-2",
       "date": "2016-11-19"
-    },
-    {
-      "song_title": "Tick Tock",
-      "artist": "Giggs",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
-      "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
-      "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
-      "date": "2017-07-16"
     }
   ],
   "stats": {

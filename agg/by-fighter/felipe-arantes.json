@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
-    },
-    {
       "song_title": "Bailando",
       "artist": "Enrique Igesias feat. Luan Santana",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Dos Anjos vs. Ferguson",
       "event_slug": "ufc-fight-night-dos-anjos-vs-ferguson",
       "date": "2016-11-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

@@ -4,40 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 268: Usman vs. Covington 2",
-      "event_slug": "ufc-268",
-      "date": "2021-11-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
+      "song_title": "Tuve Hermano",
+      "artist": "Los Gemelos De Sinaloa",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3",
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
     },
     {
       "song_title": "",
@@ -62,18 +35,45 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
       "event": "UFC Fight Night: Makhachev vs. Green",
       "event_slug": "ufc-fight-night-makhachev-vs-green",
       "date": "2022-02-26"
     },
     {
-      "song_title": "Tuve Hermano",
-      "artist": "Los Gemelos De Sinaloa",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3",
-      "event": "UFC Fight Night: Moreno vs. Kavanagh",
-      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "event_slug": "ufc-268",
+      "date": "2021-11-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
     },
     {
       "song_title": "",

@@ -8,18 +8,18 @@
       "artist": "Los Tigres Del Norte",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
+      "event": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
+      "date": "2026-02-28"
     },
     {
       "song_title": "Gallo De Pelea",
       "artist": "Los Tigres Del Norte",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3SBTtC274cXAfSLk9ohiJR",
-      "event": "UFC Fight Night: Moreno vs. Kavanagh",
-      "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28"
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     }
   ],
   "stats": {

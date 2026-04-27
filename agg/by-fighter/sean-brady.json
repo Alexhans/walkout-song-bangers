@@ -4,24 +4,6 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "They Don’t Love You No More",
-      "artist": "DJ Khaled",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
-      "song_title": "They Don't Love You No More",
-      "artist": "DJ Khaled",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
       "song_title": "They Don't Love You No More",
       "artist": "DJ Khaled",
       "confidence": "bronze",
@@ -50,12 +32,30 @@
     },
     {
       "song_title": "They Don't Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
+    },
+    {
+      "song_title": "They Don't Love You No More",
       "artist": "DJ Khaled feat. Jay-Z, Meek Mill, Rick Ross & French Montana",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1",
       "event": "UFC Fight Night: Vieira vs. Tate",
       "event_slug": "ufc-fight-night-vieira-vs-tate",
       "date": "2021-11-20"
+    },
+    {
+      "song_title": "They Don’t Love You No More",
+      "artist": "DJ Khaled",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0iwQ5PwP9k4WB6WSg13fKI",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     }
   ],
   "stats": {

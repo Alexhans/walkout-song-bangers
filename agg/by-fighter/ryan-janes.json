@@ -5,21 +5,21 @@
   "walkouts": [
     {
       "song_title": "The Islander",
-      "artist": "The Navigators",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
-      "event": "UFC Fight Night: Lewis vs. Browne",
-      "event_slug": "ufc-fight-night-lewis-vs-browne",
-      "date": "2017-02-19"
-    },
-    {
-      "song_title": "The Islander",
       "artist": "Navigators",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "The Islander",
+      "artist": "The Navigators",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/70gLjUwgKLdrZGmnbs5ZZt",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     }
   ],
   "stats": {

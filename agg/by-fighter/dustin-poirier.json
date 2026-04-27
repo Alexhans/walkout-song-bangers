@@ -4,6 +4,96 @@
   "appearances": 13,
   "walkouts": [
     {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
+    },
+    {
+      "song_title": "Diamonds / The Boss",
+      "artist": "Rihanna / James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "event_slug": "ufc-302",
+      "date": "2024-06-01"
+    },
+    {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "event_slug": "ufc-299",
+      "date": "2024-03-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "event_slug": "ufc-291",
+      "date": "2023-07-29"
+    },
+    {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
+    },
+    {
+      "song_title": "The Boss",
+      "artist": "James Brown",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "Duffle Bag Boy",
+      "artist": "Playaz Circle ft. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "Duffle Bag Boy",
+      "artist": "Playaz Circle ft. Lil Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
       "song_title": "Ain't No Stopping' Us Now",
       "artist": "McFadden & Whitehead",
       "confidence": "bronze",
@@ -20,96 +110,6 @@
       "event": "UFC 211: Miocic vs. Dos Santos 2",
       "event_slug": "ufc-211",
       "date": "2017-05-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "Duffle Bag Boy",
-      "artist": "Playaz Circle ft. Lil Wayne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "Duffle Bag Boy",
-      "artist": "Playaz Circle ft. Lil Wayne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2YBQcvnNuFjIRt1JjaVxMn",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "The Boss",
-      "artist": "James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
-      "song_title": "The Boss",
-      "artist": "James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 291: Poirier vs. Gaethje 2",
-      "event_slug": "ufc-291",
-      "date": "2023-07-29"
-    },
-    {
-      "song_title": "The Boss",
-      "artist": "James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
-      "event": "UFC 299: O'Malley vs. Vera 2",
-      "event_slug": "ufc-299",
-      "date": "2024-03-09"
-    },
-    {
-      "song_title": "Diamonds / The Boss",
-      "artist": "Rihanna / James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx",
-      "event": "UFC 302: Makhachev vs. Poirier",
-      "event_slug": "ufc-302",
-      "date": "2024-06-01"
-    },
-    {
-      "song_title": "The Boss",
-      "artist": "James Brown",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
     },
     {
       "song_title": "I Don't Get Tired",

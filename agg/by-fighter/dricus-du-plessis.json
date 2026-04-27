@@ -4,49 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Live it Up",
-      "artist": "Airbourne",
+      "song_title": "South Africa national anthem / Live It Up",
+      "artist": "South Africa national anthem / Airbourne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
-    },
-    {
-      "song_title": "Live It Up",
-      "artist": "Airbourne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
-      "song_title": "Live it Up",
-      "artist": "Airbourne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "spotify_url": "https://open.spotify.com/search/South%20Africa%20national%20anthem%20/%20Live%20It%20Up%20South%20Africa%20national%20anthem%20/%20Airbourne",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
     },
     {
       "song_title": "Right Above It",
@@ -58,13 +22,49 @@
       "date": "2024-01-20"
     },
     {
-      "song_title": "South Africa national anthem / Live It Up",
-      "artist": "South Africa national anthem / Airbourne",
+      "song_title": "Live it Up",
+      "artist": "Airbourne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/South%20Africa%20national%20anthem%20/%20Live%20It%20Up%20South%20Africa%20national%20anthem%20/%20Airbourne",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "Live It Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
+    },
+    {
+      "song_title": "Live it Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
     }
   ],
   "stats": {

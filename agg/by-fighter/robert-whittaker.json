@@ -4,31 +4,40 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "Can't Be Touched",
+      "song_title": "Can’t Be Touched",
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "event_slug": "ufc-298",
+      "date": "2024-02-17"
+    },
+    {
+      "song_title": "Can’t Be Touched",
+      "artist": "Roy Jones Jr.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
     },
     {
       "song_title": "Can't Be Touched",
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "event_slug": "ufc-271",
+      "date": "2022-02-12"
     },
     {
       "song_title": "Can't Be Touched",
@@ -44,36 +53,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 271: Adesanya vs. Whittaker 2",
-      "event_slug": "ufc-271",
-      "date": "2022-02-12"
-    },
-    {
-      "song_title": "Can’t Be Touched",
-      "artist": "Roy Jones Jr.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
-    },
-    {
-      "song_title": "Can’t Be Touched",
-      "artist": "Roy Jones Jr.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC 298: Volkanovski vs. Topuria",
-      "event_slug": "ufc-298",
-      "date": "2024-02-17"
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
     },
     {
       "song_title": "Can't Be Touched",
       "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Can't Be Touched",
+      "artist": "Body Head Bangerz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
+      "event": "UFC on FOX: Johnson vs. Reis",
+      "event_slug": "ufc-on-fox-johnson-vs-reis",
+      "date": "2017-04-15"
     },
     {
       "song_title": "Can't Be Touched",
@@ -86,12 +86,12 @@
     },
     {
       "song_title": "Can't Be Touched",
-      "artist": "Body Head Bangerz",
+      "artist": "Roy Jones Jr.",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K",
-      "event": "UFC on FOX: Johnson vs. Reis",
-      "event_slug": "ufc-on-fox-johnson-vs-reis",
-      "date": "2017-04-15"
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

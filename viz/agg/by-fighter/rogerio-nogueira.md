@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 198: Werdum vs Miocic](../../ufc-198-werdum-vs-miocic.md) | — | — | |
 | [2019](../agg/by-year/2019.md) | [UFC 237: Namajunas vs. Andrade](../../ufc-237.md) | — | — | |
+| [2016](../agg/by-year/2016.md) | [UFC 198: Werdum vs Miocic](../../ufc-198-werdum-vs-miocic.md) | — | — | |

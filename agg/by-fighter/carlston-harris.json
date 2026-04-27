@@ -13,15 +13,6 @@
       "date": "2024-05-18"
     },
     {
-      "song_title": "Champion",
-      "artist": "Mob Flames",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
-      "event": "UFC Fight Night: Hermansson vs. Strickland",
-      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
-      "date": "2022-02-05"
-    },
-    {
       "song_title": "Real Champion",
       "artist": "Mobflames",
       "confidence": "bronze",
@@ -32,21 +23,30 @@
     },
     {
       "song_title": "Champion",
-      "artist": "Mob Flames",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
-      "event": "UFC Fight Night: Smith vs. Spann",
-      "event_slug": "ufc-fight-night-smith-vs-spann",
-      "date": "2021-09-18"
-    },
-    {
-      "song_title": "Champion",
       "artist": "Mobflames",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE",
       "event": "UFC Fight Night: Yan vs. Dvalishvili",
       "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
       "date": "2023-03-11"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Hermansson vs. Strickland",
+      "event_slug": "ufc-fight-night-hermansson-vs-strickland",
+      "date": "2022-02-05"
+    },
+    {
+      "song_title": "Champion",
+      "artist": "Mob Flames",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5MLKb0UE5N9lvXckcgOZpS",
+      "event": "UFC Fight Night: Smith vs. Spann",
+      "event_slug": "ufc-fight-night-smith-vs-spann",
+      "date": "2021-09-18"
     }
   ],
   "stats": {

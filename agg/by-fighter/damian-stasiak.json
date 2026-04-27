@@ -8,18 +8,18 @@
       "artist": "Duran Duran",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
+      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
+      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
+      "date": "2017-05-28"
     },
     {
       "song_title": "Wild Boys",
       "artist": "Duran Duran",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
-      "event": "UFC Fight Night: Gustafsson vs. Teixeira",
-      "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
-      "date": "2017-05-28"
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
     },
     {
       "song_title": "Wild Boys",

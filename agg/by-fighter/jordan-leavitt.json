@@ -4,6 +4,15 @@
   "appearances": 5,
   "walkouts": [
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
+    },
+    {
       "song_title": "Bootylicious",
       "artist": "Destiny’s Child",
       "confidence": "bronze",
@@ -11,6 +20,15 @@
       "event": "UFC Fight Night: Allen vs. Craig",
       "event_slug": "ufc-fight-night-allen-vs-craig",
       "date": "2023-11-18"
+    },
+    {
+      "song_title": "Grind with Me",
+      "artist": "Pretty Ricky",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y",
+      "event": "UFC Fight Night: Muniz vs. Allen",
+      "event_slug": "ufc-fight-night-muniz-vs-allen",
+      "date": "2023-02-25"
     },
     {
       "song_title": "Ain't No Mountain High Enough",
@@ -29,24 +47,6 @@
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
-    },
-    {
-      "song_title": "Grind with Me",
-      "artist": "Pretty Ricky",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y",
-      "event": "UFC Fight Night: Muniz vs. Allen",
-      "event_slug": "ufc-fight-night-muniz-vs-allen",
-      "date": "2023-02-25"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
     }
   ],
   "stats": {

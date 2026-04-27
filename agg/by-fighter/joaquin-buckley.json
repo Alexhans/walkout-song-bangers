@@ -4,15 +4,6 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 282: Blachowicz vs. Ankalaev",
-      "event_slug": "ufc-282",
-      "date": "2022-12-10"
-    },
-    {
       "song_title": "Feeling Good",
       "artist": "Nina Simone",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 307: Pereira vs. Rountree Jr.",
       "event_slug": "ufc-307",
       "date": "2024-10-05"
+    },
+    {
+      "song_title": "See Me Now!",
+      "artist": "Jeleel",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
+      "event": "UFC Fight Night: Lewis vs. Nascimento",
+      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
+      "date": "2024-05-11"
     },
     {
       "song_title": "See Me Now!",
@@ -40,6 +40,15 @@
       "date": "2023-10-07"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 282: Blachowicz vs. Ankalaev",
+      "event_slug": "ufc-282",
+      "date": "2022-12-10"
+    },
+    {
       "song_title": "N****s in Paris",
       "artist": "Jay Z and Kanye West",
       "confidence": "bronze",
@@ -58,13 +67,13 @@
       "date": "2022-06-18"
     },
     {
-      "song_title": "See Me Now!",
-      "artist": "Jeleel",
+      "song_title": "I Don't Give a F",
+      "artist": "Lil' Jon & The East Side Boyz",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi",
-      "event": "UFC Fight Night: Lewis vs. Nascimento",
-      "event_slug": "ufc-fight-night-lewis-vs-nascimento",
-      "date": "2024-05-11"
+      "spotify_url": "https://open.spotify.com/track/1X0EjhOpkLqGrU9pSJVaYl",
+      "event": "UFC Fight Night: Walker vs. Hill",
+      "event_slug": "ufc-fight-night-walker-vs-hill",
+      "date": "2022-02-19"
     },
     {
       "song_title": "Money (That's What I Want)",
@@ -74,15 +83,6 @@
       "event": "UFC Fight Night: Smith vs. Spann",
       "event_slug": "ufc-fight-night-smith-vs-spann",
       "date": "2021-09-18"
-    },
-    {
-      "song_title": "I Don't Give a F",
-      "artist": "Lil' Jon & The East Side Boyz",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1X0EjhOpkLqGrU9pSJVaYl",
-      "event": "UFC Fight Night: Walker vs. Hill",
-      "event_slug": "ufc-fight-night-walker-vs-hill",
-      "date": "2022-02-19"
     }
   ],
   "stats": {

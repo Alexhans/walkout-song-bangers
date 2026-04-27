@@ -4,13 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
+      "song_title": "Crazy",
+      "artist": "Boosie",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3yI5oGYRtqR6ycf7UwehF4",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
       "song_title": "Faneto",
@@ -44,18 +53,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
-    },
-    {
-      "song_title": "Crazy",
-      "artist": "Boosie",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3yI5oGYRtqR6ycf7UwehF4",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
     }
   ],
   "stats": {

@@ -4,58 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Summer, Sixteen",
-      "artist": "Drake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Showtime",
-      "artist": "Jim Jones and Tum Tum",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
-    },
-    {
-      "song_title": "Showtime",
-      "artist": "Jim Jones & Tum Tum",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1gEPKKr6rA2SoEQnFD5SoN",
-      "event": "UFC 213: Romero vs. Whittaker",
-      "event_slug": "ufc-213",
-      "date": "2017-07-08"
-    },
-    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "All Eyez on Me",
-      "artist": "2Pac",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
-      "song_title": "Hate Me Now",
-      "artist": "Nas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
     },
     {
       "song_title": "Showtime",
@@ -67,13 +22,49 @@
       "date": "2020-01-18"
     },
     {
+      "song_title": "Hate Me Now",
+      "artist": "Nas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Showtime",
+      "artist": "Jim Jones & Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1gEPKKr6rA2SoEQnFD5SoN",
+      "event": "UFC 213: Romero vs. Whittaker",
+      "event_slug": "ufc-213",
+      "date": "2017-07-08"
+    },
+    {
+      "song_title": "Showtime",
+      "artist": "Jim Jones and Tum Tum",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
     },
     {
       "song_title": "Summer Sixteen",
@@ -83,6 +74,15 @@
       "event": "UFC on FOX: Maia vs. Condit",
       "event_slug": "ufc-on-fox-maia-vs-condit",
       "date": "2016-08-27"
+    },
+    {
+      "song_title": "Summer, Sixteen",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

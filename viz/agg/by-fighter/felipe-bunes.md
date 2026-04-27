@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ankalaev vs. Walker 2](../../ufc-fight-night-ankalaev-vs-walker-2.md) | We Gotta Power | Completo Portugues BR | [Listen](https://open.spotify.com/track/47dPnCWVGyRjtH04nZmxUv) |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Chico Bateu No Bode | Banda Grafith | [Listen](https://open.spotify.com/track/7ybr42DJG4RoRVNetX7yEv) |
+| [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ankalaev vs. Walker 2](../../ufc-fight-night-ankalaev-vs-walker-2.md) | We Gotta Power | Completo Portugues BR | [Listen](https://open.spotify.com/track/47dPnCWVGyRjtH04nZmxUv) |

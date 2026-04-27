@@ -8,27 +8,9 @@
       "artist": "Marc Anthony",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
-    },
-    {
-      "song_title": "Vivir Mi Vida (Pop Version)",
-      "artist": "Marc Anthony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3JZM6t7gVvH5KNPNjj2Z94",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "Vivir Mi Vida",
-      "artist": "Marc Anthony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
-      "event_slug": "ufc-273",
-      "date": "2022-04-09"
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "Vivir Mi Vida",
@@ -44,9 +26,9 @@
       "artist": "Marc Anthony",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
+      "event": "UFC 273: Volkanovski vs. The Korean Zombie",
+      "event_slug": "ufc-273",
+      "date": "2022-04-09"
     },
     {
       "song_title": "Vivir mi Vida",
@@ -65,6 +47,24 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
+    },
+    {
+      "song_title": "Vivir Mi Vida (Pop Version)",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JZM6t7gVvH5KNPNjj2Z94",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Vivir Mi Vida",
+      "artist": "Marc Anthony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
     }
   ],
   "stats": {

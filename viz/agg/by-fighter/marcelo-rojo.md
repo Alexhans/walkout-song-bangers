@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2022](../agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | DAMAS GRATIS | Perrito Malvado ft. L-Gante & Marita | [Listen](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Thompson vs. Holland](../../ufc-fight-night-thompson-vs-holland.md) | Llegamos los Pibes Chorres | Pibes Chorros | [Listen](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) |
+| [2022](../agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | DAMAS GRATIS | Perrito Malvado ft. L-Gante & Marita | [Listen](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) |

@@ -4,22 +4,31 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Electric Feel",
-      "artist": "MGMT",
+      "song_title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
-      "song_title": "Victory Lap",
-      "artist": "Macklemore X Ryan Lewis",
+      "song_title": "Fly Like an Eagle",
+      "artist": "Seal",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
+      "spotify_url": "https://open.spotify.com/track/5eOhVJhGSUVdhVo2LBHHML",
+      "event": "UFC Fight Night: Sandhagen vs. Font",
+      "event_slug": "ufc-fight-night-sandhagen-vs-font",
+      "date": "2023-08-05"
+    },
+    {
+      "song_title": "Gimme the Loot",
+      "artist": "Notorious B.I.G.",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
+      "event": "UFC Fight Night: Sandhagen vs. Song",
+      "event_slug": "ufc-fight-night-sandhagen-vs-song",
+      "date": "2022-09-17"
     },
     {
       "song_title": "Gimme the Loot",
@@ -40,31 +49,22 @@
       "date": "2021-07-24"
     },
     {
-      "song_title": "Fly Like an Eagle",
-      "artist": "Seal",
+      "song_title": "Victory Lap",
+      "artist": "Macklemore X Ryan Lewis",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5eOhVJhGSUVdhVo2LBHHML",
-      "event": "UFC Fight Night: Sandhagen vs. Font",
-      "event_slug": "ufc-fight-night-sandhagen-vs-font",
-      "date": "2023-08-05"
+      "spotify_url": "https://open.spotify.com/track/4KMj9aLrNc45H9ETYz7IcE",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
-      "song_title": "Voodoo Child (Slight Return)",
-      "artist": "Jimi Hendrix",
+      "song_title": "Electric Feel",
+      "artist": "MGMT",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
-    },
-    {
-      "song_title": "Gimme the Loot",
-      "artist": "Notorious B.I.G.",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
-      "event": "UFC Fight Night: Sandhagen vs. Song",
-      "event_slug": "ufc-fight-night-sandhagen-vs-song",
-      "date": "2022-09-17"
+      "spotify_url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {

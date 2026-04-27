@@ -4,15 +4,6 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "King's Dead",
-      "artist": "Jay Rock, Kendrick Lamar & Future",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
       "song_title": "Made You Look",
       "artist": "Nas",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 276: Adesanya vs. Cannonier",
       "event_slug": "ufc-276",
       "date": "2022-07-02"
+    },
+    {
+      "song_title": "King's Dead",
+      "artist": "Jay Rock, Kendrick Lamar & Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
     },
     {
       "song_title": "Jammin'",

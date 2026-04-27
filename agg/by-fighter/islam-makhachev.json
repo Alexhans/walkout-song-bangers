@@ -4,58 +4,13 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
-    },
-    {
-      "song_title": "Cenroev",
-      "artist": "Lezginka",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
-    },
-    {
       "song_title": "Dreams",
       "artist": "DJ Nariman",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
-    },
-    {
-      "song_title": "Dreams",
-      "artist": "DJ Nariman",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
-      "event": "UFC 284: Makhachev vs. Volkanovski",
-      "event_slug": "ufc-284",
-      "date": "2023-02-11"
-    },
-    {
-      "song_title": "Dreams",
-      "artist": "DJ Nariman",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
-      "event": "UFC 294: Makhachev vs. Volkanovski 2",
-      "event_slug": "ufc-294",
-      "date": "2023-10-21"
+      "event": "UFC 322: Della Maddalena vs. Makhachev",
+      "event_slug": "ufc-322",
+      "date": "2025-11-15"
     },
     {
       "song_title": "Dreams",
@@ -71,9 +26,27 @@
       "artist": "DJ Nariman",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
-      "event": "UFC 322: Della Maddalena vs. Makhachev",
-      "event_slug": "ufc-322",
-      "date": "2025-11-15"
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "event_slug": "ufc-294",
+      "date": "2023-10-21"
+    },
+    {
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "event_slug": "ufc-284",
+      "date": "2023-02-11"
+    },
+    {
+      "song_title": "Dreams",
+      "artist": "DJ Nariman",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0A4zBXxzERH1WI07W3DCbc",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "",
@@ -83,6 +56,33 @@
       "event": "UFC Fight Night: Makhachev vs. Green",
       "event_slug": "ufc-fight-night-makhachev-vs-green",
       "date": "2022-02-26"
+    },
+    {
+      "song_title": "Cenroev",
+      "artist": "Lezginka",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
       "song_title": "Intro",

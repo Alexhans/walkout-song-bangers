@@ -5,51 +5,6 @@
   "walkouts": [
     {
       "song_title": "Baby Baby",
-      "artist": "Topkillaz",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
-    },
-    {
-      "song_title": "Baby Baby",
-      "artist": "Troopkilaz",
-      "confidence": "silver",
-      "spotify_url": "https://open.spotify.com/search/Baby+Baby+Troopkilaz",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 265: Lewis vs. Gane",
-      "event_slug": "ufc-265",
-      "date": "2021-08-07"
-    },
-    {
-      "song_title": "Baby Baby",
       "artist": "Tropkillaz",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
@@ -67,15 +22,6 @@
       "date": "2024-03-30"
     },
     {
-      "song_title": "Baby Baby",
-      "artist": "Tropkillaz",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
-      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
-      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
-      "date": "2016-07-07"
-    },
-    {
       "song_title": "Long Way",
       "artist": "Lathan Warlick feat. KB",
       "confidence": "bronze",
@@ -83,6 +29,15 @@
       "event": "UFC Fight Night: Luque vs. Dos Anjos",
       "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
       "date": "2023-08-12"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Tropkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
+      "event": "UFC Fight Night: Santos vs. Hill",
+      "event_slug": "ufc-fight-night-santos-vs-hill",
+      "date": "2022-08-06"
     },
     {
       "song_title": "Baby Baby",
@@ -94,13 +49,58 @@
       "date": "2022-04-16"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 265: Lewis vs. Gane",
+      "event_slug": "ufc-265",
+      "date": "2021-08-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Troopkilaz",
+      "confidence": "silver",
+      "spotify_url": "https://open.spotify.com/search/Baby+Baby+Troopkilaz",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Baby Baby",
+      "artist": "Topkillaz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa",
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
+    },
+    {
       "song_title": "Baby Baby",
       "artist": "Tropkillaz",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7Mm9djvOgY72LNHpChq6jy",
-      "event": "UFC Fight Night: Santos vs. Hill",
-      "event_slug": "ufc-fight-night-santos-vs-hill",
-      "date": "2022-08-06"
+      "event": "UFC Fight Night: Dos Anjos vs. Alvarez",
+      "event_slug": "ufc-fight-night-dos-anjos-vs-alvarez",
+      "date": "2016-07-07"
     }
   ],
   "stats": {

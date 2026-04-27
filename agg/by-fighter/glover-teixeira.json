@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "All the Way Up",
-      "artist": "Fat Joe",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Vou Colher Sorrindo",
-      "artist": "Pregador Luo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     },
     {
       "song_title": "",
@@ -31,13 +22,13 @@
       "date": "2022-06-11"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
+      "song_title": "Vou Colher Sorrindo",
+      "artist": "Pregador Luo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3ExHNDNupSudhRX5u3pOxc",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
       "song_title": "Sweet Child O Mine",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Gustafsson vs. Teixeira",
       "event_slug": "ufc-fight-night-gustafsson-vs-teixeira",
       "date": "2017-05-28"
+    },
+    {
+      "song_title": "All the Way Up",
+      "artist": "Fat Joe",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

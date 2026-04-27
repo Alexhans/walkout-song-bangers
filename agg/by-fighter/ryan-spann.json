@@ -4,31 +4,13 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "Desperados",
-      "artist": "Andy Mineo",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3JKEjFUqpaPkHrtCD0xEIo",
-      "event": "UFC 237: Namajunas vs. Andrade",
-      "event_slug": "ufc-237",
-      "date": "2019-05-11"
-    },
-    {
-      "song_title": "Smile (Living My Best Life)",
-      "artist": "Lil Duval",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
-      "event": "UFC 249: Ferguson vs. Gaethje",
-      "event_slug": "ufc-249",
-      "date": "2020-05-09"
-    },
-    {
-      "song_title": "I’m a Go Getta",
+      "song_title": "I'm a Go Getta",
       "artist": "Lil Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
+      "spotify_url": "https://open.spotify.com/search/Im%20A%20Go%20Getta%20Lil%20Wayne",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "event_slug": "ufc-318",
+      "date": "2025-07-19"
     },
     {
       "song_title": "Stronger Than Ever",
@@ -40,13 +22,31 @@
       "date": "2024-10-05"
     },
     {
-      "song_title": "I'm a Go Getta",
+      "song_title": "1st of tha Month",
+      "artist": "Bone Thugs N Harmony",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
+    },
+    {
+      "song_title": "Ready or Not",
+      "artist": "The Fugees",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp",
+      "event": "UFC Fight Night: Yan vs. Dvalishvili",
+      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
+      "date": "2023-03-11"
+    },
+    {
+      "song_title": "I’m a Go Getta",
       "artist": "Lil Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Im%20A%20Go%20Getta%20Lil%20Wayne",
-      "event": "UFC 318: Holloway vs. Poirier 3",
-      "event_slug": "ufc-318",
-      "date": "2025-07-19"
+      "spotify_url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "It's Time for War",
@@ -58,15 +58,6 @@
       "date": "2022-05-14"
     },
     {
-      "song_title": "1st of tha Month",
-      "artist": "Bone Thugs N Harmony",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
-    },
-    {
       "song_title": "Go Off",
       "artist": "Zauntee",
       "confidence": "bronze",
@@ -76,13 +67,22 @@
       "date": "2021-09-18"
     },
     {
-      "song_title": "Ready or Not",
-      "artist": "The Fugees",
+      "song_title": "Smile (Living My Best Life)",
+      "artist": "Lil Duval",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp",
-      "event": "UFC Fight Night: Yan vs. Dvalishvili",
-      "event_slug": "ufc-fight-night-yan-vs-dvalishvili",
-      "date": "2023-03-11"
+      "spotify_url": "https://open.spotify.com/track/17jeLyQcEUmKv3MXeEo79k",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "event_slug": "ufc-249",
+      "date": "2020-05-09"
+    },
+    {
+      "song_title": "Desperados",
+      "artist": "Andy Mineo",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3JKEjFUqpaPkHrtCD0xEIo",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "event_slug": "ufc-237",
+      "date": "2019-05-11"
     }
   ],
   "stats": {

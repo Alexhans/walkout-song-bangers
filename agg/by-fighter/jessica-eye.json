@@ -4,40 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Goodtime",
-      "artist": "Lorine Chia and MGK",
+      "song_title": "Praise God",
+      "artist": "Kanye West",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0ngcRWogDo4u6okPI3QpUq",
-      "event": "UFC 203: Miocic vs. Overeem",
-      "event_slug": "ufc-203",
-      "date": "2016-09-10"
-    },
-    {
-      "song_title": "Here I Go Again ‘87",
-      "artist": "Whitesnake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "You Should See Me in a Crown",
-      "artist": "Billie Eilish",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
+      "spotify_url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "event_slug": "ufc-276",
+      "date": "2022-07-02"
     },
     {
       "song_title": "",
@@ -49,13 +22,40 @@
       "date": "2021-07-10"
     },
     {
-      "song_title": "Praise God",
-      "artist": "Kanye West",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
+    {
+      "song_title": "You Should See Me in a Crown",
+      "artist": "Billie Eilish",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T",
-      "event": "UFC 276: Adesanya vs. Cannonier",
-      "event_slug": "ufc-276",
-      "date": "2022-07-02"
+      "spotify_url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
+    },
+    {
+      "song_title": "Here I Go Again ‘87",
+      "artist": "Whitesnake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/58z9sfHe9s9zTvYGKehCWM",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
+    },
+    {
+      "song_title": "Goodtime",
+      "artist": "Lorine Chia and MGK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0ngcRWogDo4u6okPI3QpUq",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "event_slug": "ufc-203",
+      "date": "2016-09-10"
     }
   ],
   "stats": {

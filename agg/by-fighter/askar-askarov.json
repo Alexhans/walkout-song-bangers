@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 246: McGregor vs. Cowboy",
-      "event_slug": "ufc-246",
-      "date": "2020-01-18"
+      "song_title": "We are Heroes",
+      "artist": "Nasheed",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1TayNhoH7cuNwMO8F058Ei",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     },
     {
       "song_title": "We Are Heroes",
@@ -22,13 +22,13 @@
       "date": "2021-03-06"
     },
     {
-      "song_title": "We are Heroes",
-      "artist": "Nasheed",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1TayNhoH7cuNwMO8F058Ei",
-      "event": "UFC Fight Night: Blaydes vs. Daukaus",
-      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
-      "date": "2022-03-26"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 246: McGregor vs. Cowboy",
+      "event_slug": "ufc-246",
+      "date": "2020-01-18"
     }
   ],
   "stats": {

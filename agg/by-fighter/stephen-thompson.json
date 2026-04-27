@@ -4,13 +4,58 @@
   "appearances": 8,
   "walkouts": [
     {
+      "song_title": "Never Get Used to This",
+      "artist": "Forest Frank",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
+    },
+    {
       "song_title": "Wonderboy",
       "artist": "Tenacious D",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
-      "event": "UFC 205: Alvarez vs. McGregor",
-      "event_slug": "ufc-205",
-      "date": "2016-11-12"
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
+    },
+    {
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
+    },
+    {
+      "song_title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "event_slug": "ufc-264",
+      "date": "2021-07-10"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "event_slug": "ufc-244",
+      "date": "2019-11-02"
+    },
+    {
+      "song_title": "Wonderboy",
+      "artist": "Tenacious D",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
     },
     {
       "song_title": "Wonderboy",
@@ -26,54 +71,9 @@
       "artist": "Tenacious D",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 244: Masvidal vs. Diaz",
-      "event_slug": "ufc-244",
-      "date": "2019-11-02"
-    },
-    {
-      "song_title": "Blinding Lights",
-      "artist": "The Weeknd",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
-      "event": "UFC 264: Poirier vs. McGregor 3",
-      "event_slug": "ufc-264",
-      "date": "2021-07-10"
-    },
-    {
-      "song_title": "Wonderboy",
-      "artist": "Tenacious D",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
-    },
-    {
-      "song_title": "Never Get Used to This",
-      "artist": "Forest Frank",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/78sr3ogs4UzITcCNbXM9cM",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
-    },
-    {
-      "song_title": "Wonderboy",
-      "artist": "Tenacious D",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3XPQevBxsl15mKHVsV9nrR",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
+      "event": "UFC 205: Alvarez vs. McGregor",
+      "event_slug": "ufc-205",
+      "date": "2016-11-12"
     }
   ],
   "stats": {

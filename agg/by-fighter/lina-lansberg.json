@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Sail",
-      "artist": "AWOLNATION",
+      "song_title": "Bullwinkle Pt. II",
+      "artist": "The Centurians",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
+      "spotify_url": "https://open.spotify.com/track/5Hn7uZqDarw5VTNX1XluV3",
+      "event": "UFC Fight Night: Andrade vs. Blanchfield",
+      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
+      "date": "2023-02-18"
     },
     {
       "song_title": "Sail",
@@ -22,15 +22,6 @@
       "date": "2022-10-22"
     },
     {
-      "song_title": "Bullwinkle Pt. II",
-      "artist": "The Centurians",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5Hn7uZqDarw5VTNX1XluV3",
-      "event": "UFC Fight Night: Andrade vs. Blanchfield",
-      "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
-      "date": "2023-02-18"
-    },
-    {
       "song_title": "Bullwinkle Part II",
       "artist": "The Centurians",
       "confidence": "bronze",
@@ -38,6 +29,15 @@
       "event": "UFC Fight Night: Luque vs. Muhammad",
       "event_slug": "ufc-fight-night-luque-vs-muhammad",
       "date": "2022-04-16"
+    },
+    {
+      "song_title": "Sail",
+      "artist": "AWOLNATION",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
     }
   ],
   "stats": {

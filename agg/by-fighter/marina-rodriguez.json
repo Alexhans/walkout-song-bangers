@@ -4,22 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
       "song_title": "I’m Shipping Up to Boston",
       "artist": "Dropkick Murphys",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "event": "UFC 307: Pereira vs. Rountree Jr.",
+      "event_slug": "ufc-307",
+      "date": "2024-10-05"
     },
     {
       "song_title": "I'm Shipping Up to Boston",
@@ -31,13 +22,22 @@
       "date": "2024-04-13"
     },
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Fiziev vs. Gamrot",
+      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
+      "date": "2023-09-23"
+    },
+    {
       "song_title": "I’m Shipping Up to Boston",
       "artist": "Dropkick Murphys",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC 307: Pereira vs. Rountree Jr.",
-      "event_slug": "ufc-307",
-      "date": "2024-10-05"
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "I'm Shipping Up To Boston",
@@ -53,9 +53,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC Fight Night: Fiziev vs. Gamrot",
-      "event_slug": "ufc-fight-night-fiziev-vs-gamrot",
-      "date": "2023-09-23"
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     }
   ],
   "stats": {

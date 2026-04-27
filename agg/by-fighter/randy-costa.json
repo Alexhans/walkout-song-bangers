@@ -4,15 +4,6 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Round Here",
-      "artist": "Florida Georgia Line",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
       "song_title": "Cold as You",
       "artist": "Luke Combs",
       "confidence": "bronze",
@@ -29,6 +20,15 @@
       "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
       "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
       "date": "2021-07-24"
+    },
+    {
+      "song_title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/60iJEFH4kWqIXYAtwVxPZJ",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     }
   ],
   "stats": {

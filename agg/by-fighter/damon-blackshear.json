@@ -4,15 +4,6 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Many Men (Wish Death)",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
-    },
-    {
       "song_title": "Drop\nThe World",
       "artist": "Lil Wayne feat. Eminem",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 292: Sterling vs. O'Malley",
       "event_slug": "ufc-292",
       "date": "2023-08-19"
+    },
+    {
+      "song_title": "Whistle Dixie",
+      "artist": "Travis Barker & Yelawolf",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7BWreXddcuK05pXnzkU7wx",
+      "event": "UFC Fight Night: Luque vs. Dos Anjos",
+      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
+      "date": "2023-08-12"
     },
     {
       "song_title": "Superstar",
@@ -31,13 +31,13 @@
       "date": "2023-06-03"
     },
     {
-      "song_title": "Whistle Dixie",
-      "artist": "Travis Barker & Yelawolf",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7BWreXddcuK05pXnzkU7wx",
-      "event": "UFC Fight Night: Luque vs. Dos Anjos",
-      "event_slug": "ufc-fight-night-luque-vs-dos-anjos",
-      "date": "2023-08-12"
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
     },
     {
       "song_title": "Superstar",

@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "My Dagestan",
-      "artist": "Manarsha Hiraeva",
+      "song_title": "My Great People",
+      "artist": "Zumrud Abdulaeva Salam",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/My%20Dagestan%20Manarsha%20Hiraeva",
-      "event": "UFC 296: Edwards vs. Covington",
-      "event_slug": "ufc-296",
-      "date": "2023-12-16"
+      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
+      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
+      "date": "2024-08-03"
     },
     {
       "song_title": "My Great People",
@@ -22,13 +22,13 @@
       "date": "2024-03-02"
     },
     {
-      "song_title": "My Great People",
-      "artist": "Zumrud Abdulaeva Salam",
+      "song_title": "My Dagestan",
+      "artist": "Manarsha Hiraeva",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4CO1pE72lt1FSTytbU89lL",
-      "event": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
-      "event_slug": "ufc-fight-night-sandhagen-vs-nurmagomedov",
-      "date": "2024-08-03"
+      "spotify_url": "https://open.spotify.com/search/My%20Dagestan%20Manarsha%20Hiraeva",
+      "event": "UFC 296: Edwards vs. Covington",
+      "event_slug": "ufc-296",
+      "date": "2023-12-16"
     }
   ],
   "stats": {

@@ -4,31 +4,40 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "Jesus Walks",
-      "artist": "Kanye West",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC 327: Prochazka vs. Ulberg",
+      "event_slug": "ufc-327",
+      "date": "2026-04-11"
     },
     {
-      "song_title": "People Get Up and Drive Your Funky Soul",
-      "artist": "James Brown",
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7FqcsBx3azfOg1gAJkAXje",
-      "event": "UFC 206: Holloway vs. Pettis",
-      "event_slug": "ufc-206",
-      "date": "2016-12-10"
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
+      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
+      "date": "2023-12-02"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
+      "event": "UFC 287: Pereira vs. Adesanya 2",
+      "event_slug": "ufc-287",
+      "date": "2023-04-08"
+    },
+    {
+      "song_title": "El Palenque",
+      "artist": "Vicente Fernandez",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
+      "event": "UFC Fight Night: Cannonier vs. Gastelum",
+      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
+      "date": "2021-08-21"
     },
     {
       "song_title": "",
@@ -44,36 +53,27 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 287: Pereira vs. Adesanya 2",
-      "event_slug": "ufc-287",
-      "date": "2023-04-08"
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     },
     {
-      "song_title": "El Palenque",
-      "artist": "Vicente Fernandez",
-      "confidence": "gold",
-      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
-      "event": "UFC 327: Prochazka vs. Ulberg",
-      "event_slug": "ufc-327",
-      "date": "2026-04-11"
-    },
-    {
-      "song_title": "El Palenque",
-      "artist": "Vicente Fernandez",
+      "song_title": "People Get Up and Drive Your Funky Soul",
+      "artist": "James Brown",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
-      "event": "UFC Fight Night: Cannonier vs. Gastelum",
-      "event_slug": "ufc-fight-night-cannonier-vs-gastelum",
-      "date": "2021-08-21"
+      "spotify_url": "https://open.spotify.com/track/7FqcsBx3azfOg1gAJkAXje",
+      "event": "UFC 206: Holloway vs. Pettis",
+      "event_slug": "ufc-206",
+      "date": "2016-12-10"
     },
     {
-      "song_title": "El Palenque",
-      "artist": "Vicente Fernandez",
+      "song_title": "Jesus Walks",
+      "artist": "Kanye West",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5vNR67nERBlZnAAyKHDugz",
-      "event": "UFC Fight Night: Dariush vs. Tsarukyan",
-      "event_slug": "ufc-fight-night-dariush-vs-tsarukyan",
-      "date": "2023-12-02"
+      "spotify_url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

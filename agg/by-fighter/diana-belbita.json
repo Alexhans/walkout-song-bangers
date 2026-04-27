@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "God's Plan",
-      "artist": "Drake",
+      "song_title": "Watch Me Shine",
+      "artist": "Bianca Belair entrance theme",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn",
-      "event": "UFC 289: Nunes vs. Aldana",
-      "event_slug": "ufc-289",
-      "date": "2023-06-10"
+      "spotify_url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj",
+      "event": "UFC Fight Night: Dolidze vs. Imavov",
+      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
+      "date": "2024-02-03"
     },
     {
       "song_title": "Cat Poti Tu De Tare",
@@ -22,22 +22,13 @@
       "date": "2023-10-07"
     },
     {
-      "song_title": "Watch Me Shine",
-      "artist": "Bianca Belair entrance theme",
+      "song_title": "God's Plan",
+      "artist": "Drake",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj",
-      "event": "UFC Fight Night: Dolidze vs. Imavov",
-      "event_slug": "ufc-fight-night-dolidze-vs-imavov",
-      "date": "2024-02-03"
-    },
-    {
-      "song_title": "Legend",
-      "artist": "Adrian Von Ziegler",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1qk2F0nXPO7TuwBV6DQiY6",
-      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
-      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
-      "date": "2021-07-24"
+      "spotify_url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "event_slug": "ufc-289",
+      "date": "2023-06-10"
     },
     {
       "song_title": "Celtic Music",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Walker vs. Hill",
       "event_slug": "ufc-fight-night-walker-vs-hill",
       "date": "2022-02-19"
+    },
+    {
+      "song_title": "Legend",
+      "artist": "Adrian Von Ziegler",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1qk2F0nXPO7TuwBV6DQiY6",
+      "event": "UFC Fight Night: Sandhagen vs. Dillashaw",
+      "event_slug": "ufc-fight-night-sandhagen-vs-dillashaw",
+      "date": "2021-07-24"
     }
   ],
   "stats": {

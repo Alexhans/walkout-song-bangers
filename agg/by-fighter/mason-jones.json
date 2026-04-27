@@ -4,6 +4,15 @@
   "appearances": 3,
   "walkouts": [
     {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Evloev vs. Murphy",
+      "event_slug": "ufc-fight-night-evloev-vs-murphy",
+      "date": "2026-03-21"
+    },
+    {
       "song_title": "Logic",
       "artist": "Broken People",
       "confidence": "bronze",
@@ -20,15 +29,6 @@
       "event": "UFC Fight Night: Costa vs. Vettori",
       "event_slug": "ufc-fight-night-costa-vs-vettori",
       "date": "2021-10-23"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC Fight Night: Evloev vs. Murphy",
-      "event_slug": "ufc-fight-night-evloev-vs-murphy",
-      "date": "2026-03-21"
     }
   ],
   "stats": {

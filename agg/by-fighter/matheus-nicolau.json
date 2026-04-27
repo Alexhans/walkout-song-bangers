@@ -4,22 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Convoque Seu Buda",
-      "artist": "Criolo",
+      "song_title": "The Boss",
+      "artist": "James Brown",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E",
-      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
-      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
-      "date": "2016-07-08"
+      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
+      "event": "UFC Fight Night: Nicolau vs. Perez",
+      "event_slug": "ufc-fight-night-nicolau-vs-perez",
+      "date": "2024-04-27"
     },
     {
-      "song_title": "Back on the Path",
-      "artist": "Marcin Przbylowicz & Percival Schuttenbach",
+      "song_title": "Teen Town",
+      "artist": "Jaco Pastorious",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
+      "spotify_url": "https://open.spotify.com/track/7Mx866dtWgtR0WUDRLqnrY",
+      "event": "UFC Fight Night: Thompson vs. Holland",
+      "event_slug": "ufc-fight-night-thompson-vs-holland",
+      "date": "2022-12-03"
     },
     {
       "song_title": "Teen Town",
@@ -40,22 +40,22 @@
       "date": "2021-10-09"
     },
     {
-      "song_title": "The Boss",
-      "artist": "James Brown",
+      "song_title": "Back on the Path",
+      "artist": "Marcin Przbylowicz & Percival Schuttenbach",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1",
-      "event": "UFC Fight Night: Nicolau vs. Perez",
-      "event_slug": "ufc-fight-night-nicolau-vs-perez",
-      "date": "2024-04-27"
+      "spotify_url": "https://open.spotify.com/track/7o2pVCLX5TRPhHDYzA3lWb",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
-      "song_title": "Teen Town",
-      "artist": "Jaco Pastorious",
+      "song_title": "Convoque Seu Buda",
+      "artist": "Criolo",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7Mx866dtWgtR0WUDRLqnrY",
-      "event": "UFC Fight Night: Thompson vs. Holland",
-      "event_slug": "ufc-fight-night-thompson-vs-holland",
-      "date": "2022-12-03"
+      "spotify_url": "https://open.spotify.com/track/2xsLPQ4UHFYdqmGwS7wQ1E",
+      "event": "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+      "event_slug": "the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale",
+      "date": "2016-07-08"
     }
   ],
   "stats": {

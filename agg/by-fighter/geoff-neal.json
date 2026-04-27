@@ -4,31 +4,13 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "Don’t Push Me",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
-    },
-    {
       "song_title": "Hypnosis",
       "artist": "Sleep Token",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
-      "event": "UFC 269: Oliveira vs. Poirier",
-      "event_slug": "ufc-269",
-      "date": "2021-12-11"
-    },
-    {
-      "song_title": "Hypnosis",
-      "artist": "Sleep Token",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
-      "event": "UFC 285: Jones vs. Gane",
-      "event_slug": "ufc-285",
-      "date": "2023-03-04"
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "Hypnosis",
@@ -44,6 +26,15 @@
       "artist": "Sleep Token",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "event": "UFC 285: Jones vs. Gane",
+      "event_slug": "ufc-285",
+      "date": "2023-03-04"
+    },
+    {
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
       "event": "UFC Fight Night: Santos vs. Hill",
       "event_slug": "ufc-fight-night-santos-vs-hill",
       "date": "2022-08-06"
@@ -53,9 +44,18 @@
       "artist": "Sleep Token",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "event": "UFC 269: Oliveira vs. Poirier",
+      "event_slug": "ufc-269",
+      "date": "2021-12-11"
+    },
+    {
+      "song_title": "Don’t Push Me",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     }
   ],
   "stats": {

@@ -4,22 +4,22 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
+      "song_title": "I’m An Island Boy",
+      "artist": "Flyysoulja, Kodiyakredd",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JNUBfWGs8kNl7k47Hvpgd",
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
-      "song_title": "Island Boy",
-      "artist": "The Kiffness and Island Boys",
+      "song_title": "That’s Life",
+      "artist": "Frank Sinatra",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2KQDDcp5ZDx372Y3kIVeA6",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
+      "spotify_url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
+      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
+      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
+      "date": "2024-03-30"
     },
     {
       "song_title": "Empire State of Mind",
@@ -40,22 +40,22 @@
       "date": "2022-05-14"
     },
     {
-      "song_title": "That’s Life",
-      "artist": "Frank Sinatra",
+      "song_title": "Island Boy",
+      "artist": "The Kiffness and Island Boys",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm",
-      "event": "UFC Fight Night: Blanchfield vs. Fiorot",
-      "event_slug": "ufc-fight-night-blanchfield-vs-fiorot",
-      "date": "2024-03-30"
+      "spotify_url": "https://open.spotify.com/track/2KQDDcp5ZDx372Y3kIVeA6",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
     },
     {
-      "song_title": "I’m An Island Boy",
-      "artist": "Flyysoulja, Kodiyakredd",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6JNUBfWGs8kNl7k47Hvpgd",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     }
   ],
   "stats": {

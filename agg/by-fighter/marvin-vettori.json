@@ -8,45 +8,9 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Falling Away from Me",
-      "artist": "Korn",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
-    },
-    {
-      "song_title": "Down With the Sickness",
-      "artist": "Disturbed",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
-    },
-    {
-      "song_title": "Victory",
-      "artist": "Diddy feat. Notorious B.I.G. and Busta Rhymes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
-      "event": "UFC 286: Edwards vs. Usman 3",
-      "event_slug": "ufc-286-edwards-vs-usman-3",
-      "date": "2023-03-18"
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_slug": "ufc-323",
+      "date": "2025-12-06"
     },
     {
       "song_title": "Eye of the Tiger",
@@ -58,13 +22,22 @@
       "date": "2025-07-19"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 323: Dvalishvili vs. Yan 2",
-      "event_slug": "ufc-323",
-      "date": "2025-12-06"
+      "song_title": "Victory",
+      "artist": "Diddy feat. Notorious B.I.G. and Busta Rhymes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "event_slug": "ufc-286-edwards-vs-usman-3",
+      "date": "2023-03-18"
+    },
+    {
+      "song_title": "Fratelli D'Itaalia",
+      "artist": "Inno di Mameli",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5rTMn6Cz9MsIqMDVnK9xtu",
+      "event": "UFC Fight Night: Gane vs. Tuivasa",
+      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
+      "date": "2022-09-03"
     },
     {
       "song_title": "The Italian Dream",
@@ -76,13 +49,40 @@
       "date": "2021-10-23"
     },
     {
-      "song_title": "Fratelli D'Itaalia",
-      "artist": "Inno di Mameli",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
+    },
+    {
+      "song_title": "Down With the Sickness",
+      "artist": "Disturbed",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5rTMn6Cz9MsIqMDVnK9xtu",
-      "event": "UFC Fight Night: Gane vs. Tuivasa",
-      "event_slug": "ufc-fight-night-gane-vs-tuivasa",
-      "date": "2022-09-03"
+      "spotify_url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
+    },
+    {
+      "song_title": "Falling Away from Me",
+      "artist": "Korn",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
     }
   ],
   "stats": {

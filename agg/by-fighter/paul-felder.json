@@ -4,13 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Thunder",
-      "artist": "Imagine Dragons",
+      "song_title": "Motownphilly / Hey Look Ma, I Made It",
+      "artist": "Boyz II Men / Panic! At the Disco",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
-      "event": "UFC 218: Holloway vs. Aldo 2",
-      "event_slug": "ufc-218",
-      "date": "2017-12-02"
+      "spotify_url": "https://open.spotify.com/search/Motownphilly%20/%20Hey%20Look%20Ma%2C%20I%20Made%20It%20Boyz%20II%20Men%20/%20Panic%21%20At%20the%20Disco",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "event_slug": "ufc-242",
+      "date": "2019-09-07"
     },
     {
       "song_title": "",
@@ -22,22 +22,13 @@
       "date": "2018-07-07"
     },
     {
-      "song_title": "Motownphilly / Hey Look Ma, I Made It",
-      "artist": "Boyz II Men / Panic! At the Disco",
+      "song_title": "Thunder",
+      "artist": "Imagine Dragons",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Motownphilly%20/%20Hey%20Look%20Ma%2C%20I%20Made%20It%20Boyz%20II%20Men%20/%20Panic%21%20At%20the%20Disco",
-      "event": "UFC 242: Khabib vs. Poirier",
-      "event_slug": "ufc-242",
-      "date": "2019-09-07"
-    },
-    {
-      "song_title": "Shipping Up to Boston",
-      "artist": "Dropkick Murphys",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
-      "event": "UFC Fight Night: Lewis vs. Browne",
-      "event_slug": "ufc-fight-night-lewis-vs-browne",
-      "date": "2017-02-19"
+      "spotify_url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "event_slug": "ufc-218",
+      "date": "2017-12-02"
     },
     {
       "song_title": "Shipping Up to Boston (Merc Dudes in Brooklyn Remix)",
@@ -47,6 +38,15 @@
       "event": "UFC Fight Night: Nelson vs. Ponzinibbio",
       "event_slug": "ufc-fight-night-nelson-vs-ponzinibbio",
       "date": "2017-07-16"
+    },
+    {
+      "song_title": "Shipping Up to Boston",
+      "artist": "Dropkick Murphys",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc",
+      "event": "UFC Fight Night: Lewis vs. Browne",
+      "event_slug": "ufc-fight-night-lewis-vs-browne",
+      "date": "2017-02-19"
     }
   ],
   "stats": {

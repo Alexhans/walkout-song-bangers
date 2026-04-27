@@ -4,13 +4,13 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "Let’s Twist Again",
-      "artist": "Chubby Checker",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
-      "event": "UFC 207: Nunes vs. Rousey",
-      "event_slug": "ufc-207",
-      "date": "2016-12-30"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
     },
     {
       "song_title": "Let's Twist Again",
@@ -22,13 +22,13 @@
       "date": "2017-06-03"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
+      "song_title": "Let’s Twist Again",
+      "artist": "Chubby Checker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W",
+      "event": "UFC 207: Nunes vs. Rousey",
+      "event_slug": "ufc-207",
+      "date": "2016-12-30"
     },
     {
       "song_title": "Let's Twist Again",

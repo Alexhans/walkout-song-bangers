@@ -4,22 +4,49 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "The Greatest",
-      "artist": "Six60",
+      "song_title": "Maori Ki Te Ao",
+      "artist": "Stan Walker",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js",
-      "event": "UFC 245: Usman vs. Covington",
-      "event_slug": "ufc-245",
-      "date": "2019-12-14"
+      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "event_slug": "ufc-317",
+      "date": "2025-06-28"
+    },
+    {
+      "song_title": "Māori Ki Te Ao",
+      "artist": "Stan Walker",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "event_slug": "ufc-305",
+      "date": "2024-08-17"
+    },
+    {
+      "song_title": "Not Many",
+      "artist": "Scribe feat. Savage",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4MYPhAqmZxyBMBFknBhZHl",
+      "event": "UFC Fight Night: Kara-France vs. Albazi",
+      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
+      "date": "2023-06-03"
     },
     {
       "song_title": "Poi E",
       "artist": "Patea Maori Club",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
+      "event": "UFC 277: Pena vs. Nunes 2",
+      "event_slug": "ufc-277",
+      "date": "2022-07-30"
+    },
+    {
+      "song_title": "Poi E",
+      "artist": "Patea Maori Club",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
+      "event": "UFC Fight Night: Blaydes vs. Daukaus",
+      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
+      "date": "2022-03-26"
     },
     {
       "song_title": "Poi E",
@@ -35,45 +62,18 @@
       "artist": "Patea Maori Club",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
-      "event": "UFC 277: Pena vs. Nunes 2",
-      "event_slug": "ufc-277",
-      "date": "2022-07-30"
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
-      "song_title": "Māori Ki Te Ao",
-      "artist": "Stan Walker",
+      "song_title": "The Greatest",
+      "artist": "Six60",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
-      "event": "UFC 305: Du Plessis vs. Adesanya",
-      "event_slug": "ufc-305",
-      "date": "2024-08-17"
-    },
-    {
-      "song_title": "Maori Ki Te Ao",
-      "artist": "Stan Walker",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz",
-      "event": "UFC 317: Topuria vs. Oliveira",
-      "event_slug": "ufc-317",
-      "date": "2025-06-28"
-    },
-    {
-      "song_title": "Poi E",
-      "artist": "Patea Maori Club",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/7B9N3ekgkOuFRWqjHjDnca",
-      "event": "UFC Fight Night: Blaydes vs. Daukaus",
-      "event_slug": "ufc-fight-night-blaydes-vs-daukaus",
-      "date": "2022-03-26"
-    },
-    {
-      "song_title": "Not Many",
-      "artist": "Scribe feat. Savage",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4MYPhAqmZxyBMBFknBhZHl",
-      "event": "UFC Fight Night: Kara-France vs. Albazi",
-      "event_slug": "ufc-fight-night-kara-france-vs-albazi",
-      "date": "2023-06-03"
+      "spotify_url": "https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js",
+      "event": "UFC 245: Usman vs. Covington",
+      "event_slug": "ufc-245",
+      "date": "2019-12-14"
     }
   ],
   "stats": {

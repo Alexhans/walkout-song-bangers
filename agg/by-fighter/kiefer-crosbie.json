@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "The Rocky Road to Dublin",
-      "artist": "The Dubliners",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2u2olzUT4gYEwpPDOOK4ld",
-      "event": "UFC 293: Adesanya vs. Strickland",
-      "event_slug": "ufc-293",
-      "date": "2023-09-09"
-    },
-    {
       "song_title": "Daddy Cool",
       "artist": "Boney M.",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC 304: Edwards vs. Muhammad 2",
       "event_slug": "ufc-304",
       "date": "2024-07-27"
+    },
+    {
+      "song_title": "The Rocky Road to Dublin",
+      "artist": "The Dubliners",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2u2olzUT4gYEwpPDOOK4ld",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "event_slug": "ufc-293",
+      "date": "2023-09-09"
     }
   ],
   "stats": {

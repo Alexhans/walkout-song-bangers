@@ -4,60 +4,6 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "No Games",
-      "artist": "Rick Ross feat. Future",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
-      "event": "UFC 197: Jones vs Saint Preux",
-      "event_slug": "ufc-197-jones-vs-saint-preux",
-      "date": "2016-04-23"
-    },
-    {
-      "song_title": "Skrilla",
-      "artist": "Kodiak Black",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
-    },
-    {
-      "song_title": "Push It",
-      "artist": "Rick Ross",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
-      "event": "UFC 217: Bisping vs. St-Pierre",
-      "event_slug": "ufc-217",
-      "date": "2017-11-04"
-    },
-    {
-      "song_title": "Push It",
-      "artist": "Rick Ross",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
-      "event": "UFC 229: Khabib vs McGregor",
-      "event_slug": "ufc-229",
-      "date": "2018-10-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 274: Oliveira vs. Gaethje",
-      "event_slug": "ufc-274",
-      "date": "2022-05-07"
-    },
-    {
       "song_title": "Purple Lamborghini",
       "artist": "Skrillex and Rick Ross",
       "confidence": "bronze",
@@ -71,9 +17,54 @@
       "artist": "Rick Ross",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC Fight Night: Tuivasa vs. Tybura",
+      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
+      "date": "2024-03-16"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
       "event": "UFC Fight Night: Andrade vs. Blanchfield",
       "event_slug": "ufc-fight-night-andrade-vs-blanchfield",
       "date": "2023-02-18"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "event_slug": "ufc-274",
+      "date": "2022-05-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC 229: Khabib vs McGregor",
+      "event_slug": "ufc-229",
+      "date": "2018-10-06"
+    },
+    {
+      "song_title": "Push It",
+      "artist": "Rick Ross",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
+      "event": "UFC 217: Bisping vs. St-Pierre",
+      "event_slug": "ufc-217",
+      "date": "2017-11-04"
     },
     {
       "song_title": "Purple Lamborghini",
@@ -85,13 +76,22 @@
       "date": "2017-02-04"
     },
     {
-      "song_title": "Push It",
-      "artist": "Rick Ross",
+      "song_title": "Skrilla",
+      "artist": "Kodiak Black",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK",
-      "event": "UFC Fight Night: Tuivasa vs. Tybura",
-      "event_slug": "ufc-fight-night-tuivasa-vs-tybura",
-      "date": "2024-03-16"
+      "spotify_url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
+    },
+    {
+      "song_title": "No Games",
+      "artist": "Rick Ross feat. Future",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3WU2blK7YBcugEEU9CATvF",
+      "event": "UFC 197: Jones vs Saint Preux",
+      "event_slug": "ufc-197-jones-vs-saint-preux",
+      "date": "2016-04-23"
     }
   ],
   "stats": {

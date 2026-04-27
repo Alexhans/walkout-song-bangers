@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 236: Holloway vs. Poirier 2",
-      "event_slug": "ufc-236",
-      "date": "2019-04-13"
+      "song_title": "Welcome Back",
+      "artist": "Mase",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4",
+      "event": "UFC Fight Night: Ladd vs. Dumont",
+      "event_slug": "ufc-fight-night-ladd-vs-dumont",
+      "date": "2021-10-16"
     },
     {
       "song_title": "",
@@ -22,13 +22,13 @@
       "date": "2019-08-17"
     },
     {
-      "song_title": "Welcome Back",
-      "artist": "Mase",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2XQY54Im8VrO4sd2tAmiv4",
-      "event": "UFC Fight Night: Ladd vs. Dumont",
-      "event_slug": "ufc-fight-night-ladd-vs-dumont",
-      "date": "2021-10-16"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "event_slug": "ufc-236",
+      "date": "2019-04-13"
     }
   ],
   "stats": {

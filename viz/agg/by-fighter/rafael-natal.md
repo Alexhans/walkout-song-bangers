@@ -4,5 +4,5 @@
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2016](../agg/by-year/2016.md) | [UFC 197: Jones vs Saint Preux](../../ufc-197-jones-vs-saint-preux.md) | — | — | |
 | [2016](../agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](../../ufc-205.md) | — | — | |
+| [2016](../agg/by-year/2016.md) | [UFC 197: Jones vs Saint Preux](../../ufc-197-jones-vs-saint-preux.md) | — | — | |

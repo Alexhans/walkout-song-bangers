@@ -4,49 +4,13 @@
   "appearances": 7,
   "walkouts": [
     {
-      "song_title": "Return of the Mack",
-      "artist": "Mark Morrison",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
-      "event": "UFC 200: Tate vs. Nunes",
-      "event_slug": "ufc-200",
-      "date": "2016-07-09"
-    },
-    {
-      "song_title": "Mama Said Knock You Out",
-      "artist": "LL Cool J/\"Right Above It\" by Lil' Wayne feat. Drake",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
-      "event": "UFC 210: Cormier vs. Johnson 2",
-      "event_slug": "ufc-210-cormier-vs-johnson-2",
-      "date": "2017-04-08"
-    },
-    {
-      "song_title": "When We Ride on Our Enemies/Right Above It",
-      "artist": "Tupac/Lil' Wayne",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
-    },
-    {
-      "song_title": "Movin On Up",
-      "artist": "Primal Scream",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
       "song_title": "When We Ride on Our Enemies / Right Above It",
-      "artist": "Tupac / Lil Wayne",
+      "artist": "2Pac / Lil Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%20Tupac",
-      "event": "UFC 230: Cormier vs. Lewis",
-      "event_slug": "ufc-230",
-      "date": "2018-11-03"
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "event_slug": "ufc-252",
+      "date": "2020-08-15"
     },
     {
       "song_title": "Right Above It",
@@ -59,12 +23,48 @@
     },
     {
       "song_title": "When We Ride on Our Enemies / Right Above It",
-      "artist": "2Pac / Lil Wayne",
+      "artist": "Tupac / Lil Wayne",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%202Pac",
-      "event": "UFC 252: Miocic vs. Cormier 3",
-      "event_slug": "ufc-252",
-      "date": "2020-08-15"
+      "spotify_url": "https://open.spotify.com/search/When%20We%20Ride%20on%20Our%20Enemies%20Tupac",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "event_slug": "ufc-230",
+      "date": "2018-11-03"
+    },
+    {
+      "song_title": "Movin On Up",
+      "artist": "Primal Scream",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "When We Ride on Our Enemies/Right Above It",
+      "artist": "Tupac/Lil' Wayne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
+    },
+    {
+      "song_title": "Mama Said Knock You Out",
+      "artist": "LL Cool J/\"Right Above It\" by Lil' Wayne feat. Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw",
+      "event": "UFC 210: Cormier vs. Johnson 2",
+      "event_slug": "ufc-210-cormier-vs-johnson-2",
+      "date": "2017-04-08"
+    },
+    {
+      "song_title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9",
+      "event": "UFC 200: Tate vs. Nunes",
+      "event_slug": "ufc-200",
+      "date": "2016-07-09"
     }
   ],
   "stats": {

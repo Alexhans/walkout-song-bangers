@@ -8,9 +8,9 @@
       "artist": "Jay Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC 295: Prochazka vs. Pereira",
-      "event_slug": "ufc-295",
-      "date": "2023-11-11"
+      "event": "UFC Fight Night: Moicano vs. Duncan",
+      "event_slug": "ufc-fight-night-moicano-vs-duncan",
+      "date": "2026-04-04"
     },
     {
       "song_title": "",
@@ -26,9 +26,9 @@
       "artist": "Jay Z feat. Rihanna",
       "confidence": "bronze",
       "spotify_url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "event": "UFC Fight Night: Moicano vs. Duncan",
-      "event_slug": "ufc-fight-night-moicano-vs-duncan",
-      "date": "2026-04-04"
+      "event": "UFC 295: Prochazka vs. Pereira",
+      "event_slug": "ufc-295",
+      "date": "2023-11-11"
     }
   ],
   "stats": {

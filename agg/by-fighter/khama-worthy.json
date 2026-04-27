@@ -4,15 +4,6 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "Humble and Kind",
-      "artist": "Tim McGraw",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
-    },
-    {
       "song_title": "Still Here",
       "artist": "Drake",
       "confidence": "bronze",
@@ -20,6 +11,15 @@
       "event": "UFC Fight Night: Costa vs. Vettori",
       "event_slug": "ufc-fight-night-costa-vs-vettori",
       "date": "2021-10-23"
+    },
+    {
+      "song_title": "Humble and Kind",
+      "artist": "Tim McGraw",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
     }
   ],
   "stats": {

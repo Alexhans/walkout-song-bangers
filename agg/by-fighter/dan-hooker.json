@@ -4,76 +4,13 @@
   "appearances": 12,
   "walkouts": [
     {
-      "song_title": "Runnin'",
-      "artist": "David Dallas",
+      "song_title": "Hold Ya Head",
+      "artist": "The Notorious B.I.G., Bob Marley & The Wailers",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
-      "event": "UFC 219: Cyborg vs. Holm",
-      "event_slug": "ufc-219",
-      "date": "2017-12-30"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 226: Miocic vs. Cormier",
-      "event_slug": "ufc-226",
-      "date": "2018-07-07"
-    },
-    {
-      "song_title": "Working Class Man",
-      "artist": "Jimmy Barnes",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6yFftsAO3CSxyeDkqSA4bV",
-      "event": "UFC 243: Whittaker vs. Adesanya",
-      "event_slug": "ufc-243",
-      "date": "2019-10-05"
-    },
-    {
-      "song_title": "Son of the Dirty South",
-      "artist": "Brantley Gilbert and Jelly Roll",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
-      "event": "UFC 257: Poirier vs. McGregor 2",
-      "event_slug": "ufc-257",
-      "date": "2021-01-23"
-    },
-    {
-      "song_title": "MANY MEN WISH DEATH",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 266: Volkanovski vs. Ortega",
-      "event_slug": "ufc-266",
-      "date": "2021-09-25"
-    },
-    {
-      "song_title": "Many Men (Wish Death)",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "event": "UFC 267: Blachowicz vs. Teixeira",
-      "event_slug": "ufc-267-blachowicz-vs-teixeira",
-      "date": "2021-10-30"
-    },
-    {
-      "song_title": "God Gave Me Style",
-      "artist": "50 Cent",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
-      "event": "UFC 281: Adesanya vs. Pereira",
-      "event_slug": "ufc-281",
-      "date": "2022-11-12"
-    },
-    {
-      "song_title": "Son of the Dirty South",
-      "artist": "Brantley Gilbert and Jelly Roll",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
-      "event": "UFC 290: Volkanovski vs. Rodriguez",
-      "event_slug": "ufc-290",
-      "date": "2023-07-08"
+      "spotify_url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_slug": "ufc-325",
+      "date": "2026-01-31"
     },
     {
       "song_title": "Who I Smoke",
@@ -85,13 +22,22 @@
       "date": "2024-08-17"
     },
     {
-      "song_title": "Hold Ya Head",
-      "artist": "The Notorious B.I.G., Bob Marley & The Wailers",
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif",
-      "event": "UFC 325: Volkanovski vs. Lopes 2",
-      "event_slug": "ufc-325",
-      "date": "2026-01-31"
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "event_slug": "ufc-290",
+      "date": "2023-07-08"
+    },
+    {
+      "song_title": "God Gave Me Style",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5NoB3TXQDvVClLnC1lXdPt",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "event_slug": "ufc-281",
+      "date": "2022-11-12"
     },
     {
       "song_title": "Working Class Man",
@@ -101,6 +47,60 @@
       "event": "UFC Fight Night: Volkov vs. Aspinall",
       "event_slug": "ufc-fight-night-volkov-vs-aspinall",
       "date": "2022-03-19"
+    },
+    {
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 267: Blachowicz vs. Teixeira",
+      "event_slug": "ufc-267-blachowicz-vs-teixeira",
+      "date": "2021-10-30"
+    },
+    {
+      "song_title": "MANY MEN WISH DEATH",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "event_slug": "ufc-266",
+      "date": "2021-09-25"
+    },
+    {
+      "song_title": "Son of the Dirty South",
+      "artist": "Brantley Gilbert and Jelly Roll",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "event_slug": "ufc-257",
+      "date": "2021-01-23"
+    },
+    {
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6yFftsAO3CSxyeDkqSA4bV",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "event_slug": "ufc-243",
+      "date": "2019-10-05"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "event_slug": "ufc-226",
+      "date": "2018-07-07"
+    },
+    {
+      "song_title": "Runnin'",
+      "artist": "David Dallas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "event_slug": "ufc-219",
+      "date": "2017-12-30"
     },
     {
       "song_title": "Not Many",

@@ -4,40 +4,40 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "Big Rich Town",
-      "artist": "50 Cent",
+      "song_title": "I Love",
+      "artist": "Joyner Lucas",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/6J8sIQRDr96yMAj2OquEkj",
-      "event": "UFC 214: Cormier vs. Jones 2",
-      "event_slug": "ufc-214",
-      "date": "2017-07-29"
+      "spotify_url": "https://open.spotify.com/track/5cEqfElQEKHTsZsoMaYRWB",
+      "event": "UFC 300: Pereira vs. Hill",
+      "event_slug": "ufc-300",
+      "date": "2024-04-13"
+    },
+    {
+      "song_title": "Blackout / I Love",
+      "artist": "Joyner Lucas",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Blackout%20/%20I%20Love%20Joyner%20Lucas",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "event_slug": "ufc-292",
+      "date": "2023-08-19"
+    },
+    {
+      "song_title": "Empire State of Mind",
+      "artist": "Jay Z and Alica Keys, “It’s All About the Benjamins” by Puff Daddy, “Go Dumb” by Aljamain Sterling and “Just Wanna Rock” by Lil’ Uzi Vert",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "event_slug": "ufc-288",
+      "date": "2023-05-06"
     },
     {
       "song_title": "",
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 238: Cejudo vs. Moraes",
-      "event_slug": "ufc-238",
-      "date": "2019-06-08"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 250: Nunes vs. Spencer",
-      "event_slug": "ufc-250",
-      "date": "2020-06-06"
-    },
-    {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 259: Blachowicz vs. Adesanya",
-      "event_slug": "ufc-259",
-      "date": "2021-03-06"
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "event_slug": "ufc-280",
+      "date": "2022-10-22"
     },
     {
       "song_title": "",
@@ -53,36 +53,36 @@
       "artist": "",
       "confidence": "missing",
       "spotify_url": "",
-      "event": "UFC 280: Oliveira vs. Makhachev",
-      "event_slug": "ufc-280",
-      "date": "2022-10-22"
+      "event": "UFC 259: Blachowicz vs. Adesanya",
+      "event_slug": "ufc-259",
+      "date": "2021-03-06"
     },
     {
-      "song_title": "Empire State of Mind",
-      "artist": "Jay Z and Alica Keys, “It’s All About the Benjamins” by Puff Daddy, “Go Dumb” by Aljamain Sterling and “Just Wanna Rock” by Lil’ Uzi Vert",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "event": "UFC 288: Sterling vs. Cejudo",
-      "event_slug": "ufc-288",
-      "date": "2023-05-06"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "event_slug": "ufc-250",
+      "date": "2020-06-06"
     },
     {
-      "song_title": "Blackout / I Love",
-      "artist": "Joyner Lucas",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Blackout%20/%20I%20Love%20Joyner%20Lucas",
-      "event": "UFC 292: Sterling vs. O'Malley",
-      "event_slug": "ufc-292",
-      "date": "2023-08-19"
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "event_slug": "ufc-238",
+      "date": "2019-06-08"
     },
     {
-      "song_title": "I Love",
-      "artist": "Joyner Lucas",
+      "song_title": "Big Rich Town",
+      "artist": "50 Cent",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5cEqfElQEKHTsZsoMaYRWB",
-      "event": "UFC 300: Pereira vs. Hill",
-      "event_slug": "ufc-300",
-      "date": "2024-04-13"
+      "spotify_url": "https://open.spotify.com/track/6J8sIQRDr96yMAj2OquEkj",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "event_slug": "ufc-214",
+      "date": "2017-07-29"
     },
     {
       "song_title": "Bounce Back",

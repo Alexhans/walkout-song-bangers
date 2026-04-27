@@ -4,31 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "Don't Make Enemies With Me (Part 2)",
-      "artist": "Tupac feat. Outlawz",
+      "song_title": "The Rain / Used To / Cant C Me / Last Ones Left",
+      "artist": "DMX",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA",
-      "event": "UFC 196: McGregor vs Diaz",
-      "event_slug": "ufc-196-mcgregor-vs-diaz",
-      "date": "2016-03-05"
-    },
-    {
-      "song_title": "Ambitionz az a Ridah",
-      "artist": "Tupac",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "event": "UFC 202: Diaz vs. McGregor 2",
-      "event_slug": "ufc-202",
-      "date": "2016-08-20"
-    },
-    {
-      "song_title": "Gangsta's Paradise",
-      "artist": "Coolio",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
-      "event": "UFC 241: Cormier vs. Miocic 2",
-      "event_slug": "ufc-241",
-      "date": "2019-08-17"
+      "spotify_url": "https://open.spotify.com/search/The%20Rain%20/%20Used%20To%20/%20Cant%20C%20Me%20/%20Last%20Ones%20Left%20DMX",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "event_slug": "ufc-263",
+      "date": "2021-06-12"
     },
     {
       "song_title": "Used To / Trained to Go / The Way I Am / Out on Bail",
@@ -40,13 +22,31 @@
       "date": "2019-11-02"
     },
     {
-      "song_title": "The Rain / Used To / Cant C Me / Last Ones Left",
-      "artist": "DMX",
+      "song_title": "Gangsta's Paradise",
+      "artist": "Coolio",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/The%20Rain%20/%20Used%20To%20/%20Cant%20C%20Me%20/%20Last%20Ones%20Left%20DMX",
-      "event": "UFC 263: Adesanya vs. Vettori 2",
-      "event_slug": "ufc-263",
-      "date": "2021-06-12"
+      "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "event_slug": "ufc-241",
+      "date": "2019-08-17"
+    },
+    {
+      "song_title": "Ambitionz az a Ridah",
+      "artist": "Tupac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "event": "UFC 202: Diaz vs. McGregor 2",
+      "event_slug": "ufc-202",
+      "date": "2016-08-20"
+    },
+    {
+      "song_title": "Don't Make Enemies With Me (Part 2)",
+      "artist": "Tupac feat. Outlawz",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0aEW8gfrtpCLdCnQMSAMRA",
+      "event": "UFC 196: McGregor vs Diaz",
+      "event_slug": "ufc-196-mcgregor-vs-diaz",
+      "date": "2016-03-05"
     }
   ],
   "stats": {

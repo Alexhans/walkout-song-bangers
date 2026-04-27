@@ -4,13 +4,13 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "Big Things Poppin' (Do It)'",
-      "artist": "T.I.",
+      "song_title": "All Eyez on Me",
+      "artist": "2Pac",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
-      "event": "UFC 204: Bisping vs. Henderson 2",
-      "event_slug": "ufc-204",
-      "date": "2016-10-08"
+      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "event": "UFC 247: Jones vs. Reyes",
+      "event_slug": "ufc-247",
+      "date": "2020-02-08"
     },
     {
       "song_title": "Experience",
@@ -22,13 +22,13 @@
       "date": "2017-03-04"
     },
     {
-      "song_title": "All Eyez on Me",
-      "artist": "2Pac",
+      "song_title": "Big Things Poppin' (Do It)'",
+      "artist": "T.I.",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "event": "UFC 247: Jones vs. Reyes",
-      "event_slug": "ufc-247",
-      "date": "2020-02-08"
+      "spotify_url": "https://open.spotify.com/track/0eMdAjfAfGS1AoeXgiyGXP",
+      "event": "UFC 204: Bisping vs. Henderson 2",
+      "event_slug": "ufc-204",
+      "date": "2016-10-08"
     }
   ],
   "stats": {

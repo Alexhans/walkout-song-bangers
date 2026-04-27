@@ -4,22 +4,13 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "event": "UFC 283: Teixeira vs. Hill",
-      "event_slug": "ufc-283",
-      "date": "2023-01-21"
-    },
-    {
-      "song_title": "Nunca Foi Sorte, Sempre Doi Deus",
-      "artist": "Banda Som e Louvor",
+      "song_title": "Bladadah",
+      "artist": "Mozzy",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/0XAvskHfw2D4yrMfkjSQsH",
-      "event": "UFC Fight Night: Holm vs. Bueno Silva",
-      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
-      "date": "2023-07-15"
+      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
+      "event": "UFC Fight Night: Strickland vs. Hernandez",
+      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
+      "date": "2026-02-21"
     },
     {
       "song_title": "Funk Do Patinho",
@@ -40,13 +31,22 @@
       "date": "2023-12-09"
     },
     {
-      "song_title": "Bladadah",
-      "artist": "Mozzy",
+      "song_title": "Nunca Foi Sorte, Sempre Doi Deus",
+      "artist": "Banda Som e Louvor",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx",
-      "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_slug": "ufc-fight-night-strickland-vs-hernandez",
-      "date": "2026-02-21"
+      "spotify_url": "https://open.spotify.com/track/0XAvskHfw2D4yrMfkjSQsH",
+      "event": "UFC Fight Night: Holm vs. Bueno Silva",
+      "event_slug": "ufc-fight-night-holm-vs-bueno-silva",
+      "date": "2023-07-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "event_slug": "ufc-283",
+      "date": "2023-01-21"
     }
   ],
   "stats": {
