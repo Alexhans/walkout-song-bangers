@@ -20,192 +20,192 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 <!-- BEGIN EVENTS -->
 | Year | Event | Fighters | Gold | Silver | Bronze | Missing |
 |------|-------|----------|------|--------|--------|---------|
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Cowboy vs Cowboy](viz/ufc-fight-night-cowboy-vs-cowboy.md) | 26 | 0 | 0 | 24 | 2 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 196: McGregor vs Diaz](viz/ufc-196-mcgregor-vs-diaz.md) | 24 | 0 | 0 | 23 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Rothwell vs Dos Santos](viz/ufc-fight-night-rothwell-vs-dos-santos.md) | 26 | 0 | 0 | 23 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 197: Jones vs Saint Preux](viz/ufc-197-jones-vs-saint-preux.md) | 24 | 0 | 0 | 21 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Overeem vs Arlovski](viz/ufc-fight-night-overeem-vs-arlovski.md) | 26 | 0 | 0 | 25 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 198: Werdum vs Miocic](viz/ufc-198-werdum-vs-miocic.md) | 24 | 0 | 0 | 21 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Alvarez](viz/ufc-fight-night-dos-anjos-vs-alvarez.md) | 24 | 0 | 0 | 20 | 4 |
-| [2016](viz/agg/by-year/2016.md) | [The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale](viz/the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale.md) | 24 | 0 | 0 | 24 | 0 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](viz/ufc-201-lawler-vs-woodley.md) | 22 | 0 | 0 | 19 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC on FOX: Maia vs. Condit](viz/ufc-on-fox-maia-vs-condit.md) | 20 | 0 | 0 | 19 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Arlovski vs. Barnett](viz/ufc-fight-night-arlovski-vs-barnett.md) | 22 | 0 | 0 | 18 | 4 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 203: Miocic vs. Overeem](viz/ufc-203.md) | 20 | 0 | 0 | 19 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Poirier vs. Johnson](viz/ufc-fight-night-poirier-vs-johnson.md) | 24 | 0 | 0 | 23 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Ferguson](viz/ufc-fight-night-dos-anjos-vs-ferguson.md) | 26 | 0 | 0 | 25 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Mousasi vs. Hall 2](viz/ufc-fight-night-mousasi-vs-hall-2.md) | 26 | 0 | 0 | 25 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Whittaker vs. Brunson](viz/ufc-fight-night-whittaker-vs-brunson.md) | 26 | 0 | 0 | 23 | 3 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 206: Holloway vs. Pettis](viz/ufc-206.md) | 24 | 0 | 0 | 23 | 1 |
-| [2016](viz/agg/by-year/2016.md) | [UFC 207: Nunes vs. Rousey](viz/ufc-207.md) | 20 | 0 | 0 | 20 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Bermudez vs. The Korean Zombie](viz/ufc-fight-night-bermudez-vs-the-korean-zombie.md) | 24 | 0 | 0 | 22 | 2 |
-| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Lewis vs. Browne](viz/ufc-fight-night-lewis-vs-browne.md) | 22 | 0 | 0 | 19 | 3 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 209: Woodley vs. Thompson 2](viz/ufc-209.md) | 22 | 0 | 0 | 22 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 210: Cormier vs. Johnson 2](viz/ufc-210-cormier-vs-johnson-2.md) | 26 | 0 | 0 | 10 | 16 |
-| [2017](viz/agg/by-year/2017.md) | [UFC on FOX: Johnson vs. Reis](viz/ufc-on-fox-johnson-vs-reis.md) | 26 | 0 | 0 | 20 | 6 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 211: Miocic vs. Dos Santos](viz/ufc-211-miocic-vs-dos-santos.md) | 24 | 0 | 0 | 21 | 3 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 211: Miocic vs. Dos Santos 2](viz/ufc-211.md) | 24 | 0 | 0 | 23 | 1 |
-| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Gustafsson vs. Teixeira](viz/ufc-fight-night-gustafsson-vs-teixeira.md) | 24 | 0 | 0 | 23 | 1 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 212: Aldo vs. Holloway](viz/ufc-212.md) | 24 | 0 | 0 | 22 | 2 |
-| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Holm vs. Correia](viz/ufc-fight-night-holm-vs-correia.md) | 24 | 0 | 0 | 23 | 1 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 213: Romero vs. Whittaker](viz/ufc-213.md) | 22 | 0 | 0 | 22 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Nelson vs. Ponzinibbio](viz/ufc-fight-night-nelson-vs-ponzinibbio.md) | 24 | 0 | 0 | 22 | 2 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 214: Cormier vs. Jones 2](viz/ufc-214.md) | 24 | 0 | 0 | 24 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 216: Ferguson vs. Lee](viz/ufc-216.md) | 22 | 0 | 0 | 22 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
-| [2017](viz/agg/by-year/2017.md) | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
-| [2018](viz/agg/by-year/2018.md) | [UFC 226: Miocic vs. Cormier](viz/ufc-226.md) | 22 | 0 | 0 | 6 | 16 |
-| [2018](viz/agg/by-year/2018.md) | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
-| [2018](viz/agg/by-year/2018.md) | [UFC 230: Cormier vs. Lewis](viz/ufc-230.md) | 24 | 0 | 0 | 19 | 5 |
-| [2018](viz/agg/by-year/2018.md) | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 236: Holloway vs. Poirier 2](viz/ufc-236.md) | 26 | 0 | 0 | 11 | 15 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 237: Namajunas vs. Andrade](viz/ufc-237.md) | 24 | 0 | 0 | 11 | 13 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 238: Cejudo vs. Moraes](viz/ufc-238.md) | 26 | 0 | 0 | 13 | 13 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 241: Cormier vs. Miocic 2](viz/ufc-241.md) | 24 | 0 | 0 | 17 | 7 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 242: Khabib vs. Poirier](viz/ufc-242.md) | 26 | 0 | 0 | 12 | 14 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 243: Whittaker vs. Adesanya](viz/ufc-243.md) | 22 | 0 | 0 | 14 | 8 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 244: Masvidal vs. Diaz](viz/ufc-244.md) | 24 | 0 | 0 | 9 | 15 |
-| [2019](viz/agg/by-year/2019.md) | [UFC 245: Usman vs. Covington](viz/ufc-245.md) | 26 | 0 | 0 | 18 | 8 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 246: McGregor vs. Cowboy](viz/ufc-246.md) | 22 | 0 | 0 | 14 | 8 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 247: Jones vs. Reyes](viz/ufc-247.md) | 24 | 0 | 0 | 14 | 10 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 248: Adesanya vs. Romero](viz/ufc-248.md) | 22 | 0 | 0 | 10 | 12 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 249: Ferguson vs. Gaethje](viz/ufc-249.md) | 22 | 0 | 0 | 9 | 13 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 250: Nunes vs. Spencer](viz/ufc-250.md) | 24 | 0 | 0 | 16 | 8 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 252: Miocic vs. Cormier 3](viz/ufc-252.md) | 22 | 0 | 0 | 11 | 11 |
-| [2020](viz/agg/by-year/2020.md) | [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 259: Blachowicz vs. Adesanya](viz/ufc-259.md) | 30 | 0 | 0 | 15 | 15 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](viz/ufc-263.md) | 28 | 0 | 0 | 13 | 15 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Sandhagen vs. Dillashaw](viz/ufc-fight-night-sandhagen-vs-dillashaw.md) | 22 | 0 | 0 | 21 | 1 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Cannonier vs. Gastelum](viz/ufc-fight-night-cannonier-vs-gastelum.md) | 24 | 0 | 0 | 24 | 0 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Brunson vs. Till](viz/ufc-fight-night-brunson-vs-till.md) | 18 | 0 | 0 | 16 | 2 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Smith vs. Spann](viz/ufc-fight-night-smith-vs-spann.md) | 28 | 0 | 0 | 25 | 3 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Santos vs. Walker](viz/ufc-fight-night-santos-vs-walker.md) | 24 | 0 | 0 | 22 | 2 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Dern vs. Rodriguez](viz/ufc-fight-night-dern-vs-rodriguez.md) | 18 | 0 | 0 | 17 | 1 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Ladd vs. Dumont](viz/ufc-fight-night-ladd-vs-dumont.md) | 20 | 0 | 0 | 19 | 1 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Costa vs. Vettori](viz/ufc-fight-night-costa-vs-vettori.md) | 28 | 0 | 0 | 25 | 3 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 267: Blachowicz vs. Teixeira](viz/ufc-267-blachowicz-vs-teixeira.md) | 28 | 0 | 0 | 28 | 0 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 268: Usman vs. Covington 2](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Holloway vs. Rodriguez](viz/ufc-fight-night-holloway-vs-rodriguez.md) | 22 | 0 | 0 | 21 | 1 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Vieira vs. Tate](viz/ufc-fight-night-vieira-vs-tate.md) | 22 | 0 | 0 | 19 | 3 |
-| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Font vs. Aldo](viz/ufc-fight-night-font-vs-aldo.md) | 26 | 0 | 0 | 26 | 0 |
-| [2021](viz/agg/by-year/2021.md) | [UFC 269: Oliveira vs. Poirier](viz/ufc-269.md) | 28 | 0 | 0 | 26 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Chikadze](viz/ufc-fight-night-kattar-vs-chikadze.md) | 20 | 0 | 0 | 18 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 270: Ngannou vs. Gane](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Hermansson vs. Strickland](viz/ufc-fight-night-hermansson-vs-strickland.md) | 26 | 0 | 0 | 22 | 4 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Walker vs. Hill](viz/ufc-fight-night-walker-vs-hill.md) | 24 | 0 | 0 | 23 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Makhachev vs. Green](viz/ufc-fight-night-makhachev-vs-green.md) | 22 | 0 | 0 | 18 | 4 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Volkov vs. Aspinall](viz/ufc-fight-night-volkov-vs-aspinall.md) | 24 | 0 | 0 | 23 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Daukaus](viz/ufc-fight-night-blaydes-vs-daukaus.md) | 24 | 0 | 0 | 20 | 4 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 273: Volkanovski vs. The Korean Zombie](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Luque vs. Muhammad](viz/ufc-fight-night-luque-vs-muhammad.md) | 28 | 0 | 0 | 27 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Lemos vs. Andrade](viz/ufc-fight-night-lemos-vs-andrade.md) | 22 | 0 | 0 | 19 | 3 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Font vs. Vera](viz/ufc-fight-night-font-vs-vera.md) | 22 | 0 | 0 | 21 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 274: Oliveira vs. Gaethje](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blachowicz vs. Rakic](viz/ufc-fight-night-blachowicz-vs-rakic.md) | 22 | 0 | 0 | 20 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 275: Teixeira vs. Prochazka](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Emmett](viz/ufc-fight-night-kattar-vs-emmett.md) | 26 | 0 | 0 | 24 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Tsarukyan vs. Gamrot](viz/ufc-fight-night-tsarukyan-vs-gamrot.md) | 24 | 0 | 0 | 21 | 3 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Dos Anjos vs. Fiziev](viz/ufc-fight-night-dos-anjos-vs-fiziev.md) | 22 | 0 | 0 | 20 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Ortega vs. Rodriguez](viz/ufc-fight-night-ortega-vs-rodriguez.md) | 24 | 0 | 0 | 22 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Aspinall](viz/ufc-fight-night-blaydes-vs-aspinall.md) | 28 | 0 | 0 | 25 | 3 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 277: Pena vs. Nunes 2](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Santos vs. Hill](viz/ufc-fight-night-santos-vs-hill.md) | 20 | 0 | 0 | 19 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Vera vs. Cruz](viz/ufc-fight-night-vera-vs-cruz.md) | 26 | 0 | 0 | 23 | 3 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 278: Usman vs. Edwards](viz/ufc-278-usman-vs-edwards.md) | 24 | 0 | 0 | 23 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Gane vs. Tuivasa](viz/ufc-fight-night-gane-vs-tuivasa.md) | 24 | 0 | 0 | 20 | 4 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Sandhagen vs. Song](viz/ufc-fight-night-sandhagen-vs-song.md) | 26 | 0 | 0 | 26 | 0 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 9 | 15 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Allen](viz/ufc-fight-night-kattar-vs-allen.md) | 22 | 0 | 0 | 21 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 281: Adesanya vs. Pereira](viz/ufc-281.md) | 28 | 0 | 0 | 26 | 2 |
-| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Thompson vs. Holland](viz/ufc-fight-night-thompson-vs-holland.md) | 28 | 0 | 0 | 27 | 1 |
-| [2022](viz/agg/by-year/2022.md) | [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Imavov](viz/ufc-fight-night-strickland-vs-imavov.md) | 22 | 0 | 0 | 22 | 0 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 14 | 12 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Andrade vs. Blanchfield](viz/ufc-fight-night-andrade-vs-blanchfield.md) | 22 | 0 | 0 | 18 | 4 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Muniz vs. Allen](viz/ufc-fight-night-muniz-vs-allen.md) | 20 | 0 | 0 | 19 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 285: Jones vs. Gane](viz/ufc-285.md) | 28 | 0 | 0 | 27 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Yan vs. Dvalishvili](viz/ufc-fight-night-yan-vs-dvalishvili.md) | 26 | 0 | 0 | 23 | 3 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 286: Edwards vs. Usman 3](viz/ufc-286-edwards-vs-usman-3.md) | 30 | 0 | 0 | 29 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Kara-France vs. Albazi](viz/ufc-fight-night-kara-france-vs-albazi.md) | 26 | 0 | 0 | 25 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Emmett vs. Topuria](viz/ufc-fight-night-emmett-vs-topuria.md) | 26 | 0 | 0 | 24 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Magomedov](viz/ufc-fight-night-strickland-vs-magomedov.md) | 24 | 0 | 0 | 21 | 3 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 290: Volkanovski vs. Rodriguez](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Holm vs. Bueno Silva](viz/ufc-fight-night-holm-vs-bueno-silva.md) | 26 | 0 | 0 | 23 | 3 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 291: Poirier vs. Gaethje 2](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Sandhagen vs. Font](viz/ufc-fight-night-sandhagen-vs-font.md) | 24 | 0 | 0 | 24 | 0 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Luque vs. Dos Anjos](viz/ufc-fight-night-luque-vs-dos-anjos.md) | 26 | 0 | 0 | 24 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 293: Adesanya vs. Strickland](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Grasso vs. Shevchenko 2](viz/ufc-fight-night-grasso-vs-shevchenko-2.md) | 22 | 0 | 0 | 20 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Fiziev vs. Gamrot](viz/ufc-fight-night-fiziev-vs-gamrot.md) | 22 | 0 | 0 | 14 | 8 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Dawson vs. Green](viz/ufc-fight-night-dawson-vs-green.md) | 20 | 0 | 0 | 19 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Yusuff vs. Barboza](viz/ufc-fight-night-yusuff-vs-barboza.md) | 22 | 0 | 0 | 20 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 294: Makhachev vs. Volkanovski 2](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Almeida vs. Lewis](viz/ufc-fight-night-almeida-vs-lewis.md) | 20 | 0 | 0 | 19 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 295: Prochazka vs. Pereira](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Allen vs. Craig](viz/ufc-fight-night-allen-vs-craig.md) | 28 | 0 | 0 | 26 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](viz/ufc-fight-night-dariush-vs-tsarukyan.md) | 24 | 0 | 0 | 22 | 2 |
-| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Song vs. Gutierrez](viz/ufc-fight-night-song-vs-gutierrez.md) | 22 | 0 | 0 | 17 | 5 |
-| [2023](viz/agg/by-year/2023.md) | [UFC 296: Edwards vs. Covington](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ankalaev vs. Walker 2](viz/ufc-fight-night-ankalaev-vs-walker-2.md) | 22 | 0 | 0 | 18 | 4 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Dolidze vs. Imavov](viz/ufc-fight-night-dolidze-vs-imavov.md) | 26 | 0 | 0 | 19 | 7 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Hermansson vs. Pyfer](viz/ufc-fight-night-hermansson-vs-pyfer.md) | 28 | 0 | 0 | 21 | 7 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 298: Volkanovski vs. Topuria](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Royval 2](viz/ufc-fight-night-moreno-vs-royval-2.md) | 24 | 0 | 0 | 19 | 5 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](viz/ufc-299.md) | 28 | 0 | 0 | 24 | 4 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](viz/ufc-fight-night-tuivasa-vs-tybura.md) | 26 | 0 | 0 | 23 | 3 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](viz/ufc-fight-night-ribas-vs-namajunas.md) | 26 | 0 | 0 | 26 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Nicolau vs. Perez](viz/ufc-fight-night-nicolau-vs-perez.md) | 26 | 0 | 0 | 23 | 3 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](viz/ufc-fight-night-lewis-vs-nascimento.md) | 24 | 0 | 0 | 11 | 13 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](viz/ufc-fight-night-barboza-vs-murphy.md) | 24 | 0 | 0 | 10 | 14 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Perez vs. Taira](viz/ufc-fight-night-perez-vs-taira.md) | 22 | 0 | 0 | 22 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Sandhagen vs. Nurmagomedov](viz/ufc-fight-night-sandhagen-vs-nurmagomedov.md) | 26 | 0 | 0 | 24 | 2 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](viz/ufc-fight-night-burns-vs-brady.md) | 24 | 0 | 0 | 19 | 5 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](viz/ufc-307.md) | 24 | 0 | 0 | 22 | 2 |
-| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Albazi](viz/ufc-fight-night-moreno-vs-albazi.md) | 26 | 0 | 0 | 21 | 5 |
-| [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 11 | 13 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 0 | 13 |
-| [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
-| [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 12 | 16 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
-| [2026](viz/agg/by-year/2026.md) | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 10 | 16 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 10 | 16 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |
-| [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 4 | 0 | 18 | 2 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 1 | 6 | 17 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 4 | 0 | 18 | 2 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](viz/ufc-fight-night-adesanya-vs-pyfer.md) | 26 | 0 | 0 | 10 | 16 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Evloev vs. Murphy](viz/ufc-fight-night-evloev-vs-murphy.md) | 26 | 0 | 0 | 10 | 16 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 12 | 16 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 0 | 13 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 11 | 13 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Albazi](viz/ufc-fight-night-moreno-vs-albazi.md) | 26 | 0 | 0 | 21 | 5 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](viz/ufc-307.md) | 24 | 0 | 0 | 22 | 2 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](viz/ufc-fight-night-burns-vs-brady.md) | 24 | 0 | 0 | 19 | 5 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 305: Du Plessis vs. Adesanya](viz/ufc-305.md) | 24 | 0 | 0 | 24 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Sandhagen vs. Nurmagomedov](viz/ufc-fight-night-sandhagen-vs-nurmagomedov.md) | 26 | 0 | 0 | 24 | 2 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 304: Edwards vs. Muhammad 2](viz/ufc-304.md) | 28 | 0 | 0 | 28 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 303: Pereira vs. Prochazka 2](viz/ufc-303.md) | 26 | 0 | 0 | 11 | 15 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Perez vs. Taira](viz/ufc-fight-night-perez-vs-taira.md) | 22 | 0 | 0 | 22 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](viz/ufc-302.md) | 24 | 0 | 0 | 21 | 3 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](viz/ufc-fight-night-barboza-vs-murphy.md) | 24 | 0 | 0 | 10 | 14 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](viz/ufc-fight-night-lewis-vs-nascimento.md) | 24 | 0 | 0 | 11 | 13 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 301: Pantoja vs. Erceg](viz/ufc-301.md) | 26 | 0 | 0 | 18 | 8 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Nicolau vs. Perez](viz/ufc-fight-night-nicolau-vs-perez.md) | 26 | 0 | 0 | 23 | 3 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](viz/ufc-300.md) | 26 | 0 | 0 | 25 | 1 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Allen vs. Curtis 2](viz/ufc-fight-night-allen-vs-curtis-2.md) | 24 | 0 | 0 | 19 | 5 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](viz/ufc-fight-night-blanchfield-vs-fiorot.md) | 26 | 0 | 0 | 25 | 1 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ribas vs. Namajunas](viz/ufc-fight-night-ribas-vs-namajunas.md) | 26 | 0 | 0 | 26 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](viz/ufc-fight-night-tuivasa-vs-tybura.md) | 26 | 0 | 0 | 23 | 3 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](viz/ufc-299.md) | 28 | 0 | 0 | 24 | 4 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Rozenstruik vs. Gaziev](viz/ufc-fight-night-rozenstruik-vs-gaziev.md) | 22 | 0 | 0 | 19 | 3 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Royval 2](viz/ufc-fight-night-moreno-vs-royval-2.md) | 24 | 0 | 0 | 19 | 5 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 298: Volkanovski vs. Topuria](viz/ufc-298.md) | 24 | 0 | 0 | 24 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Hermansson vs. Pyfer](viz/ufc-fight-night-hermansson-vs-pyfer.md) | 28 | 0 | 0 | 21 | 7 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Dolidze vs. Imavov](viz/ufc-fight-night-dolidze-vs-imavov.md) | 26 | 0 | 0 | 19 | 7 |
+| [2024](viz/agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](viz/ufc-297.md) | 24 | 0 | 0 | 24 | 0 |
+| [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Ankalaev vs. Walker 2](viz/ufc-fight-night-ankalaev-vs-walker-2.md) | 22 | 0 | 0 | 18 | 4 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 296: Edwards vs. Covington](viz/ufc-296.md) | 24 | 0 | 0 | 23 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Song vs. Gutierrez](viz/ufc-fight-night-song-vs-gutierrez.md) | 22 | 0 | 0 | 17 | 5 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](viz/ufc-fight-night-dariush-vs-tsarukyan.md) | 24 | 0 | 0 | 22 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Allen vs. Craig](viz/ufc-fight-night-allen-vs-craig.md) | 28 | 0 | 0 | 26 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 295: Prochazka vs. Pereira](viz/ufc-295.md) | 26 | 0 | 0 | 25 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Almeida vs. Lewis](viz/ufc-fight-night-almeida-vs-lewis.md) | 20 | 0 | 0 | 19 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 294: Makhachev vs. Volkanovski 2](viz/ufc-294.md) | 26 | 0 | 0 | 25 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Yusuff vs. Barboza](viz/ufc-fight-night-yusuff-vs-barboza.md) | 22 | 0 | 0 | 20 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Dawson vs. Green](viz/ufc-fight-night-dawson-vs-green.md) | 20 | 0 | 0 | 19 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Fiziev vs. Gamrot](viz/ufc-fight-night-fiziev-vs-gamrot.md) | 22 | 0 | 0 | 14 | 8 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Grasso vs. Shevchenko 2](viz/ufc-fight-night-grasso-vs-shevchenko-2.md) | 22 | 0 | 0 | 20 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 293: Adesanya vs. Strickland](viz/ufc-293.md) | 24 | 0 | 0 | 22 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](viz/ufc-292.md) | 24 | 0 | 0 | 22 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Luque vs. Dos Anjos](viz/ufc-fight-night-luque-vs-dos-anjos.md) | 26 | 0 | 0 | 24 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Sandhagen vs. Font](viz/ufc-fight-night-sandhagen-vs-font.md) | 24 | 0 | 0 | 24 | 0 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 291: Poirier vs. Gaethje 2](viz/ufc-291.md) | 22 | 0 | 0 | 9 | 13 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Holm vs. Bueno Silva](viz/ufc-fight-night-holm-vs-bueno-silva.md) | 26 | 0 | 0 | 23 | 3 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 290: Volkanovski vs. Rodriguez](viz/ufc-290.md) | 26 | 0 | 0 | 26 | 0 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Magomedov](viz/ufc-fight-night-strickland-vs-magomedov.md) | 24 | 0 | 0 | 21 | 3 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Emmett vs. Topuria](viz/ufc-fight-night-emmett-vs-topuria.md) | 26 | 0 | 0 | 24 | 2 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 289: Nunes vs. Aldana](viz/ufc-289.md) | 22 | 0 | 0 | 13 | 9 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Kara-France vs. Albazi](viz/ufc-fight-night-kara-france-vs-albazi.md) | 26 | 0 | 0 | 25 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 288: Sterling vs. Cejudo](viz/ufc-288.md) | 24 | 0 | 0 | 23 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 287: Pereira vs. Adesanya 2](viz/ufc-287.md) | 24 | 0 | 0 | 10 | 14 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 286: Edwards vs. Usman 3](viz/ufc-286-edwards-vs-usman-3.md) | 30 | 0 | 0 | 29 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Yan vs. Dvalishvili](viz/ufc-fight-night-yan-vs-dvalishvili.md) | 26 | 0 | 0 | 23 | 3 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 285: Jones vs. Gane](viz/ufc-285.md) | 28 | 0 | 0 | 27 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Muniz vs. Allen](viz/ufc-fight-night-muniz-vs-allen.md) | 20 | 0 | 0 | 19 | 1 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Andrade vs. Blanchfield](viz/ufc-fight-night-andrade-vs-blanchfield.md) | 22 | 0 | 0 | 18 | 4 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 284: Makhachev vs. Volkanovski](viz/ufc-284.md) | 26 | 0 | 0 | 14 | 12 |
+| [2023](viz/agg/by-year/2023.md) | [UFC 283: Teixeira vs. Hill](viz/ufc-283.md) | 30 | 0 | 0 | 8 | 22 |
+| [2023](viz/agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Imavov](viz/ufc-fight-night-strickland-vs-imavov.md) | 22 | 0 | 0 | 22 | 0 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 282: Blachowicz vs. Ankalaev](viz/ufc-282.md) | 24 | 0 | 0 | 12 | 12 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Thompson vs. Holland](viz/ufc-fight-night-thompson-vs-holland.md) | 28 | 0 | 0 | 27 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 281: Adesanya vs. Pereira](viz/ufc-281.md) | 28 | 0 | 0 | 26 | 2 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Allen](viz/ufc-fight-night-kattar-vs-allen.md) | 22 | 0 | 0 | 21 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 280: Oliveira vs. Makhachev](viz/ufc-280.md) | 24 | 0 | 0 | 9 | 15 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Sandhagen vs. Song](viz/ufc-fight-night-sandhagen-vs-song.md) | 26 | 0 | 0 | 26 | 0 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Gane vs. Tuivasa](viz/ufc-fight-night-gane-vs-tuivasa.md) | 24 | 0 | 0 | 20 | 4 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 278: Usman vs. Edwards](viz/ufc-278-usman-vs-edwards.md) | 24 | 0 | 0 | 23 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Vera vs. Cruz](viz/ufc-fight-night-vera-vs-cruz.md) | 26 | 0 | 0 | 23 | 3 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Santos vs. Hill](viz/ufc-fight-night-santos-vs-hill.md) | 20 | 0 | 0 | 19 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 277: Pena vs. Nunes 2](viz/ufc-277.md) | 26 | 0 | 0 | 11 | 15 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Aspinall](viz/ufc-fight-night-blaydes-vs-aspinall.md) | 28 | 0 | 0 | 25 | 3 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Ortega vs. Rodriguez](viz/ufc-fight-night-ortega-vs-rodriguez.md) | 24 | 0 | 0 | 22 | 2 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Dos Anjos vs. Fiziev](viz/ufc-fight-night-dos-anjos-vs-fiziev.md) | 22 | 0 | 0 | 20 | 2 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](viz/ufc-276.md) | 24 | 0 | 0 | 13 | 11 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Tsarukyan vs. Gamrot](viz/ufc-fight-night-tsarukyan-vs-gamrot.md) | 24 | 0 | 0 | 21 | 3 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Emmett](viz/ufc-fight-night-kattar-vs-emmett.md) | 26 | 0 | 0 | 24 | 2 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 275: Teixeira vs. Prochazka](viz/ufc-275.md) | 22 | 0 | 0 | 7 | 15 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blachowicz vs. Rakic](viz/ufc-fight-night-blachowicz-vs-rakic.md) | 22 | 0 | 0 | 20 | 2 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 274: Oliveira vs. Gaethje](viz/ufc-274.md) | 28 | 0 | 0 | 13 | 15 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Font vs. Vera](viz/ufc-fight-night-font-vs-vera.md) | 22 | 0 | 0 | 21 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Lemos vs. Andrade](viz/ufc-fight-night-lemos-vs-andrade.md) | 22 | 0 | 0 | 19 | 3 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Luque vs. Muhammad](viz/ufc-fight-night-luque-vs-muhammad.md) | 28 | 0 | 0 | 27 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 273: Volkanovski vs. The Korean Zombie](viz/ufc-273.md) | 24 | 0 | 0 | 12 | 12 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Blaydes vs. Daukaus](viz/ufc-fight-night-blaydes-vs-daukaus.md) | 24 | 0 | 0 | 20 | 4 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Volkov vs. Aspinall](viz/ufc-fight-night-volkov-vs-aspinall.md) | 24 | 0 | 0 | 23 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Makhachev vs. Green](viz/ufc-fight-night-makhachev-vs-green.md) | 22 | 0 | 0 | 18 | 4 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Walker vs. Hill](viz/ufc-fight-night-walker-vs-hill.md) | 24 | 0 | 0 | 23 | 1 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](viz/ufc-271.md) | 28 | 0 | 0 | 10 | 18 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Hermansson vs. Strickland](viz/ufc-fight-night-hermansson-vs-strickland.md) | 26 | 0 | 0 | 22 | 4 |
+| [2022](viz/agg/by-year/2022.md) | [UFC 270: Ngannou vs. Gane](viz/ufc-270.md) | 22 | 0 | 0 | 10 | 12 |
+| [2022](viz/agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Chikadze](viz/ufc-fight-night-kattar-vs-chikadze.md) | 20 | 0 | 0 | 18 | 2 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 269: Oliveira vs. Poirier](viz/ufc-269.md) | 28 | 0 | 0 | 26 | 2 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Font vs. Aldo](viz/ufc-fight-night-font-vs-aldo.md) | 26 | 0 | 0 | 26 | 0 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Vieira vs. Tate](viz/ufc-fight-night-vieira-vs-tate.md) | 22 | 0 | 0 | 19 | 3 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Holloway vs. Rodriguez](viz/ufc-fight-night-holloway-vs-rodriguez.md) | 22 | 0 | 0 | 21 | 1 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 268: Usman vs. Covington 2](viz/ufc-268.md) | 28 | 0 | 0 | 12 | 16 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 267: Blachowicz vs. Teixeira](viz/ufc-267-blachowicz-vs-teixeira.md) | 28 | 0 | 0 | 28 | 0 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Costa vs. Vettori](viz/ufc-fight-night-costa-vs-vettori.md) | 28 | 0 | 0 | 25 | 3 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Ladd vs. Dumont](viz/ufc-fight-night-ladd-vs-dumont.md) | 20 | 0 | 0 | 19 | 1 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Dern vs. Rodriguez](viz/ufc-fight-night-dern-vs-rodriguez.md) | 18 | 0 | 0 | 17 | 1 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Santos vs. Walker](viz/ufc-fight-night-santos-vs-walker.md) | 24 | 0 | 0 | 22 | 2 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 266: Volkanovski vs. Ortega](viz/ufc-266.md) | 26 | 0 | 0 | 13 | 13 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Smith vs. Spann](viz/ufc-fight-night-smith-vs-spann.md) | 28 | 0 | 0 | 25 | 3 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Brunson vs. Till](viz/ufc-fight-night-brunson-vs-till.md) | 18 | 0 | 0 | 16 | 2 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Cannonier vs. Gastelum](viz/ufc-fight-night-cannonier-vs-gastelum.md) | 24 | 0 | 0 | 24 | 0 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 265: Lewis vs. Gane](viz/ufc-265.md) | 26 | 0 | 0 | 11 | 15 |
+| [2021](viz/agg/by-year/2021.md) | [UFC Fight Night: Sandhagen vs. Dillashaw](viz/ufc-fight-night-sandhagen-vs-dillashaw.md) | 22 | 0 | 0 | 21 | 1 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 264: Poirier vs. McGregor 3](viz/ufc-264.md) | 24 | 0 | 0 | 11 | 13 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 263: Adesanya vs. Vettori 2](viz/ufc-263.md) | 28 | 0 | 0 | 13 | 15 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 259: Blachowicz vs. Adesanya](viz/ufc-259.md) | 30 | 0 | 0 | 15 | 15 |
+| [2021](viz/agg/by-year/2021.md) | [UFC 257: Poirier vs. McGregor 2](viz/ufc-257.md) | 22 | 0 | 0 | 6 | 16 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 254: Khabib vs. Gaethje](viz/ufc-254.md) | 24 | 0 | 0 | 6 | 18 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 252: Miocic vs. Cormier 3](viz/ufc-252.md) | 22 | 0 | 0 | 11 | 11 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 250: Nunes vs. Spencer](viz/ufc-250.md) | 24 | 0 | 0 | 16 | 8 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 249: Ferguson vs. Gaethje](viz/ufc-249.md) | 22 | 0 | 0 | 9 | 13 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 248: Adesanya vs. Romero](viz/ufc-248.md) | 22 | 0 | 0 | 10 | 12 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 247: Jones vs. Reyes](viz/ufc-247.md) | 24 | 0 | 0 | 14 | 10 |
+| [2020](viz/agg/by-year/2020.md) | [UFC 246: McGregor vs. Cowboy](viz/ufc-246.md) | 22 | 0 | 0 | 14 | 8 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 245: Usman vs. Covington](viz/ufc-245.md) | 26 | 0 | 0 | 18 | 8 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 244: Masvidal vs. Diaz](viz/ufc-244.md) | 24 | 0 | 0 | 9 | 15 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 243: Whittaker vs. Adesanya](viz/ufc-243.md) | 22 | 0 | 0 | 14 | 8 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 242: Khabib vs. Poirier](viz/ufc-242.md) | 26 | 0 | 0 | 12 | 14 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 241: Cormier vs. Miocic 2](viz/ufc-241.md) | 24 | 0 | 0 | 17 | 7 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 239: Jones vs. Santos](viz/ufc-239.md) | 24 | 0 | 0 | 24 | 0 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 238: Cejudo vs. Moraes](viz/ufc-238.md) | 26 | 0 | 0 | 13 | 13 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 237: Namajunas vs. Andrade](viz/ufc-237.md) | 24 | 0 | 0 | 11 | 13 |
+| [2019](viz/agg/by-year/2019.md) | [UFC 236: Holloway vs. Poirier 2](viz/ufc-236.md) | 26 | 0 | 0 | 11 | 15 |
+| [2018](viz/agg/by-year/2018.md) | [UFC Fight Night 140: Magny vs. Ponzinibbio](viz/ufc-fight-night-140.md) | 24 | 0 | 0 | 24 | 0 |
+| [2018](viz/agg/by-year/2018.md) | [UFC 230: Cormier vs. Lewis](viz/ufc-230.md) | 24 | 0 | 0 | 19 | 5 |
+| [2018](viz/agg/by-year/2018.md) | [UFC 229: Khabib vs McGregor](viz/ufc-229.md) | 24 | 1 | 13 | 10 | 0 |
+| [2018](viz/agg/by-year/2018.md) | [UFC 226: Miocic vs. Cormier](viz/ufc-226.md) | 22 | 0 | 0 | 6 | 16 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 219: Cyborg vs. Holm](viz/ufc-219.md) | 20 | 0 | 0 | 20 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 218: Holloway vs. Aldo 2](viz/ufc-218.md) | 26 | 0 | 0 | 26 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 217: Bisping vs. St-Pierre](viz/ufc-217.md) | 22 | 1 | 0 | 21 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 216: Ferguson vs. Lee](viz/ufc-216.md) | 22 | 0 | 0 | 22 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 214: Cormier vs. Jones 2](viz/ufc-214.md) | 24 | 0 | 0 | 24 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Nelson vs. Ponzinibbio](viz/ufc-fight-night-nelson-vs-ponzinibbio.md) | 24 | 0 | 0 | 22 | 2 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 213: Romero vs. Whittaker](viz/ufc-213.md) | 22 | 0 | 0 | 22 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Holm vs. Correia](viz/ufc-fight-night-holm-vs-correia.md) | 24 | 0 | 0 | 23 | 1 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 212: Aldo vs. Holloway](viz/ufc-212.md) | 24 | 0 | 0 | 22 | 2 |
+| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Gustafsson vs. Teixeira](viz/ufc-fight-night-gustafsson-vs-teixeira.md) | 24 | 0 | 0 | 23 | 1 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 211: Miocic vs. Dos Santos 2](viz/ufc-211.md) | 24 | 0 | 0 | 23 | 1 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 211: Miocic vs. Dos Santos](viz/ufc-211-miocic-vs-dos-santos.md) | 24 | 0 | 0 | 21 | 3 |
+| [2017](viz/agg/by-year/2017.md) | [UFC on FOX: Johnson vs. Reis](viz/ufc-on-fox-johnson-vs-reis.md) | 26 | 0 | 0 | 20 | 6 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 210: Cormier vs. Johnson 2](viz/ufc-210-cormier-vs-johnson-2.md) | 26 | 0 | 0 | 10 | 16 |
+| [2017](viz/agg/by-year/2017.md) | [UFC 209: Woodley vs. Thompson 2](viz/ufc-209.md) | 22 | 0 | 0 | 22 | 0 |
+| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Lewis vs. Browne](viz/ufc-fight-night-lewis-vs-browne.md) | 22 | 0 | 0 | 19 | 3 |
+| [2017](viz/agg/by-year/2017.md) | [UFC Fight Night: Bermudez vs. The Korean Zombie](viz/ufc-fight-night-bermudez-vs-the-korean-zombie.md) | 24 | 0 | 0 | 22 | 2 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 207: Nunes vs. Rousey](viz/ufc-207.md) | 20 | 0 | 0 | 20 | 0 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 206: Holloway vs. Pettis](viz/ufc-206.md) | 24 | 0 | 0 | 23 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Whittaker vs. Brunson](viz/ufc-fight-night-whittaker-vs-brunson.md) | 26 | 0 | 0 | 23 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Mousasi vs. Hall 2](viz/ufc-fight-night-mousasi-vs-hall-2.md) | 26 | 0 | 0 | 25 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 205: Alvarez vs. McGregor](viz/ufc-205.md) | 22 | 0 | 0 | 19 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Ferguson](viz/ufc-fight-night-dos-anjos-vs-ferguson.md) | 26 | 0 | 0 | 25 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 204: Bisping vs. Henderson 2](viz/ufc-204.md) | 22 | 0 | 0 | 21 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Poirier vs. Johnson](viz/ufc-fight-night-poirier-vs-johnson.md) | 24 | 0 | 0 | 23 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 203: Miocic vs. Overeem](viz/ufc-203.md) | 20 | 0 | 0 | 19 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Arlovski vs. Barnett](viz/ufc-fight-night-arlovski-vs-barnett.md) | 22 | 0 | 0 | 18 | 4 |
+| [2016](viz/agg/by-year/2016.md) | [UFC on FOX: Maia vs. Condit](viz/ufc-on-fox-maia-vs-condit.md) | 20 | 0 | 0 | 19 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 202: Diaz vs. McGregor 2](viz/ufc-202.md) | 24 | 0 | 0 | 21 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 201: Lawler vs. Woodley](viz/ufc-201-lawler-vs-woodley.md) | 22 | 0 | 0 | 19 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 200: Tate vs. Nunes](viz/ufc-200.md) | 24 | 0 | 0 | 23 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale](viz/the-ultimate-fighter-team-joanna-vs-team-cl-udia-finale.md) | 24 | 0 | 0 | 24 | 0 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Dos Anjos vs. Alvarez](viz/ufc-fight-night-dos-anjos-vs-alvarez.md) | 24 | 0 | 0 | 20 | 4 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 198: Werdum vs Miocic](viz/ufc-198-werdum-vs-miocic.md) | 24 | 0 | 0 | 21 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Overeem vs Arlovski](viz/ufc-fight-night-overeem-vs-arlovski.md) | 26 | 0 | 0 | 25 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 197: Jones vs Saint Preux](viz/ufc-197-jones-vs-saint-preux.md) | 24 | 0 | 0 | 21 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Rothwell vs Dos Santos](viz/ufc-fight-night-rothwell-vs-dos-santos.md) | 26 | 0 | 0 | 23 | 3 |
+| [2016](viz/agg/by-year/2016.md) | [UFC 196: McGregor vs Diaz](viz/ufc-196-mcgregor-vs-diaz.md) | 24 | 0 | 0 | 23 | 1 |
+| [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Cowboy vs Cowboy](viz/ufc-fight-night-cowboy-vs-cowboy.md) | 26 | 0 | 0 | 24 | 2 |
 <!-- END EVENTS -->
 
 ## How it works

@@ -26,7 +26,7 @@ def generate_table(events):
         "|------|-------|----------|------|--------|--------|---------|",
     ]
 
-    for event in sorted(events, key=event_sort_key):
+    for event in sorted(events, key=event_sort_key, reverse=True):
         songs = event.get("songs", [])
         slug = event["event_slug"]
         name = event["event"]
