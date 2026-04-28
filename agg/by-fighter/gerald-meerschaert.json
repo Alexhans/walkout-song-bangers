@@ -1,7 +1,7 @@
 {
   "fighter": "Gerald Meerschaert",
   "slug": "gerald-meerschaert",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
     {
       "song_title": "The Imperial March",
@@ -11,6 +11,15 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Kickstart My Heart",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 7,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 7
   }
 }

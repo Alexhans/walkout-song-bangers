@@ -1,8 +1,17 @@
 {
   "fighter": "Tim Elliott",
   "slug": "tim-elliott",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
+    },
     {
       "song_title": "A Boy Named Sue",
       "artist": "Johnny Cash",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 7,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 6
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Alibi Idiris",
   "slug": "alibi-idiris",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "",
@@ -11,12 +11,21 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 0,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 0
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Geoff Neal",
   "slug": "geoff-neal",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Hypnosis",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Hypnosis",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

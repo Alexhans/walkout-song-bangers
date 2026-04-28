@@ -1,7 +1,7 @@
 {
   "fighter": "Michal Oleksiejczuk",
   "slug": "michal-oleksiejczuk",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "Husaria ginie",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Bautista vs. Oliveira",
       "event_slug": "ufc-fight-night-bautista-vs-oliveira",
       "date": "2026-02-07"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Husaria Ginie",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 7,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

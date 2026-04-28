@@ -868,6 +868,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Skrillex & Rick Ross",
+    "song_title": "Purple Lamborghini",
+    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+    "count": 4,
+    "unique_fighters": 2
+  },
+  {
     "artist": "The Immortals",
     "song_title": "Techno Syndrome (Mortal Kombat)",
     "spotify_url": "https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr",
@@ -1060,13 +1067,6 @@
     "artist": "Paul Herzog",
     "song_title": "Streets of Siam",
     "spotify_url": "https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL",
-    "count": 3,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Skrillex & Rick Ross",
-    "song_title": "Purple Lamborghini",
-    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
     "count": 3,
     "unique_fighters": 2
   },
@@ -2121,6 +2121,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Airbourne",
+    "song_title": "Live It Up",
+    "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Blair Douglas",
     "song_title": "The Landlord's Walk",
     "spotify_url": "https://open.spotify.com/track/4UxlIHP3P7lUllmnoZI0mY",
@@ -2341,13 +2348,6 @@
     "artist": "Action Bronson",
     "song_title": "Actin' Crazy",
     "spotify_url": "https://open.spotify.com/track/3clX2NMmjaAHmBjeTSa9vV",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Airbourne",
-    "song_title": "Live it Up",
-    "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
     "count": 3,
     "unique_fighters": 1
   },
@@ -7308,6 +7308,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Eiichi Saeki",
+    "song_title": "Theme of RIZIN",
+    "spotify_url": "https://open.spotify.com/track/07nhbyJq5eLvILdB551qBd",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Ekaterina Shelehova",
     "song_title": "Savage Daughter",
     "spotify_url": "https://open.spotify.com/track/0jZq0zDujagh2kLVYVGsN8",
@@ -9894,6 +9901,13 @@
     "artist": "La Caution",
     "song_title": "The a La Menthe Instrumental",
     "spotify_url": "https://open.spotify.com/track/126HWk9JuCt4PHZJAAsgOv",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "La Caution",
+    "song_title": "Thé à la menthe",
+    "spotify_url": "https://open.spotify.com/track/2eDvflMCe9ssOkUJrxqikB",
     "count": 1,
     "unique_fighters": 1
   },

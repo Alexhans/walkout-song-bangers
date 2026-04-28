@@ -1,7 +1,7 @@
 {
   "fighter": "Edson Barboza",
   "slug": "edson-barboza",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "March On, To Mount Zion!",
@@ -11,6 +11,15 @@
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Meus Proprios Meios",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

@@ -1,7 +1,7 @@
 {
   "fighter": "Loopy Godinez",
   "slug": "loopy-godinez",
-  "appearances": 11,
+  "appearances": 12,
   "walkouts": [
     {
       "song_title": "Vivir Mi Vida",
@@ -11,6 +11,15 @@
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Vengan a Calarse",
@@ -104,9 +113,9 @@
     }
   ],
   "stats": {
-    "events": 11,
+    "events": 12,
     "with_song": 9,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 4
   }
 }

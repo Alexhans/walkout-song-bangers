@@ -1,0 +1,207 @@
+{
+  "event": "UFC 319: Du Plessis vs. Chimaev",
+  "event_slug": "ufc-319",
+  "date": "2025-08-16",
+  "location": "United Center, Chicago, Illinois, USA",
+  "source_urls": [
+    "http://www.ufcstats.com/event-details/421ccfc6ddb17958",
+    "https://www.sherdog.com/news/articles/Fight-Facts-UFC-319-Du-Plessis-vs-Chimaev-198084",
+    "https://www.instagram.com/reel/DNbPO0DOGc4/",
+    "https://www.youtube.com/watch?v=Yt6_qbpYalw"
+  ],
+  "generated_at": "2026-04-28T00:01:00Z",
+  "songs": [
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "Thé à la menthe",
+      "artist": "La Caution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2eDvflMCe9ssOkUJrxqikB",
+      "notes": "Multiple post-event social media videos (ESPN MMA TikTok, YouTube 'Walk Out Song | Khamzat Chimaev | UFC 319', Instagram reel) confirm this walkout at UFC 319."
+    },
+    {
+      "fighter": "Dricus Du Plessis",
+      "song_title": "Live It Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "notes": "Sherdog Fight Facts (post-event, Aug 18 2025): 'DDP has walked out to Airbourne's Live It Up... Saturday's defeat marks the first time he had lost in the promotion with that song playing.'"
+    },
+    {
+      "fighter": "Lerone Murphy",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "YouTube video 'Lerone Murphy walkout at UFC 319!!' confirms walkout happened but does not name the song. Pre-event articles predict 'Ambitionz Az A Ridah' by 2Pac (pre-event only)."
+    },
+    {
+      "fighter": "Aaron Pico",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Carlos Prates",
+      "song_title": "Purple Lamborghini (with Rick Ross)",
+      "artist": "Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "notes": "Post-event YouTube videos 'Carlos Prates walkout at UFC 319!!' and 'Carlos The Nightmare Prates UFC 319 Walkout' confirm the walkout; Sportskeeda pre-event article and consistent fighter history identify the song."
+    },
+    {
+      "fighter": "Geoff Neal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michael Page",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jared Cannonier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kai Asakura",
+      "song_title": "Theme of RIZIN",
+      "artist": "Eiichi Saeki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/07nhbyJq5eLvILdB551qBd",
+      "notes": "Sherdog Fight Facts (post-event, Aug 18 2025): 'Asakura is the only one to ever select the Rizin Theme composed by Eiichi Saeki. He has lost after both of those energizing walkouts.'"
+    },
+    {
+      "fighter": "Baisangur Susurkaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Eric Nolan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Michal Oleksiejczuk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Loopy Godinez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jessica Andrade",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Chase Hooper",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Drakkar Klose",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Edson Barboza",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Karine Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dione Barbosa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Joseph Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Alibi Idiris",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

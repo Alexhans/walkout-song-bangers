@@ -1,9 +1,10 @@
 # Jared Cannonier
 
-7 event(s) | 4 song(s) found | 4 unique
+8 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 276: Adesanya vs. Cannonier](../../ufc-276.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 271: Adesanya vs. Whittaker 2](../../ufc-271.md) | — | — | |
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Cannonier vs. Gastelum](../../ufc-fight-night-cannonier-vs-gastelum.md) | Go DJ | Lil Wayne | [Listen](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |

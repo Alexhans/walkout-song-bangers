@@ -1,7 +1,7 @@
 {
   "fighter": "Baisangur Susurkaev",
   "slug": "baisangur-susurkaev",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
     {
       "song_title": "Traditional Chechen Music",
@@ -11,12 +11,21 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

@@ -1,9 +1,10 @@
 # Drakkar Klose
 
-8 event(s) | 5 song(s) found | 5 unique
+9 event(s) | 5 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | X Gon' Give It to Ya | DMX | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | What U See Is What U Get | Key Glock and Young Dolph | [Listen](https://open.spotify.com/track/1gtcO05zF2TqQNx7jzm2Ur) |
 | [2022](../agg/by-year/2022.md) | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | — | — | |

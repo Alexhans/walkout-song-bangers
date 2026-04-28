@@ -1,7 +1,7 @@
 {
   "fighter": "Carlos Prates",
   "slug": "carlos-prates",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
     {
       "song_title": "Marolento",
@@ -11,6 +11,15 @@
       "event": "UFC 322: Della Maddalena vs. Makhachev",
       "event_slug": "ufc-322",
       "date": "2025-11-15"
+    },
+    {
+      "song_title": "Purple Lamborghini (with Rick Ross)",
+      "artist": "Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Purple Lamborghini",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

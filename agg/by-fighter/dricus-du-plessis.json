@@ -1,8 +1,17 @@
 {
   "fighter": "Dricus Du Plessis",
   "slug": "dricus-du-plessis",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "Live It Up",
+      "artist": "Airbourne",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0sa1kd1ZDMHopmdY66GcOQ",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
+    },
     {
       "song_title": "South Africa national anthem / Live It Up",
       "artist": "South Africa national anthem / Airbourne",
@@ -68,8 +77,8 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 5,
+    "events": 8,
+    "with_song": 6,
     "missing": 2,
     "unique_songs": 4
   }

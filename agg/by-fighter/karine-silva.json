@@ -1,7 +1,7 @@
 {
   "fighter": "Karine Silva",
   "slug": "karine-silva",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "Paint It, Black",
@@ -20,6 +20,15 @@
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Capitulo 4, Versiculo 3",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 4
   }
 }

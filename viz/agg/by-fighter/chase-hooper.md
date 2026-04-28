@@ -1,10 +1,11 @@
 # Chase Hooper
 
-7 event(s) | 6 song(s) found | 5 unique
+8 event(s) | 6 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Adesanya vs. Pyfer](../../ufc-fight-night-adesanya-vs-pyfer.md) | The Al Capone Suite | Andre Nickatina | [Listen](https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N) |
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Allen vs. Craig](../../ufc-fight-night-allen-vs-craig.md) | The Al Capone Suite | Andre Nickatina | [Listen](https://open.spotify.com/track/6qSvXnfT3GsDKHiad8VA7N) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Allen](../../ufc-fight-night-kattar-vs-allen.md) | Rock Shyt | D.I.T.C. | [Listen](https://open.spotify.com/track/1mPAUh3U8BC4iCTK6UzhgB) |

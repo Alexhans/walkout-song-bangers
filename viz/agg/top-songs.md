@@ -128,35 +128,35 @@ Songs sorted by number of unique fighters who have used them.
 | 122 | Superstar | Lupe Fiasco | 2 | 4 | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |
 | 123 | Can't Hold Us | Macklemore & Ryan Lewis | 2 | 4 | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
 | 124 | Dreams and Nightmares | Meek Mill | 2 | 4 | [Listen](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) |
-| 125 | Techno Syndrome (Mortal Kombat) | The Immortals | 2 | 4 | [Listen](https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr) |
-| 126 | Don't Push Me | 50 Cent | 2 | 3 | [Listen](https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK) |
-| 127 | Back in Black | AC/DC | 2 | 3 | [Listen](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
-| 128 | Ara Gevorgyan | Artsakh | 2 | 3 | [Listen](https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al) |
-| 129 | The Stroke | Billy Squier | 2 | 3 | [Listen](https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON) |
-| 130 | Son of the Dirty South | Brantley Gilbert feat. Jelly Roll | 2 | 3 | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |
-| 131 | Bodak Yellow | Cardi B | 2 | 3 | [Listen](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) |
-| 132 | Kung Fu Fighting | Carl Douglas | 2 | 3 | [Listen](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) |
-| 133 | Spinnin' | Connor Price & Bens | 2 | 3 | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |
-| 134 | Bring Your Whole Crew | DMX | 2 | 3 | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
-| 135 | Runnin' | David Dallas | 2 | 3 | [Listen](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) |
-| 136 | Sweet Dreams (Are Made of This) | Eurythmics | 2 | 3 | [Listen](https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37) |
-| 137 | Fu-gee-la | Fugees | 2 | 3 | [Listen](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) |
-| 138 | Vse Zvezdy | Gimi Dagestana | 2 | 3 | [Listen](https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8) |
-| 139 | Crazy | Gnarls Barkley | 2 | 3 | [Listen](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) |
-| 140 | Way Down We Go | Kaleo | 2 | 3 | [Listen](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) |
-| 141 | I Wonder | Kanye West | 2 | 3 | [Listen](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) |
-| 142 | Power | Kanye West | 2 | 3 | [Listen](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) |
-| 143 | Mama Said Knock You Out | LL Cool J | 2 | 3 | [Listen](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) |
-| 144 | All My Life | Lil Durk | 2 | 3 | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
-| 145 | Broken People | Logic feat. Rag’N’Bone Man | 2 | 3 | [Listen](https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980) |
-| 146 | Marreta da cdd para o mundo | MC Isaac Saradinho | 2 | 3 | [Listen](https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC) |
-| 147 | Because I am a Highlander | Marat | 2 | 3 | [Listen](https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI) |
-| 148 | Ain’t No Mountain High Enough | Marvin Gaye | 2 | 3 | [Listen](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
-| 149 | Bladadah | Mozzy | 2 | 3 | [Listen](https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx) |
-| 150 | Back To the Hotel | N2Deep | 2 | 3 | [Listen](https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr) |
-| 151 | Shimmy Shimmy Ya | Ole Dirty Bastard | 2 | 3 | [Listen](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) |
-| 152 | Streets of Siam | Paul Herzog | 2 | 3 | [Listen](https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL) |
-| 153 | Purple Lamborghini | Skrillex & Rick Ross | 2 | 3 | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
+| 125 | Purple Lamborghini | Skrillex & Rick Ross | 2 | 4 | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
+| 126 | Techno Syndrome (Mortal Kombat) | The Immortals | 2 | 4 | [Listen](https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr) |
+| 127 | Don't Push Me | 50 Cent | 2 | 3 | [Listen](https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK) |
+| 128 | Back in Black | AC/DC | 2 | 3 | [Listen](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |
+| 129 | Ara Gevorgyan | Artsakh | 2 | 3 | [Listen](https://open.spotify.com/track/6vuAQlBWquPCb1KIKxE2al) |
+| 130 | The Stroke | Billy Squier | 2 | 3 | [Listen](https://open.spotify.com/track/153NHo5ncbWeJdhgwNgCON) |
+| 131 | Son of the Dirty South | Brantley Gilbert feat. Jelly Roll | 2 | 3 | [Listen](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) |
+| 132 | Bodak Yellow | Cardi B | 2 | 3 | [Listen](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) |
+| 133 | Kung Fu Fighting | Carl Douglas | 2 | 3 | [Listen](https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g) |
+| 134 | Spinnin' | Connor Price & Bens | 2 | 3 | [Listen](https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes) |
+| 135 | Bring Your Whole Crew | DMX | 2 | 3 | [Listen](https://open.spotify.com/track/1lnqjCZfobpQe6DXURSvzn) |
+| 136 | Runnin' | David Dallas | 2 | 3 | [Listen](https://open.spotify.com/track/5tX9BkjTeQEoJCPTVVkRxx) |
+| 137 | Sweet Dreams (Are Made of This) | Eurythmics | 2 | 3 | [Listen](https://open.spotify.com/track/6zIfdCmmhPCX0cMquBsC37) |
+| 138 | Fu-gee-la | Fugees | 2 | 3 | [Listen](https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP) |
+| 139 | Vse Zvezdy | Gimi Dagestana | 2 | 3 | [Listen](https://open.spotify.com/track/15SAU1PZeZXUnxUNVhLHH8) |
+| 140 | Crazy | Gnarls Barkley | 2 | 3 | [Listen](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) |
+| 141 | Way Down We Go | Kaleo | 2 | 3 | [Listen](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) |
+| 142 | I Wonder | Kanye West | 2 | 3 | [Listen](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) |
+| 143 | Power | Kanye West | 2 | 3 | [Listen](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) |
+| 144 | Mama Said Knock You Out | LL Cool J | 2 | 3 | [Listen](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) |
+| 145 | All My Life | Lil Durk | 2 | 3 | [Listen](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) |
+| 146 | Broken People | Logic feat. Rag’N’Bone Man | 2 | 3 | [Listen](https://open.spotify.com/track/5rxPi0MiR4miNK0rCmk980) |
+| 147 | Marreta da cdd para o mundo | MC Isaac Saradinho | 2 | 3 | [Listen](https://open.spotify.com/track/0VDcdAoDnuIkCxlbxbriHC) |
+| 148 | Because I am a Highlander | Marat | 2 | 3 | [Listen](https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI) |
+| 149 | Ain’t No Mountain High Enough | Marvin Gaye | 2 | 3 | [Listen](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
+| 150 | Bladadah | Mozzy | 2 | 3 | [Listen](https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx) |
+| 151 | Back To the Hotel | N2Deep | 2 | 3 | [Listen](https://open.spotify.com/track/4dSv0xxbcYC4o4ubz70nkr) |
+| 152 | Shimmy Shimmy Ya | Ole Dirty Bastard | 2 | 3 | [Listen](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) |
+| 153 | Streets of Siam | Paul Herzog | 2 | 3 | [Listen](https://open.spotify.com/track/35F8NFL5q5UqLUwjLytoKL) |
 | 154 | Edge of Seventeen | Stevie Nicks | 2 | 3 | [Listen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) |
 | 155 | Promentory” main theme from “The Last of the Mohicans | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO) |
 | 156 | Promontory | Trevor Jones | 2 | 3 | [Listen](https://open.spotify.com/track/2boPwB448AiUUKHItgrjjP) |

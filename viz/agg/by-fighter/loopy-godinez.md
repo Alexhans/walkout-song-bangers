@@ -1,10 +1,11 @@
 # Loopy Godinez
 
-11 event(s) | 9 song(s) found | 4 unique
+12 event(s) | 9 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2026](../agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](../../ufc-327.md) | Vivir Mi Vida | Marc Anthony | [Listen](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) |
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | Vengan a Calarse | Ariel Armado Macias Madrid | [Listen](https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](../../ufc-fight-night-blanchfield-vs-fiorot.md) | Vengan A Calarse | Ariel Armado Macías Madrid | [Listen](https://open.spotify.com/track/6HYCnApDoAOnALl1C666xp) |
 | [2023](../agg/by-year/2023.md) | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Vengan a Calarse | Ariel Armando Macias Madrid |  |

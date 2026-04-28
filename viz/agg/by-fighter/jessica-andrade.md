@@ -1,9 +1,10 @@
 # Jessica Andrade
 
-14 event(s) | 11 song(s) found | 7 unique
+15 event(s) | 11 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](../../ufc-fight-night-burns-vs-brady.md) | Efesios 6 | Anderson Freire | [Listen](https://open.spotify.com/track/4fmfCGfdoCpLISSvIu5xOX) |
 | [2024](../agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | É Hora de Vencer | Facção 288 |  |
 | [2023](../agg/by-year/2023.md) | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Diz (You Say) | Gabriela Rocha |  |

@@ -1,8 +1,17 @@
 {
   "fighter": "Khamzat Chimaev",
   "slug": "khamzat-chimaev",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Thé à la menthe",
+      "artist": "La Caution",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2eDvflMCe9ssOkUJrxqikB",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
+    },
     {
       "song_title": "Timur Mutsuraev",
       "artist": "Tu Noch Kogda",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 2,
+    "events": 4,
+    "with_song": 3,
     "missing": 1,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

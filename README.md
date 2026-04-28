@@ -34,6 +34,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 0 | 13 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](viz/ufc-319.md) | 24 | 0 | 0 | 4 | 20 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 11 | 13 |

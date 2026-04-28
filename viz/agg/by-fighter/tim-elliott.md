@@ -1,9 +1,10 @@
 # Tim Elliott
 
-8 event(s) | 7 song(s) found | 6 unique
+9 event(s) | 7 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Song vs. Gutierrez](../../ufc-fight-night-song-vs-gutierrez.md) | A Boy Named Sue | Johnny Cash | [Listen](https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55) |
 | [2023](../agg/by-year/2023.md) | [UFC 294: Makhachev vs. Volkanovski 2](../../ufc-294.md) | Pusher Man | Curtis Mayfield | [Listen](https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Kara-France vs. Albazi](../../ufc-fight-night-kara-france-vs-albazi.md) | The Big Payback | James Brown | [Listen](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) |

@@ -1,10 +1,11 @@
 # Gerald Meerschaert
 
-10 event(s) | 7 song(s) found | 7 unique
+11 event(s) | 7 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Imperial March | John Williams | [Listen](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) |
+| [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](../../ufc-fight-night-tuivasa-vs-tybura.md) | Kickstart My Heart | Mötley Crüe | [Listen](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew) |
 | [2023](../agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | 99 Red Balloons | Goldfinger | [Listen](https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM) |
 | [2023](../agg/by-year/2023.md) | [UFC 287: Pereira vs. Adesanya 2](../../ufc-287.md) | — | — | |

@@ -1,8 +1,17 @@
 {
   "fighter": "Jessica Andrade",
   "slug": "jessica-andrade",
-  "appearances": 14,
+  "appearances": 15,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
+    },
     {
       "song_title": "Efesios 6",
       "artist": "Anderson Freire",
@@ -131,9 +140,9 @@
     }
   ],
   "stats": {
-    "events": 14,
+    "events": 15,
     "with_song": 11,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 7
   }
 }

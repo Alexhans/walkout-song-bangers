@@ -1,7 +1,7 @@
 {
   "fighter": "Lerone Murphy",
   "slug": "lerone-murphy",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Ambitionz Az a Ridah",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Evloev vs. Murphy",
       "event_slug": "ufc-fight-night-evloev-vs-murphy",
       "date": "2026-03-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
     },
     {
       "song_title": "Ambitionz Az a Ridah",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 4,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

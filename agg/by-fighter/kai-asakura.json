@@ -1,0 +1,22 @@
+{
+  "fighter": "Kai Asakura",
+  "slug": "kai-asakura",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Theme of RIZIN",
+      "artist": "Eiichi Saeki",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/07nhbyJq5eLvILdB551qBd",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "event_slug": "ufc-319",
+      "date": "2025-08-16"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}
