@@ -1,0 +1,22 @@
+{
+  "fighter": "Ben Johnston",
+  "slug": "ben-johnston",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7miPNaMph7xeMWUpxo2zQu",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
+  }
+}

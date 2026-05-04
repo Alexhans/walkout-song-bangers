@@ -1,9 +1,10 @@
 # Jack Della Maddalena
 
-7 event(s) | 4 song(s) found | 2 unique
+8 event(s) | 5 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](../../ufc-fight-night-della-maddalena-vs-prates.md) | T.N.T. | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | TNT | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | [2024](../agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | TNT | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Grasso vs. Shevchenko 2](../../ufc-fight-night-grasso-vs-shevchenko-2.md) | TNT | AC/DC | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |

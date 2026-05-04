@@ -1,9 +1,10 @@
 # Tai Tuivasa
 
-12 event(s) | 12 song(s) found | 12 unique
+13 event(s) | 13 song(s) found | 13 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](../../ufc-fight-night-della-maddalena-vs-prates.md) | Murder on the Dancefloor | Sophie Ellis-Bextor | [Listen](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) |
 | [2026](../agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](../../ufc-325.md) | Man I Need | Olivia Dean | [Listen](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) |
 | [2024](../agg/by-year/2024.md) | [UFC 305: Du Plessis vs. Adesanya](../../ufc-305.md) | Raise Your Glass | Pink | [Listen](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](../../ufc-fight-night-tuivasa-vs-tybura.md) | Unwritten | Natasha Bedingfield | [Listen](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) |

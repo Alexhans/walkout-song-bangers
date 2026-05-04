@@ -1,8 +1,17 @@
 {
   "fighter": "Jonathan Micallef",
   "slug": "jonathan-micallef",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "4 Raws",
       "artist": "EsDeeKid",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

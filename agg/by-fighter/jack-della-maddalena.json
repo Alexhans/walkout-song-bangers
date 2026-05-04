@@ -1,8 +1,17 @@
 {
   "fighter": "Jack Della Maddalena",
   "slug": "jack-della-maddalena",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "TNT",
       "artist": "AC/DC",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
-    "with_song": 4,
+    "events": 8,
+    "with_song": 5,
     "missing": 3,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

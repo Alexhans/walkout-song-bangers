@@ -1,8 +1,17 @@
 {
   "fighter": "Vince Morales",
   "slug": "vince-morales",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "Help Yourself",
       "artist": "King Iso",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 2,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

@@ -1,9 +1,10 @@
 # Gerald Meerschaert
 
-11 event(s) | 7 song(s) found | 7 unique
+12 event(s) | 7 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](../../ufc-fight-night-della-maddalena-vs-prates.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Imperial March | John Williams | [Listen](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) |
 | [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Tuivasa vs. Tybura](../../ufc-fight-night-tuivasa-vs-tybura.md) | Kickstart My Heart | Mötley Crüe | [Listen](https://open.spotify.com/track/4Yqy0GpeDEXLibWJCZyQew) |

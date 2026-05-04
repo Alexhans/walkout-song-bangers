@@ -1,8 +1,17 @@
 {
   "fighter": "Jacob Malkoun",
   "slug": "jacob-malkoun",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "WE HERE NOW",
       "artist": "Th4 W3st",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }

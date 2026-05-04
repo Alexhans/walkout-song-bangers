@@ -1,8 +1,17 @@
 {
   "fighter": "Shamil Gaziev",
   "slug": "shamil-gaziev",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "Lezginka",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Lezginka",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "My Great People",
       "artist": "Zumrud Abdulaeva Salam",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
-    "with_song": 3,
+    "events": 4,
+    "with_song": 4,
     "missing": 0,
-    "unique_songs": 2
+    "unique_songs": 3
   }
 }

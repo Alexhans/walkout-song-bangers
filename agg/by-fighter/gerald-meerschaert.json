@@ -1,8 +1,17 @@
 {
   "fighter": "Gerald Meerschaert",
   "slug": "gerald-meerschaert",
-  "appearances": 11,
+  "appearances": 12,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "The Imperial March",
       "artist": "John Williams",
@@ -104,9 +113,9 @@
     }
   ],
   "stats": {
-    "events": 11,
+    "events": 12,
     "with_song": 7,
-    "missing": 4,
+    "missing": 5,
     "unique_songs": 7
   }
 }

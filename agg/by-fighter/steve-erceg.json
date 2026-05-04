@@ -1,8 +1,17 @@
 {
   "fighter": "Steve Erceg",
   "slug": "steve-erceg",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "You Don’t Mess With Jim",
       "artist": "Jim Croce",
@@ -50,8 +59,8 @@
     }
   ],
   "stats": {
-    "events": 5,
-    "with_song": 3,
+    "events": 6,
+    "with_song": 4,
     "missing": 2,
     "unique_songs": 3
   }

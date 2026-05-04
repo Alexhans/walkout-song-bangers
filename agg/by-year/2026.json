@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "events": 12,
+  "events": 13,
   "tracks": [
     {
       "fighter": "Justin Gaethje",
@@ -1723,6 +1723,266 @@
       "date": "2026-04-18"
     },
     {
+      "fighter": "Carlos Prates",
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Quillan Salkilld",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Habbani",
+      "artist": "Evin Agassi",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Habbani%20Evin%20Agassi",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Marwan Rahiki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Ollie Schmid",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Brando Pericic",
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood & The Destroyers",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4gPDuQFST3AOlLkXPPLju3",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "Lezginka",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Lezginka",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Louie Sutherland",
+      "song_title": "The Best",
+      "artist": "Tina Turner",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Cam Rowston",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Robert Bryczek",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Junior Tafa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Kevin Christian",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Colby Thicknesse",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Vince Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Wes Schultz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Ben Johnston",
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7miPNaMph7xeMWUpxo2zQu",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Jonathan Micallef",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Themba Gorimbo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Kody Steele",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
+      "fighter": "Dom Mar Fan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
+    {
       "fighter": "Kevin Vallejos",
       "song_title": "",
       "artist": "",
@@ -3044,10 +3304,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 304,
-    "with_song": 189,
-    "playable_tracks": 174,
-    "unique_playable_tracks": 169,
-    "missing": 115
+    "total_fighters": 330,
+    "with_song": 198,
+    "playable_tracks": 181,
+    "unique_playable_tracks": 176,
+    "missing": 132
   }
 }

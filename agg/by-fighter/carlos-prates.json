@@ -1,8 +1,17 @@
 {
   "fighter": "Carlos Prates",
   "slug": "carlos-prates",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "Marolento",
       "artist": "Puterrier feat. Borges",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
-    "with_song": 4,
+    "events": 5,
+    "with_song": 5,
     "missing": 0,
-    "unique_songs": 3
+    "unique_songs": 4
   }
 }

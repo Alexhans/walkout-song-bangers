@@ -1,8 +1,17 @@
 {
   "fighter": "Tai Tuivasa",
   "slug": "tai-tuivasa",
-  "appearances": 12,
+  "appearances": 13,
   "walkouts": [
+    {
+      "song_title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "Man I Need",
       "artist": "Olivia Dean",
@@ -113,9 +122,9 @@
     }
   ],
   "stats": {
-    "events": 12,
-    "with_song": 12,
+    "events": 13,
+    "with_song": 13,
     "missing": 0,
-    "unique_songs": 12
+    "unique_songs": 13
   }
 }

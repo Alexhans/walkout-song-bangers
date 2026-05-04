@@ -126,16 +126,16 @@
     "unique_fighters": 6
   },
   {
-    "artist": "50 Cent",
-    "song_title": "Many Men (Wish Death)",
-    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-    "count": 12,
-    "unique_fighters": 5
-  },
-  {
     "artist": "AC/DC",
     "song_title": "TNT",
     "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+    "count": 13,
+    "unique_fighters": 5
+  },
+  {
+    "artist": "50 Cent",
+    "song_title": "Many Men (Wish Death)",
+    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
     "count": 12,
     "unique_fighters": 5
   },
@@ -763,6 +763,13 @@
     "unique_fighters": 2
   },
   {
+    "artist": "Skrillex and Rick Ross",
+    "song_title": "Purple Lamborghini",
+    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+    "count": 5,
+    "unique_fighters": 2
+  },
+  {
     "artist": "The Animals",
     "song_title": "House of the Rising Sun",
     "spotify_url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
@@ -864,13 +871,6 @@
     "artist": "Meek Mill",
     "song_title": "Dreams and Nightmares",
     "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
-    "count": 4,
-    "unique_fighters": 2
-  },
-  {
-    "artist": "Skrillex & Rick Ross",
-    "song_title": "Purple Lamborghini",
-    "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
     "count": 4,
     "unique_fighters": 2
   },
@@ -2219,6 +2219,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Jim Croce",
+    "song_title": "You Don't Mess Around with Jim",
+    "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "John Lennon/Plastic Ono Band",
     "song_title": "Power to the People",
     "spotify_url": "https://open.spotify.com/track/3rmeowPcTopQlFMEAwlDV4",
@@ -2544,13 +2551,6 @@
     "artist": "Jay Chou",
     "song_title": "Dragon Fist",
     "spotify_url": "https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Jim Croce",
-    "song_title": "You Don’t Mess With Jim",
-    "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
     "count": 3,
     "unique_fighters": 1
   },
@@ -4322,6 +4322,13 @@
     "artist": "",
     "song_title": "Enter the Reem Ultimate",
     "spotify_url": "https://open.spotify.com/track/6R0GRYk2vs2XuBVemYK5YZ",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "",
+    "song_title": "Lezginka",
+    "spotify_url": "https://open.spotify.com/search/Lezginka",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7581,6 +7588,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Evin Agassi",
+    "song_title": "Habbani",
+    "spotify_url": "https://open.spotify.com/search/Habbani%20Evin%20Agassi",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Eyenine",
     "song_title": "Kentucky Derby",
     "spotify_url": "https://open.spotify.com/track/6yniMtRG6gVEZFgUVRlnPR",
@@ -7983,6 +7997,13 @@
     "artist": "George Lam",
     "song_title": "Official MV",
     "spotify_url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "George Thorogood & The Destroyers",
+    "song_title": "Bad to the Bone",
+    "spotify_url": "https://open.spotify.com/track/4gPDuQFST3AOlLkXPPLju3",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8942,6 +8963,13 @@
     "artist": "Jimmy Barnes",
     "song_title": "Working Class Man",
     "spotify_url": "https://open.spotify.com/track/6yFftsAO3CSxyeDkqSA4bV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Jimmy Barnes",
+    "song_title": "Working Class Man",
+    "spotify_url": "https://open.spotify.com/track/7miPNaMph7xeMWUpxo2zQu",
     "count": 1,
     "unique_fighters": 1
   },
@@ -13433,6 +13461,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Sophie Ellis-Bextor",
+    "song_title": "Murder on the Dancefloor",
+    "spotify_url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "South Africa national anthem / Airbourne",
     "song_title": "South Africa national anthem / Live It Up",
     "spotify_url": "https://open.spotify.com/search/South%20Africa%20national%20anthem%20/%20Live%20It%20Up%20South%20Africa%20national%20anthem%20/%20Airbourne",
@@ -14164,6 +14199,13 @@
     "artist": "Tim McGraw",
     "song_title": "Humble and Kind",
     "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Tina Turner",
+    "song_title": "The Best",
+    "spotify_url": "https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT",
     "count": 1,
     "unique_fighters": 1
   },

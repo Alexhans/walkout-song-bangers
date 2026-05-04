@@ -1,8 +1,17 @@
 {
   "fighter": "Tim Elliott",
   "slug": "tim-elliott",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 7,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 6
   }
 }

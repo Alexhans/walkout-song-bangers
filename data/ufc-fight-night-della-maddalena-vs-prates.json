@@ -1,0 +1,267 @@
+{
+  "event": "UFC Fight Night: Della Maddalena vs. Prates",
+  "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+  "date": "2026-05-02",
+  "location": "Perth, Western Australia, Australia",
+  "source_urls": [
+    "http://www.ufcstats.com/event-details/872b018076f831b0",
+    "https://www.ufc.com/news/official-weigh-in-results-ufc-perth-della-maddalena-prates",
+    "https://www.ufc.com/event/ufc-fight-night-may-02-2026"
+  ],
+  "generated_at": "2026-05-04T16:21:00Z",
+  "songs": [
+    {
+      "fighter": "Carlos Prates",
+      "song_title": "Purple Lamborghini",
+      "artist": "Skrillex and Rick Ross",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Carlos Prates entered with 'Purple Lamborghini' by Skrillex and Rick Ross at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Jack Della Maddalena",
+      "song_title": "T.N.T.",
+      "artist": "AC/DC",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Jack Della Maddalena entered with 'T.N.T.' by AC/DC at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Quillan Salkilld",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Beneil Dariush",
+      "song_title": "Habbani",
+      "artist": "Evin Agassi",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Habbani%20Evin%20Agassi",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Beneil Dariush entered with 'Habbani' by Evin Agassi at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Steve Erceg",
+      "song_title": "You Don't Mess Around with Jim",
+      "artist": "Jim Croce",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Steve Erceg entered with 'You Don't Mess Around with Jim' by Jim Croce at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Tim Elliott",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Marwan Rahiki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ollie Schmid",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Brando Pericic",
+      "song_title": "Bad to the Bone",
+      "artist": "George Thorogood & The Destroyers",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4gPDuQFST3AOlLkXPPLju3",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Brando Pericic entered with 'Bad to the Bone' by George Thorogood & The Destroyers at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Shamil Gaziev",
+      "song_title": "Lezginka",
+      "artist": "",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Lezginka",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Shamil Gaziev entered with 'Lezginka' at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Louie Sutherland",
+      "song_title": "The Best",
+      "artist": "Tina Turner",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT",
+      "notes": "Human-verified by user in chat; confirmed with Google music detection.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Louie Sutherland entered with 'The Best' by Tina Turner at UFC Fight Night: Della Maddalena vs. Prates, verified with Google music detection."
+      }
+    },
+    {
+      "fighter": "Tai Tuivasa",
+      "song_title": "Murder on the Dancefloor",
+      "artist": "Sophie Ellis-Bextor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Tai Tuivasa entered with 'Murder on the Dancefloor' by Sophie Ellis-Bextor at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Cam Rowston",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Robert Bryczek",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Junior Tafa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kevin Christian",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Jacob Malkoun",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Gerald Meerschaert",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Colby Thicknesse",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Vince Morales",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Wes Schultz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Ben Johnston",
+      "song_title": "Working Class Man",
+      "artist": "Jimmy Barnes",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7miPNaMph7xeMWUpxo2zQu",
+      "notes": "Human-verified by user in chat.",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Ben Johnston entered with 'Working Class Man' by Jimmy Barnes at UFC Fight Night: Della Maddalena vs. Prates."
+      }
+    },
+    {
+      "fighter": "Jonathan Micallef",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Themba Gorimbo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Kody Steele",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    },
+    {
+      "fighter": "Dom Mar Fan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": ""
+    }
+  ]
+}

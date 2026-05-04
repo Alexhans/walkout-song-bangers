@@ -1,8 +1,17 @@
 {
   "fighter": "Louie Sutherland",
   "slug": "louie-sutherland",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "The Best",
+      "artist": "Tina Turner",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
-    "with_song": 0,
+    "events": 2,
+    "with_song": 1,
     "missing": 1,
-    "unique_songs": 0
+    "unique_songs": 1
   }
 }

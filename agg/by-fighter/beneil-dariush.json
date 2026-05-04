@@ -1,8 +1,17 @@
 {
   "fighter": "Beneil Dariush",
   "slug": "beneil-dariush",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "Habbani",
+      "artist": "Evin Agassi",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Habbani%20Evin%20Agassi",
+      "event": "UFC Fight Night: Della Maddalena vs. Prates",
+      "event_slug": "ufc-fight-night-della-maddalena-vs-prates",
+      "date": "2026-05-02"
+    },
     {
       "song_title": "A Beautiful Exchange",
       "artist": "Hillsong Worship",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
-    "with_song": 5,
+    "events": 9,
+    "with_song": 6,
     "missing": 3,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

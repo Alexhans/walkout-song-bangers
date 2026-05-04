@@ -22,8 +22,8 @@ Songs sorted by number of unique fighters who have used them.
 | 16 | Gonna Fly Now | Bill Conti | 6 | 8 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
 | 17 | God’s Gonna Cut You Down | Johnny Cash | 6 | 8 | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
 | 18 | X Gon' Give It To Ya | DMX | 6 | 6 | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
-| 19 | Many Men (Wish Death) | 50 Cent | 5 | 12 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
-| 20 | TNT | AC/DC | 5 | 12 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
+| 19 | TNT | AC/DC | 5 | 13 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
+| 20 | Many Men (Wish Death) | 50 Cent | 5 | 12 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | 21 | Prvt e hora de vencer | Faccao 228 | 5 | 11 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
 | 22 | Unstoppable | Sia | 5 | 9 | [Listen](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) |
 | 23 | Intro | DMX | 5 | 6 | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |
@@ -113,22 +113,22 @@ Songs sorted by number of unique fighters who have used them.
 | 107 | Other Side of America | Meek Mill | 2 | 5 | [Listen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) |
 | 108 | Somethin' Bad | Miranda Lambert and Carrie Underwood | 2 | 5 | [Listen](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) |
 | 109 | Human | Rag'n'Bone Man | 2 | 5 | [Listen](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) |
-| 110 | House of the Rising Sun | The Animals | 2 | 5 | [Listen](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) |
-| 111 | I’ll Whip Ya Head Boy | 50 Cent | 2 | 4 | [Listen](https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B) |
-| 112 | Jungle | Andre Nickatina | 2 | 4 | [Listen](https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2) |
-| 113 | This Means War | Avenged Sevenfold | 2 | 4 | [Listen](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) |
-| 114 | It's My Life | Bon Jovi | 2 | 4 | [Listen](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) |
-| 115 | Move On Up | Curtis Mayfield | 2 | 4 | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |
-| 116 | Every Chance I Get | DJ Khaled | 2 | 4 | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |
-| 117 | Welcome to Jamrock | Damian Marley | 2 | 4 | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |
-| 118 | 9 to 5 | Dolly Parton | 2 | 4 | [Listen](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) |
-| 119 | Last Breath | Future | 2 | 4 | [Listen](https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3) |
-| 120 | Monster 2.0 | Jacob Banks feat. Boogie | 2 | 4 | [Listen](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) |
-| 121 | All Day | KRS-One | 2 | 4 | [Listen](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) |
-| 122 | Superstar | Lupe Fiasco | 2 | 4 | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |
-| 123 | Can't Hold Us | Macklemore & Ryan Lewis | 2 | 4 | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
-| 124 | Dreams and Nightmares | Meek Mill | 2 | 4 | [Listen](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) |
-| 125 | Purple Lamborghini | Skrillex & Rick Ross | 2 | 4 | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
+| 110 | Purple Lamborghini | Skrillex and Rick Ross | 2 | 5 | [Listen](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) |
+| 111 | House of the Rising Sun | The Animals | 2 | 5 | [Listen](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l) |
+| 112 | I’ll Whip Ya Head Boy | 50 Cent | 2 | 4 | [Listen](https://open.spotify.com/track/4dzoJSn9EC4F1pDmHwea3B) |
+| 113 | Jungle | Andre Nickatina | 2 | 4 | [Listen](https://open.spotify.com/track/1X4x5dsB2OhY4CctleooV2) |
+| 114 | This Means War | Avenged Sevenfold | 2 | 4 | [Listen](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) |
+| 115 | It's My Life | Bon Jovi | 2 | 4 | [Listen](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) |
+| 116 | Move On Up | Curtis Mayfield | 2 | 4 | [Listen](https://open.spotify.com/track/2cK7SJ2O3CqDRHeixvFKgh) |
+| 117 | Every Chance I Get | DJ Khaled | 2 | 4 | [Listen](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) |
+| 118 | Welcome to Jamrock | Damian Marley | 2 | 4 | [Listen](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) |
+| 119 | 9 to 5 | Dolly Parton | 2 | 4 | [Listen](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) |
+| 120 | Last Breath | Future | 2 | 4 | [Listen](https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3) |
+| 121 | Monster 2.0 | Jacob Banks feat. Boogie | 2 | 4 | [Listen](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) |
+| 122 | All Day | KRS-One | 2 | 4 | [Listen](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) |
+| 123 | Superstar | Lupe Fiasco | 2 | 4 | [Listen](https://open.spotify.com/track/5EA7UNBqezqvJHKHxHRdz4) |
+| 124 | Can't Hold Us | Macklemore & Ryan Lewis | 2 | 4 | [Listen](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) |
+| 125 | Dreams and Nightmares | Meek Mill | 2 | 4 | [Listen](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) |
 | 126 | Techno Syndrome (Mortal Kombat) | The Immortals | 2 | 4 | [Listen](https://open.spotify.com/track/2hTx8adLNJBwhLsavI1Xvr) |
 | 127 | Don't Push Me | 50 Cent | 2 | 3 | [Listen](https://open.spotify.com/track/7nh0HBrSbnmCfAraHcg7vK) |
 | 128 | Back in Black | AC/DC | 2 | 3 | [Listen](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) |

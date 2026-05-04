@@ -1,9 +1,10 @@
 # Beneil Dariush
 
-8 event(s) | 5 song(s) found | 4 unique
+9 event(s) | 6 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](../../ufc-fight-night-della-maddalena-vs-prates.md) | Habbani | Evin Agassi |  |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | A Beautiful Exchange | Hillsong Worship | [Listen](https://open.spotify.com/track/6Z3LOmP5bdskYF16mVfVTq) |
 | [2025](../agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](../../ufc-317.md) | Still Rolling Stones | Lauren Daigle | [Listen](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | Still Rolling Stones | Lauren Daigle | [Listen](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) |
