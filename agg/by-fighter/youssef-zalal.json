@@ -1,8 +1,17 @@
 {
   "fighter": "Youssef Zalal",
   "slug": "youssef-zalal",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 2,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

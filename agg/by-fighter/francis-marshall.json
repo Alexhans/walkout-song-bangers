@@ -1,8 +1,17 @@
 {
   "fighter": "Francis Marshall",
   "slug": "francis-marshall",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "Thunderstruck",
       "artist": "AC/DC",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 3,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

@@ -1,9 +1,10 @@
 # Max Griffin
 
-10 event(s) | 8 song(s) found | 7 unique
+11 event(s) | 8 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Hermansson vs. Pyfer](../../ufc-fight-night-hermansson-vs-pyfer.md) | I Got 5 On It | Luniz | [Listen](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Magomedov](../../ufc-fight-night-strickland-vs-magomedov.md) | Gunz | Yukmouth | [Listen](https://open.spotify.com/track/6LeaM0nUdf1uFL1dv2XVo7) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Kattar vs. Allen](../../ufc-fight-night-kattar-vs-allen.md) | The Luniz | Yukmouth | [Listen](https://open.spotify.com/track/5hLoHIzmN4DlwK1raAmGwi) |

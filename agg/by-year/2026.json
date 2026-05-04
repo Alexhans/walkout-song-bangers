@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "events": 13,
+  "events": 14,
   "tracks": [
     {
       "fighter": "Justin Gaethje",
@@ -3023,6 +3023,266 @@
       "date": "2026-02-28"
     },
     {
+      "fighter": "Aljamain Sterling",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Youssef Zalal",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Joselyne Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Norma Dumont",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Rafa Garcia",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Alexander Hernandez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Davey Grant",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Adrian Luna Martinetti",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Raoni Barcelos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Montel Jackson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Ryan Spann",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Marcus Buchecha",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Eric McConico",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Rodolfo Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Jackson McVey",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Sedriques Dumas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Michelle Montague",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Mayra Bueno Silva",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Cody Durden",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Jafel Filho",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Francis Marshall",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Lucas Brennan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Victor Valenzuela",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Max Griffin",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Talita Alencar",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
+      "fighter": "Julia Polastri",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
+    {
       "fighter": "Sean Strickland",
       "song_title": "When Johnny Comes Marching Home",
       "artist": "Megaraptor",
@@ -3304,10 +3564,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 330,
+    "total_fighters": 356,
     "with_song": 198,
     "playable_tracks": 181,
     "unique_playable_tracks": 176,
-    "missing": 132
+    "missing": 158
   }
 }

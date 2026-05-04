@@ -1,8 +1,17 @@
 {
   "fighter": "Ryan Spann",
   "slug": "ryan-spann",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "I'm a Go Getta",
       "artist": "Lil Wayne",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 9,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 9
   }
 }

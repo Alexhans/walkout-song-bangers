@@ -1,9 +1,10 @@
 # Mayra Bueno Silva
 
-7 event(s) | 6 song(s) found | 6 unique
+8 event(s) | 6 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 303: Pereira vs. Prochazka 2](../../ufc-303.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | Giro de Sueracao | MC Lele JP |  |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Holm vs. Bueno Silva](../../ufc-fight-night-holm-vs-bueno-silva.md) | Tente Outra Vez | Chitaozinho & Xororo | [Listen](https://open.spotify.com/track/3fYhP607DwgstHB789mOpS) |

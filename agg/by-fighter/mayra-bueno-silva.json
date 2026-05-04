@@ -1,8 +1,17 @@
 {
   "fighter": "Mayra Bueno Silva",
   "slug": "mayra-bueno-silva",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 6,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 6
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Cody Durden",
   "slug": "cody-durden",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 7,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

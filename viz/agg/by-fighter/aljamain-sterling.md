@@ -1,9 +1,10 @@
 # Aljamain Sterling
 
-10 event(s) | 5 song(s) found | 5 unique
+11 event(s) | 5 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | I Love | Joyner Lucas | [Listen](https://open.spotify.com/track/5cEqfElQEKHTsZsoMaYRWB) |
 | [2023](../agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Blackout / I Love | Joyner Lucas |  |
 | [2023](../agg/by-year/2023.md) | [UFC 288: Sterling vs. Cejudo](../../ufc-288.md) | Empire State of Mind | Jay Z and Alica Keys, “It’s All About the Benjamins” by Puff Daddy, “Go Dumb” by Aljamain Sterling and “Just Wanna Rock” by Lil’ Uzi Vert | [Listen](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |

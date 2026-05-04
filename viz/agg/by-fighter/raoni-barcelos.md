@@ -1,9 +1,10 @@
 # Raoni Barcelos
 
-5 event(s) | 5 song(s) found | 5 unique
+6 event(s) | 5 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Royval 2](../../ufc-fight-night-moreno-vs-royval-2.md) | Brillo | Natanael Cano | [Listen](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Sandhagen vs. Font](../../ufc-fight-night-sandhagen-vs-font.md) | Lado B Lado A | O Rappa | [Listen](https://open.spotify.com/track/1A47ISHc08cBeIA3hifQXn) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Strickland vs. Imavov](../../ufc-fight-night-strickland-vs-imavov.md) | Ringue da Vida | MC Cabelinho | [Listen](https://open.spotify.com/track/2MiZLAU9sBe4QCKK3klY0t) |

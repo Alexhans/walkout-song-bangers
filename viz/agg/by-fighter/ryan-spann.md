@@ -1,9 +1,10 @@
 # Ryan Spann
 
-9 event(s) | 9 song(s) found | 9 unique
+10 event(s) | 9 song(s) found | 9 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | I'm a Go Getta | Lil Wayne |  |
 | [2024](../agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Stronger Than Ever | Alex Jean | [Listen](https://open.spotify.com/track/5voW3yr7n2aFZpZb722b2g) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Nicolau vs. Perez](../../ufc-fight-night-nicolau-vs-perez.md) | 1st of tha Month | Bone Thugs N Harmony | [Listen](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) |

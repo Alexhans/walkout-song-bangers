@@ -1,9 +1,10 @@
 # Davey Grant
 
-4 event(s) | 4 song(s) found | 4 unique
+5 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | Concrete Angel | Gareth Emery feat. Christina Novelli | [Listen](https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Blachowicz vs. Rakic](../../ufc-fight-night-blachowicz-vs-rakic.md) | Concrete Angel | Gareth Emery | [Listen](https://open.spotify.com/track/5SIGrKr2xgpqlGniEjjfY9) |
 | [2021](../agg/by-year/2021.md) | [UFC Fight Night: Vieira vs. Tate](../../ufc-fight-night-vieira-vs-tate.md) | Concrete Angel (Darren Styles & Chris Unknown Remix) | Gareth Emery feat. Christina Novelli |  |

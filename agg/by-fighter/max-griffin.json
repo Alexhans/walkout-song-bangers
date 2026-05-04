@@ -1,8 +1,17 @@
 {
   "fighter": "Max Griffin",
   "slug": "max-griffin",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Sterling vs. Zalal",
+      "event_slug": "ufc-fight-night-sterling-vs-zalal",
+      "date": "2026-04-25"
+    },
     {
       "song_title": "I Got 5 On It",
       "artist": "Luniz",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 8,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 7
   }
 }

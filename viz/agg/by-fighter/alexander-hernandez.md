@@ -1,9 +1,10 @@
 # Alexander Hernandez
 
-8 event(s) | 4 song(s) found | 4 unique
+9 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](../../ufc-319.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | I Wonder | Kanye West | [Listen](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Allen vs. Curtis 2](../../ufc-fight-night-allen-vs-curtis-2.md) | — | — | |
