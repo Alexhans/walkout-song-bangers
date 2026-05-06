@@ -4,10 +4,10 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Texas",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Texas%20BigXthaPlug",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -15,8 +15,8 @@
   ],
   "stats": {
     "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
   }
 }

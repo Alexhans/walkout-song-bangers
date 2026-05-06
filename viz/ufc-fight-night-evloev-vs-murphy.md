@@ -8,7 +8,7 @@
 | 2 | [Lerone Murphy](agg/by-fighter/lerone-murphy.md) | Ambitionz Az a Ridah | 2Pac | bronze | [Spotify](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
 | 3 | [Luke Riley](agg/by-fighter/luke-riley.md) | Hungry for the Power - Jamie Jones Ridge Street Mix | Azari & III | bronze | [Spotify](https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw) |
 | 4 | [Michael Aswell Jr.](agg/by-fighter/michael-aswell-jr.md) | — | — | missing | — |
-| 5 | [Michael Page](agg/by-fighter/michael-page.md) | Victory Lap Five | Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY | bronze | [Spotify](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) |
+| 5 | [Michael Page](agg/by-fighter/michael-page.md) | They Don't Care About Us | Michael Jackson | bronze | [Spotify](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) |
 | 6 | [Sam Patterson](agg/by-fighter/sam-patterson.md) | Daddy Cool | Boney M. | bronze | [Spotify](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) |
 | 7 | [Iwo Baraniewski](agg/by-fighter/iwo-baraniewski.md) | — | — | missing | — |
 | 8 | [Austen Lane](agg/by-fighter/austen-lane.md) | Hexagram | Deftones | bronze | [Spotify](https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq) |
@@ -34,5 +34,5 @@
 **Coverage:** 10/26 fighters (38%) | 10 direct Spotify links
 
 ---
-*Sources: [1](https://www.lowkickmma.com/ufc-london-fighter-walkout-songs/), [2](https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-london-evloev-murphy)*
-*Generated: 2026-04-18T09:10:00Z*
+*Sources: [1](https://www.lowkickmma.com/ufc-london-fighter-walkout-songs/), [2](https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-london-evloev-murphy), [3](https://www.sherdog.com/news/news/Michael-Page-UFC-London-walkout-song-was-response-to-feeling-disrespected-200575)*
+*Generated: 2026-05-06T08:12:00Z*

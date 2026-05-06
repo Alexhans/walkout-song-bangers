@@ -4,10 +4,10 @@
   "appearances": 1,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Circle of Life / God Gave Me Style",
+      "artist": "Carmen Twillie & Lebo M / 50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Circle%20of%20Life%20God%20Gave%20Me%20Style%20Carmen%20Twillie%20Lebo%20M%2050%20Cent",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -15,8 +15,8 @@
   ],
   "stats": {
     "events": 1,
-    "with_song": 0,
-    "missing": 1,
-    "unique_songs": 0
+    "with_song": 1,
+    "missing": 0,
+    "unique_songs": 1
   }
 }

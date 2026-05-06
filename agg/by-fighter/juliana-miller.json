@@ -4,10 +4,10 @@
   "appearances": 4,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Light It Up (Remix)",
+      "artist": "Major Lazer feat. Nyla & Fuse ODG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Light%20It%20Up%20Remix%20Major%20Lazer%20Nyla%20Fuse%20ODG",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -42,8 +42,8 @@
   ],
   "stats": {
     "events": 4,
-    "with_song": 3,
-    "missing": 1,
-    "unique_songs": 3
+    "with_song": 4,
+    "missing": 0,
+    "unique_songs": 4
   }
 }

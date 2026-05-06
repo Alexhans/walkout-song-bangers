@@ -4,10 +4,10 @@
   "appearances": 2,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tops%20Drop%20Fat%20Pat",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -24,8 +24,8 @@
   ],
   "stats": {
     "events": 2,
-    "with_song": 1,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 2,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

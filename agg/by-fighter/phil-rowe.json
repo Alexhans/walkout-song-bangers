@@ -4,10 +4,10 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Do You Only Want Me for My Body",
+      "artist": "PK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Do%20You%20Only%20Want%20Me%20for%20My%20Body%20PK",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 3
+    "with_song": 5,
+    "missing": 0,
+    "unique_songs": 4
   }
 }

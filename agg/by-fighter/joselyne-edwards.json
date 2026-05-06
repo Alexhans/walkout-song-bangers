@@ -13,10 +13,10 @@
       "date": "2026-04-25"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Champion",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Champion%20Kanye%20West",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -60,8 +60,8 @@
   ],
   "stats": {
     "events": 6,
-    "with_song": 2,
-    "missing": 4,
-    "unique_songs": 2
+    "with_song": 3,
+    "missing": 3,
+    "unique_songs": 3
   }
 }

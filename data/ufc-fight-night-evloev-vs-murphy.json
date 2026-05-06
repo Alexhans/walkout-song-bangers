@@ -5,9 +5,10 @@
   "location": "The O2, London, England, United Kingdom",
   "source_urls": [
     "https://www.lowkickmma.com/ufc-london-fighter-walkout-songs/",
-    "https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-london-evloev-murphy"
+    "https://www.ufc.com/news/official-weigh-in-results-ufc-fight-night-london-evloev-murphy",
+    "https://www.sherdog.com/news/news/Michael-Page-UFC-London-walkout-song-was-response-to-feeling-disrespected-200575"
   ],
-  "generated_at": "2026-04-18T09:10:00Z",
+  "generated_at": "2026-05-06T08:12:00Z",
   "songs": [
     {
       "fighter": "Movsar Evloev",
@@ -43,11 +44,11 @@
     },
     {
       "fighter": "Michael Page",
-      "song_title": "Victory Lap Five",
-      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "song_title": "They Don't Care About Us",
+      "artist": "Michael Jackson",
       "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
-      "notes": "Updated from prior entry based on LowKick article; review against broadcast/Fight Tracks."
+      "spotify_url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
+      "notes": "Updated from prior pre-event pick based on post-event Sherdog reporting."
     },
     {
       "fighter": "Sam Patterson",

@@ -1457,6 +1457,13 @@
   },
   {
     "artist": "Kanye West",
+    "song_title": "Champion",
+    "spotify_url": "https://open.spotify.com/search/Champion%20Kanye%20West",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Kanye West",
     "song_title": "Ni**as in Paris",
     "spotify_url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
     "count": 2,
@@ -1592,6 +1599,13 @@
     "artist": "Method Man and Redman",
     "song_title": "Da Rockwilder",
     "spotify_url": "https://open.spotify.com/track/3iB6PC4yVWUd1pbzuBZV2V",
+    "count": 2,
+    "unique_fighters": 2
+  },
+  {
+    "artist": "Michael Jackson",
+    "song_title": "They Don't Care About Us",
+    "spotify_url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
     "count": 2,
     "unique_fighters": 2
   },
@@ -5607,6 +5621,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "BigXthaPlug",
+    "song_title": "Texas",
+    "spotify_url": "https://open.spotify.com/search/Texas%20BigXthaPlug",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "BigXthaPlug feat. Finesse2Tymes",
     "song_title": "Mmhmm (Remix)",
     "spotify_url": "https://open.spotify.com/track/3FpFflePX0w1AxrxSXKTzz",
@@ -6065,6 +6086,13 @@
     "artist": "Carlos Blanco",
     "song_title": "Soy Un Mexicano, Lo Que Hay",
     "spotify_url": "https://open.spotify.com/track/3pfqM4WfDMX7tORDanBSMD",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Carmen Twillie & Lebo M / 50 Cent",
+    "song_title": "Circle of Life / God Gave Me Style",
+    "spotify_url": "https://open.spotify.com/search/Circle%20of%20Life%20God%20Gave%20Me%20Style%20Carmen%20Twillie%20Lebo%20M%2050%20Cent",
     "count": 1,
     "unique_fighters": 1
   },
@@ -6758,6 +6786,13 @@
     "artist": "Daft Punk",
     "song_title": "Robot Rock",
     "spotify_url": "https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Daleka Obala",
+    "song_title": "Mojoj Lijepoj",
+    "spotify_url": "https://open.spotify.com/search/Mojoj%20Lijepoj%20Daleka%20Obala",
     "count": 1,
     "unique_fighters": 1
   },
@@ -7665,6 +7700,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Fat Pat",
+    "song_title": "Tops Drop",
+    "spotify_url": "https://open.spotify.com/search/Tops%20Drop%20Fat%20Pat",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Fedde Le Grand",
     "song_title": "Put Your Hands Up 4 Detroit",
     "spotify_url": "https://open.spotify.com/track/2tyMOrVliF1wRnumVdcEwP",
@@ -7815,13 +7857,6 @@
     "artist": "Fred Arrais",
     "song_title": "O Som Que Desperta",
     "spotify_url": "https://open.spotify.com/track/1Ux75bPsXempzygaOjFOck",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
-    "song_title": "Victory Lap Five",
-    "spotify_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8722,13 +8757,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Jaden",
-    "song_title": "Icon",
-    "spotify_url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Jake Harlow",
     "song_title": "Loving on Me",
     "spotify_url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU",
@@ -9600,6 +9628,13 @@
     "artist": "Kendrick Lamar",
     "song_title": "Pay for It",
     "spotify_url": "https://open.spotify.com/track/3uya2Ph2zB84JMR28vqWK0",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "song_title": "TV Off",
+    "spotify_url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG",
     "count": 1,
     "unique_fighters": 1
   },
@@ -10941,6 +10976,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Major Lazer feat. Nyla & Fuse ODG",
+    "song_title": "Light It Up (Remix)",
+    "spotify_url": "https://open.spotify.com/search/Light%20It%20Up%20Remix%20Major%20Lazer%20Nyla%20Fuse%20ODG",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Major RD, Borges, MC Cabelinho, Young Ganni, meLLo",
     "song_title": "Só Rock 3",
     "spotify_url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj",
@@ -11319,13 +11361,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Michael Jackson",
-    "song_title": "They Don't Care About Us",
-    "spotify_url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Michael McCann",
     "song_title": "The Rampager, Part 2",
     "spotify_url": "https://open.spotify.com/track/5niYQsW1rLkxIELDlLEJyG",
@@ -11378,6 +11413,13 @@
     "artist": "Mikail",
     "song_title": "Yazn",
     "spotify_url": "https://open.spotify.com/track/2Qagd6kJEbLDdsDzvmRCav",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Mike Jones feat. Slim Thug & Paul Wall",
+    "song_title": "Still Tippin'",
+    "spotify_url": "https://open.spotify.com/search/Still%20Tippin%20Mike%20Jones%20Slim%20Thug%20Paul%20Wall",
     "count": 1,
     "unique_fighters": 1
   },
@@ -11714,6 +11756,13 @@
     "artist": "Nas feat. Scarface",
     "song_title": "Favor for a Favor",
     "spotify_url": "https://open.spotify.com/track/2EZq0KC5q1rMijciOflBaS",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Nas feat. Scarface",
+    "song_title": "Favor for a Favor",
+    "spotify_url": "https://open.spotify.com/search/Favor%20for%20a%20Favor%20Nas%20Scarface",
     "count": 1,
     "unique_fighters": 1
   },
@@ -12148,6 +12197,13 @@
     "artist": "P. Diddy",
     "song_title": "Bad Boy For Life",
     "spotify_url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "PK",
+    "song_title": "Do You Only Want Me for My Body",
+    "spotify_url": "https://open.spotify.com/search/Do%20You%20Only%20Want%20Me%20for%20My%20Body%20PK",
     "count": 1,
     "unique_fighters": 1
   },
@@ -14021,6 +14077,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "The Rolling Stones",
+    "song_title": "Paint It, Black",
+    "spotify_url": "https://open.spotify.com/search/Paint%20It%2C%20Black%20The%20Rolling%20Stones",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "The Royal Scots Dragoon Guard",
     "song_title": "Amazing Grace",
     "spotify_url": "https://open.spotify.com/track/6I3NxBRBsqbJEJ3JmMYqvE",
@@ -15053,6 +15116,13 @@
     "artist": "imk.a.y.o.",
     "song_title": "Bad Man",
     "spotify_url": "https://open.spotify.com/track/3mAYTd8YPVZSjHxLKeL1jV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "sombr",
+    "song_title": "12 to 12",
+    "spotify_url": "https://open.spotify.com/search/12%20to%2012%20sombr",
     "count": 1,
     "unique_fighters": 1
   },

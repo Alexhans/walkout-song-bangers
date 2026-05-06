@@ -1,11 +1,11 @@
 # Joselyne Edwards
 
-6 event(s) | 2 song(s) found | 2 unique
+6 event(s) | 3 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](../../ufc-fight-night-sterling-vs-zalal.md) | — | — | |
-| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | — | — | |
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | Champion | Kanye West |  |
 | [2024](../agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | Panama | Ruben Blades |  |
 | [2022](../agg/by-year/2022.md) | [UFC 277: Pena vs. Nunes 2](../../ufc-277.md) | — | — | |
 | [2022](../agg/by-year/2022.md) | [UFC 275: Teixeira vs. Prochazka](../../ufc-275.md) | — | — | |

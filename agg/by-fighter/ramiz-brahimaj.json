@@ -4,10 +4,10 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Favor%20for%20a%20Favor%20Nas%20Scarface",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
@@ -60,8 +60,8 @@
   ],
   "stats": {
     "events": 6,
-    "with_song": 3,
-    "missing": 3,
+    "with_song": 4,
+    "missing": 2,
     "unique_songs": 3
   }
 }

@@ -4,9 +4,10 @@
   "date": "2026-02-21",
   "location": "Toyota Center, Houston, Texas",
   "source_urls": [
-    "https://www.lowkickmma.com/ufc-houston-fighter-walkout-songs/"
+    "https://www.lowkickmma.com/ufc-houston-fighter-walkout-songs/",
+    "https://forums.sherdog.com/threads/ufc-houston-walkout-songs.4378921/"
   ],
-  "generated_at": "2026-03-24T00:04:00Z",
+  "generated_at": "2026-05-06T08:09:00Z",
   "songs": [
     {
       "fighter": "Sean Strickland",
@@ -66,11 +67,11 @@
     },
     {
       "fighter": "Ante Delija",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Mojoj Lijepoj",
+      "artist": "Daleka Obala",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Mojoj%20Lijepoj%20Daleka%20Obala",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Jacobe Smith",
@@ -138,67 +139,67 @@
     },
     {
       "fighter": "Alden Coria",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Still Tippin'",
+      "artist": "Mike Jones feat. Slim Thug & Paul Wall",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Still%20Tippin%20Mike%20Jones%20Slim%20Thug%20Paul%20Wall",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Luis Gurule",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Paint%20It%2C%20Black%20The%20Rolling%20Stones",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Joselyne Edwards",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Champion",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Champion%20Kanye%20West",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Nora Cornolle",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Tops Drop",
+      "artist": "Fat Pat",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Tops%20Drop%20Fat%20Pat",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Punahele Soriano",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "12 to 12",
+      "artist": "sombr",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/12%20to%2012%20sombr",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Ramiz Brahimaj",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Favor for a Favor",
+      "artist": "Nas feat. Scarface",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Favor%20for%20a%20Favor%20Nas%20Scarface",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Jean-Paul Lebosnoyani",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Circle of Life / God Gave Me Style",
+      "artist": "Carmen Twillie & Lebo M / 50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Circle%20of%20Life%20God%20Gave%20Me%20Style%20Carmen%20Twillie%20Lebo%20M%2050%20Cent",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Phil Rowe",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Do You Only Want Me for My Body",
+      "artist": "PK",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Do%20You%20Only%20Want%20Me%20for%20My%20Body%20PK",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Jordan Leavitt",
@@ -210,27 +211,27 @@
     },
     {
       "fighter": "Yadier del Valle",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Texas",
+      "artist": "BigXthaPlug",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Texas%20BigXthaPlug",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Carli Judice",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Champion",
+      "artist": "Kanye West",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Champion%20Kanye%20West",
+      "notes": "spotify_match: search_fallback"
     },
     {
       "fighter": "Juliana Miller",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Light It Up (Remix)",
+      "artist": "Major Lazer feat. Nyla & Fuse ODG",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Light%20It%20Up%20Remix%20Major%20Lazer%20Nyla%20Fuse%20ODG",
+      "notes": "spotify_match: search_fallback"
     }
   ]
 }

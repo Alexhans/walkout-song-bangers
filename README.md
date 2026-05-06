@@ -30,7 +30,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](viz/ufc-fight-night-emmett-vs-vallejos.md) | 28 | 0 | 0 | 10 | 18 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 326: Holloway vs. Oliveira 2](viz/ufc-326.md) | 24 | 0 | 0 | 10 | 14 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](viz/ufc-fight-night-moreno-vs-kavanagh.md) | 26 | 0 | 0 | 26 | 0 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 12 | 16 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](viz/ufc-fight-night-strickland-vs-hernandez.md) | 28 | 0 | 0 | 24 | 4 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
