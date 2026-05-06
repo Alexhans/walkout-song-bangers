@@ -13,10 +13,10 @@
       "date": "2026-05-02"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YjIjip6wBvtSUlmci3XCj",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 7,
-    "missing": 3,
+    "with_song": 8,
+    "missing": 2,
     "unique_songs": 6
   }
 }

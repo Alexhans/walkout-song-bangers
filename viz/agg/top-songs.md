@@ -6,21 +6,21 @@ Songs sorted by number of unique fighters who have used them.
 |---|------|--------|-----------------|-------------|---------|
 | 1 | Thunderstruck | AC/DC | 17 | 26 | [Listen](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) |
 | 2 | Who Gon' Stop Me | Jay-Z and Kanye West | 8 | 19 | [Listen](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) |
-| 3 | Ambitionz Az a Ridah | Tupac | 8 | 17 | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
+| 3 | Ambitionz Az a Ridah | Tupac | 8 | 18 | [Listen](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) |
 | 4 | Can't Stop | Red Hot Chili Peppers | 7 | 16 | [Listen](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | 5 | Shipping Up to Boston (Merc Dudes in Brooklyn Remix) | Dropkick Murphys | 7 | 15 | [Listen](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) |
 | 6 | O Hino | Fernandinho | 7 | 15 | [Listen](https://open.spotify.com/track/6w5iFDoK8F9fr1zfT6tRd2) |
 | 7 | Stranglehold | Ted Nugent | 7 | 14 | [Listen](https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE) |
 | 8 | Gangsta’s Paradise | Coolio | 7 | 10 | [Listen](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) |
-| 9 | Till I Collapse | Eminem | 7 | 8 | [Listen](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) |
-| 10 | Eye of the Tiger | Survivor | 7 | 8 | [Listen](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
-| 11 | Attan Tuspe Paluan | Abdizhappar Alkozha | 7 | 7 | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
-| 12 | Zanza Kuduro | Lucenzo with Don Omar | 7 | 7 | [Listen](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) |
-| 13 | Isreal's Son | Silverchair | 7 | 7 | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
-| 14 | Can't Be Touched | Body Head Bangerz | 6 | 14 | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
-| 15 | Victory | Puff Daddy feat. Notorious B.I.G. | 6 | 11 | [Listen](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) |
-| 16 | Gonna Fly Now | Bill Conti | 6 | 8 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
-| 17 | God’s Gonna Cut You Down | Johnny Cash | 6 | 8 | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
+| 9 | God’s Gonna Cut You Down | Johnny Cash | 7 | 9 | [Listen](https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo) |
+| 10 | Till I Collapse | Eminem | 7 | 8 | [Listen](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) |
+| 11 | Eye of the Tiger | Survivor | 7 | 8 | [Listen](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
+| 12 | Attan Tuspe Paluan | Abdizhappar Alkozha | 7 | 7 | [Listen](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) |
+| 13 | Zanza Kuduro | Lucenzo with Don Omar | 7 | 7 | [Listen](https://open.spotify.com/track/65Ves9w7yEbeLyiZjmQa5K) |
+| 14 | Isreal's Son | Silverchair | 7 | 7 | [Listen](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD) |
+| 15 | Can't Be Touched | Body Head Bangerz | 6 | 14 | [Listen](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) |
+| 16 | Victory | Puff Daddy feat. Notorious B.I.G. | 6 | 11 | [Listen](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) |
+| 17 | Gonna Fly Now | Bill Conti | 6 | 8 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
 | 18 | X Gon' Give It To Ya | DMX | 6 | 6 | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
 | 19 | TNT | AC/DC | 5 | 13 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | 20 | Many Men (Wish Death) | 50 Cent | 5 | 12 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |

@@ -17,7 +17,7 @@
     "artist": "Tupac",
     "song_title": "Ambitionz Az a Ridah",
     "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-    "count": 17,
+    "count": 18,
     "unique_fighters": 8
   },
   {
@@ -53,6 +53,13 @@
     "song_title": "Gangsta’s Paradise",
     "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
     "count": 10,
+    "unique_fighters": 7
+  },
+  {
+    "artist": "Johnny Cash",
+    "song_title": "God’s Gonna Cut You Down",
+    "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+    "count": 9,
     "unique_fighters": 7
   },
   {
@@ -108,13 +115,6 @@
     "artist": "Bill Conti",
     "song_title": "Gonna Fly Now",
     "spotify_url": "https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs",
-    "count": 8,
-    "unique_fighters": 6
-  },
-  {
-    "artist": "Johnny Cash",
-    "song_title": "God’s Gonna Cut You Down",
-    "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
     "count": 8,
     "unique_fighters": 6
   },
@@ -1995,6 +1995,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Sleep Token",
+    "song_title": "Hypnosis",
+    "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+    "count": 6,
+    "unique_fighters": 1
+  },
+  {
     "artist": "50 Cent",
     "song_title": "P.I.M.P.",
     "spotify_url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
@@ -2100,6 +2107,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Krzesimir Debski",
+    "song_title": "Husaria Ginie",
+    "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+    "count": 5,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Los Reileros Del Norte",
     "song_title": "El Corrido De Chihuahua",
     "spotify_url": "https://open.spotify.com/track/4wugRqLNJwUtSacbECUdw8",
@@ -2110,13 +2124,6 @@
     "artist": "Sinead O'Connor / The Notorious B.I.G.",
     "song_title": "The Foggy Dew / Hypnotize",
     "spotify_url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3",
-    "count": 5,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Sleep Token",
-    "song_title": "Hypnosis",
-    "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
     "count": 5,
     "unique_fighters": 1
   },
@@ -2254,13 +2261,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Krzesimir Debski",
-    "song_title": "Husaria Ginie",
-    "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
-    "count": 4,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Los Tucanes De Tijuana",
     "song_title": "El Papa de los Pollitos",
     "spotify_url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e",
@@ -2299,6 +2299,13 @@
     "artist": "Noggano",
     "song_title": "Stem for the Belt",
     "spotify_url": "https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Oficina G3",
+    "song_title": "Meus Proprios Meios",
+    "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
     "count": 4,
     "unique_fighters": 1
   },
@@ -2649,13 +2656,6 @@
     "artist": "Notorious B.I.G.",
     "song_title": "Gimme the Loot",
     "spotify_url": "https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Oficina G3",
-    "song_title": "Meus Proprios Meios",
-    "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
     "count": 3,
     "unique_fighters": 1
   },
@@ -3279,6 +3279,13 @@
     "artist": "Giorgio Moroder",
     "song_title": "Scarface Theme Song",
     "spotify_url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg",
+    "count": 2,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Goldfinger",
+    "song_title": "99 Red Balloons",
+    "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
     "count": 2,
     "unique_fighters": 1
   },
@@ -7952,6 +7959,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Gabriela Rocha",
+    "song_title": "Diz (You Say)",
+    "spotify_url": "https://open.spotify.com/search/Diz%20You%20Say%20Gabriela%20Rocha",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Gala",
     "song_title": "Freed From Desire",
     "spotify_url": "https://open.spotify.com/track/3EpbZE2fBvFb1nhaGCCFQS",
@@ -8123,13 +8137,6 @@
     "artist": "Gog",
     "song_title": "E o Terror",
     "spotify_url": "https://open.spotify.com/track/2FAzDuJVmPAx5dxZnN4dmv",
-    "count": 1,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Goldfinger",
-    "song_title": "99 Red Balloons",
-    "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8806,6 +8813,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Jammaar Milton",
+    "song_title": "Shakka Zulu",
+    "spotify_url": "https://open.spotify.com/search/Shakka%20Zulu%20Jammaar%20Milton",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Janaga",
     "song_title": "What Have You Lost Here?",
     "spotify_url": "https://open.spotify.com/track/1TefJ43egrnGQfvBvAcZvQ",
@@ -9145,6 +9159,13 @@
     "artist": "John Williams, Thunderstruck by AC/DC",
     "song_title": "Olympic Fanfare",
     "spotify_url": "https://open.spotify.com/search/Olympic%20Fanfare%20John%20Williams%2C%20Thunderstruck%20by%20AC/DC",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Johnny Cash",
+    "song_title": "A Boy Named Sue",
+    "spotify_url": "https://open.spotify.com/track/1YjIjip6wBvtSUlmci3XCj",
     "count": 1,
     "unique_fighters": 1
   },

@@ -22,10 +22,10 @@
       "date": "2025-11-15"
     },
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "99 Red Balloons",
+      "artist": "Goldfinger",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -114,8 +114,8 @@
   ],
   "stats": {
     "events": 12,
-    "with_song": 7,
-    "missing": 5,
+    "with_song": 8,
+    "missing": 4,
     "unique_songs": 7
   }
 }

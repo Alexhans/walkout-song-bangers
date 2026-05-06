@@ -524,20 +524,20 @@
     },
     {
       "fighter": "Lerone Murphy",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
     },
     {
       "fighter": "Aaron Pico",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -554,10 +554,10 @@
     },
     {
       "fighter": "Geoff Neal",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -574,20 +574,20 @@
     },
     {
       "fighter": "Jared Cannonier",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Shakka Zulu",
+      "artist": "Jammaar Milton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Shakka%20Zulu%20Jammaar%20Milton",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
     },
     {
       "fighter": "Tim Elliott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YjIjip6wBvtSUlmci3XCj",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -624,20 +624,20 @@
     },
     {
       "fighter": "Michal Oleksiejczuk",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Husaria ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
     },
     {
       "fighter": "Gerald Meerschaert",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "99 Red Balloons",
+      "artist": "Goldfinger",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -654,10 +654,10 @@
     },
     {
       "fighter": "Jessica Andrade",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Diz (You Say)",
+      "artist": "Gabriela Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Diz%20You%20Say%20Gabriela%20Rocha",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -694,10 +694,10 @@
     },
     {
       "fighter": "Edson Barboza",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Meus Próprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -1305,9 +1305,9 @@
   ],
   "stats": {
     "total_fighters": 130,
-    "with_song": 74,
-    "playable_tracks": 69,
-    "unique_playable_tracks": 67,
-    "missing": 56
+    "with_song": 83,
+    "playable_tracks": 76,
+    "unique_playable_tracks": 74,
+    "missing": 47
   }
 }

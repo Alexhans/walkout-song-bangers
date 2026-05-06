@@ -4,10 +4,10 @@
   "appearances": 15,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Diz (You Say)",
+      "artist": "Gabriela Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Diz%20You%20Say%20Gabriela%20Rocha",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -141,8 +141,8 @@
   ],
   "stats": {
     "events": 15,
-    "with_song": 11,
-    "missing": 4,
+    "with_song": 12,
+    "missing": 3,
     "unique_songs": 7
   }
 }

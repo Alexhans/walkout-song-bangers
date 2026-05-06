@@ -7,9 +7,10 @@
     "http://www.ufcstats.com/event-details/421ccfc6ddb17958",
     "https://www.sherdog.com/news/articles/Fight-Facts-UFC-319-Du-Plessis-vs-Chimaev-198084",
     "https://www.instagram.com/reel/DNbPO0DOGc4/",
-    "https://www.youtube.com/watch?v=Yt6_qbpYalw"
+    "https://www.youtube.com/watch?v=Yt6_qbpYalw",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-319-walkout-songs-entrance-music-of-dricus-du-plessis-khamzat-chimaev-aaron-pico-others//"
   ],
-  "generated_at": "2026-04-28T00:01:00Z",
+  "generated_at": "2026-05-06T08:15:32Z",
   "songs": [
     {
       "fighter": "Khamzat Chimaev",
@@ -29,19 +30,19 @@
     },
     {
       "fighter": "Lerone Murphy",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "YouTube video 'Lerone Murphy walkout at UFC 319!!' confirms walkout happened but does not name the song. Pre-event articles predict 'Ambitionz Az A Ridah' by 2Pac (pre-event only)."
+      "song_title": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Murphy's walkout; existing UFC 319 YouTube walkout video confirms the walkout happened."
     },
     {
       "fighter": "Aaron Pico",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "God's Gonna Cut You Down",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/6jXPZid0KLorvgIDP6TiSo",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Pico's walkout."
     },
     {
       "fighter": "Carlos Prates",
@@ -53,11 +54,11 @@
     },
     {
       "fighter": "Geoff Neal",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Hypnosis",
+      "artist": "Sleep Token",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Neal's walkout."
     },
     {
       "fighter": "Michael Page",
@@ -69,19 +70,19 @@
     },
     {
       "fighter": "Jared Cannonier",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Shakka Zulu",
+      "artist": "Jammaar Milton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Shakka%20Zulu%20Jammaar%20Milton",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Cannonier's walkout. spotify_match: search_fallback"
     },
     {
       "fighter": "Tim Elliott",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/1YjIjip6wBvtSUlmci3XCj",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Elliott's walkout."
     },
     {
       "fighter": "Kai Asakura",
@@ -109,19 +110,19 @@
     },
     {
       "fighter": "Michal Oleksiejczuk",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Husaria ginie",
+      "artist": "Krzesimir Debski",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2m3uZBuD48mGJ4U42D0m1K",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Oleksiejczuk's walkout."
     },
     {
       "fighter": "Gerald Meerschaert",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "99 Red Balloons",
+      "artist": "Goldfinger",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Meerschaert's walkout."
     },
     {
       "fighter": "Loopy Godinez",
@@ -133,11 +134,11 @@
     },
     {
       "fighter": "Jessica Andrade",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Diz (You Say)",
+      "artist": "Gabriela Rocha",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Diz%20You%20Say%20Gabriela%20Rocha",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Andrade's walkout. spotify_match: search_fallback"
     },
     {
       "fighter": "Alexander Hernandez",
@@ -165,11 +166,11 @@
     },
     {
       "fighter": "Edson Barboza",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Meus Próprios Meios",
+      "artist": "Oficina G3",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0yH7RR6CPpidfHe6KD15WV",
+      "notes": "Event-day EssentiallySports UFC 319 entrance-music article lists this as Barboza's walkout."
     },
     {
       "fighter": "Karine Silva",

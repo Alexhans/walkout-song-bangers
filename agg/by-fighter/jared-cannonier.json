@@ -4,10 +4,10 @@
   "appearances": 8,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Shakka Zulu",
+      "artist": "Jammaar Milton",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Shakka%20Zulu%20Jammaar%20Milton",
       "event": "UFC 319: Du Plessis vs. Chimaev",
       "event_slug": "ufc-319",
       "date": "2025-08-16"
@@ -78,8 +78,8 @@
   ],
   "stats": {
     "events": 8,
-    "with_song": 4,
-    "missing": 4,
-    "unique_songs": 4
+    "with_song": 5,
+    "missing": 3,
+    "unique_songs": 5
   }
 }
