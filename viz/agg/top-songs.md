@@ -22,8 +22,8 @@ Songs sorted by number of unique fighters who have used them.
 | 16 | Victory | Puff Daddy feat. Notorious B.I.G. | 6 | 11 | [Listen](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) |
 | 17 | Gonna Fly Now | Bill Conti | 6 | 8 | [Listen](https://open.spotify.com/track/6C2PfemHQul77DVpnvuAIs) |
 | 18 | X Gon' Give It To Ya | DMX | 6 | 6 | [Listen](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) |
-| 19 | TNT | AC/DC | 5 | 13 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
-| 20 | Many Men (Wish Death) | 50 Cent | 5 | 12 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
+| 19 | Many Men (Wish Death) | 50 Cent | 5 | 13 | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
+| 20 | TNT | AC/DC | 5 | 13 | [Listen](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) |
 | 21 | Prvt e hora de vencer | Faccao 228 | 5 | 11 | [Listen](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) |
 | 22 | Unstoppable | Sia | 5 | 9 | [Listen](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) |
 | 23 | Intro | DMX | 5 | 6 | [Listen](https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI) |

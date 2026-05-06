@@ -1054,10 +1054,10 @@
     },
     {
       "fighter": "Alexandre Pantoja",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -1104,10 +1104,10 @@
     },
     {
       "fighter": "Jan Blachowicz",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Will Never Give Up",
+      "artist": "The Analogs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%20Will%20Never%20Give%20Up%20The%20Analogs",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -1124,20 +1124,20 @@
     },
     {
       "fighter": "Manuel Torres",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wqhDezoqJUGEHN1BQMFk6",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
     },
     {
       "fighter": "Grant Dawson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "The Devil Went Down to Georgia",
+      "artist": "The Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -1194,10 +1194,10 @@
     },
     {
       "fighter": "Nazim Sadykhov",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -1214,10 +1214,10 @@
     },
     {
       "fighter": "Marvin Vettori",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "The Trooper",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -1305,9 +1305,9 @@
   ],
   "stats": {
     "total_fighters": 130,
-    "with_song": 83,
-    "playable_tracks": 76,
-    "unique_playable_tracks": 74,
-    "missing": 47
+    "with_song": 89,
+    "playable_tracks": 81,
+    "unique_playable_tracks": 78,
+    "missing": 41
   }
 }

@@ -4,10 +4,10 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "The Devil Went Down to Georgia",
+      "artist": "The Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -60,8 +60,8 @@
   ],
   "stats": {
     "events": 6,
-    "with_song": 5,
-    "missing": 1,
-    "unique_songs": 1
+    "with_song": 6,
+    "missing": 0,
+    "unique_songs": 2
   }
 }

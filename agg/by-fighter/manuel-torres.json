@@ -4,10 +4,10 @@
   "appearances": 3,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wqhDezoqJUGEHN1BQMFk6",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -33,8 +33,8 @@
   ],
   "stats": {
     "events": 3,
-    "with_song": 2,
-    "missing": 1,
-    "unique_songs": 2
+    "with_song": 3,
+    "missing": 0,
+    "unique_songs": 3
   }
 }

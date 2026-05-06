@@ -1,10 +1,10 @@
 # Jan Blachowicz
 
-10 event(s) | 8 song(s) found | 7 unique
+10 event(s) | 9 song(s) found | 8 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | I Will Never Give Up | The Analogs |  |
 | [2023](../agg/by-year/2023.md) | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | The Politics & The Life (King Arthur) | Daniel Pemberton |  |
 | [2022](../agg/by-year/2022.md) | [UFC 282: Blachowicz vs. Ankalaev](../../ufc-282.md) | The Song Of The Dragonborn | Skyrim | [Listen](https://open.spotify.com/track/6zqMYQfc6bb5zASIfLl8rD) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Blachowicz vs. Rakic](../../ufc-fight-night-blachowicz-vs-rakic.md) | Anvil of Crom | Basil Poledouris | [Listen](https://open.spotify.com/track/5mxTww2EuHbK0txi7U5C0A) |

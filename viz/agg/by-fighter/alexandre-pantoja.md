@@ -1,10 +1,10 @@
 # Alexandre Pantoja
 
-10 event(s) | 7 song(s) found | 1 unique
+10 event(s) | 8 song(s) found | 1 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
-| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | — | — | |
+| [2025](../agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](../../ufc-323.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | [2025](../agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](../../ufc-317.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | [2024](../agg/by-year/2024.md) | [UFC 301: Pantoja vs. Erceg](../../ufc-301.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |
 | [2023](../agg/by-year/2023.md) | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Many Men (Wish Death) | 50 Cent | [Listen](https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi) |

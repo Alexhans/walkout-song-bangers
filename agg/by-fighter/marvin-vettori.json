@@ -4,10 +4,10 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "The Trooper",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -87,8 +87,8 @@
   ],
   "stats": {
     "events": 9,
-    "with_song": 6,
-    "missing": 3,
-    "unique_songs": 6
+    "with_song": 7,
+    "missing": 2,
+    "unique_songs": 7
   }
 }

@@ -4,10 +4,10 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Will Never Give Up",
+      "artist": "The Analogs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%20Will%20Never%20Give%20Up%20The%20Analogs",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 8,
-    "missing": 2,
-    "unique_songs": 7
+    "with_song": 9,
+    "missing": 1,
+    "unique_songs": 8
   }
 }

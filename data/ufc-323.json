@@ -4,9 +4,10 @@
   "date": "2025-12-06",
   "location": "Las Vegas, Nevada, USA",
   "source_urls": [
-    "http://www.ufcstats.com/event-details/bd92cf5da5413d2a"
+    "http://www.ufcstats.com/event-details/bd92cf5da5413d2a",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-323-walkout-songs-list-of-entrance-music-used-by-merab-dvalishvili-petr-yan-alexandre-pantoja-and-others/"
   ],
-  "generated_at": "2026-04-26T17:22:00Z",
+  "generated_at": "2026-05-06T08:15:32Z",
   "songs": [
     {
       "fighter": "Petr Yan",
@@ -34,11 +35,11 @@
     },
     {
       "fighter": "Alexandre Pantoja",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Pantoja's walkout."
     },
     {
       "fighter": "Tatsuro Taira",
@@ -74,11 +75,11 @@
     },
     {
       "fighter": "Jan Blachowicz",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "I Will Never Give Up",
+      "artist": "The Analogs",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/I%20Will%20Never%20Give%20Up%20The%20Analogs",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Blachowicz's walkout. spotify_match: search_fallback"
     },
     {
       "fighter": "Bogdan Guskov",
@@ -90,19 +91,19 @@
     },
     {
       "fighter": "Manuel Torres",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "El Chapo",
+      "artist": "The Game feat. Skrillex",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/7wqhDezoqJUGEHN1BQMFk6",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Torres' walkout."
     },
     {
       "fighter": "Grant Dawson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "The Devil Went Down to Georgia",
+      "artist": "The Charlie Daniels Band",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Dawson's walkout."
     },
     {
       "fighter": "Chris Duncan",
@@ -146,11 +147,11 @@
     },
     {
       "fighter": "Nazim Sadykhov",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "Scenario",
+      "artist": "A Tribe Called Quest",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Sadykhov's walkout."
     },
     {
       "fighter": "Brunno Ferreira",
@@ -162,11 +163,11 @@
     },
     {
       "fighter": "Marvin Vettori",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": "Coverage shell from UFCStats roster; no post-event walkout source found yet."
+      "song_title": "The Trooper",
+      "artist": "Iron Maiden",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
+      "notes": "Event-day EssentiallySports UFC 323 entrance-music article lists this as Vettori's walkout."
     },
     {
       "fighter": "Jalin Turner",

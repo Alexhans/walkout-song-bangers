@@ -126,17 +126,17 @@
     "unique_fighters": 6
   },
   {
-    "artist": "AC/DC",
-    "song_title": "TNT",
-    "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+    "artist": "50 Cent",
+    "song_title": "Many Men (Wish Death)",
+    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
     "count": 13,
     "unique_fighters": 5
   },
   {
-    "artist": "50 Cent",
-    "song_title": "Many Men (Wish Death)",
-    "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-    "count": 12,
+    "artist": "AC/DC",
+    "song_title": "TNT",
+    "spotify_url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb",
+    "count": 13,
     "unique_fighters": 5
   },
   {
@@ -4683,6 +4683,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "A Tribe Called Quest",
+    "song_title": "Scenario",
+    "spotify_url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "A$AP Mob",
     "song_title": "Money Man",
     "spotify_url": "https://open.spotify.com/track/0foRpYmPs9PHIAMyXa5bTc",
@@ -8592,6 +8599,13 @@
     "artist": "Irene Cara",
     "song_title": "What a Feeling",
     "spotify_url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Iron Maiden",
+    "song_title": "The Trooper",
+    "spotify_url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF",
     "count": 1,
     "unique_fighters": 1
   },
@@ -13853,6 +13867,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "The Analogs",
+    "song_title": "I Will Never Give Up",
+    "spotify_url": "https://open.spotify.com/search/I%20Will%20Never%20Give%20Up%20The%20Analogs",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
     "artist": "The Animals",
     "song_title": "Don't Let Me Be Misunderstood",
     "spotify_url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC",
@@ -13891,6 +13912,13 @@
     "artist": "The Black Keys & RZA",
     "song_title": "The Baddest Man Alive",
     "spotify_url": "https://open.spotify.com/track/2Gg9tkVjRYoZHhXzBeYyuV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Charlie Daniels Band",
+    "song_title": "The Devil Went Down to Georgia",
+    "spotify_url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7",
     "count": 1,
     "unique_fighters": 1
   },
@@ -13989,6 +14017,13 @@
     "artist": "The Game feat. Lil Wayne",
     "song_title": "Red Nation",
     "spotify_url": "https://open.spotify.com/track/0faPimFGBoU2zt690uPHed",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "The Game feat. Skrillex",
+    "song_title": "El Chapo",
+    "spotify_url": "https://open.spotify.com/track/7wqhDezoqJUGEHN1BQMFk6",
     "count": 1,
     "unique_fighters": 1
   },

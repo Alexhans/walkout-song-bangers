@@ -34,7 +34,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 0 | 13 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 6 | 7 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](viz/ufc-319.md) | 24 | 0 | 0 | 13 | 11 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |

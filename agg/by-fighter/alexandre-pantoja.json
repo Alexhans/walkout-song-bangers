@@ -4,10 +4,10 @@
   "appearances": 10,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Many Men (Wish Death)",
+      "artist": "50 Cent",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "event": "UFC 323: Dvalishvili vs. Yan 2",
       "event_slug": "ufc-323",
       "date": "2025-12-06"
@@ -96,8 +96,8 @@
   ],
   "stats": {
     "events": 10,
-    "with_song": 7,
-    "missing": 3,
+    "with_song": 8,
+    "missing": 2,
     "unique_songs": 1
   }
 }
