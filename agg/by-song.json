@@ -1932,17 +1932,17 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Sepultura",
-    "song_title": "Itsari",
-    "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+    "artist": "Megaraptor",
+    "song_title": "When Johnny Comes Marching Home",
+    "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
     "count": 8,
     "unique_fighters": 1
   },
   {
-    "artist": "Megaraptor",
-    "song_title": "When Johnny Comes Marching Home",
-    "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
-    "count": 7,
+    "artist": "Sepultura",
+    "song_title": "Itsari",
+    "spotify_url": "https://open.spotify.com/track/78DGy5xF9IQhWrmz71Wuf7",
+    "count": 8,
     "unique_fighters": 1
   },
   {
@@ -14332,6 +14332,13 @@
     "artist": "Tim McGraw",
     "song_title": "Humble and Kind",
     "spotify_url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Timur Mutsurayev",
+    "song_title": "Гимн",
+    "spotify_url": "https://open.spotify.com/track/7p9LZmQ7kh68Lpy6lV8iEh",
     "count": 1,
     "unique_fighters": 1
   },

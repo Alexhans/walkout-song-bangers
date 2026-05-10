@@ -8,21 +8,29 @@
   "songs": [
     {
       "fighter": "Khamzat Chimaev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Гимн",
+      "artist": "Timur Mutsurayev",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7p9LZmQ7kh68Lpy6lV8iEh",
       "notes": "",
-      "verified_by": null
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Khamzat Chimaev walked out to 'Гимн' by Timur Mutsurayev at UFC 328."
+      }
     },
     {
       "fighter": "Sean Strickland",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
       "notes": "",
-      "verified_by": null
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Sean Strickland walked out to 'When Johnny Comes Marching Home' by Megaraptor at UFC 328."
+      }
     },
     {
       "fighter": "Joshua Van",

@@ -964,20 +964,20 @@
     },
     {
       "fighter": "Khamzat Chimaev",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Гимн",
+      "artist": "Timur Mutsurayev",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7p9LZmQ7kh68Lpy6lV8iEh",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
     },
     {
       "fighter": "Sean Strickland",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
@@ -3825,9 +3825,9 @@
   ],
   "stats": {
     "total_fighters": 382,
-    "with_song": 212,
-    "playable_tracks": 183,
-    "unique_playable_tracks": 178,
-    "missing": 170
+    "with_song": 214,
+    "playable_tracks": 185,
+    "unique_playable_tracks": 179,
+    "missing": 168
   }
 }

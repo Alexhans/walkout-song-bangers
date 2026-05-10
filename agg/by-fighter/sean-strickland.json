@@ -4,10 +4,10 @@
   "appearances": 11,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "When Johnny Comes Marching Home",
+      "artist": "Megaraptor",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
@@ -105,8 +105,8 @@
   ],
   "stats": {
     "events": 11,
-    "with_song": 9,
-    "missing": 2,
+    "with_song": 10,
+    "missing": 1,
     "unique_songs": 3
   }
 }
