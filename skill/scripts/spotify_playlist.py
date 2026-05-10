@@ -184,32 +184,17 @@ def process_year(year, access_token, user_id, public):
     return playlist_id
 
 
-def update_readme_spotify(results):
-    """Rewrite the <!-- BEGIN SPOTIFY -->...<!-- END SPOTIFY --> block in README.md."""
-    import re
-    readme = Path("README.md")
-    if not readme.exists():
-        return
-    text = readme.read_text()
-    begin, end = "<!-- BEGIN SPOTIFY -->", "<!-- END SPOTIFY -->"
-    start = text.find(begin)
-    stop = text.find(end)
-    if start == -1 or stop == -1:
-        return
-
-    # Parse existing entries so a single-year run doesn't wipe other years
-    existing = {}
-    for m in re.finditer(r"\| (\d{4}) \| \[.*?\]\(https://open\.spotify\.com/playlist/(\w+)\)", text):
-        existing[m.group(1)] = m.group(2)
+def write_spotify_playlists_json(results):
+    """Merge new playlist IDs into agg/spotify-playlists.json and regenerate viz."""
+    import subprocess
+    out = Path("agg") / "spotify-playlists.json"
+    existing = json.loads(out.read_text()) if out.exists() else {}
     existing.update(results)
-
-    rows = "\n".join(
-        f"| {year} | [UFC Walkout Songs {year}](https://open.spotify.com/playlist/{pid}) |"
-        for year, pid in sorted(existing.items(), reverse=True)
-    )
-    table = f"| Year | Playlist |\n|------|----------|\n{rows}"
-    readme.write_text(text[:start] + begin + "\n" + table + "\n" + text[stop:])
-    print("\nREADME.md Spotify section updated.")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(existing, indent=2, sort_keys=True) + "\n")
+    print(f"\nagg/spotify-playlists.json updated ({len(existing)} years)")
+    subprocess.run(["python3", "skill/scripts/aggregate.py"], check=True)
+    subprocess.run(["python3", "skill/scripts/update_readme.py"], check=True)
 
 
 def main():
@@ -244,7 +229,7 @@ def main():
         results[year] = process_year(year, access_token, user_id, public)
 
     if results:
-        update_readme_spotify(results)
+        write_spotify_playlists_json(results)
 
 
 if __name__ == "__main__":

@@ -317,7 +317,15 @@ def write_viz_by_year(year_results):
     return out_path
 
 
-def write_viz_year_page(year: int, year_data, events_for_year: list):
+def _load_spotify_playlists() -> dict:
+    path = AGG_DIR / "spotify-playlists.json"
+    if not path.exists():
+        return {}
+    with open(path) as f:
+        return json.load(f)
+
+
+def write_viz_year_page(year: int, year_data, events_for_year: list, spotify_playlist_id: str | None = None):
     """Write a per-year viz page: stats + flat song table + event sections."""
     out_dir = VIZ_AGG_DIR / "by-year"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -334,6 +342,8 @@ def write_viz_year_page(year: int, year_data, events_for_year: list):
     lines = [f"# {year} Walkout Songs", ""]
     if nav:
         lines += [nav, ""]
+    if spotify_playlist_id:
+        lines += [f"[Listen on Spotify](https://open.spotify.com/playlist/{spotify_playlist_id})", ""]
 
     if not year_data or not events_for_year:
         lines.append("No events recorded for this year yet.")
@@ -547,6 +557,7 @@ def main():
         write_viz_by_year(year_results)
 
         # Per-year viz pages
+        spotify_playlists = _load_spotify_playlists()
         current_year = datetime.date.today().year
         events_by_year: dict[str, list] = defaultdict(list)
         for event in events:
@@ -555,7 +566,7 @@ def main():
                 events_by_year[y].append(event)
         year_pages = 0
         for y in range(2016, current_year + 1):
-            write_viz_year_page(y, year_results.get(str(y)), events_by_year.get(str(y), []))
+            write_viz_year_page(y, year_results.get(str(y)), events_by_year.get(str(y), []), spotify_playlists.get(str(y)))
             year_pages += 1
 
         print(f"viz/agg/ -> top-songs.md, by-year.md, by-year/{year_pages} year pages")
