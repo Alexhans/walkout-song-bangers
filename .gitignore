@@ -2,3 +2,7 @@
 *.swp
 __pycache__/
 session.plan.md
+.spotify-refresh-token
+.venv/
+.claude/
+agg/spotify/
