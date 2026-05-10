@@ -1,9 +1,10 @@
 # Pat Sabatini
 
-5 event(s) | 5 song(s) found | 3 unique
+6 event(s) | 5 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Champ | Ghostface Killah | [Listen](https://open.spotify.com/track/5iT0oOBAZek1ynX91Pr4iI) |
 | [2023](../agg/by-year/2023.md) | [UFC 295: Prochazka vs. Pereira](../../ufc-295.md) | Ironman | Black Sabbath | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Sandhagen vs. Song](../../ufc-fight-night-sandhagen-vs-song.md) | Iron Man | Black Sabbath | [Listen](https://open.spotify.com/track/0vJYFKg9z1IvZiQUyX19cD) |

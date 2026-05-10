@@ -1,9 +1,10 @@
 # Jim Miller
 
-14 event(s) | 14 song(s) found | 7 unique
+15 event(s) | 14 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](../../ufc-309.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
 | [2024](../agg/by-year/2024.md) | [UFC 300: Pereira vs. Hill](../../ufc-300.md) | Bad Moon Rising | Creedence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Ankalaev vs. Walker 2](../../ufc-fight-night-ankalaev-vs-walker-2.md) | Bad Moon Rising | Credence Clearwater Revival | [Listen](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) |

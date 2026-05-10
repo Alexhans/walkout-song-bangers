@@ -1,10 +1,11 @@
 # Amanda Lemos
 
-7 event(s) | 7 song(s) found | 6 unique
+8 event(s) | 7 song(s) found | 6 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Emmett vs. Vallejos](../../ufc-fight-night-emmett-vs-vallejos.md) | De Dentro Pra Fora | Julia Vitoria | [Listen](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) |
+| [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 298: Volkanovski vs. Topuria](../../ufc-298.md) | Bencaos Que Nao Tem Fim | Isadora Pompeu | [Listen](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) |
 | [2023](../agg/by-year/2023.md) | [UFC 292: Sterling vs. O'Malley](../../ufc-292.md) | Deixa | Maria Marcai |  |
 | [2022](../agg/by-year/2022.md) | [UFC Fight Night: Ortega vs. Rodriguez](../../ufc-fight-night-ortega-vs-rodriguez.md) | De Dentro Pra Fora | Julia Vitoria | [Listen](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) |

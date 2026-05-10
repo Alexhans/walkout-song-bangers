@@ -1,8 +1,17 @@
 {
   "fighter": "Waldo Cortes Acosta",
   "slug": "waldo-cortes-acosta",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "K PARA DE QUÉ",
       "artist": "El Alfa, El Shick",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

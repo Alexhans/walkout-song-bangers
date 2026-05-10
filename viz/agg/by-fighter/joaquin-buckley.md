@@ -1,9 +1,10 @@
 # Joaquin Buckley
 
-9 event(s) | 8 song(s) found | 7 unique
+10 event(s) | 8 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 307: Pereira vs. Rountree Jr.](../../ufc-307.md) | Feeling Good | Nina Simone | [Listen](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | See Me Now! | Jeleel | [Listen](https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](../../ufc-fight-night-blanchfield-vs-fiorot.md) | See Me Now! | Jeleel | [Listen](https://open.spotify.com/track/00MQZPZKo5bjfcFQiDkvUi) |

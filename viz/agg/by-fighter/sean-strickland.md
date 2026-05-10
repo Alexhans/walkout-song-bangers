@@ -1,9 +1,10 @@
 # Sean Strickland
 
-10 event(s) | 9 song(s) found | 3 unique
+11 event(s) | 9 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | When Johnny Comes Marching Home | Megaraptor | [Listen](https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH) |
 | [2024](../agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | When Johnny Comes Marching Home | Megaraptor | [Listen](https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH) |
 | [2024](../agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | When Johnny Comes Marching Home | Megaraptor | [Listen](https://open.spotify.com/track/01RHvKaFBZ5XYr6XT953aH) |

@@ -1,0 +1,22 @@
+{
+  "fighter": "Jose Ochoa",
+  "slug": "jose-ochoa",
+  "appearances": 1,
+  "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    }
+  ],
+  "stats": {
+    "events": 1,
+    "with_song": 0,
+    "missing": 1,
+    "unique_songs": 0
+  }
+}

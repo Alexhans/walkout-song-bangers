@@ -1,7 +1,7 @@
 {
   "fighter": "Melquizael Costa",
   "slug": "melquizael-costa",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
     {
       "song_title": "Bladadah",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Strickland vs. Hernandez",
       "event_slug": "ufc-fight-night-strickland-vs-hernandez",
       "date": "2026-02-21"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
     },
     {
       "song_title": "Funk Do Patinho",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 3,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 3
   }
 }

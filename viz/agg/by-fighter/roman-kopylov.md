@@ -1,9 +1,10 @@
 # Roman Kopylov
 
-9 event(s) | 7 song(s) found | 5 unique
+10 event(s) | 7 song(s) found | 5 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Last Hero | Kino | [Listen](https://open.spotify.com/track/4q6mxHnmHHG2TZjnUh1qA9) |
 | [2025](../agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](../../ufc-318.md) | My Motherland Siberia | Unknown |  |
 | [2024](../agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | My Motherland Siberia | Unknown |  |

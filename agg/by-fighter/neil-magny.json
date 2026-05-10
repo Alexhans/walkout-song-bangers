@@ -1,8 +1,17 @@
 {
   "fighter": "Neil Magny",
   "slug": "neil-magny",
-  "appearances": 12,
+  "appearances": 13,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
     {
       "song_title": "No Regrets",
       "artist": "Lecrae",
@@ -113,9 +122,9 @@
     }
   ],
   "stats": {
-    "events": 12,
+    "events": 13,
     "with_song": 12,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 3
   }
 }

@@ -84,11 +84,16 @@
     },
     {
       "fighter": "Daniel Zellhuber",
-      "song_title": "Golden Boy",
-      "artist": "Gibran Nolasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
-      "notes": "spotify_match: search_fallback"
+      "song_title": "Pelea de Gallos",
+      "artist": "Antonio Aguilar",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Pelea%20de%20Gallos%20Antonio%20Aguilar",
+      "notes": "Human-verified by user for UFC 318; spotify_match: search_fallback",
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Daniel Zellhuber entered with 'Pelea de Gallos' by Antonio Aguilar at UFC 318."
+      }
     },
     {
       "fighter": "Vinicius Oliveira",

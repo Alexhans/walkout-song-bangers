@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "events": 14,
+  "events": 15,
   "tracks": [
     {
       "fighter": "Justin Gaethje",
@@ -961,6 +961,266 @@
       "event": "UFC 327: Prochazka vs. Ulberg",
       "event_slug": "ufc-327",
       "date": "2026-04-11"
+    },
+    {
+      "fighter": "Khamzat Chimaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Sean Strickland",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Joshua Van",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Tatsuro Taira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Waldo Cortes Acosta",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Sean Brady",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Joaquin Buckley",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Jeremy Stephens",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Ateba Gautier",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Ozzy Diaz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Yaroslav Amosov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Joel Alvarez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Grant Dawson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Mateusz Rebecki",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Jim Miller",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Jared Gordon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Roman Kopylov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Marco Tulio",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Pat Sabatini",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "William Gomis",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Baisangur Susurkaev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Djorden Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Jose Ochoa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
+    {
+      "fighter": "Clayton Carpenter",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
     },
     {
       "fighter": "Israel Adesanya",
@@ -3564,10 +3824,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 356,
+    "total_fighters": 382,
     "with_song": 210,
     "playable_tracks": 181,
     "unique_playable_tracks": 176,
-    "missing": 146
+    "missing": 172
   }
 }

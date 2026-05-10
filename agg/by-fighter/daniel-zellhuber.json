@@ -13,10 +13,10 @@
       "date": "2026-02-28"
     },
     {
-      "song_title": "Golden Boy",
-      "artist": "Gibran Nolasco",
-      "confidence": "bronze",
-      "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
+      "song_title": "Pelea de Gallos",
+      "artist": "Antonio Aguilar",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/search/Pelea%20de%20Gallos%20Antonio%20Aguilar",
       "event": "UFC 318: Holloway vs. Poirier 3",
       "event_slug": "ufc-318",
       "date": "2025-07-19"
@@ -53,6 +53,6 @@
     "events": 5,
     "with_song": 5,
     "missing": 0,
-    "unique_songs": 4
+    "unique_songs": 5
   }
 }

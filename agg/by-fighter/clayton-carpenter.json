@@ -1,8 +1,17 @@
 {
   "fighter": "Clayton Carpenter",
   "slug": "clayton-carpenter",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "Voodoo Chile",
       "artist": "Jimi Hendrix",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

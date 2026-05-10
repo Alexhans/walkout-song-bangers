@@ -1,8 +1,17 @@
 {
   "fighter": "Brandon Royval",
   "slug": "brandon-royval",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
     {
       "song_title": "Tonight You Belong to Me",
       "artist": "Patience & Prudence",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 4,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 4
   }
 }

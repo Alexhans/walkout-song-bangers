@@ -1,8 +1,17 @@
 {
   "fighter": "Giga Chikadze",
   "slug": "giga-chikadze",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
+    },
     {
       "song_title": "Xorumi",
       "artist": "Georgian folk dance",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

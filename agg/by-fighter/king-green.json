@@ -1,8 +1,17 @@
 {
   "fighter": "King Green",
   "slug": "king-green",
-  "appearances": 9,
+  "appearances": 11,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "Tuve Hermano",
       "artist": "Los Gemelos De Sinaloa",
@@ -11,6 +20,15 @@
       "event": "UFC Fight Night: Moreno vs. Kavanagh",
       "event_slug": "ufc-fight-night-moreno-vs-kavanagh",
       "date": "2026-02-28"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
     },
     {
       "song_title": "",
@@ -86,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 11,
     "with_song": 1,
-    "missing": 8,
+    "missing": 10,
     "unique_songs": 1
   }
 }

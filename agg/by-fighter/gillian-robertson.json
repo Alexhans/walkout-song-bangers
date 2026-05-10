@@ -1,7 +1,7 @@
 {
   "fighter": "Gillian Robertson",
   "slug": "gillian-robertson",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
     {
       "song_title": "P.I.M.P.",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
     },
     {
       "song_title": "",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 5,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

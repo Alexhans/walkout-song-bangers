@@ -1,8 +1,17 @@
 {
   "fighter": "Jeremy Stephens",
   "slug": "jeremy-stephens",
-  "appearances": 3,
+  "appearances": 4,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -32,9 +41,9 @@
     }
   ],
   "stats": {
-    "events": 3,
+    "events": 4,
     "with_song": 2,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

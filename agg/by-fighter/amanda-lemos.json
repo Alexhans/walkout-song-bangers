@@ -1,7 +1,7 @@
 {
   "fighter": "Amanda Lemos",
   "slug": "amanda-lemos",
-  "appearances": 7,
+  "appearances": 8,
   "walkouts": [
     {
       "song_title": "De Dentro Pra Fora",
@@ -11,6 +11,15 @@
       "event": "UFC Fight Night: Emmett vs. Vallejos",
       "event_slug": "ufc-fight-night-emmett-vs-vallejos",
       "date": "2026-03-14"
+    },
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Royval vs. Kape",
+      "event_slug": "ufc-fight-night-royval-vs-kape",
+      "date": "2025-12-13"
     },
     {
       "song_title": "Bencaos Que Nao Tem Fim",
@@ -68,9 +77,9 @@
     }
   ],
   "stats": {
-    "events": 7,
+    "events": 8,
     "with_song": 7,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 6
   }
 }

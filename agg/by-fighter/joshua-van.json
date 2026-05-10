@@ -1,8 +1,17 @@
 {
   "fighter": "Joshua Van",
   "slug": "joshua-van",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "I Don't Know Dem",
       "artist": "Chief Keef",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 5,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 4
   }
 }

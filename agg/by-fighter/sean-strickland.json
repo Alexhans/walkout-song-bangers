@@ -1,8 +1,17 @@
 {
   "fighter": "Sean Strickland",
   "slug": "sean-strickland",
-  "appearances": 10,
+  "appearances": 11,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "When Johnny Comes Marching Home",
       "artist": "Megaraptor",
@@ -95,9 +104,9 @@
     }
   ],
   "stats": {
-    "events": 10,
+    "events": 11,
     "with_song": 9,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 3
   }
 }

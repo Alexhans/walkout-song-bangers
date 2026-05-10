@@ -1,8 +1,17 @@
 {
   "fighter": "Grant Dawson",
   "slug": "grant-dawson",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "The Devil Went Down to Georgia",
       "artist": "The Charlie Daniels Band",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

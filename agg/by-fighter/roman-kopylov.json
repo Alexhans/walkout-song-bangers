@@ -1,8 +1,17 @@
 {
   "fighter": "Roman Kopylov",
   "slug": "roman-kopylov",
-  "appearances": 9,
+  "appearances": 10,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "The Last Hero",
       "artist": "Kino",
@@ -86,9 +95,9 @@
     }
   ],
   "stats": {
-    "events": 9,
+    "events": 10,
     "with_song": 7,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 5
   }
 }

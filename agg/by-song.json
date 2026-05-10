@@ -3262,13 +3262,6 @@
     "unique_fighters": 1
   },
   {
-    "artist": "Gibran Nolasco",
-    "song_title": "Goldenboy",
-    "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
-    "count": 2,
-    "unique_fighters": 1
-  },
-  {
     "artist": "Giggs",
     "song_title": "Tick Tock",
     "spotify_url": "https://open.spotify.com/track/14mdeFjiX3MOjgYG88lvXp",
@@ -5169,6 +5162,13 @@
     "artist": "Anton feat. DJ Otzi",
     "song_title": "Hey Baby (Uhh, Ahh)",
     "spotify_url": "https://open.spotify.com/search/Hey%20Baby%20%28Uhh%2C%20Ahh%29%20Anton%20feat.%20DJ%20Otzi",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Antonio Aguilar",
+    "song_title": "Pelea de Gallos",
+    "spotify_url": "https://open.spotify.com/search/Pelea%20de%20Gallos%20Antonio%20Aguilar",
     "count": 1,
     "unique_fighters": 1
   },
@@ -8109,6 +8109,13 @@
     "artist": "Gibran Nolasco",
     "song_title": "Golden Boy",
     "spotify_url": "https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "Gibran Nolasco",
+    "song_title": "Goldenboy",
+    "spotify_url": "https://open.spotify.com/search/Golden%20Boy%20Gibran%20Nolasco",
     "count": 1,
     "unique_fighters": 1
   },

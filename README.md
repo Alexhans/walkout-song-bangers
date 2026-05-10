@@ -20,6 +20,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 <!-- BEGIN EVENTS -->
 | Year | Event | Fighters | Gold | Silver | Bronze | Missing |
 |------|-------|----------|------|--------|--------|---------|
+| [2026](viz/agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](viz/ufc-328-chimaev-vs-strickland.md) | 26 | 0 | 0 | 0 | 26 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](viz/ufc-fight-night-della-maddalena-vs-prates.md) | 26 | 9 | 0 | 0 | 17 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](viz/ufc-fight-night-sterling-vs-zalal.md) | 26 | 0 | 0 | 0 | 26 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 1 | 6 | 17 |
@@ -34,10 +35,11 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Bautista vs. Oliveira](viz/ufc-fight-night-bautista-vs-oliveira.md) | 26 | 0 | 0 | 25 | 1 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 325: Volkanovski vs. Lopes 2](viz/ufc-325.md) | 26 | 0 | 0 | 23 | 3 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](viz/ufc-324.md) | 22 | 0 | 0 | 20 | 2 |
+| [2025](viz/agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](viz/ufc-fight-night-royval-vs-kape.md) | 26 | 0 | 0 | 0 | 26 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 323: Dvalishvili vs. Yan 2](viz/ufc-323.md) | 28 | 15 | 0 | 6 | 7 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](viz/ufc-322.md) | 28 | 0 | 0 | 28 | 0 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 319: Du Plessis vs. Chimaev](viz/ufc-319.md) | 24 | 0 | 0 | 13 | 11 |
-| [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 0 | 0 | 17 | 11 |
+| [2025](viz/agg/by-year/2025.md) | [UFC 318: Holloway vs. Poirier 3](viz/ufc-318.md) | 28 | 1 | 0 | 16 | 11 |
 | [2025](viz/agg/by-year/2025.md) | [UFC 317: Topuria vs. Oliveira](viz/ufc-317.md) | 22 | 2 | 0 | 8 | 12 |
 | [2024](viz/agg/by-year/2024.md) | [UFC 309: Jones vs. Miocic](viz/ufc-309.md) | 24 | 0 | 0 | 11 | 13 |
 | [2024](viz/agg/by-year/2024.md) | [UFC Fight Night: Moreno vs. Albazi](viz/ufc-fight-night-moreno-vs-albazi.md) | 26 | 0 | 0 | 21 | 5 |
@@ -234,6 +236,8 @@ How much should you trust that this song is what actually played at the event?
 | **missing** | No walkout song data found for this fighter at this event | — |
 
 Pre-event or historical associations ("fighter has used X in the past") are **not** included. If no post-event source confirms it for this specific event, the fighter is marked as `missing`.
+
+**APEX venue note:** Events at the UFC APEX consistently show higher `missing` rates — broadcast audio mixes walkout music lower with heavier commentary bleed and less crowd energy than arena shows.
 
 **Note on song matching:** Song names and artists are not normalized across events — the same song may appear with different titles, artist spellings, or Spotify links (e.g., multi-song walkouts get matched to different tracks depending on the search query). Aggregations reflect this as-is. Normalization is a future improvement.
 

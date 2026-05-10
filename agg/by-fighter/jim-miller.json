@@ -1,8 +1,17 @@
 {
   "fighter": "Jim Miller",
   "slug": "jim-miller",
-  "appearances": 14,
+  "appearances": 15,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "Bad Moon Rising",
       "artist": "Creedence Clearwater Revival",
@@ -131,9 +140,9 @@
     }
   ],
   "stats": {
-    "events": 14,
+    "events": 15,
     "with_song": 14,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 7
   }
 }

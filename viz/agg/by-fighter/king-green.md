@@ -1,10 +1,12 @@
 # King Green
 
-9 event(s) | 1 song(s) found | 1 unique
+11 event(s) | 1 song(s) found | 1 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](../../ufc-328-chimaev-vs-strickland.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Moreno vs. Kavanagh](../../ufc-fight-night-moreno-vs-kavanagh.md) | Tuve Hermano | Los Gemelos De Sinaloa | [Listen](https://open.spotify.com/track/0wD8bCTwYSz2OeikgblMP3) |
+| [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dariush vs. Tsarukyan](../../ufc-fight-night-dariush-vs-tsarukyan.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Dawson vs. Green](../../ufc-fight-night-dawson-vs-green.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | — | — | |

@@ -1,0 +1,222 @@
+{
+  "event": "UFC Fight Night: Royval vs. Kape",
+  "event_slug": "ufc-fight-night-royval-vs-kape",
+  "date": "2025-12-13",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-royval-vs-kape-vegas-112",
+    "https://www.ufc.com/news/fight-fight-preview-ufc-fight-night-royval-vs-kape-vegas-112",
+    "https://www.ufc.com/news/official-judges-scorecards-ufc-fight-night-royval-vs-kape"
+  ],
+  "generated_at": "2026-05-09T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Brandon Royval",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Manel Kape",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Possible lead from user search: 'Shutting Down the Spire' by Jared Poolaw. Keep as missing until event-specific walkout confirmation is found."
+    },
+    {
+      "fighter": "Giga Chikadze",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Kevin Vallejos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Cesar Almeida",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Cezary Oleksiejczuk",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Morgan Charriere",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Kennedy Nzechukwu",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Marcus Buchecha",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "King Green",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Lance Gibson Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Amanda Lemos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Gillian Robertson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Joanderson Brito",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Isaac Thomson",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Neil Magny",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Yaroslav Amosov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Sean Sharaf",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Steven Asplund",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Melissa Croden",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Luana Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Allen Frye Jr.",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Guilherme Pat",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Jamey-Lyn Horth",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    },
+    {
+      "fighter": "Tereza Bleda",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official UFC card; no post-event walkout source confirmed yet."
+    }
+  ]
+}

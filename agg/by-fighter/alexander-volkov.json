@@ -1,8 +1,17 @@
 {
   "fighter": "Alexander Volkov",
   "slug": "alexander-volkov",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "event_slug": "ufc-328-chimaev-vs-strickland",
+      "date": "2026-05-09"
+    },
     {
       "song_title": "Mama Mi Vse Tiagelo Bolni",
       "artist": "25/17",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 7,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 5
   }
 }
