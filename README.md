@@ -17,6 +17,9 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 - [Coverage by year](viz/agg/by-year.md) — walkout song coverage per year
 - [`viz/agg/by-fighter/`](viz/agg/by-fighter/) — one page per fighter showing their walkout history (e.g., [Max Holloway](viz/agg/by-fighter/max-holloway.md))
 
+**Listen on Spotify** — pre-built yearly playlists:
+- [Spotify playlists by year](#listen-on-spotify) — 2016–2026
+
 <!-- BEGIN EVENTS -->
 | Year | Event | Fighters | Gold | Silver | Bronze | Missing |
 |------|-------|----------|------|--------|--------|---------|
