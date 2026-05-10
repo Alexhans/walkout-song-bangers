@@ -213,6 +213,24 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2016](viz/agg/by-year/2016.md) | [UFC Fight Night: Cowboy vs Cowboy](viz/ufc-fight-night-cowboy-vs-cowboy.md) | 26 | 0 | 0 | 24 | 2 |
 <!-- END EVENTS -->
 
+## Listen on Spotify
+
+<!-- BEGIN SPOTIFY -->
+| Year | Playlist |
+|------|----------|
+| 2026 | [UFC Walkout Songs 2026](https://open.spotify.com/playlist/7rMLUqZpaID7lIghJK2qgR) |
+| 2025 | [UFC Walkout Songs 2025](https://open.spotify.com/playlist/6azsGo76ltYlhmsyCMQI68) |
+| 2024 | [UFC Walkout Songs 2024](https://open.spotify.com/playlist/1I828xMflezLThIq0vUI0S) |
+| 2023 | [UFC Walkout Songs 2023](https://open.spotify.com/playlist/0RSvnHKuwue1Xp5FO79RLi) |
+| 2022 | [UFC Walkout Songs 2022](https://open.spotify.com/playlist/0D1ONvHL1JV77BswwGI7hP) |
+| 2021 | [UFC Walkout Songs 2021](https://open.spotify.com/playlist/0wctrCVbl39ys5fNPCc6l1) |
+| 2020 | [UFC Walkout Songs 2020](https://open.spotify.com/playlist/0pkkzWne3qzA3OV1pvvmaK) |
+| 2019 | [UFC Walkout Songs 2019](https://open.spotify.com/playlist/4P7oE9WXmqf1b3UXJ61LTe) |
+| 2018 | [UFC Walkout Songs 2018](https://open.spotify.com/playlist/78yGBIP4NyZBarMAn2BKez) |
+| 2017 | [UFC Walkout Songs 2017](https://open.spotify.com/playlist/1AgpjH8bOyBby8XGx6b0Sb) |
+| 2016 | [UFC Walkout Songs 2016](https://open.spotify.com/playlist/3ghZHqMH5t66NPhKFB0Cle) |
+<!-- END SPOTIFY -->
+
 ## How it works
 
 This runs as an Agent Skill — an AI-powered pipeline that searches, scrapes, cross-references, and matches songs on Spotify. No Python dependencies for the pipeline itself.
