@@ -984,20 +984,20 @@
     },
     {
       "fighter": "Joshua Van",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
     },
     {
       "fighter": "Tatsuro Taira",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Power to the People",
+      "artist": "John Lennon",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7dTFUnfqXMqK3Qu0TjIIHC",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
@@ -3825,9 +3825,9 @@
   ],
   "stats": {
     "total_fighters": 382,
-    "with_song": 210,
-    "playable_tracks": 181,
-    "unique_playable_tracks": 176,
-    "missing": 172
+    "with_song": 212,
+    "playable_tracks": 183,
+    "unique_playable_tracks": 178,
+    "missing": 170
   }
 }

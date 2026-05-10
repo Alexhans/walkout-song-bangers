@@ -2163,6 +2163,13 @@
     "unique_fighters": 1
   },
   {
+    "artist": "Chief Keef",
+    "song_title": "I Don’t Know Dem",
+    "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
+    "count": 4,
+    "unique_fighters": 1
+  },
+  {
     "artist": "Conroy Smith",
     "song_title": "Dangerous",
     "spotify_url": "https://open.spotify.com/track/7dHlaP18ZMylMuAl3gVthg",
@@ -2453,13 +2460,6 @@
     "artist": "Carroll Baker",
     "song_title": "One Bad Bitch",
     "spotify_url": "https://open.spotify.com/track/5zCZ0P1ASe4ucjPO8p54lv",
-    "count": 3,
-    "unique_fighters": 1
-  },
-  {
-    "artist": "Chief Keef",
-    "song_title": "I Don’t Know Dem",
-    "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
     "count": 3,
     "unique_fighters": 1
   },
@@ -9138,6 +9138,13 @@
     "artist": "John Legend",
     "song_title": "If You're Out There",
     "spotify_url": "https://open.spotify.com/track/4jWNwr5r9emJVwNeYCgJY7",
+    "count": 1,
+    "unique_fighters": 1
+  },
+  {
+    "artist": "John Lennon",
+    "song_title": "Power to the People",
+    "spotify_url": "https://open.spotify.com/track/7dTFUnfqXMqK3Qu0TjIIHC",
     "count": 1,
     "unique_fighters": 1
   },

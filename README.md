@@ -23,7 +23,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 <!-- BEGIN EVENTS -->
 | Year | Event | Fighters | Gold | Silver | Bronze | Missing |
 |------|-------|----------|------|--------|--------|---------|
-| [2026](viz/agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](viz/ufc-328-chimaev-vs-strickland.md) | 26 | 0 | 0 | 0 | 26 |
+| [2026](viz/agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](viz/ufc-328-chimaev-vs-strickland.md) | 26 | 2 | 0 | 0 | 24 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](viz/ufc-fight-night-della-maddalena-vs-prates.md) | 26 | 9 | 0 | 0 | 17 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](viz/ufc-fight-night-sterling-vs-zalal.md) | 26 | 0 | 0 | 0 | 26 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 1 | 6 | 17 |

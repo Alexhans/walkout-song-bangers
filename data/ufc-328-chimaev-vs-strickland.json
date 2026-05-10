@@ -26,21 +26,29 @@
     },
     {
       "fighter": "Joshua Van",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "I Don't Know Dem",
+      "artist": "Chief Keef",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/6KmHvU47HBaYleXZsPWkCx",
       "notes": "",
-      "verified_by": null
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Joshua Van walked out to 'I Don't Know Dem' by Chief Keef at UFC 328, consistent with his last 3 UFC appearances."
+      }
     },
     {
       "fighter": "Tatsuro Taira",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Power to the People",
+      "artist": "John Lennon",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7dTFUnfqXMqK3Qu0TjIIHC",
       "notes": "",
-      "verified_by": null
+      "verified_by": {
+        "user": "user",
+        "method": "human",
+        "reason": "User confirmed Tatsuro Taira walked out to 'Power to the People' by John Lennon at UFC 328."
+      }
     },
     {
       "fighter": "Alexander Volkov",

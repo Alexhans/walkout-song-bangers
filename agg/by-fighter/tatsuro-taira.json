@@ -4,10 +4,10 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Power to the People",
+      "artist": "John Lennon",
+      "confidence": "gold",
+      "spotify_url": "https://open.spotify.com/track/7dTFUnfqXMqK3Qu0TjIIHC",
       "event": "UFC 328: Chimaev vs. Strickland",
       "event_slug": "ufc-328-chimaev-vs-strickland",
       "date": "2026-05-09"
@@ -60,8 +60,8 @@
   ],
   "stats": {
     "events": 6,
-    "with_song": 5,
-    "missing": 1,
-    "unique_songs": 4
+    "with_song": 6,
+    "missing": 0,
+    "unique_songs": 5
   }
 }
