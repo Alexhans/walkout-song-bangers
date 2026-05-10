@@ -16,3 +16,11 @@ entry = "bash -c 'python3 skill/scripts/aggregate.py && git add agg/ viz/agg/'"
 language = "system"
 files = '^data/.*\.json$'
 pass_filenames = false
+
+[[repos.hooks]]
+id = "generate-viz"
+name = "Regenerate event viz pages"
+entry = "bash -c 'python3 skill/scripts/generate_md.py && git add viz/'"
+language = "system"
+files = '^data/.*\.json$'
+pass_filenames = false
