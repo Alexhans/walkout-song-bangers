@@ -4,7 +4,7 @@ repo = "local"
 [[repos.hooks]]
 id = "update-readme"
 name = "Regenerate README event table"
-entry = "python3 skill/scripts/update_readme.py"
+entry = "bash -c 'python3 skill/scripts/update_readme.py && git add README.md'"
 language = "system"
 files = '^data/.*\.json$'
 pass_filenames = false
@@ -12,7 +12,7 @@ pass_filenames = false
 [[repos.hooks]]
 id = "aggregate"
 name = "Regenerate aggregations"
-entry = "python3 skill/scripts/aggregate.py"
+entry = "bash -c 'python3 skill/scripts/aggregate.py && git add agg/ viz/agg/'"
 language = "system"
 files = '^data/.*\.json$'
 pass_filenames = false
