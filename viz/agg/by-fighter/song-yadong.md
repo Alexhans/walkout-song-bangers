@@ -1,9 +1,10 @@
 # Song Yadong
 
-8 event(s) | 5 song(s) found | 4 unique
+9 event(s) | 5 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | 龍拳 (Dragon Fist) | Jay Chou | [Listen](https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf) |
 | [2024](../agg/by-year/2024.md) | [UFC 299: O'Malley vs. Vera 2](../../ufc-299.md) | — | — | |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Song vs. Gutierrez](../../ufc-fight-night-song-vs-gutierrez.md) | Dragon Fist | Jay Chou | [Listen](https://open.spotify.com/track/54ipRSMGG8PooJyOEUpcLf) |

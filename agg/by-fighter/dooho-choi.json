@@ -1,8 +1,17 @@
 {
   "fighter": "Dooho Choi",
   "slug": "dooho-choi",
-  "appearances": 1,
+  "appearances": 2,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
     {
       "song_title": "Superman Theme",
       "artist": "John Williams",
@@ -14,9 +23,9 @@
     }
   ],
   "stats": {
-    "events": 1,
+    "events": 2,
     "with_song": 1,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 1
   }
 }

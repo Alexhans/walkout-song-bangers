@@ -1,9 +1,10 @@
 # Angela Hill
 
-9 event(s) | 9 song(s) found | 8 unique
+10 event(s) | 9 song(s) found | 8 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2025](../agg/by-year/2025.md) | [UFC 322: Della Maddalena vs. Makhachev](../../ufc-322.md) | The Warrior | Scandal | [Listen](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](../../ufc-fight-night-barboza-vs-murphy.md) | Nao Quer Chifre | MC Frog | [Listen](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Almeida vs. Lewis](../../ufc-fight-night-almeida-vs-lewis.md) | Nao Quer Chifre | MC Frog | [Listen](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) |

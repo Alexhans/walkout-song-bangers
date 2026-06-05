@@ -1,9 +1,10 @@
 # Carlston Harris
 
-5 event(s) | 5 song(s) found | 4 unique
+6 event(s) | 5 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Barboza vs. Murphy](../../ufc-fight-night-barboza-vs-murphy.md) | Real Champions | Mobflames |  |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Sandhagen vs. Font](../../ufc-fight-night-sandhagen-vs-font.md) | Real Champion | Mobflames | [Listen](https://open.spotify.com/track/2825s272kABjzmX1hgDCpl) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Yan vs. Dvalishvili](../../ufc-fight-night-yan-vs-dvalishvili.md) | Champion | Mobflames | [Listen](https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE) |

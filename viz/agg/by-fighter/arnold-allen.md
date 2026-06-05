@@ -1,9 +1,10 @@
 # Arnold Allen
 
-6 event(s) | 6 song(s) found | 3 unique
+7 event(s) | 6 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Allen vs. Costa](../../ufc-fight-night-allen-vs-costa.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
 | [2024](../agg/by-year/2024.md) | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |
 | [2024](../agg/by-year/2024.md) | [UFC 297: Strickland vs. Du Plessis](../../ufc-297.md) | We Will Rock You | Queen | [Listen](https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn) |

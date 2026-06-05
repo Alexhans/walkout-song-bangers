@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "events": 15,
+  "events": 17,
   "tracks": [
     {
       "fighter": "Justin Gaethje",
@@ -1481,6 +1481,266 @@
       "event": "UFC Fight Night: Adesanya vs. Pyfer",
       "event_slug": "ufc-fight-night-adesanya-vs-pyfer",
       "date": "2026-03-28"
+    },
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Dooho Choi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Daniel Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Malcolm Wellmaker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Juan Diaz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Christian Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Timmy Cuamba",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Bernardo Sopaj",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Nikolay Veretennikov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Tuco Tokkos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Ivan Erslan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Tommy Gantt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Artur Minev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Jacqueline Cavalcanti",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Alice Ardelean",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Polyana Viana",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Daniel Barez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Luis Gurule",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Shauna Bannon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
+    {
+      "fighter": "Nicolle Caliari",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
     },
     {
       "fighter": "Mario Bautista",
@@ -3283,6 +3543,266 @@
       "date": "2026-02-28"
     },
     {
+      "fighter": "Song Yadong",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Zhang Mingyang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Tallison Teixeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Kai Asakura",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Cameron Smotherman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Sumudaerji",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "YiSak Lee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Luis Felipe Dias",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Ding Meng",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Jose Henrique",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Aoriqileng",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Cody Haddon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Rei Tsuruya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Luis Gurule",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Xiong Jingnan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Zhu Kangjie",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Rodrigo Vera",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Loma Lookboonmee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
+    {
       "fighter": "Aljamain Sterling",
       "song_title": "",
       "artist": "",
@@ -3824,10 +4344,10 @@
     }
   ],
   "stats": {
-    "total_fighters": 382,
+    "total_fighters": 434,
     "with_song": 214,
     "playable_tracks": 185,
     "unique_playable_tracks": 179,
-    "missing": 168
+    "missing": 220
   }
 }

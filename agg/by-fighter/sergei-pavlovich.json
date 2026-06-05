@@ -1,8 +1,17 @@
 {
   "fighter": "Sergei Pavlovich",
   "slug": "sergei-pavlovich",
-  "appearances": 4,
+  "appearances": 5,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
     {
       "song_title": "Fly Away on Wings of the Wind",
       "artist": "Kalevala",
@@ -41,9 +50,9 @@
     }
   ],
   "stats": {
-    "events": 4,
+    "events": 5,
     "with_song": 3,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 2
   }
 }

@@ -1,9 +1,10 @@
 # Jake Matthews
 
-8 event(s) | 8 song(s) found | 7 unique
+9 event(s) | 8 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC 302: Makhachev vs. Poirier](../../ufc-302.md) | NHF (No Hard Feelings) | Nito NB | [Listen](https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Allen vs. Craig](../../ufc-fight-night-allen-vs-craig.md) | Too Late | Nito NB | [Listen](https://open.spotify.com/track/6OwJVoHZveEFx41jQlAEgS) |
 | [2023](../agg/by-year/2023.md) | [UFC 291: Poirier vs. Gaethje 2](../../ufc-291.md) | NHF (No Hard Feelings) | Nito NB | [Listen](https://open.spotify.com/track/3Zv8HKPiWxnr2L9N0ebTnR) |

@@ -1,8 +1,17 @@
 {
   "fighter": "Nikolay Veretennikov",
   "slug": "nikolay-veretennikov",
-  "appearances": 2,
+  "appearances": 3,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
     {
       "song_title": "Legendary",
       "artist": "Welshly Arms",
@@ -23,9 +32,9 @@
     }
   ],
   "stats": {
-    "events": 2,
+    "events": 3,
     "with_song": 1,
-    "missing": 1,
+    "missing": 2,
     "unique_songs": 1
   }
 }

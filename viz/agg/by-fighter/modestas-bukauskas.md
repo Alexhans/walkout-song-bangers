@@ -1,9 +1,10 @@
 # Modestas Bukauskas
 
-5 event(s) | 4 song(s) found | 4 unique
+6 event(s) | 4 song(s) found | 4 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Allen vs. Costa](../../ufc-fight-night-allen-vs-costa.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | The Battle / Look What the Cat Dragged In | Hans Zimmer / Giggs | [Listen](https://open.spotify.com/track/6eh67gdCTEpfZ5E2hCojiH) |
 | [2024](../agg/by-year/2024.md) | [UFC 304: Edwards vs. Muhammad 2](../../ufc-304.md) | Talkin the Hardest | Giggs | [Listen](https://open.spotify.com/track/2gNvWEzTJ5pP6Mt1Hjnoai) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Almeida vs. Lewis](../../ufc-fight-night-almeida-vs-lewis.md) | Honor Him | Hans Zimmer and “Talkin’ Da Hardest” by Giggs | [Listen](https://open.spotify.com/track/65hCWnFxcEfZmUTsGySi7W) |

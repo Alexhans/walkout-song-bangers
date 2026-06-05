@@ -1,0 +1,222 @@
+{
+  "event": "UFC Fight Night: Allen vs. Costa",
+  "event_slug": "ufc-fight-night-allen-vs-costa",
+  "date": "2026-05-16",
+  "location": "Las Vegas, Nevada, USA",
+  "source_urls": [
+    "https://www.ufc.com/event/ufc-fight-night-may-16-2026",
+    "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-allen-vs-costa-vegas-117",
+    "https://www.ultimatefightingstats.com/ufc/events/ufc-fight-night-may-16-2026"
+  ],
+  "generated_at": "2026-06-05T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Arnold Allen",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Melquizael Costa",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Dooho Choi",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Daniel Santos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Malcolm Wellmaker",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Juan Diaz",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Modestas Bukauskas",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Christian Edwards",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Timmy Cuamba",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Bernardo Sopaj",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Nikolay Veretennikov",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Khaos Williams",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Tuco Tokkos",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Ivan Erslan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Tommy Gantt",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Artur Minev",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Ketlen Vieira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Jacqueline Cavalcanti",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Cody Brundage",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Andre Petroski",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Alice Ardelean",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Polyana Viana",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Daniel Barez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Luis Gurule",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Shauna Bannon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Nicolle Caliari",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    }
+  ]
+}

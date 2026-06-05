@@ -1,0 +1,222 @@
+{
+  "event": "UFC Fight Night: Song vs. Figueiredo",
+  "event_slug": "ufc-fight-night-song-vs-figueiredo",
+  "date": "2026-05-30",
+  "location": "Macao SAR, China",
+  "source_urls": [
+    "https://www.ufc.com/event/ufc-fight-night-may-30-2026",
+    "https://www.ufc.com/news/official-weigh-results-ufc-macau-song-figueiredo",
+    "https://www.ufc.com/news/ufc-fight-night-song-vs-figueiredo-official-judges-scorecards-macau"
+  ],
+  "generated_at": "2026-06-05T00:00:00Z",
+  "songs": [
+    {
+      "fighter": "Song Yadong",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Deiveson Figueiredo",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Zhang Mingyang",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Alonzo Menifield",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Sergei Pavlovich",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Tallison Teixeira",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Kai Asakura",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Cameron Smotherman",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Jake Matthews",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Carlston Harris",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Alex Perez",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Sumudaerji",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "YiSak Lee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Luis Felipe Dias",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Ding Meng",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Jose Henrique",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Aoriqileng",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Cody Haddon",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Rei Tsuruya",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Luis Gurule",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Angela Hill",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Xiong Jingnan",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Zhu Kangjie",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Rodrigo Vera",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Loma Lookboonmee",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    },
+    {
+      "fighter": "Jaqueline Amorim",
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "notes": "Coverage shell from official fight card/results; no post-event walkout source found yet."
+    }
+  ]
+}

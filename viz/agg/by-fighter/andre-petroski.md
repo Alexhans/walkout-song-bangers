@@ -1,9 +1,10 @@
 # Andre Petroski
 
-7 event(s) | 7 song(s) found | 7 unique
+8 event(s) | 7 song(s) found | 7 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Allen vs. Costa](../../ufc-fight-night-allen-vs-costa.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Burns vs. Brady](../../ufc-fight-night-burns-vs-brady.md) | Opposite of Adults | Chiddy Bang | [Listen](https://open.spotify.com/track/22wKQbMH8n7wZfso2VcLJL) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Blanchfield vs. Fiorot](../../ufc-fight-night-blanchfield-vs-fiorot.md) | Atlantic City | The Band | [Listen](https://open.spotify.com/track/1Tr2dBREXYGAxkJUvlIWMZ) |
 | [2023](../agg/by-year/2023.md) | [UFC Fight Night: Yusuff vs. Barboza](../../ufc-fight-night-yusuff-vs-barboza.md) | Am I Dreaming | Metro Boomin, A$AP Rocky, Roisee | [Listen](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) |

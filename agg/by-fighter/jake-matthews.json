@@ -1,8 +1,17 @@
 {
   "fighter": "Jake Matthews",
   "slug": "jake-matthews",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
     {
       "song_title": "NHF (No Hard Feelings)",
       "artist": "Nito NB",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 8,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 7
   }
 }

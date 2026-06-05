@@ -1,9 +1,10 @@
 # Alex Perez
 
-6 event(s) | 6 song(s) found | 2 unique
+7 event(s) | 6 song(s) found | 2 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC 324: Gaethje vs. Pimblett](../../ufc-324.md) | Juicy | The Notorious B.I.G. | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Perez vs. Taira](../../ufc-fight-night-perez-vs-taira.md) | Juicy | Notorious B.I.G. | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Nicolau vs. Perez](../../ufc-fight-night-nicolau-vs-perez.md) | Juicy | Notorious B.I.G. | [Listen](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) |

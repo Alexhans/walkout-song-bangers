@@ -1,8 +1,17 @@
 {
   "fighter": "Khaos Williams",
   "slug": "khaos-williams",
-  "appearances": 5,
+  "appearances": 6,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
     {
       "song_title": "Dreams and Nightmares",
       "artist": "Meek Mill",
@@ -50,9 +59,9 @@
     }
   ],
   "stats": {
-    "events": 5,
+    "events": 6,
     "with_song": 3,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 1
   }
 }

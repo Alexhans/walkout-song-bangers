@@ -1,9 +1,10 @@
 # Melquizael Costa
 
-6 event(s) | 3 song(s) found | 3 unique
+7 event(s) | 3 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Allen vs. Costa](../../ufc-fight-night-allen-vs-costa.md) | — | — | |
 | [2026](../agg/by-year/2026.md) | [UFC Fight Night: Strickland vs. Hernandez](../../ufc-fight-night-strickland-vs-hernandez.md) | Bladadah | Mozzy | [Listen](https://open.spotify.com/track/2HCbB1xo3CpNUQbT4T5HPx) |
 | [2025](../agg/by-year/2025.md) | [UFC Fight Night: Royval vs. Kape](../../ufc-fight-night-royval-vs-kape.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Perez vs. Taira](../../ufc-fight-night-perez-vs-taira.md) | Funk Do Patinho | Bento E Toto | [Listen](https://open.spotify.com/track/1vQgz7OFIrWFf7W0o2TccY) |

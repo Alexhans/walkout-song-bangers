@@ -1,8 +1,17 @@
 {
   "fighter": "Melquizael Costa",
   "slug": "melquizael-costa",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
     {
       "song_title": "Bladadah",
       "artist": "Mozzy",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 3,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 3
   }
 }

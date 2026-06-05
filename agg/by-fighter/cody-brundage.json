@@ -1,8 +1,17 @@
 {
   "fighter": "Cody Brundage",
   "slug": "cody-brundage",
-  "appearances": 8,
+  "appearances": 9,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Allen vs. Costa",
+      "event_slug": "ufc-fight-night-allen-vs-costa",
+      "date": "2026-05-16"
+    },
     {
       "song_title": "",
       "artist": "",
@@ -77,9 +86,9 @@
     }
   ],
   "stats": {
-    "events": 8,
+    "events": 9,
     "with_song": 6,
-    "missing": 2,
+    "missing": 3,
     "unique_songs": 5
   }
 }

@@ -1,8 +1,17 @@
 {
   "fighter": "Alex Perez",
   "slug": "alex-perez",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
     {
       "song_title": "Juicy",
       "artist": "The Notorious B.I.G.",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 6,
-    "missing": 0,
+    "missing": 1,
     "unique_songs": 2
   }
 }

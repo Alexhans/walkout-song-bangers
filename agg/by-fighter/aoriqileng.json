@@ -1,8 +1,17 @@
 {
   "fighter": "Aoriqileng",
   "slug": "aoriqileng",
-  "appearances": 6,
+  "appearances": 7,
   "walkouts": [
+    {
+      "song_title": "",
+      "artist": "",
+      "confidence": "missing",
+      "spotify_url": "",
+      "event": "UFC Fight Night: Song vs. Figueiredo",
+      "event_slug": "ufc-fight-night-song-vs-figueiredo",
+      "date": "2026-05-30"
+    },
     {
       "song_title": "Edjin Duun",
       "artist": "Okna Tsahan Zam",
@@ -59,9 +68,9 @@
     }
   ],
   "stats": {
-    "events": 6,
+    "events": 7,
     "with_song": 3,
-    "missing": 3,
+    "missing": 4,
     "unique_songs": 3
   }
 }

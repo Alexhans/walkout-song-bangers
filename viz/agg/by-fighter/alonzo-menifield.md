@@ -1,9 +1,10 @@
 # Alonzo Menifield
 
-8 event(s) | 5 song(s) found | 3 unique
+9 event(s) | 5 song(s) found | 3 unique
 
 | Year | Event | Song | Artist | Spotify |
 |------|-------|------|--------|---------|
+| [2026](../agg/by-year/2026.md) | [UFC Fight Night: Song vs. Figueiredo](../../ufc-fight-night-song-vs-figueiredo.md) | — | — | |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Sandhagen vs. Nurmagomedov](../../ufc-fight-night-sandhagen-vs-nurmagomedov.md) | Monster 2.0 | Jacob Banks feat. Boogie | [Listen](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) |
 | [2024](../agg/by-year/2024.md) | [UFC Fight Night: Lewis vs. Nascimento](../../ufc-fight-night-lewis-vs-nascimento.md) | Monster 2.0 | Jacob Banks feat. Boogie | [Listen](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) |
 | [2023](../agg/by-year/2023.md) | [UFC 296: Edwards vs. Covington](../../ufc-296.md) | Monster 2.0 | Jacob Bannks feat. Boogie |  |
