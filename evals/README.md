@@ -40,6 +40,31 @@ python3 skill/scripts/eval.py --data-dir /tmp/fresh-run
 python3 skill/scripts/compare_runs.py /tmp/fresh-run
 ```
 
+## Source-gating evals
+
+These evals test whether a source should be accepted for coverage at all before extraction happens.
+
+They do not score full event output. They score source classification:
+
+- reject invalid guesswork such as pre-fight previews and "usually walks out to" profile pieces
+- accept valid post-event coverage that explicitly confirms what fighters walked out to
+
+Run them with:
+
+```bash
+python3 skill/scripts/eval_source_gating.py
+python3 skill/scripts/eval_source_gating.py lowkick-pre-fight-328
+python3 skill/scripts/eval_source_gating.py mmajunkie-post-event-229
+```
+
+Current fixtures:
+
+| Fixture | Expected result | Purpose |
+|---------|-----------------|---------|
+| `lowkick-pre-fight-328` | reject (`invalid_guesswork`) | guards against pre-fight/profile guesswork being promoted to coverage |
+| `essentiallysports-profile-postdated-328` | reject (`invalid_guesswork`) | guards against post-dated but still non-confirmatory profile wording such as `known for` or `have used before` |
+| `mmajunkie-post-event-229` | accept (`valid_post_event`) | verifies that explicit post-event wording passes the gate and yields extractable fighter/song pairs |
+
 ## What evals measure
 
 Evals measure the **skill's quality** (did it do its job?), not data completeness:
@@ -48,6 +73,12 @@ Evals measure the **skill's quality** (did it do its job?), not data completenes
 - **Song accuracy**: For fighters with human-verified songs, did the skill get the right song? (fuzzy match, ≥70%)
 - **Artist accuracy**: Same, for artist names (fuzzy, ≥60%)
 - **Spotify quality**: Direct track links vs search fallbacks vs none
+
+Source-gating evals additionally measure:
+
+- **Source eligibility**: Is the article valid for `bronze`/`silver` promotion at all?
+- **Rejection of guesswork**: Does the gate block pre-fight/profile wording?
+- **Acceptance of confirmation**: Does the gate allow explicit post-event confirmation wording?
 
 ## Current ground truth events
 

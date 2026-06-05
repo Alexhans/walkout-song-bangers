@@ -1,0 +1,18 @@
+{
+  "source_label": "essentiallysports-profile-postdated-328",
+  "expected_classification": "invalid_guesswork",
+  "must_trigger_phrases": [
+    "have used",
+    "known for",
+    "used before"
+  ],
+  "must_reject_fighters": [
+    "Alexander Volkov",
+    "Sean Brady",
+    "Joel Alvarez"
+  ],
+  "must_not_emit_confidence": [
+    "bronze",
+    "silver"
+  ]
+}

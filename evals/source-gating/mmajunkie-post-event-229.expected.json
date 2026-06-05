@@ -1,0 +1,37 @@
+{
+  "source_label": "mmajunkie-post-event-229",
+  "expected_classification": "valid_post_event",
+  "must_include_phrases": [
+    "walked out to",
+    "confirmed",
+    "walkout songs"
+  ],
+  "must_extract_fighters": [
+    "Tony Ferguson",
+    "Anthony Pettis",
+    "Derrick Lewis",
+    "Alexander Volkov"
+  ],
+  "must_extract_pairs": [
+    {
+      "fighter": "Tony Ferguson",
+      "song_title": "The Party Has Just Begun",
+      "artist": "Freestylers"
+    },
+    {
+      "fighter": "Anthony Pettis",
+      "song_title": "Mortal Kombat",
+      "artist": "The Immortals"
+    },
+    {
+      "fighter": "Derrick Lewis",
+      "song_title": "Knuck If You Buck",
+      "artist": "Crime Mob"
+    },
+    {
+      "fighter": "Alexander Volkov",
+      "song_title": "Matyushka",
+      "artist": "Valery Syutkin"
+    }
+  ]
+}

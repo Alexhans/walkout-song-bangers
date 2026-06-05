@@ -1,0 +1,20 @@
+{
+  "source_label": "lowkick-pre-fight-328",
+  "expected_classification": "invalid_guesswork",
+  "must_trigger_phrases": [
+    "tonight",
+    "previous Octagon appearances",
+    "potential walkout songs"
+  ],
+  "must_reject_fighters": [
+    "Alexander Volkov",
+    "Sean Brady",
+    "Joaquin Buckley",
+    "Joel Alvarez",
+    "Pat Sabatini"
+  ],
+  "must_not_emit_confidence": [
+    "bronze",
+    "silver"
+  ]
+}
