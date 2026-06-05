@@ -4,10 +4,10 @@
   "appearances": 6,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Panama",
+      "artist": "Ruben Blades",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Panama%20Ruben%20Blades",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
@@ -60,8 +60,8 @@
   ],
   "stats": {
     "events": 6,
-    "with_song": 3,
-    "missing": 3,
+    "with_song": 4,
+    "missing": 2,
     "unique_songs": 3
   }
 }

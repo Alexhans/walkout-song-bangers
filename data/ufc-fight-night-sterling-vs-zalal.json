@@ -6,9 +6,10 @@
   "source_urls": [
     "http://www.ufcstats.com/event-details/e60d773a0a42048a",
     "https://www.ufc.com/news/official-weigh-results-ufc-fight-night-sterling-vs-zalal",
-    "https://www.ufc.com/event/ufc-fight-night-april-25-2026"
+    "https://www.ufc.com/event/ufc-fight-night-april-25-2026",
+    "https://www.essentiallysports.com/ufc-mma-news-ufc-vegas-116-walkout-songs-entrance-music-used-by-aljamain-sterling-youssef-zalal-norma-dumont-and-others/"
   ],
-  "generated_at": "2026-05-04T17:39:32Z",
+  "generated_at": "2026-06-05T00:00:00Z",
   "songs": [
     {
       "fighter": "Aljamain Sterling",
@@ -20,51 +21,51 @@
     },
     {
       "fighter": "Youssef Zalal",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Up All Night",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55YHftnlehUQQJoTSLKCxj",
+      "notes": "Event-day EssentiallySports walkout article listed this as Zalal's likely entrance music for UFC Vegas 116; not independently post-event confirmed."
     },
     {
       "fighter": "Joselyne Edwards",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Panama",
+      "artist": "Ruben Blades",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Panama%20Ruben%20Blades",
+      "notes": "Event-day EssentiallySports walkout article listed this as Edwards' entrance music for UFC Vegas 116; not independently post-event confirmed. spotify_match: search_fallback"
     },
     {
       "fighter": "Norma Dumont",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Techno Boxe",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz",
+      "notes": "Event-day EssentiallySports walkout article described this as Dumont's go-to entrance music for UFC Vegas 116; not independently post-event confirmed."
     },
     {
       "fighter": "Rafa Garcia",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote y Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin",
+      "notes": "Event-day EssentiallySports walkout article listed this as Garcia's entrance music for UFC Vegas 116; not independently post-event confirmed."
     },
     {
       "fighter": "Alexander Hernandez",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Working the Wheel",
+      "artist": "Pimp C",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Working%20the%20Wheel%20Pimp%20C",
+      "notes": "Event-day EssentiallySports walkout article listed this as Hernandez's entrance music for UFC Vegas 116; not independently post-event confirmed. spotify_match: search_fallback"
     },
     {
       "fighter": "Davey Grant",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Danger Zone",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Danger%20Zone%20Kenny%20Loggins",
+      "notes": "Event-day EssentiallySports walkout article listed this as Grant's entrance music for UFC Vegas 116; not independently post-event confirmed. spotify_match: search_fallback"
     },
     {
       "fighter": "Adrian Luna Martinetti",
@@ -84,11 +85,11 @@
     },
     {
       "fighter": "Montel Jackson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
-      "notes": ""
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
+      "notes": "Event-day EssentiallySports walkout article listed this as Jackson's entrance music for UFC Vegas 116; not independently post-event confirmed."
     },
     {
       "fighter": "Ryan Spann",

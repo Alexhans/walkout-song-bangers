@@ -5,15 +5,15 @@
 | # | Fighter | Song | Artist | Confidence | Listen |
 |---|---------|------|--------|------------|--------|
 | 1 | [Aljamain Sterling](agg/by-fighter/aljamain-sterling.md) | — | — | missing | — |
-| 2 | [Youssef Zalal](agg/by-fighter/youssef-zalal.md) | — | — | missing | — |
-| 3 | [Joselyne Edwards](agg/by-fighter/joselyne-edwards.md) | — | — | missing | — |
-| 4 | [Norma Dumont](agg/by-fighter/norma-dumont.md) | — | — | missing | — |
-| 5 | [Rafa Garcia](agg/by-fighter/rafa-garcia.md) | — | — | missing | — |
-| 6 | [Alexander Hernandez](agg/by-fighter/alexander-hernandez.md) | — | — | missing | — |
-| 7 | [Davey Grant](agg/by-fighter/davey-grant.md) | — | — | missing | — |
+| 2 | [Youssef Zalal](agg/by-fighter/youssef-zalal.md) | Up All Night | Drake | bronze | [Spotify](https://open.spotify.com/track/55YHftnlehUQQJoTSLKCxj) |
+| 3 | [Joselyne Edwards](agg/by-fighter/joselyne-edwards.md) | Panama | Ruben Blades | bronze | [Search](https://open.spotify.com/search/Panama%20Ruben%20Blades) |
+| 4 | [Norma Dumont](agg/by-fighter/norma-dumont.md) | Techno Boxe | Furacao 2000 | bronze | [Spotify](https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz) |
+| 5 | [Rafa Garcia](agg/by-fighter/rafa-garcia.md) | El Cachanilla | El Coyote y Su Banda | bronze | [Spotify](https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin) |
+| 6 | [Alexander Hernandez](agg/by-fighter/alexander-hernandez.md) | Working the Wheel | Pimp C | bronze | [Search](https://open.spotify.com/search/Working%20the%20Wheel%20Pimp%20C) |
+| 7 | [Davey Grant](agg/by-fighter/davey-grant.md) | Danger Zone | Kenny Loggins | bronze | [Search](https://open.spotify.com/search/Danger%20Zone%20Kenny%20Loggins) |
 | 8 | [Adrian Luna Martinetti](agg/by-fighter/adrian-luna-martinetti.md) | — | — | missing | — |
 | 9 | [Raoni Barcelos](agg/by-fighter/raoni-barcelos.md) | — | — | missing | — |
-| 10 | [Montel Jackson](agg/by-fighter/montel-jackson.md) | — | — | missing | — |
+| 10 | [Montel Jackson](agg/by-fighter/montel-jackson.md) | Dreams and Nightmares | Meek Mill | bronze | [Spotify](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) |
 | 11 | [Ryan Spann](agg/by-fighter/ryan-spann.md) | — | — | missing | — |
 | 12 | [Marcus Buchecha](agg/by-fighter/marcus-buchecha.md) | — | — | missing | — |
 | 13 | [Eric McConico](agg/by-fighter/eric-mcconico.md) | — | — | missing | — |
@@ -31,8 +31,8 @@
 | 25 | [Talita Alencar](agg/by-fighter/talita-alencar.md) | — | — | missing | — |
 | 26 | [Julia Polastri](agg/by-fighter/julia-polastri.md) | — | — | missing | — |
 
-**Coverage:** 0/26 fighters (0%)
+**Coverage:** 7/26 fighters (26%) | 4 direct Spotify links | 3 search fallbacks
 
 ---
-*Sources: [1](http://www.ufcstats.com/event-details/e60d773a0a42048a), [2](https://www.ufc.com/news/official-weigh-results-ufc-fight-night-sterling-vs-zalal), [3](https://www.ufc.com/event/ufc-fight-night-april-25-2026)*
-*Generated: 2026-05-04T17:39:32Z*
+*Sources: [1](http://www.ufcstats.com/event-details/e60d773a0a42048a), [2](https://www.ufc.com/news/official-weigh-results-ufc-fight-night-sterling-vs-zalal), [3](https://www.ufc.com/event/ufc-fight-night-april-25-2026), [4](https://www.essentiallysports.com/ufc-mma-news-ufc-vegas-116-walkout-songs-entrance-music-used-by-aljamain-sterling-youssef-zalal-norma-dumont-and-others/)*
+*Generated: 2026-06-05T00:00:00Z*

@@ -40,7 +40,7 @@ Search for post-event walkout song articles using these sources in priority orde
    - Coverage: Most UFC events from ~2019 onward
    - Format: Fighter name → Artist → Song title, full card
 
-2. **LowKickMMA** (good post-event coverage)
+2. **LowKickMMA** (mixed quality; only valid when the article explicitly confirms the actual event walkout)
    - WebSearch: `site:lowkickmma.com "{event name}" walkout songs`
 
 3. **MMA Junkie "Fight Tracks"** (excellent, complete per-event data)
@@ -55,7 +55,20 @@ Search for post-event walkout song articles using these sources in priority orde
 
 If no source-specific results, broaden: `"{event name}" walkout songs full card`
 
-**Important:** Prefer post-event articles (confirmed walkout songs) over pre-event articles (historical guesses). Check whether the article says fighters "walked out to" (confirmed) vs "has used" or "is known for" (historical guess).
+**Hard rule:** Only use a source for `bronze`/`silver` if it explicitly confirms what the fighter used at this specific event.
+
+Invalid source patterns that MUST be treated as `missing`:
+- pre-fight framing such as `tonight`, `ready to`, `expected to`, `potential walkout songs`, `what songs do they use`, `have walked out to`, `usually walks out to`, `has used`, `is known for`
+- profile/history framing that describes a fighter's typical entrance music without saying what happened at this card
+- any article where the model has to infer "this is probably what they used"
+
+Valid source patterns for event-level coverage:
+- `walked out to`
+- `entrance music used by`
+- full-card post-event walkout list
+- direct post-event recap that clearly states the actual song used at the event
+
+If the wording is ambiguous, do not use it. Mark the fighter `missing`.
 
 ### Step 3: Get the full fight card
 
@@ -72,7 +85,18 @@ If UFCStats is unavailable, fall back to the Wikipedia event page via `curl` (We
 
 ### Step 4: Scrape walkout song data
 
-Use WebFetch on the best matching walkout song article. Extract every fighter–song pair:
+Use WebFetch on the best matching walkout song article. Before extracting any fighter-song pair, first classify the article as `valid_post_event` or `invalid_guesswork`.
+
+If `invalid_guesswork`, do not extract songs from it into repo data.
+
+Required source eligibility check before extraction:
+1. Does the article clearly refer to the event as already happened?
+2. Does it describe what a fighter actually used at that event, not what they usually use?
+3. Could a skeptical reviewer read the source text and agree this is event-specific confirmation?
+
+If any answer is `no`, the source is invalid for coverage and all affected fighters stay `missing`.
+
+Then extract every fighter-song pair from valid sources only:
 
 - **Fighter name** (full name as listed)
 - **Song title**
@@ -122,7 +146,10 @@ Use these rules:
 - **bronze**: 1 post-event source reports this song for this fighter at this event
 - **missing**: No post-event source found, or only pre-event/historical associations exist
 
-Pre-event articles ("fighter has used X in the past") do NOT count — mark the fighter as `missing` unless a post-event source confirms the song for this specific event.
+Pre-event articles ("fighter has used X in the past") do NOT count.
+Profile articles ("fighter usually walks out to X") do NOT count.
+Event-preview listicles do NOT count even if they are published on fight day.
+If the source says `potential`, `usually`, `has used`, `typically`, or equivalent, mark the fighter as `missing`.
 
 ### Step 7: Write JSON output
 
@@ -198,6 +225,10 @@ Summarize:
 - Output file paths
 - Source(s) used
 
+Also include:
+- which sources were rejected as invalid guesswork
+- a one-line reason for each rejected source
+
 ## Gold Verification Mode
 
 When the user wants to promote a fighter's song to gold confidence, they provide a YouTube URL with a timestamp pointing to the walkout moment. The pipeline extracts a short audio clip and runs Shazam recognition to confirm the song.
@@ -254,6 +285,7 @@ The user should not need to remember temp paths or `--data-dir`. In eval mode, t
 - **No walkout song data found**: Do not write `data/{slug}.json` or `viz/{slug}.md` if the run recovers zero real songs. Report the event as source-blocked instead. Do not fabricate songs.
 - **Fighter walked out to silence or no music**: Include the fighter with `song_title: "No music"` and empty `spotify_url`.
 - **Multiple sources disagree** (Phase 3): Will be handled when cross-referencing is added.
+- **Source seems close but not explicit enough**: Treat as invalid and leave the fighter `missing`. The skill should bias toward false negatives, never false positives.
 
 ## Eval Mode
 

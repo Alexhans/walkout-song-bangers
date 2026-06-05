@@ -3814,60 +3814,60 @@
     },
     {
       "fighter": "Youssef Zalal",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Up All Night",
+      "artist": "Drake",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/55YHftnlehUQQJoTSLKCxj",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
     },
     {
       "fighter": "Joselyne Edwards",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Panama",
+      "artist": "Ruben Blades",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Panama%20Ruben%20Blades",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
     },
     {
       "fighter": "Norma Dumont",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Techno Boxe",
+      "artist": "Furacao 2000",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/2Jb0VCsydNjirs9uHMbCEz",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
     },
     {
       "fighter": "Rafa Garcia",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "El Cachanilla",
+      "artist": "El Coyote y Su Banda",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
     },
     {
       "fighter": "Alexander Hernandez",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Working the Wheel",
+      "artist": "Pimp C",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Working%20the%20Wheel%20Pimp%20C",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
     },
     {
       "fighter": "Davey Grant",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Danger Zone",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Danger%20Zone%20Kenny%20Loggins",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
@@ -3894,10 +3894,10 @@
     },
     {
       "fighter": "Montel Jackson",
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Dreams and Nightmares",
+      "artist": "Meek Mill",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
@@ -4345,9 +4345,9 @@
   ],
   "stats": {
     "total_fighters": 434,
-    "with_song": 214,
-    "playable_tracks": 185,
-    "unique_playable_tracks": 179,
-    "missing": 220
+    "with_song": 221,
+    "playable_tracks": 189,
+    "unique_playable_tracks": 183,
+    "missing": 213
   }
 }

@@ -4,10 +4,10 @@
   "appearances": 9,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Working the Wheel",
+      "artist": "Pimp C",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Working%20the%20Wheel%20Pimp%20C",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
@@ -87,8 +87,8 @@
   ],
   "stats": {
     "events": 9,
-    "with_song": 4,
-    "missing": 5,
-    "unique_songs": 4
+    "with_song": 5,
+    "missing": 4,
+    "unique_songs": 5
   }
 }

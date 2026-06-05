@@ -27,7 +27,7 @@ Currently focused on UFC events, but the pattern works for any combat sports pro
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Allen vs. Costa](viz/ufc-fight-night-allen-vs-costa.md) | 26 | 0 | 0 | 0 | 26 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 328: Chimaev vs. Strickland](viz/ufc-328-chimaev-vs-strickland.md) | 26 | 4 | 0 | 0 | 22 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Della Maddalena vs. Prates](viz/ufc-fight-night-della-maddalena-vs-prates.md) | 26 | 9 | 0 | 0 | 17 |
-| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](viz/ufc-fight-night-sterling-vs-zalal.md) | 26 | 0 | 0 | 0 | 26 |
+| [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Sterling vs. Zalal](viz/ufc-fight-night-sterling-vs-zalal.md) | 26 | 0 | 0 | 7 | 19 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Burns vs. Malott](viz/ufc-fight-night-burns-vs-malott.md) | 24 | 0 | 1 | 6 | 17 |
 | [2026](viz/agg/by-year/2026.md) | [UFC 327: Prochazka vs. Ulberg](viz/ufc-327.md) | 24 | 4 | 0 | 18 | 2 |
 | [2026](viz/agg/by-year/2026.md) | [UFC Fight Night: Moicano vs. Duncan](viz/ufc-fight-night-moicano-vs-duncan.md) | 24 | 0 | 0 | 14 | 10 |

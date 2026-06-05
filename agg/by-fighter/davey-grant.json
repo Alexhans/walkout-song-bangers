@@ -4,10 +4,10 @@
   "appearances": 5,
   "walkouts": [
     {
-      "song_title": "",
-      "artist": "",
-      "confidence": "missing",
-      "spotify_url": "",
+      "song_title": "Danger Zone",
+      "artist": "Kenny Loggins",
+      "confidence": "bronze",
+      "spotify_url": "https://open.spotify.com/search/Danger%20Zone%20Kenny%20Loggins",
       "event": "UFC Fight Night: Sterling vs. Zalal",
       "event_slug": "ufc-fight-night-sterling-vs-zalal",
       "date": "2026-04-25"
@@ -51,8 +51,8 @@
   ],
   "stats": {
     "events": 5,
-    "with_song": 4,
-    "missing": 1,
-    "unique_songs": 4
+    "with_song": 5,
+    "missing": 0,
+    "unique_songs": 5
   }
 }
