@@ -158,6 +158,38 @@ def _parse_event_number(arg: str) -> int:
     return int(m.group(1))
 
 
+def _find_existing_event_path(slug: str) -> Path | None:
+    candidates = [DATA_DIR / f"{slug}.json", *sorted(DATA_DIR.glob(f"{slug}*.json"))]
+    seen: set[Path] = set()
+    for path in candidates:
+        if path in seen or not path.exists():
+            continue
+        seen.add(path)
+        return path
+    return None
+
+
+def _load_existing_event_data(slug: str) -> dict | None:
+    path = _find_existing_event_path(slug)
+    if not path:
+        return None
+    return json.loads(path.read_text(encoding="utf-8", errors="replace"))
+
+
+def _event_meta_from_existing(existing: dict) -> tuple[str, str, str, list[str]]:
+    event_name = (existing.get("event") or "").strip()
+    event_date = (existing.get("date") or "").strip()
+    location = (existing.get("location") or "").strip()
+    roster = [
+        _collapse_ws(song.get("fighter", ""))
+        for song in existing.get("songs", [])
+        if _collapse_ws(song.get("fighter", ""))
+    ]
+    if not event_name or not event_date or not location or len(roster) < 10:
+        raise RuntimeError("Existing event JSON is missing canonical metadata or a full roster")
+    return (event_name, event_date, location, roster)
+
+
 def _extract_result_urls_yahoo(search_html: str) -> list[str]:
     urls: list[str] = []
     seen: set[str] = set()
@@ -432,9 +464,16 @@ def run(event_arg: str) -> Path | None:
     n = _parse_event_number(event_arg)
     slug = f"ufc-{n}"
     event_label = f"UFC {n}"
+    existing_path = _find_existing_event_path(slug)
+    existing = _load_existing_event_data(slug)
 
-    ufcstats_url, event_name = _find_ufcstats_event_url(event_label)
-    event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    try:
+        ufcstats_url, event_name = _find_ufcstats_event_url(event_label)
+        event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    except RuntimeError:
+        if not existing:
+            raise
+        event_name, event_date, location, roster = _event_meta_from_existing(existing)
 
     walkmen_url = _find_walkmen_url(n)
     walkouts = _parse_walkmen_article(walkmen_url, n)
@@ -488,7 +527,7 @@ def run(event_arg: str) -> Path | None:
         print(f"{event_name}: 0 walkout songs found from sources; not writing {slug}.json")
         return None
 
-    out_path = DATA_DIR / f"{slug}.json"
+    out_path = existing_path or (DATA_DIR / f"{slug}.json")
     payload = {
         "event": event_name,
         "event_slug": slug,

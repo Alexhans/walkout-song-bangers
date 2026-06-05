@@ -33,6 +33,26 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent.parent
 DATA_DIR = REPO_ROOT / "data"
 VIZ_DIR = REPO_ROOT / "viz"
+CONF_RANK = {"missing": 0, "bronze": 1, "silver": 2, "gold": 3}
+BANNED_SOURCE_PHRASES = [
+    "tonight",
+    "potential walkout songs",
+    "previous octagon appearances",
+    "have walked out to",
+    "used before",
+    "usually walks out to",
+    "has used",
+    "have used",
+    "known for",
+    "typically marches",
+    "what walkout songs do",
+]
+VALID_SOURCE_PHRASES = [
+    "walked out to",
+    "confirmed",
+    "walkout songs",
+    "entrance music used by",
+]
 
 
 def _http_get(url: str, headers: dict[str, str] | None = None, timeout_s: int = 30) -> str:
@@ -84,6 +104,38 @@ def _parse_event_number(arg: str) -> int:
     if not m:
         raise ValueError(f"Could not parse UFC event number from: {arg!r}")
     return int(m.group(1))
+
+
+def _find_existing_event_path(slug: str) -> Path | None:
+    candidates = [DATA_DIR / f"{slug}.json", *sorted(DATA_DIR.glob(f"{slug}*.json"))]
+    seen: set[Path] = set()
+    for path in candidates:
+        if path in seen or not path.exists():
+            continue
+        seen.add(path)
+        return path
+    return None
+
+
+def _load_existing_event_data(slug: str) -> dict | None:
+    path = _find_existing_event_path(slug)
+    if not path:
+        return None
+    return json.loads(path.read_text(encoding="utf-8", errors="replace"))
+
+
+def _event_meta_from_existing(existing: dict) -> tuple[str, str, str, list[str]]:
+    event_name = (existing.get("event") or "").strip()
+    event_date = (existing.get("date") or "").strip()
+    location = (existing.get("location") or "").strip()
+    roster = [
+        _collapse_ws(song.get("fighter", ""))
+        for song in existing.get("songs", [])
+        if _collapse_ws(song.get("fighter", ""))
+    ]
+    if not event_name or not event_date or not location or len(roster) < 10:
+        raise RuntimeError("Existing event JSON is missing canonical metadata or a full roster")
+    return (event_name, event_date, location, roster)
 
 
 def _find_ufcstats_event(event_label: str) -> tuple[str, str]:
@@ -208,9 +260,18 @@ def _discover_lowkick_url(event_number: int) -> str:
     raise RuntimeError(f"LowKick search found no verifiable walkout-songs URL for UFC {event_number}")
 
 
+def _classify_source_text(text: str) -> tuple[str, list[str]]:
+    lowered = text.lower()
+    banned_hits = [phrase for phrase in BANNED_SOURCE_PHRASES if phrase in lowered]
+    if banned_hits:
+        return ("invalid_guesswork", banned_hits)
+    valid_hits = [phrase for phrase in VALID_SOURCE_PHRASES if phrase in lowered]
+    if valid_hits:
+        return ("valid_post_event", valid_hits)
+    return ("invalid_guesswork", [])
 
-def _parse_lowkick_walkouts(url: str) -> dict[str, tuple[str, str]]:
-    raw = _http_get(url)
+
+def _parse_lowkick_walkouts(raw: str) -> dict[str, tuple[str, str]]:
     lines = _strip_html_to_lines(raw)
 
     out: dict[str, tuple[str, str]] = {}
@@ -234,6 +295,37 @@ def _parse_lowkick_walkouts(url: str) -> dict[str, tuple[str, str]]:
 
     if not out:
         raise RuntimeError("Parsed 0 walkout entries from LowKick page")
+
+    return out
+
+
+def _merge_existing(existing: dict, new_songs: list[dict]) -> list[dict]:
+    ex_map: dict[str, dict] = {_norm_name(s["fighter"]): s for s in existing.get("songs", [])}
+    out: list[dict] = []
+
+    for s in new_songs:
+        key = _norm_name(s["fighter"])
+        prev = ex_map.get(key)
+        if not prev:
+            out.append(s)
+            continue
+
+        prev_title = (prev.get("song_title") or "").strip()
+        new_title = (s.get("song_title") or "").strip()
+
+        if prev_title and new_title and _norm_name(prev_title) != _norm_name(new_title):
+            s = dict(s)
+            note = (s.get("notes") or "").strip()
+            s["notes"] = (note + " | " if note else "") + "changed_from_existing"
+            out.append(s)
+            continue
+
+        if CONF_RANK.get(prev.get("confidence", "missing"), 0) >= CONF_RANK.get(
+            s.get("confidence", "missing"), 0
+        ):
+            out.append(prev)
+        else:
+            out.append(s)
 
     return out
 
@@ -311,11 +403,25 @@ def main() -> int:
 
     slug = f"ufc-{n}"
     event_label = f"UFC {n}"
+    existing_path = _find_existing_event_path(slug)
+    existing = _load_existing_event_data(slug)
 
-    ufcstats_url, event_name = _find_ufcstats_event(event_label)
-    event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    try:
+        ufcstats_url, event_name = _find_ufcstats_event(event_label)
+        event_date, location, roster = _parse_ufcstats_event_details(ufcstats_url)
+    except RuntimeError:
+        if not existing:
+            raise
+        event_name, event_date, location, roster = _event_meta_from_existing(existing)
 
-    walkouts = _parse_lowkick_walkouts(lowkick_url)
+    lowkick_raw = _http_get(lowkick_url)
+    source_classification, signal_hits = _classify_source_text(lowkick_raw)
+    if source_classification != "valid_post_event":
+        joined_hits = ", ".join(signal_hits) if signal_hits else "no valid post-event confirmation wording"
+        print(f"{lowkick_url}: rejected source as invalid_guesswork ({joined_hits})")
+        return 3
+
+    walkouts = _parse_lowkick_walkouts(lowkick_raw)
     spotify = SpotifyClient.from_env()
 
     songs: list[dict] = []
@@ -364,7 +470,7 @@ def main() -> int:
         print(f"{event_name}: 0 walkout songs found from sources; not writing {slug}.json")
         return 3
 
-    out_path = DATA_DIR / f"{slug}.json"
+    out_path = existing_path or (DATA_DIR / f"{slug}.json")
     payload = {
         "event": event_name,
         "event_slug": slug,
@@ -374,6 +480,10 @@ def main() -> int:
         "generated_at": date.today().isoformat(),
         "songs": songs,
     }
+
+    if existing:
+        payload["songs"] = _merge_existing(existing, payload["songs"])
+        payload["source_urls"] = sorted(set(existing.get("source_urls", []) + payload["source_urls"]))
 
     out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {out_path}")
